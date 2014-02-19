@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blebon.github.io/sitemap.xml 
+Sitemap: http://blebon.com/sitemap.xml 
