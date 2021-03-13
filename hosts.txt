@@ -1,0 +1,37 @@
+---
+layout: nil
+---
+# Whatsapp
+crashlogs.whatsapp.net
+privatestats.whatsapp.net
+
+# Google
+developers.google.cn
+
+# Microsoft
+olmprodpowerlift-cdn.azureedge.net
+vscodeexperiments.azureedge.net
+
+incidents.diagnostics.office.com
+
+adbroker.mp.dse.microsoft.com
+graph.microsoft.com
+self.events.data.microsoft.com
+v10.events.data.microsoft.com
+
+evoke-windowsservices-tas.msedge.net
+fp.msedge.net
+
+# Ads
+ads-api.ft.com
+
+# Misc
+cdn.brandmetrics.com
+webanalytics.europa.eu
+analytics.hardlightgames.com
+servicesupport.hicloud.com
+webanalytics.lexisnexis.com
+eu-api.mimecast.com
+www.mimecast.com.cdn.cloudflare.net
+92ab.playfabapi.com
+portal.threatpulse.com
