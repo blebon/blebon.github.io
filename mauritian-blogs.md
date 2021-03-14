@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mantras with meanings](https://hindumantrasmeanings.blogspot.com/)  
+**[Das Mahavidya Stotram](https://hindumantrasmeanings.blogspot.com/2021/03/das-mahavidya-stotram.html)**  2021-03-14 11:09:06
+
+[how to make monye](https://milon360rm.blogspot.com/)  
+**[https://timebucks.com/?refID=219302814](https://milon360rm.blogspot.com/2021/03/httpstimebuckscomrefid219302814.html)**  2021-03-14 08:14:26
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Queenstown Heritage Ride with LOR](https://kabilen.tumblr.com/post/645598628820484096)**  2021-03-14 03:00:31
+
 [Nidhi K. Buskalawa](https://nidhikhoushee.blogspot.com/)  
 **[My best friend](https://nidhikhoushee.blogspot.com/2021/03/my-best-friend.html)**  2021-03-13 09:32:20
 
@@ -21,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[How to Trade Forex Using Fundamental Indicators?](https://capital-streetfx.blogspot.com/2021/03/how-to-trade-forex-using-fundamental.html)**  2021-03-12 06:15:17
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Donne to lamain pran mo lamain (Version Clip 2018) - L'ile MauriceIndependence Day 12//mars//21 🇲🇺](https://kabilen.tumblr.com/post/645407420412264448)**  2021-03-12 00:21:20
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Welcome Little Baby](https://swanlady-impressions.blogspot.com/2021/03/welcome-little-baby.html)**  2021-03-11 20:11:09
@@ -46,17 +52,11 @@ permalink: /mauritian-blogs/
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[Diego? Oh you mean Diigo!!](https://melanieperes.blogspot.com/2021/03/diego-oh-you-mean-diigo.html)**  2021-03-11 08:29:36
 
-[how to make monye](https://milon360rm.blogspot.com/)  
-**[Essy way to make money](https://milon360rm.blogspot.com/2021/03/essy-way-to-make-money.html)**  2021-03-11 07:10:35
-
 [L😀ck](https://teelocked.blogspot.com/)  
 **[The Transformative Vision of Esperanto &#124; Esther Schor &#124; TEDxRoma](https://teelocked.blogspot.com/2021/03/the-transformative-vision-of-esperanto.html)**  2021-03-10 11:39:01
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[Litecoin Logo PNG Transparent Background Free Download - DollarsMarkt](https://www.dollarsmarkt.com/2021/03/litecoin-logo-png.html)**  2021-03-09 18:56:03
-
-[Mantras with meanings](https://hindumantrasmeanings.blogspot.com/)  
-**[Das Mahavidya Stotram](https://hindumantrasmeanings.blogspot.com/2021/03/das-mahavidya-stotram.html)**  2021-03-08 11:57:30
 
 [Inspiration](https://nishtakhimia.blogspot.com/)  
 **[Loneliness.](https://nishtakhimia.blogspot.com/2021/03/loneliness.html)**  2021-03-06 17:56:42
