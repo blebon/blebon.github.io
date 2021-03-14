@@ -7,9 +7,6 @@ permalink: /mauritian-blogs/
 [Mantras with meanings](https://hindumantrasmeanings.blogspot.com/)  
 **[Das Mahavidya Stotram](https://hindumantrasmeanings.blogspot.com/2021/03/das-mahavidya-stotram.html)**  2021-03-14 11:09:06
 
-[how to make monye](https://milon360rm.blogspot.com/)  
-**[https://timebucks.com/?refID=219302814](https://milon360rm.blogspot.com/2021/03/httpstimebuckscomrefid219302814.html)**  2021-03-14 08:14:26
-
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Queenstown Heritage Ride with LOR](https://kabilen.tumblr.com/post/645598628820484096)**  2021-03-14 03:00:31
 
