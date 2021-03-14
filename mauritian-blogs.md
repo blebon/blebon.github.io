@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Lundi de la 5e semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/lundi-de-la-5e-semaine-du-careme.html)**  2021-03-14 12:44:13
+
+[Teaching and learning journey](https://sunjuh.blogspot.com/)  
+**[Diigo- more than just a social bookmarking tool](https://sunjuh.blogspot.com/2021/03/diigo-more-than-just-social-bookmarking.html)**  2021-03-14 12:21:27
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[COVID-19 – 10 personnes autorisées aux funérailles](https://www.dioceseportlouis.org/2021/03/14/covid-19-10-personnes-autorisees-aux-funerailles/)**  2021-03-14 12:05:58
+
 [Mantras with meanings](https://hindumantrasmeanings.blogspot.com/)  
 **[Das Mahavidya Stotram](https://hindumantrasmeanings.blogspot.com/2021/03/das-mahavidya-stotram.html)**  2021-03-14 11:09:06
 
@@ -12,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Nidhi K. Buskalawa](https://nidhikhoushee.blogspot.com/)  
 **[My best friend](https://nidhikhoushee.blogspot.com/2021/03/my-best-friend.html)**  2021-03-13 09:32:20
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 3e Semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/samedi-de-la-3e-semaine-du-careme.html)**  2021-03-13 05:54:49
 
 [Alice in no Wonderland](https://alisonern.blogspot.com/)  
 **[Happy Independence Day 🇲🇺](https://alisonern.blogspot.com/2021/03/happy-independence-day_12.html)**  2021-03-12 10:57:44
@@ -42,9 +48,6 @@ permalink: /mauritian-blogs/
 .
 .
 #igerslareunion...](https://adarsh.me/post/645353512861040640)**  2021-03-11 10:04:28
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Le SEDEC établi un établi un protocole de communication pour tout cas de COVID 19 dans les établissements catholiques](https://www.dioceseportlouis.org/2021/03/11/le-sedec-etabli-un-etabli-un-protocole-de-communication-pour-tout-cas-de-covid-19-dans-les-etablissements-catholiques/)**  2021-03-11 10:01:57
 
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[Diego? Oh you mean Diigo!!](https://melanieperes.blogspot.com/2021/03/diego-oh-you-mean-diigo.html)**  2021-03-11 08:29:36
@@ -111,9 +114,6 @@ permalink: /mauritian-blogs/
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Inauguration Ceremony of the FSSH Digital Language Lab](https://comstudies.wordpress.com/2021/02/22/inauguration-ceremony-of-the-fssh-digital-language-lab/)**  2021-02-22 05:36:15
-
-[Teaching and learning journey](https://sunjuh.blogspot.com/)  
-**[Google classroom](https://sunjuh.blogspot.com/2021/02/google-classroom.html)**  2021-02-21 19:50:35
 
 [French and Technology](https://aurorealexandra.blogspot.com/)  
 **[No title](https://aurorealexandra.blogspot.com/2021/02/notre-existence-sur-terre-est-comme-un.html)**  2021-02-20 09:20:42
