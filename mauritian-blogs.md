@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Capital Street Fx](https://capital-streetfx.blogspot.com/)  
+**[What Are Trendlines and Support/Resistance Levels? &#124; Capital Street Fx](https://capital-streetfx.blogspot.com/2021/03/what-are-trendlines-and.html)**  2021-03-16 07:20:40
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi de la 5e semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/lundi-de-la-5e-semaine-du-careme.html)**  2021-03-14 12:44:13
+**[Mardi de la 4è semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/mardi-de-la-4e-semaine-du-careme.html)**  2021-03-16 02:00:04
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Diigo- more than just a social bookmarking tool](https://sunjuh.blogspot.com/2021/03/diigo-more-than-just-social-bookmarking.html)**  2021-03-14 12:21:27
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical Analysis Report 12 March 2021 &#124; Forex News &#124; Share Market News &#124; Top Stock To Buy](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/technical-analysis-report-12-march-2021.html)**  2021-03-12 08:39:47
-
-[Capital Street Fx](https://capital-streetfx.blogspot.com/)  
-**[How to Trade Forex Using Fundamental Indicators?](https://capital-streetfx.blogspot.com/2021/03/how-to-trade-forex-using-fundamental.html)**  2021-03-12 06:15:17
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Welcome Little Baby](https://swanlady-impressions.blogspot.com/2021/03/welcome-little-baby.html)**  2021-03-11 20:11:09
