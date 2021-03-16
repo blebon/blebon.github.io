@@ -4,6 +4,18 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Père Luc René : « A Rodrigues, nous pensons beaucoup à vous »](https://www.dioceseportlouis.org/2021/03/16/pere-luc-rene-a-rodrigues-nous-pensons-beaucoup-a-vous/)**  2021-03-16 15:08:04
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Life begins at 40: the biological and cultural roots of the midlife cris...](https://teelocked.blogspot.com/2021/03/life-begins-at-40-biological-and.html)**  2021-03-16 12:47:43
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Your Mind At Ease When Booking With Constance Hotels & Resorts](https://blog.constancehotels.com/your-mind-at-ease-when-booking-with-constance-hotels-resorts/)**  2021-03-16 11:48:22
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Technical Analysis of the Financial Markets — 16 March 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/technical-analysis-of-financial-markets_16.html)**  2021-03-16 09:51:17
+
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What Are Trendlines and Support/Resistance Levels? &#124; Capital Street Fx](https://capital-streetfx.blogspot.com/2021/03/what-are-trendlines-and.html)**  2021-03-16 07:20:40
 
@@ -12,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Diigo- more than just a social bookmarking tool](https://sunjuh.blogspot.com/2021/03/diigo-more-than-just-social-bookmarking.html)**  2021-03-14 12:21:27
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[COVID-19 – 10 personnes autorisées aux funérailles](https://www.dioceseportlouis.org/2021/03/14/covid-19-10-personnes-autorisees-aux-funerailles/)**  2021-03-14 12:05:58
 
 [Mantras with meanings](https://hindumantrasmeanings.blogspot.com/)  
 **[Das Mahavidya Stotram](https://hindumantrasmeanings.blogspot.com/2021/03/das-mahavidya-stotram.html)**  2021-03-14 11:09:06
@@ -30,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Happy Independence Day Mauritius](https://ritesh2103.wordpress.com/2021/03/12/happy-independence-day-mauritius/)**  2021-03-12 10:26:20
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Technical Analysis Report 12 March 2021 &#124; Forex News &#124; Share Market News &#124; Top Stock To Buy](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/technical-analysis-report-12-march-2021.html)**  2021-03-12 08:39:47
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Welcome Little Baby](https://swanlady-impressions.blogspot.com/2021/03/welcome-little-baby.html)**  2021-03-11 20:11:09
@@ -51,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[Diego? Oh you mean Diigo!!](https://melanieperes.blogspot.com/2021/03/diego-oh-you-mean-diigo.html)**  2021-03-11 08:29:36
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[The Transformative Vision of Esperanto &#124; Esther Schor &#124; TEDxRoma](https://teelocked.blogspot.com/2021/03/the-transformative-vision-of-esperanto.html)**  2021-03-10 11:39:01
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[Litecoin Logo PNG Transparent Background Free Download - DollarsMarkt](https://www.dollarsmarkt.com/2021/03/litecoin-logo-png.html)**  2021-03-09 18:56:03
@@ -81,9 +84,6 @@ permalink: /mauritian-blogs/
 
 [The Four Walls of Life](https://the4wallsoflife.blogspot.com/)  
 **[NOT HOME SWEET HOME](https://the4wallsoflife.blogspot.com/2021/02/not-home-sweet-home.html)**  2021-02-26 17:58:10
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[How To Make Your Travel Memories Last A Lifetime](https://blog.constancehotels.com/how-to-make-your-travel-memories-last-a-lifetime/)**  2021-02-25 13:13:53
 
 [http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
 **[https://www.cnbc.com/2021/02/25/standard-chartered-ceo-bill-winters-warns-stock-markets-look-frothy.html](https://arvindbabajee.blogspot.com/2021/02/httpswwwcnbccom20210225standard.html)**  2021-02-25 11:38:59
