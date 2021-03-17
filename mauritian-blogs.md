@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mercredi de la 4e Semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/mercredi-de-la-4e-semaine-du-careme.html)**  2021-03-17 05:36:12
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : externalisez vos services chez SEDECO !](https://sedecobtob.blogspot.com/2021/03/bpo-externalisez-vos-services-chez.html)**  2021-03-17 03:24:46
+
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Père Luc René : « A Rodrigues, nous pensons beaucoup à vous »](https://www.dioceseportlouis.org/2021/03/16/pere-luc-rene-a-rodrigues-nous-pensons-beaucoup-a-vous/)**  2021-03-16 15:08:04
 
@@ -18,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What Are Trendlines and Support/Resistance Levels? &#124; Capital Street Fx](https://capital-streetfx.blogspot.com/2021/03/what-are-trendlines-and.html)**  2021-03-16 07:20:40
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 4è semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/mardi-de-la-4e-semaine-du-careme.html)**  2021-03-16 02:00:04
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Diigo- more than just a social bookmarking tool](https://sunjuh.blogspot.com/2021/03/diigo-more-than-just-social-bookmarking.html)**  2021-03-14 12:21:27
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Welcome Little Baby](https://swanlady-impressions.blogspot.com/2021/03/welcome-little-baby.html)**  2021-03-11 20:11:09
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Satisfaction client : un des mots d’ordre de SEDECO !](https://sedecobtob.blogspot.com/2021/03/satisfaction-client-un-des-mots-dordre.html)**  2021-03-11 11:31:19
 
 [adarsh.me](https://adarsh.me/)  
 **[Dyonisien series_06
