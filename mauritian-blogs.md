@@ -4,23 +4,29 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[B&W Inchie ... plus 1 more!](https://swanlady-impressions.blogspot.com/2021/03/b-inchie.html)**  2021-03-17 21:33:45
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 4e Semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/mercredi-de-la-4e-semaine-du-careme.html)**  2021-03-17 05:36:12
+**[Jeudi de la 4è semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/jeudi-de-la-4e-semaine-du-careme.html)**  2021-03-17 16:54:56
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Technical Analysis of the Financial Markets – 17 March 2021 &#124; Gold Technical Analysis](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/technical-analysis-of-financial-markets_17.html)**  2021-03-17 09:04:53
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Le Conseil de l’Education Catholique réagit sur les propositions concernant la fin de l’année scolaire](https://www.dioceseportlouis.org/2021/03/17/le-conseil-de-leducation-catholique-reagit-sur-les-propositions-concernant-la-fin-de-lannee-scolaire/)**  2021-03-17 07:36:08
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Happy New Year 2021](https://insel-rodrigues.blogspot.com/2020/12/happy-new-year-2021.html)**  2021-03-17 05:51:30
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : externalisez vos services chez SEDECO !](https://sedecobtob.blogspot.com/2021/03/bpo-externalisez-vos-services-chez.html)**  2021-03-17 03:24:46
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Père Luc René : « A Rodrigues, nous pensons beaucoup à vous »](https://www.dioceseportlouis.org/2021/03/16/pere-luc-rene-a-rodrigues-nous-pensons-beaucoup-a-vous/)**  2021-03-16 15:08:04
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Life begins at 40: the biological and cultural roots of the midlife cris...](https://teelocked.blogspot.com/2021/03/life-begins-at-40-biological-and.html)**  2021-03-16 12:47:43
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Your Mind At Ease When Booking With Constance Hotels & Resorts](https://blog.constancehotels.com/your-mind-at-ease-when-booking-with-constance-hotels-resorts/)**  2021-03-16 11:48:22
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Technical Analysis of the Financial Markets — 16 March 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/technical-analysis-of-financial-markets_16.html)**  2021-03-16 09:51:17
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What Are Trendlines and Support/Resistance Levels? &#124; Capital Street Fx](https://capital-streetfx.blogspot.com/2021/03/what-are-trendlines-and.html)**  2021-03-16 07:20:40
@@ -42,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Happy Independence Day Mauritius](https://ritesh2103.wordpress.com/2021/03/12/happy-independence-day-mauritius/)**  2021-03-12 10:26:20
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Welcome Little Baby](https://swanlady-impressions.blogspot.com/2021/03/welcome-little-baby.html)**  2021-03-11 20:11:09
 
 [adarsh.me](https://adarsh.me/)  
 **[Dyonisien series_06
@@ -225,9 +228,6 @@ permalink: /mauritian-blogs/
 
 [Lux brumalis &#124; Learn about the face, human attraction and behavior](https://luxbrumalis.blogspot.com/)  
 **[What makes a face appear feminine?](https://luxbrumalis.blogspot.com/2020/11/what-makes-face-appear-feminine.html)**  2020-11-26 10:49:09
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Zum 84. Geburtstag: Christina Thürmer-Rohr - "Anfreundung mit der Welt"...Having to learn to make friends again with the world](https://insel-rodrigues.blogspot.com/2020/11/zum-84-geburtstag-christina-thurmer.html)**  2020-11-23 05:05:55
 
 [Portfolio](https://zafirahtakun.blogspot.com/)  
 **[Expressive lettering (achievement)](https://zafirahtakun.blogspot.com/2020/11/expressive-lettering.html)**  2020-11-22 17:15:29
