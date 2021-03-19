@@ -4,14 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[B&W Inchie ... plus 1 more!](https://swanlady-impressions.blogspot.com/2021/03/b-inchie.html)**  2021-03-17 21:33:45
-
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 4è semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/jeudi-de-la-4e-semaine-du-careme.html)**  2021-03-17 16:54:56
+**[Solennité de Saint Joseph (19/03)](https://josephnguyenmahebourg.blogspot.com/2021/03/solennite-de-saint-joseph-1903.html)**  2021-03-19 05:35:49
+
+[MPeres' blog](https://melanieperes.blogspot.com/)  
+**[I tried Google Sheet!](https://melanieperes.blogspot.com/2021/03/i-tried-google-sheet.html)**  2021-03-18 16:15:39
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Technical Analysis of the Financial Markets – 17 March 2021 &#124; Gold Technical Analysis](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/technical-analysis-of-financial-markets_17.html)**  2021-03-17 09:04:53
+**[Daily Technical Analysis Report On 18 March 2021 &#124; Forex News](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/daily-technical-analysis-report-on-18.html)**  2021-03-18 10:59:55
+
+[Capital Street Fx](https://capital-streetfx.blogspot.com/)  
+**[How Do I Buy Tesla Stock Online? &#124; Buy the Tesla Share &#124; tsla stock](https://capital-streetfx.blogspot.com/2021/03/how-do-i-buy-tesla-stock-online-buy.html)**  2021-03-18 07:23:22
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[B&W Inchie ... plus 1 more!](https://swanlady-impressions.blogspot.com/2021/03/b-inchie.html)**  2021-03-17 21:33:45
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Le Conseil de l’Education Catholique réagit sur les propositions concernant la fin de l’année scolaire](https://www.dioceseportlouis.org/2021/03/17/le-conseil-de-leducation-catholique-reagit-sur-les-propositions-concernant-la-fin-de-lannee-scolaire/)**  2021-03-17 07:36:08
@@ -27,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Your Mind At Ease When Booking With Constance Hotels & Resorts](https://blog.constancehotels.com/your-mind-at-ease-when-booking-with-constance-hotels-resorts/)**  2021-03-16 11:48:22
-
-[Capital Street Fx](https://capital-streetfx.blogspot.com/)  
-**[What Are Trendlines and Support/Resistance Levels? &#124; Capital Street Fx](https://capital-streetfx.blogspot.com/2021/03/what-are-trendlines-and.html)**  2021-03-16 07:20:40
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Diigo- more than just a social bookmarking tool](https://sunjuh.blogspot.com/2021/03/diigo-more-than-just-social-bookmarking.html)**  2021-03-14 12:21:27
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 .
 .
 #igerslareunion...](https://adarsh.me/post/645353512861040640)**  2021-03-11 10:04:28
-
-[MPeres' blog](https://melanieperes.blogspot.com/)  
-**[Diego? Oh you mean Diigo!!](https://melanieperes.blogspot.com/2021/03/diego-oh-you-mean-diigo.html)**  2021-03-11 08:29:36
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[Litecoin Logo PNG Transparent Background Free Download - DollarsMarkt](https://www.dollarsmarkt.com/2021/03/litecoin-logo-png.html)**  2021-03-09 18:56:03
