@@ -5,7 +5,19 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Solennité de Saint Joseph (19/03)](https://josephnguyenmahebourg.blogspot.com/2021/03/solennite-de-saint-joseph-1903.html)**  2021-03-19 05:35:49
+**[Samedi de la 4e Semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/samedi-de-la-4e-semaine-du-careme.html)**  2021-03-20 03:00:07
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Externalisation : les prestations clés de SEDECO !](https://sedecobtob.blogspot.com/2021/03/externalisation-les-prestations-cles-de.html)**  2021-03-19 14:54:48
+
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Z/Yen: The Global Financial Centres Index 29 (GFCI 29)](https://amarbheenick.blogspot.com/2021/03/zyen-global-financial-centres-index-29.html)**  2021-03-19 14:34:38
+
+[Golden mind](https://goldenmind23.blogspot.com/)  
+**[Serial, mere agne mein,  understanding in relationships](https://goldenmind23.blogspot.com/2021/03/serial-mere-agne-mein-understanding-in.html)**  2021-03-19 13:30:48
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[The case for e-book sharing](https://zoomdr.blogspot.com/2021/03/the-case-for-e-book-sharing.html)**  2021-03-19 11:15:18
 
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[I tried Google Sheet!](https://melanieperes.blogspot.com/2021/03/i-tried-google-sheet.html)**  2021-03-18 16:15:39
@@ -24,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Happy New Year 2021](https://insel-rodrigues.blogspot.com/2020/12/happy-new-year-2021.html)**  2021-03-17 05:51:30
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : externalisez vos services chez SEDECO !](https://sedecobtob.blogspot.com/2021/03/bpo-externalisez-vos-services-chez.html)**  2021-03-17 03:24:46
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Life begins at 40: the biological and cultural roots of the midlife cris...](https://teelocked.blogspot.com/2021/03/life-begins-at-40-biological-and.html)**  2021-03-16 12:47:43
@@ -94,9 +103,6 @@ permalink: /mauritian-blogs/
 [Forex Trader &#124; Viivek Naiir](https://viiveknaiir.blogspot.com/)  
 **[No title](https://viiveknaiir.blogspot.com/2021/02/how-to-choose-forex-broker-once-you-get.html)**  2021-02-25 11:07:28
 
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Women’s health is better when women have more control in their society](https://zoomdr.blogspot.com/2021/02/womens-health-is-better-when-women-have.html)**  2021-02-25 02:05:00
-
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[The Game of Names](https://davidandjennilyn.com/2021/02/24/the-game-of-names/)**  2021-02-24 16:00:00
 
@@ -159,9 +165,6 @@ permalink: /mauritian-blogs/
 
 [Travel Guide](https://bionicdeebee.blogspot.com/)  
 **[Premium Travel Visa for Mauritius](https://bionicdeebee.blogspot.com/2021/02/premium-travel-visa-for-mauritius.html)**  2021-02-01 16:29:21
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Nespresso Special Reserve Jamaica Blue Mountain Limited Edition](https://amarbheenick.blogspot.com/2021/01/nespresso-special-reserve-jamaica-blue.html)**  2021-02-01 10:05:54
 
 [Sandrasen Sautrelle](https://sandrasen98.blogspot.com/)  
 **[still life](https://sandrasen98.blogspot.com/2021/01/still.html)**  2021-01-29 18:04:19
