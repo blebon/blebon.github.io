@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Lundi de la 5e semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/lundi-de-la-5e-semaine-du-careme_22.html)**  2021-03-22 03:00:03
+
+[Graphic design](https://poyheeraloll.blogspot.com/)  
+**[Winner's s brochure competition winner](https://poyheeraloll.blogspot.com/2021/03/winners-brochure-competition-winner.html)**  2021-03-21 20:45:25
+
+[Eternal Sakshi Writes](https://eternalsakshiwrites.blogspot.com/)  
+**[#YesAllWomen](https://eternalsakshiwrites.blogspot.com/2021/03/yesallwomen.html)**  2021-03-21 17:49:39
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Beetroot Fried Rice](http://feedproxy.google.com/~r/veganlovlie/~3/7DEzvpjoyw8/)**  2021-03-20 23:41:35
 
@@ -12,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What are The Best Ways to Invest Money? &#124; Capital Street Fx](https://capital-streetfx.blogspot.com/2021/03/what-are-best-ways-to-invest-money.html)**  2021-03-20 10:08:34
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 4e Semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/samedi-de-la-4e-semaine-du-careme.html)**  2021-03-20 03:00:07
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Externalisation : les prestations clés de SEDECO !](https://sedecobtob.blogspot.com/2021/03/externalisation-les-prestations-cles-de.html)**  2021-03-19 14:54:48
@@ -141,9 +147,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[When will we be ready for Linux phones?](https://nayarweb.com/blog/2021/when-will-we-be-ready-for-linux-phones/)**  2021-02-14 14:17:29
-
-[Eternal Sakshi Writes](https://eternalsakshiwrites.blogspot.com/)  
-**[My Weight does not define my Worth](https://eternalsakshiwrites.blogspot.com/2021/02/my-weight-does-not-define-my-worth.html)**  2021-02-10 07:34:47
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[LES SELS AROMATIQUES BIO DE FEUILLES ET FLEURS](https://mysweetmauritius.blogspot.com/2021/02/les-sels-aromatiques-bio-de-feuilles-et.html)**  2021-02-08 12:12:43
@@ -363,9 +366,6 @@ permalink: /mauritian-blogs/
 
 [YouthSpace](https://youthspacemauritius.blogspot.com/)  
 **[What if ... Mauritius was governmentless?](https://youthspacemauritius.blogspot.com/2020/08/what-if-mauritius-was-governmentless.html)**  2020-08-14 14:12:05
-
-[Graphic design](https://poyheeraloll.blogspot.com/)  
-**[#Ensam nou sov nou lagon#wakashio#oil spilling #point d'esny](https://poyheeraloll.blogspot.com/2020/08/ensam-nou-sov-nou-lagonwakashiooil.html)**  2020-08-09 04:00:39
 
 [Learn to know](https://sikhiye.blogspot.com/)  
 **[Simple  soroban learning](https://sikhiye.blogspot.com/2020/08/simple-soroban-learning.html)**  2020-08-04 20:23:40
