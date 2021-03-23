@@ -5,19 +5,28 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi de la 5e semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/lundi-de-la-5e-semaine-du-careme_22.html)**  2021-03-22 03:00:03
+**[Mardi de la 5e semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/mardi-de-la-5e-semaine-du-careme.html)**  2021-03-23 03:00:09
 
 [Graphic design](https://poyheeraloll.blogspot.com/)  
-**[Winner's s brochure competition winner](https://poyheeraloll.blogspot.com/2021/03/winners-brochure-competition-winner.html)**  2021-03-21 20:45:25
+**[T_b to independence day 2021](https://poyheeraloll.blogspot.com/2021/03/independence-day-2021.html)**  2021-03-22 19:29:38
+
+[Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
+**[Happy 36th birthday under Covid19 lockdown](https://www.mauritiusblogtracker.com/happy-36th-birthday-under-covid19-lockdown/)**  2021-03-22 17:46:28
+
+[Yashvinblogs](https://yashvinblogs.com)  
+**[Happy 36th birthday under Covid19 lockdown](https://yashvinblogs.com/2021/03/22/happy-birthday-2021/)**  2021-03-22 17:46:28
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[SaltyLuxe, World’s Leading Island Travel Influencer At Constance Halaveli](https://blog.constancehotels.com/saltyluxe-worlds-leading-island-travel-influencer-at-constance-halaveli/)**  2021-03-22 16:28:55
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Skip the gym - do THIS instead  &#124; Ep143](https://teelocked.blogspot.com/2021/03/skip-gym-do-this-instead-ep143.html)**  2021-03-22 16:12:53
 
 [Eternal Sakshi Writes](https://eternalsakshiwrites.blogspot.com/)  
 **[#YesAllWomen](https://eternalsakshiwrites.blogspot.com/2021/03/yesallwomen.html)**  2021-03-21 17:49:39
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Beetroot Fried Rice](http://feedproxy.google.com/~r/veganlovlie/~3/7DEzvpjoyw8/)**  2021-03-20 23:41:35
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[The Future of RemNote](https://teelocked.blogspot.com/2021/03/the-future-of-remnote.html)**  2021-03-20 14:39:21
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What are The Best Ways to Invest Money? &#124; Capital Street Fx](https://capital-streetfx.blogspot.com/2021/03/what-are-best-ways-to-invest-money.html)**  2021-03-20 10:08:34
@@ -48,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Happy New Year 2021](https://insel-rodrigues.blogspot.com/2020/12/happy-new-year-2021.html)**  2021-03-17 05:51:30
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Your Mind At Ease When Booking With Constance Hotels & Resorts](https://blog.constancehotels.com/your-mind-at-ease-when-booking-with-constance-hotels-resorts/)**  2021-03-16 11:48:22
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Diigo- more than just a social bookmarking tool](https://sunjuh.blogspot.com/2021/03/diigo-more-than-just-social-bookmarking.html)**  2021-03-14 12:21:27
@@ -127,9 +133,6 @@ permalink: /mauritian-blogs/
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Leadership deficit leaves Mauritius in limbo](https://tchombo.blogspot.com/2021/02/leadership-deficit-leaves-mauritius-in.html)**  2021-02-22 14:40:51
 
-[Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
-**[Inauguration Ceremony of the FSSH Digital Language Lab](https://www.mauritiusblogtracker.com/inauguration-ceremony-of-the-fssh-digital-language-lab/)**  2021-02-22 05:36:15
-
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Inauguration Ceremony of the FSSH Digital Language Lab](https://comstudies.wordpress.com/2021/02/22/inauguration-ceremony-of-the-fssh-digital-language-lab/)**  2021-02-22 05:36:15
 
@@ -186,9 +189,6 @@ permalink: /mauritian-blogs/
 
 [Moothoosamy.A](https://moothoosamya.blogspot.com/)  
 **[comic book](https://moothoosamya.blogspot.com/2021/01/comic-book.html)**  2021-01-18 10:30:16
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[Using shopandship to expand your online shopping possibilities](https://yashvinblogs.com/2021/01/15/using-shopandship-mauritius/)**  2021-01-15 11:50:23
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[New single by EL PLAGA & Kreol Diez](https://elplagaa.blogspot.com/2021/01/new-single-by-el-plaga-kreol-diez.html)**  2021-01-07 09:31:16
