@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Linux User Group of Mauritius](https://lugm.org)  
+**[Convert multiple lines into one tab-separated line using paste](https://www.noulakaz.net/2021/03/24/convert-multiple-lines-into-one-tab-separated-line-using-paste/)**  2021-03-24 04:51:21
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 5e semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/mardi-de-la-5e-semaine-du-careme.html)**  2021-03-23 03:00:09
+**[Mercredi de la 5e semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/mercredi-de-la-5e-semaine-du-careme.html)**  2021-03-23 16:51:36
 
 [Graphic design](https://poyheeraloll.blogspot.com/)  
 **[T_b to independence day 2021](https://poyheeraloll.blogspot.com/2021/03/independence-day-2021.html)**  2021-03-22 19:29:38
@@ -126,9 +129,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Greatest Party of Mauritius Turns 85](http://kozelidir.blogspot.com/2021/02/greatest-party-of-mauritius-turns-85.html)**  2021-02-23 09:57:44
-
-[Linux User Group of Mauritius](https://lugm.org)  
-**[openSUSE distributions dedicated page](https://sysadmin-journal.com/opensuse-distributions-dedicated-page/)**  2021-02-22 15:28:40
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Leadership deficit leaves Mauritius in limbo](https://tchombo.blogspot.com/2021/02/leadership-deficit-leaves-mauritius-in.html)**  2021-02-22 14:40:51
@@ -537,8 +537,5 @@ permalink: /mauritian-blogs/
 
 [Carte Abricot Wedding Planner à l'Ile Maurice](https://carteabricotwedding.blogspot.com/)  
 **[LISE & MATHIEU 20.02.2020](https://carteabricotwedding.blogspot.com/2020/04/lise-mathieu-20022020.html)**  2020-04-27 09:33:39
-
-[Mịch tỷ](https://dodopouri.tumblr.com/)  
-**[Photo](https://dodopouri.tumblr.com/post/616022426449559552)**  2020-04-21 16:59:22
 
 <div style="height:0;width:0;overflow:hidden;"></div>
