@@ -4,14 +4,32 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Linux User Group of Mauritius](https://lugm.org)  
-**[Convert multiple lines into one tab-separated line using paste](https://www.noulakaz.net/2021/03/24/convert-multiple-lines-into-one-tab-separated-line-using-paste/)**  2021-03-24 04:51:21
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : SEDECO est opérationnel 24/ 7 !](https://sedecobtob.blogspot.com/2021/03/bpo-sedeco-est-operationnel-24-7.html)**  2021-03-25 04:04:01
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 5e semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/mercredi-de-la-5e-semaine-du-careme.html)**  2021-03-23 16:51:36
+**[Homélie pour la fête de l'annociation du Seigneur](https://josephnguyenmahebourg.blogspot.com/2021/03/homelie-pour-la-fete-de-lannociation-du.html)**  2021-03-25 03:00:06
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Spring & Easter Bunnies](https://swanlady-impressions.blogspot.com/2021/03/spring-easter-bunnies.html)**  2021-03-24 20:06:47
 
 [Graphic design](https://poyheeraloll.blogspot.com/)  
-**[T_b to independence day 2021](https://poyheeraloll.blogspot.com/2021/03/independence-day-2021.html)**  2021-03-22 19:29:38
+**[is the vaccine the new luxury ?](https://poyheeraloll.blogspot.com/2021/03/is-vaccine-new-luxury.html)**  2021-03-24 17:19:21
+
+[Alice in no Wonderland](https://alisonern.blogspot.com/)  
+**[Nouvo Koncep - Blog en Kreol](https://alisonern.blogspot.com/2021/03/nouvo-koncep-blog-en-kreol.html)**  2021-03-24 16:18:26
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[What’s the difference between Brent and WTI Crude? &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/whats-difference-between-brent-and-wti.html)**  2021-03-24 11:28:50
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Namit Arora explores the Indian civilisation in all its splendour and “complex shades”](https://zoomdr.blogspot.com/2021/03/namit-arora-explores-indian.html)**  2021-03-24 07:13:53
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Covid 19 - POV und die 2.Welle - POV et la 2ième vague à Maurice....Mauritian Humour in Lockdown times](https://insel-rodrigues.blogspot.com/2021/03/covid-19-pov-und-die-2welle-pov-et-la.html)**  2021-03-24 06:00:58
+
+[Linux User Group of Mauritius](https://lugm.org)  
+**[Convert multiple lines into one tab-separated line using paste](https://www.noulakaz.net/2021/03/24/convert-multiple-lines-into-one-tab-separated-line-using-paste/)**  2021-03-24 04:51:21
 
 [Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
 **[Happy 36th birthday under Covid19 lockdown](https://www.mauritiusblogtracker.com/happy-36th-birthday-under-covid19-lockdown/)**  2021-03-22 17:46:28
@@ -34,32 +52,17 @@ permalink: /mauritian-blogs/
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What are The Best Ways to Invest Money? &#124; Capital Street Fx](https://capital-streetfx.blogspot.com/2021/03/what-are-best-ways-to-invest-money.html)**  2021-03-20 10:08:34
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Externalisation : les prestations clés de SEDECO !](https://sedecobtob.blogspot.com/2021/03/externalisation-les-prestations-cles-de.html)**  2021-03-19 14:54:48
-
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Z/Yen: The Global Financial Centres Index 29 (GFCI 29)](https://amarbheenick.blogspot.com/2021/03/zyen-global-financial-centres-index-29.html)**  2021-03-19 14:34:38
 
 [Golden mind](https://goldenmind23.blogspot.com/)  
 **[Serial, mere agne mein,  understanding in relationships](https://goldenmind23.blogspot.com/2021/03/serial-mere-agne-mein-understanding-in.html)**  2021-03-19 13:30:48
 
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[The case for e-book sharing](https://zoomdr.blogspot.com/2021/03/the-case-for-e-book-sharing.html)**  2021-03-19 11:15:18
-
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[I tried Google Sheet!](https://melanieperes.blogspot.com/2021/03/i-tried-google-sheet.html)**  2021-03-18 16:15:39
 
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Daily Technical Analysis Report On 18 March 2021 &#124; Forex News](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/daily-technical-analysis-report-on-18.html)**  2021-03-18 10:59:55
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[B&W Inchie ... plus 1 more!](https://swanlady-impressions.blogspot.com/2021/03/b-inchie.html)**  2021-03-17 21:33:45
-
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Le Conseil de l’Education Catholique réagit sur les propositions concernant la fin de l’année scolaire](https://www.dioceseportlouis.org/2021/03/17/le-conseil-de-leducation-catholique-reagit-sur-les-propositions-concernant-la-fin-de-lannee-scolaire/)**  2021-03-17 07:36:08
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Happy New Year 2021](https://insel-rodrigues.blogspot.com/2020/12/happy-new-year-2021.html)**  2021-03-17 05:51:30
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Diigo- more than just a social bookmarking tool](https://sunjuh.blogspot.com/2021/03/diigo-more-than-just-social-bookmarking.html)**  2021-03-14 12:21:27
@@ -72,9 +75,6 @@ permalink: /mauritian-blogs/
 
 [Nidhi K. Buskalawa](https://nidhikhoushee.blogspot.com/)  
 **[My best friend](https://nidhikhoushee.blogspot.com/2021/03/my-best-friend.html)**  2021-03-13 09:32:20
-
-[Alice in no Wonderland](https://alisonern.blogspot.com/)  
-**[Happy Independence Day 🇲🇺](https://alisonern.blogspot.com/2021/03/happy-independence-day_12.html)**  2021-03-12 10:57:44
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Happy Independence Day Mauritius](https://ritesh2103.wordpress.com/2021/03/12/happy-independence-day-mauritius/)**  2021-03-12 10:26:20
