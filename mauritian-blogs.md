@@ -4,14 +4,29 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : SEDECO est opérationnel 24/ 7 !](https://sedecobtob.blogspot.com/2021/03/bpo-sedeco-est-operationnel-24-7.html)**  2021-03-25 04:04:01
-
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la fête de l'annociation du Seigneur](https://josephnguyenmahebourg.blogspot.com/2021/03/homelie-pour-la-fete-de-lannociation-du.html)**  2021-03-25 03:00:06
+**[Vendredi de la 5è semaine de Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/vendredi-de-la-5e-semaine-de-careme.html)**  2021-03-26 03:00:01
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Marketing digital : SEDECO se charge de votre service SEO !](https://sedecobtob.blogspot.com/2021/03/marketing-digital-sedeco-se-charge-de.html)**  2021-03-26 01:02:15
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Spring & Easter Bunnies](https://swanlady-impressions.blogspot.com/2021/03/spring-easter-bunnies.html)**  2021-03-24 20:06:47
+**[Relax Your Way](https://swanlady-impressions.blogspot.com/2021/03/relax-your-way.html)**  2021-03-25 16:37:57
+
+[C'est reparti !](https://c-est-reparti.blogspot.com/)  
+**[Rats des villes](https://c-est-reparti.blogspot.com/2021/03/rats-des-villes.html)**  2021-03-25 13:36:51
+
+[My Voice](https://jeevashi.blogspot.com/)  
+**[The city of Ghosts](https://jeevashi.blogspot.com/2020/12/the-city-of-ghosts.html)**  2021-03-25 09:29:34
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Daily Technical Analysis Report On 25 March 2021 &#124; Forex News](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/daily-technical-analysis-report-on-25.html)**  2021-03-25 09:18:21
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Covid 19 - POV und die 2.Welle - POV et la 2ième vague à Maurice....Mauritian Humour in Lockdown times](https://insel-rodrigues.blogspot.com/2021/03/covid-19-pov-und-die-2welle-pov-et-la.html)**  2021-03-25 06:37:56
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Les églises fermées pour les cérémonies de la Semaine Sainte](https://www.dioceseportlouis.org/2021/03/25/les-eglises-fermees-pour-les-ceremonies-de-la-semaine-sainte/)**  2021-03-25 06:32:16
 
 [Graphic design](https://poyheeraloll.blogspot.com/)  
 **[is the vaccine the new luxury ?](https://poyheeraloll.blogspot.com/2021/03/is-vaccine-new-luxury.html)**  2021-03-24 17:19:21
@@ -19,14 +34,8 @@ permalink: /mauritian-blogs/
 [Alice in no Wonderland](https://alisonern.blogspot.com/)  
 **[Nouvo Koncep - Blog en Kreol](https://alisonern.blogspot.com/2021/03/nouvo-koncep-blog-en-kreol.html)**  2021-03-24 16:18:26
 
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[What’s the difference between Brent and WTI Crude? &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/whats-difference-between-brent-and-wti.html)**  2021-03-24 11:28:50
-
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Namit Arora explores the Indian civilisation in all its splendour and “complex shades”](https://zoomdr.blogspot.com/2021/03/namit-arora-explores-indian.html)**  2021-03-24 07:13:53
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Covid 19 - POV und die 2.Welle - POV et la 2ième vague à Maurice....Mauritian Humour in Lockdown times](https://insel-rodrigues.blogspot.com/2021/03/covid-19-pov-und-die-2welle-pov-et-la.html)**  2021-03-24 06:00:58
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[Convert multiple lines into one tab-separated line using paste](https://www.noulakaz.net/2021/03/24/convert-multiple-lines-into-one-tab-separated-line-using-paste/)**  2021-03-24 04:51:21
@@ -60,9 +69,6 @@ permalink: /mauritian-blogs/
 
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[I tried Google Sheet!](https://melanieperes.blogspot.com/2021/03/i-tried-google-sheet.html)**  2021-03-18 16:15:39
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Le Conseil de l’Education Catholique réagit sur les propositions concernant la fin de l’année scolaire](https://www.dioceseportlouis.org/2021/03/17/le-conseil-de-leducation-catholique-reagit-sur-les-propositions-concernant-la-fin-de-lannee-scolaire/)**  2021-03-17 07:36:08
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Diigo- more than just a social bookmarking tool](https://sunjuh.blogspot.com/2021/03/diigo-more-than-just-social-bookmarking.html)**  2021-03-14 12:21:27
@@ -174,9 +180,6 @@ permalink: /mauritian-blogs/
 
 [Sandrasen Sautrelle](https://sandrasen98.blogspot.com/)  
 **[still life](https://sandrasen98.blogspot.com/2021/01/still.html)**  2021-01-29 18:04:19
-
-[C'est reparti !](https://c-est-reparti.blogspot.com/)  
-**[Tout va bien !](https://c-est-reparti.blogspot.com/2021/01/tout-va-bien.html)**  2021-01-26 08:33:41
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Deep Under](https://faustianmatters.blogspot.com/2021/01/deep-under.html)**  2021-01-24 01:44:44
@@ -426,9 +429,6 @@ permalink: /mauritian-blogs/
 
 [A warrior](https://amishaisblogging.blogspot.com/)  
 **[No title](https://amishaisblogging.blogspot.com/2020/07/experiences-of-life-are-what-people.html)**  2020-07-02 17:25:47
-
-[My Voice](https://jeevashi.blogspot.com/)  
-**[永远慢慢地_Slowly Slowly Forever](https://jeevashi.blogspot.com/2020/06/slowly-slowly-forever.html)**  2020-06-30 12:40:30
 
 [Eternal Bliss: the nearest ones](https://ammaara.blogspot.com/)  
 **[La tromperie du diable - comment tu dois faire pour t'en protéger](https://ammaara.blogspot.com/2020/06/la-tromperie-du-diable-comment-tu-dois.html)**  2020-06-27 23:11:23
