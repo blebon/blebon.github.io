@@ -5,7 +5,22 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 5è semaine de Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/vendredi-de-la-5e-semaine-de-careme.html)**  2021-03-26 03:00:01
+**[Samedi de la 5e semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/samedi-de-la-5e-semaine-du-careme.html)**  2021-03-27 03:00:04
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[50 Years Ago, A Muslim Population Frees Itself From Pakistan](http://kozelidir.blogspot.com/2021/03/50-years-ago-muslim-population-frees.html)**  2021-03-26 20:33:25
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[How Humans Became (Mostly) Right-Handed](https://teelocked.blogspot.com/2021/03/how-humans-became-mostly-right-handed.html)**  2021-03-26 16:15:28
+
+[MPeres' blog](https://melanieperes.blogspot.com/)  
+**[Soo, let's Dojo, hohoho!!](https://melanieperes.blogspot.com/2021/03/soo-lets-dojo-hohoho.html)**  2021-03-26 16:02:24
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[La Vie Catholique disponible gratuitement en ligne](https://www.dioceseportlouis.org/2021/03/26/la-vie-catholique-disponible-gratuitement-en-ligne/)**  2021-03-26 12:36:07
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Financial Markets & Stock Market Technical Analysis Report 26 March 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/financial-markets-stock-market.html)**  2021-03-26 09:26:54
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing digital : SEDECO se charge de votre service SEO !](https://sedecobtob.blogspot.com/2021/03/marketing-digital-sedeco-se-charge-de.html)**  2021-03-26 01:02:15
@@ -19,14 +34,8 @@ permalink: /mauritian-blogs/
 [My Voice](https://jeevashi.blogspot.com/)  
 **[The city of Ghosts](https://jeevashi.blogspot.com/2020/12/the-city-of-ghosts.html)**  2021-03-25 09:29:34
 
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Daily Technical Analysis Report On 25 March 2021 &#124; Forex News](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/daily-technical-analysis-report-on-25.html)**  2021-03-25 09:18:21
-
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Covid 19 - POV und die 2.Welle - POV et la 2ième vague à Maurice....Mauritian Humour in Lockdown times](https://insel-rodrigues.blogspot.com/2021/03/covid-19-pov-und-die-2welle-pov-et-la.html)**  2021-03-25 06:37:56
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Les églises fermées pour les cérémonies de la Semaine Sainte](https://www.dioceseportlouis.org/2021/03/25/les-eglises-fermees-pour-les-ceremonies-de-la-semaine-sainte/)**  2021-03-25 06:32:16
 
 [Graphic design](https://poyheeraloll.blogspot.com/)  
 **[is the vaccine the new luxury ?](https://poyheeraloll.blogspot.com/2021/03/is-vaccine-new-luxury.html)**  2021-03-24 17:19:21
@@ -49,9 +58,6 @@ permalink: /mauritian-blogs/
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[SaltyLuxe, World’s Leading Island Travel Influencer At Constance Halaveli](https://blog.constancehotels.com/saltyluxe-worlds-leading-island-travel-influencer-at-constance-halaveli/)**  2021-03-22 16:28:55
 
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Skip the gym - do THIS instead  &#124; Ep143](https://teelocked.blogspot.com/2021/03/skip-gym-do-this-instead-ep143.html)**  2021-03-22 16:12:53
-
 [Eternal Sakshi Writes](https://eternalsakshiwrites.blogspot.com/)  
 **[#YesAllWomen](https://eternalsakshiwrites.blogspot.com/2021/03/yesallwomen.html)**  2021-03-21 17:49:39
 
@@ -66,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Golden mind](https://goldenmind23.blogspot.com/)  
 **[Serial, mere agne mein,  understanding in relationships](https://goldenmind23.blogspot.com/2021/03/serial-mere-agne-mein-understanding-in.html)**  2021-03-19 13:30:48
-
-[MPeres' blog](https://melanieperes.blogspot.com/)  
-**[I tried Google Sheet!](https://melanieperes.blogspot.com/2021/03/i-tried-google-sheet.html)**  2021-03-18 16:15:39
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Diigo- more than just a social bookmarking tool](https://sunjuh.blogspot.com/2021/03/diigo-more-than-just-social-bookmarking.html)**  2021-03-14 12:21:27
@@ -132,9 +135,6 @@ permalink: /mauritian-blogs/
 
 [Top 5 Stock and Market News &#124; Forex Market News](https://top5stock.blogspot.com/)  
 **[TOP 5 STOCKS & Stock Market News – FEBRUARY 24, 2021 – CAPITAL STREET FX](https://top5stock.blogspot.com/2021/02/top-5-stocks-stock-market-news-february.html)**  2021-02-24 14:18:48
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Greatest Party of Mauritius Turns 85](http://kozelidir.blogspot.com/2021/02/greatest-party-of-mauritius-turns-85.html)**  2021-02-23 09:57:44
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Leadership deficit leaves Mauritius in limbo](https://tchombo.blogspot.com/2021/02/leadership-deficit-leaves-mauritius-in.html)**  2021-02-22 14:40:51
