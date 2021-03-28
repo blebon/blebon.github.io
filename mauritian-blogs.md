@@ -5,10 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 5e semaine du Carême](https://josephnguyenmahebourg.blogspot.com/2021/03/samedi-de-la-5e-semaine-du-careme.html)**  2021-03-27 03:00:04
+**[Homélie pour le Dimanche des Rameaux](https://josephnguyenmahebourg.blogspot.com/2021/03/homelie-pour-le-dimanche-des-rameaux.html)**  2021-03-28 04:00:01
+
+[Mera Blog](https://nayarweb.com/blog)  
+**[Making Veg Burger](https://nayarweb.com/blog/2021/making-veg-burger/)**  2021-03-27 16:14:19
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
-**[50 Years Ago, A Muslim Population Frees Itself From Pakistan](http://kozelidir.blogspot.com/2021/03/50-years-ago-muslim-population-frees.html)**  2021-03-26 20:33:25
+**[50 Years Ago, Tens of Millions of Muslims Free Themselves From Pakistan](http://kozelidir.blogspot.com/2021/03/50-years-ago-muslim-population-frees.html)**  2021-03-27 08:31:37
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[How Humans Became (Mostly) Right-Handed](https://teelocked.blogspot.com/2021/03/how-humans-became-mostly-right-handed.html)**  2021-03-26 16:15:28
@@ -153,9 +156,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius Car Rental](https://easycabmauritius.blogspot.com/)  
 **[Transfer From Mauritius Airport To Grand Baie](https://easycabmauritius.blogspot.com/2021/02/transfer-from-mauritius-airport-to.html)**  2021-02-17 05:56:27
-
-[Mera Blog](https://nayarweb.com/blog)  
-**[When will we be ready for Linux phones?](https://nayarweb.com/blog/2021/when-will-we-be-ready-for-linux-phones/)**  2021-02-14 14:17:29
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[LES SELS AROMATIQUES BIO DE FEUILLES ET FLEURS](https://mysweetmauritius.blogspot.com/2021/02/les-sels-aromatiques-bio-de-feuilles-et.html)**  2021-02-08 12:12:43
