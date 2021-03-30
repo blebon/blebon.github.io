@@ -5,16 +5,19 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi Saint](https://josephnguyenmahebourg.blogspot.com/2021/03/lundi-saint.html)**  2021-03-29 04:00:01
+**[Mardi Saint](https://josephnguyenmahebourg.blogspot.com/2021/03/mardi-saint.html)**  2021-03-30 04:00:03
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Birthday Spring colours](https://swanlady-impressions.blogspot.com/2021/03/birthday-spring-colours.html)**  2021-03-29 21:09:39
 
 [L😀ck](https://teelocked.blogspot.com/)  
-**[Elizabeth Lesser on Building Omega Institute, Intentional Communities, &...](https://teelocked.blogspot.com/2021/03/elizabeth-lesser-on-building-omega.html)**  2021-03-28 21:52:27
+**[Octomom: Deep-sea octopus guards her eggs for over four years](https://teelocked.blogspot.com/2021/03/octomom-deep-sea-octopus-guards-her.html)**  2021-03-29 16:09:38
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Technical Analysis of the Financial Markets Report On 29 March 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/technical-analysis-of-financial-markets_29.html)**  2021-03-29 09:20:52
 
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[Rattrapage express 2019 parce que les annees filent...](https://petitpotagerilemaurice.blogspot.com/2021/03/rattrapage-express-2019-parce-que-les.html)**  2021-03-28 17:22:10
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Rainbow Wishes](https://swanlady-impressions.blogspot.com/2021/03/rainbow-wishes.html)**  2021-03-28 17:17:28
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Making Veg Burger](https://nayarweb.com/blog/2021/making-veg-burger/)**  2021-03-27 16:14:19
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[La Vie Catholique disponible gratuitement en ligne](https://www.dioceseportlouis.org/2021/03/26/la-vie-catholique-disponible-gratuitement-en-ligne/)**  2021-03-26 12:36:07
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Financial Markets & Stock Market Technical Analysis Report 26 March 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/financial-markets-stock-market.html)**  2021-03-26 09:26:54
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing digital : SEDECO se charge de votre service SEO !](https://sedecobtob.blogspot.com/2021/03/marketing-digital-sedeco-se-charge-de.html)**  2021-03-26 01:02:15
@@ -534,11 +534,5 @@ permalink: /mauritian-blogs/
 
 [Medicine Hack](http://www.medicinehack.com/)  
 **[BPAP - Bilevel Positive Airway Pressure Ventilation](http://feedproxy.google.com/~r/Medicinexplained/~3/mGhjGngUvAk/bpap-bilevel-positive-airway-pressure.html)**  2020-04-30 18:33:15
-
-[An expedition in Jupiter: a failed star or a planet?](https://reshmeesadhoo18.blogspot.com/)  
-**[No title](https://reshmeesadhoo18.blogspot.com/2020/04/could-jupiter-have-been-star-instead-of.html)**  2020-04-27 17:56:37
-
-[Carte Abricot Wedding Planner à l'Ile Maurice](https://carteabricotwedding.blogspot.com/)  
-**[LISE & MATHIEU 20.02.2020](https://carteabricotwedding.blogspot.com/2020/04/lise-mathieu-20022020.html)**  2020-04-27 09:33:39
 
 <div style="height:0;width:0;overflow:hidden;"></div>
