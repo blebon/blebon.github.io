@@ -5,7 +5,19 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi Saint](https://josephnguyenmahebourg.blogspot.com/2021/03/mardi-saint.html)**  2021-03-30 04:00:03
+**[Mercredi Saint](https://josephnguyenmahebourg.blogspot.com/2021/03/mercredi-saint.html)**  2021-03-31 04:00:01
+
+[Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
+**[Electric bikes and motorcycles now subject to more regulations](https://www.mauritiusblogtracker.com/electric-bikes-and-motorcycles-now-subject-to-more-regulations/)**  2021-03-30 12:33:14
+
+[Yashvinblogs](https://yashvinblogs.com)  
+**[Electric bikes and motorcycles now subject to more regulations](https://yashvinblogs.com/2021/03/30/electric-scooters-moto-regulations/)**  2021-03-30 12:33:14
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[COVID-19 : Consignes du diocèse à partir du 1er avril 2021](https://www.dioceseportlouis.org/2021/03/30/covid-19-consignes-du-diocese-a-partir-du-1er-avril-2021/)**  2021-03-30 10:36:00
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : coup d’œil sur SEDECO, un centre de contact offshore !](https://sedecobtob.blogspot.com/2021/03/bpo-coup-dil-sur-sedeco-un-centre-de.html)**  2021-03-30 10:21:34
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Spring colours](https://swanlady-impressions.blogspot.com/2021/03/birthday-spring-colours.html)**  2021-03-29 21:09:39
@@ -28,12 +40,6 @@ permalink: /mauritian-blogs/
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[Soo, let's Dojo, hohoho!!](https://melanieperes.blogspot.com/2021/03/soo-lets-dojo-hohoho.html)**  2021-03-26 16:02:24
 
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[La Vie Catholique disponible gratuitement en ligne](https://www.dioceseportlouis.org/2021/03/26/la-vie-catholique-disponible-gratuitement-en-ligne/)**  2021-03-26 12:36:07
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Marketing digital : SEDECO se charge de votre service SEO !](https://sedecobtob.blogspot.com/2021/03/marketing-digital-sedeco-se-charge-de.html)**  2021-03-26 01:02:15
-
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Rats des villes](https://c-est-reparti.blogspot.com/2021/03/rats-des-villes.html)**  2021-03-25 13:36:51
 
@@ -54,12 +60,6 @@ permalink: /mauritian-blogs/
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[Convert multiple lines into one tab-separated line using paste](https://www.noulakaz.net/2021/03/24/convert-multiple-lines-into-one-tab-separated-line-using-paste/)**  2021-03-24 04:51:21
-
-[Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
-**[Happy 36th birthday under Covid19 lockdown](https://www.mauritiusblogtracker.com/happy-36th-birthday-under-covid19-lockdown/)**  2021-03-22 17:46:28
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[Happy 36th birthday under Covid19 lockdown](https://yashvinblogs.com/2021/03/22/happy-birthday-2021/)**  2021-03-22 17:46:28
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[SaltyLuxe, World’s Leading Island Travel Influencer At Constance Halaveli](https://blog.constancehotels.com/saltyluxe-worlds-leading-island-travel-influencer-at-constance-halaveli/)**  2021-03-22 16:28:55
