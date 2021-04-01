@@ -4,6 +4,30 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Lockdown 2 : Ronn in Rodrigues - der Papa in Mauritius....Blocked in Mauritius....Les Rodriguais bloqués à Maurice](https://insel-rodrigues.blogspot.com/2021/04/lockdown-2-ronn-in-rodrigues-der-papa.html)**  2021-04-01 04:36:10
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[How to Grow Your Business by Writing: Sahil Lavingia + David Perell](https://teelocked.blogspot.com/2021/03/how-to-grow-your-business-by-writing.html)**  2021-03-31 23:21:47
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Covid Doesn’t Give Standing Ovations](http://kozelidir.blogspot.com/2021/03/covid-doesnt-give-standing-ovations.html)**  2021-03-31 20:59:30
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[The Tranquility Set](https://swanlady-impressions.blogspot.com/2021/03/the-tranquility-set.html)**  2021-03-31 19:58:22
+
+[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
+**[To konpasion kifer selektif?](https://meeraappadoo.wordpress.com/2021/03/31/to-konpasion-kifer-selektif/)**  2021-03-31 15:08:03
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[How Constance Lemuria Strives Towards Sustainability](https://blog.constancehotels.com/how-constance-lemuria-strives-towards-sustainability/)**  2021-03-31 13:31:56
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Technical Analysis of The Financial Markets — 31 March 2021 &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/technical-analysis-of-financial-markets_31.html)**  2021-03-31 10:25:04
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Semaine Sainte – les messes célébrées par le Cardinal Piat diffusées sur la MBC](https://www.dioceseportlouis.org/2021/03/31/semaine-sainte-les-messes-celebrees-par-le-cardinal-piat-diffusees-sur-la-mbc/)**  2021-03-31 09:26:39
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mercredi Saint](https://josephnguyenmahebourg.blogspot.com/2021/03/mercredi-saint.html)**  2021-03-31 04:00:01
 
@@ -13,29 +37,14 @@ permalink: /mauritian-blogs/
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Electric bikes and motorcycles now subject to more regulations](https://yashvinblogs.com/2021/03/30/electric-scooters-moto-regulations/)**  2021-03-30 12:33:14
 
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[COVID-19 : Consignes du diocèse à partir du 1er avril 2021](https://www.dioceseportlouis.org/2021/03/30/covid-19-consignes-du-diocese-a-partir-du-1er-avril-2021/)**  2021-03-30 10:36:00
-
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : coup d’œil sur SEDECO, un centre de contact offshore !](https://sedecobtob.blogspot.com/2021/03/bpo-coup-dil-sur-sedeco-un-centre-de.html)**  2021-03-30 10:21:34
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Birthday Spring colours](https://swanlady-impressions.blogspot.com/2021/03/birthday-spring-colours.html)**  2021-03-29 21:09:39
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Octomom: Deep-sea octopus guards her eggs for over four years](https://teelocked.blogspot.com/2021/03/octomom-deep-sea-octopus-guards-her.html)**  2021-03-29 16:09:38
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Technical Analysis of the Financial Markets Report On 29 March 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/technical-analysis-of-financial-markets_29.html)**  2021-03-29 09:20:52
 
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[Rattrapage express 2019 parce que les annees filent...](https://petitpotagerilemaurice.blogspot.com/2021/03/rattrapage-express-2019-parce-que-les.html)**  2021-03-28 17:22:10
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Making Veg Burger](https://nayarweb.com/blog/2021/making-veg-burger/)**  2021-03-27 16:14:19
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[50 Years Ago, Tens of Millions of Muslims Free Themselves From Pakistan](http://kozelidir.blogspot.com/2021/03/50-years-ago-muslim-population-frees.html)**  2021-03-27 08:31:37
 
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[Soo, let's Dojo, hohoho!!](https://melanieperes.blogspot.com/2021/03/soo-lets-dojo-hohoho.html)**  2021-03-26 16:02:24
@@ -45,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [My Voice](https://jeevashi.blogspot.com/)  
 **[The city of Ghosts](https://jeevashi.blogspot.com/2020/12/the-city-of-ghosts.html)**  2021-03-25 09:29:34
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Covid 19 - POV und die 2.Welle - POV et la 2ième vague à Maurice....Mauritian Humour in Lockdown times](https://insel-rodrigues.blogspot.com/2021/03/covid-19-pov-und-die-2welle-pov-et-la.html)**  2021-03-25 06:37:56
 
 [Graphic design](https://poyheeraloll.blogspot.com/)  
 **[is the vaccine the new luxury ?](https://poyheeraloll.blogspot.com/2021/03/is-vaccine-new-luxury.html)**  2021-03-24 17:19:21
@@ -60,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[Convert multiple lines into one tab-separated line using paste](https://www.noulakaz.net/2021/03/24/convert-multiple-lines-into-one-tab-separated-line-using-paste/)**  2021-03-24 04:51:21
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[SaltyLuxe, World’s Leading Island Travel Influencer At Constance Halaveli](https://blog.constancehotels.com/saltyluxe-worlds-leading-island-travel-influencer-at-constance-halaveli/)**  2021-03-22 16:28:55
 
 [Eternal Sakshi Writes](https://eternalsakshiwrites.blogspot.com/)  
 **[#YesAllWomen](https://eternalsakshiwrites.blogspot.com/2021/03/yesallwomen.html)**  2021-03-21 17:49:39
@@ -285,9 +288,6 @@ permalink: /mauritian-blogs/
 
 [THE VIEW THROUGH MY LENSE](https://lookthroughmylense20.blogspot.com/)  
 **[Here's 5 Photographs Inspired By Specific Themes](https://lookthroughmylense20.blogspot.com/2020/10/heres-5-photographs-inspired-by.html)**  2020-10-31 14:19:35
-
-[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
-**[Bats of Mauritius: Another blow to the Ecosystem and another illustration of the incompetency of this Government](https://meeraappadoo.wordpress.com/2020/10/29/bats-of-mauritius-another-blow-to-the-ecosystem-and-another-illustration-of-the-incompetency-of-this-government/)**  2020-10-29 07:20:06
 
 [Stephanie Online Business](https://stephanieonlinebusiness.blogspot.com/)  
 **[Passive Profit Funnels Review](https://stephanieonlinebusiness.blogspot.com/2020/10/passive-profit-funnels-review.html)**  2020-10-29 04:06:23
