@@ -4,11 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Lockdown 2 : Ronn in Rodrigues - der Papa in Mauritius....Blocked in Mauritius....Les Rodriguais bloqués à Maurice](https://insel-rodrigues.blogspot.com/2021/04/lockdown-2-ronn-in-rodrigues-der-papa.html)**  2021-04-01 04:36:10
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Vendredi Saint](https://josephnguyenmahebourg.blogspot.com/2021/04/vendredi-saint.html)**  2021-04-02 04:00:00
 
 [L😀ck](https://teelocked.blogspot.com/)  
-**[How to Grow Your Business by Writing: Sahil Lavingia + David Perell](https://teelocked.blogspot.com/2021/03/how-to-grow-your-business-by-writing.html)**  2021-03-31 23:21:47
+**[Building an Idea Factory with Ali Abdaal](https://teelocked.blogspot.com/2021/04/building-idea-factory-with-ali-abdaal.html)**  2021-04-01 17:59:02
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[SEDECO, c’est des valeurs entrepreneuriales solides !](https://sedecobtob.blogspot.com/2021/04/sedeco-cest-des-valeurs.html)**  2021-04-01 14:09:00
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Pas de célébration de mariages religieux jusqu’à nouvel ordre](https://www.dioceseportlouis.org/2021/04/01/pas-de-celebration-de-mariages-religieux-jusqua-nouvel-ordre/)**  2021-04-01 12:17:34
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Financial Markets & Stock Market Technical Analysis - 01 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/financial-markets-stock-market.html)**  2021-04-01 10:35:27
+
+[Alice in no Wonderland](https://alisonern.blogspot.com/)  
+**[Lamour V/s Latention](https://alisonern.blogspot.com/2021/03/lamour-vs-latention.html)**  2021-04-01 06:28:41
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Lockdown 2 : Ronn in Rodrigues - der Papa in Mauritius....Blocked in Mauritius....Les Rodriguais bloqués à Maurice](https://insel-rodrigues.blogspot.com/2021/04/lockdown-2-ronn-in-rodrigues-der-papa.html)**  2021-04-01 04:36:10
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Covid Doesn’t Give Standing Ovations](http://kozelidir.blogspot.com/2021/03/covid-doesnt-give-standing-ovations.html)**  2021-03-31 20:59:30
@@ -22,23 +37,11 @@ permalink: /mauritian-blogs/
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[How Constance Lemuria Strives Towards Sustainability](https://blog.constancehotels.com/how-constance-lemuria-strives-towards-sustainability/)**  2021-03-31 13:31:56
 
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Technical Analysis of The Financial Markets — 31 March 2021 &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/03/technical-analysis-of-financial-markets_31.html)**  2021-03-31 10:25:04
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Semaine Sainte – les messes célébrées par le Cardinal Piat diffusées sur la MBC](https://www.dioceseportlouis.org/2021/03/31/semaine-sainte-les-messes-celebrees-par-le-cardinal-piat-diffusees-sur-la-mbc/)**  2021-03-31 09:26:39
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi Saint](https://josephnguyenmahebourg.blogspot.com/2021/03/mercredi-saint.html)**  2021-03-31 04:00:01
-
 [Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
 **[Electric bikes and motorcycles now subject to more regulations](https://www.mauritiusblogtracker.com/electric-bikes-and-motorcycles-now-subject-to-more-regulations/)**  2021-03-30 12:33:14
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Electric bikes and motorcycles now subject to more regulations](https://yashvinblogs.com/2021/03/30/electric-scooters-moto-regulations/)**  2021-03-30 12:33:14
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : coup d’œil sur SEDECO, un centre de contact offshore !](https://sedecobtob.blogspot.com/2021/03/bpo-coup-dil-sur-sedeco-un-centre-de.html)**  2021-03-30 10:21:34
 
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[Rattrapage express 2019 parce que les annees filent...](https://petitpotagerilemaurice.blogspot.com/2021/03/rattrapage-express-2019-parce-que-les.html)**  2021-03-28 17:22:10
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Graphic design](https://poyheeraloll.blogspot.com/)  
 **[is the vaccine the new luxury ?](https://poyheeraloll.blogspot.com/2021/03/is-vaccine-new-luxury.html)**  2021-03-24 17:19:21
-
-[Alice in no Wonderland](https://alisonern.blogspot.com/)  
-**[Nouvo Koncep - Blog en Kreol](https://alisonern.blogspot.com/2021/03/nouvo-koncep-blog-en-kreol.html)**  2021-03-24 16:18:26
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Namit Arora explores the Indian civilisation in all its splendour and “complex shades”](https://zoomdr.blogspot.com/2021/03/namit-arora-explores-indian.html)**  2021-03-24 07:13:53
@@ -537,8 +537,5 @@ permalink: /mauritian-blogs/
 
 [Mauritius Agriculture News](https://news-agriculture.blogspot.com/)  
 **[MAISNET Blog to Shut Down](https://news-agriculture.blogspot.com/2020/05/maisnet-blog-to-shut-down.html)**  2020-05-21 19:33:13
-
-[Medicine Hack](http://www.medicinehack.com/)  
-**[BPAP - Bilevel Positive Airway Pressure Ventilation](http://feedproxy.google.com/~r/Medicinexplained/~3/mGhjGngUvAk/bpap-bilevel-positive-airway-pressure.html)**  2020-04-30 18:33:15
 
 <div style="height:0;width:0;overflow:hidden;"></div>
