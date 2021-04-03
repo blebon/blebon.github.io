@@ -5,25 +5,28 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi Saint](https://josephnguyenmahebourg.blogspot.com/2021/04/vendredi-saint.html)**  2021-04-02 04:00:00
+**[Samedi Saint](https://josephnguyenmahebourg.blogspot.com/2021/04/samedi-saint.html)**  2021-04-03 05:37:57
 
 [L😀ck](https://teelocked.blogspot.com/)  
-**[Building an Idea Factory with Ali Abdaal](https://teelocked.blogspot.com/2021/04/building-idea-factory-with-ali-abdaal.html)**  2021-04-01 17:59:02
+**[How To Tweet From Your Obsidian Notes](https://teelocked.blogspot.com/2021/04/how-to-tweet-from-your-obsidian-notes.html)**  2021-04-02 23:56:07
+
+[Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
+**[How can you minimize the impact of the persistence layer on your domain models?](https://www.mauritiusblogtracker.com/how-can-you-minimize-the-impact-of-the-persistence-layer-on-your-domain-models/)**  2021-04-02 16:51:19
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Financial Markets and Stock Market Technical Analysis – 02 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/financial-markets-and-stock-market.html)**  2021-04-02 10:59:14
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Innovation : Achat et abonnement de La Vie Catholique en ligne](https://www.dioceseportlouis.org/2021/04/02/innovation-achat-et-abonnement-de-la-vie-catholique-en-ligne/)**  2021-04-02 10:22:18
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Lockdown 2 : Ronn in Rodrigues - der Papa in Mauritius....Blocked in Mauritius....Les Rodriguais bloqués à Maurice](https://insel-rodrigues.blogspot.com/2021/04/lockdown-2-ronn-in-rodrigues-der-papa.html)**  2021-04-02 06:10:23
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SEDECO, c’est des valeurs entrepreneuriales solides !](https://sedecobtob.blogspot.com/2021/04/sedeco-cest-des-valeurs.html)**  2021-04-01 14:09:00
 
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Pas de célébration de mariages religieux jusqu’à nouvel ordre](https://www.dioceseportlouis.org/2021/04/01/pas-de-celebration-de-mariages-religieux-jusqua-nouvel-ordre/)**  2021-04-01 12:17:34
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Financial Markets & Stock Market Technical Analysis - 01 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/financial-markets-stock-market.html)**  2021-04-01 10:35:27
-
 [Alice in no Wonderland](https://alisonern.blogspot.com/)  
 **[Lamour V/s Latention](https://alisonern.blogspot.com/2021/03/lamour-vs-latention.html)**  2021-04-01 06:28:41
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Lockdown 2 : Ronn in Rodrigues - der Papa in Mauritius....Blocked in Mauritius....Les Rodriguais bloqués à Maurice](https://insel-rodrigues.blogspot.com/2021/04/lockdown-2-ronn-in-rodrigues-der-papa.html)**  2021-04-01 04:36:10
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Covid Doesn’t Give Standing Ovations](http://kozelidir.blogspot.com/2021/03/covid-doesnt-give-standing-ovations.html)**  2021-03-31 20:59:30
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[How Constance Lemuria Strives Towards Sustainability](https://blog.constancehotels.com/how-constance-lemuria-strives-towards-sustainability/)**  2021-03-31 13:31:56
-
-[Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
-**[Electric bikes and motorcycles now subject to more regulations](https://www.mauritiusblogtracker.com/electric-bikes-and-motorcycles-now-subject-to-more-regulations/)**  2021-03-30 12:33:14
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Electric bikes and motorcycles now subject to more regulations](https://yashvinblogs.com/2021/03/30/electric-scooters-moto-regulations/)**  2021-03-30 12:33:14
