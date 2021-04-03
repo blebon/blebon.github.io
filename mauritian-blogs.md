@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
+**[2020: Confinement...](https://petitpotagerilemaurice.blogspot.com/2021/04/2020-confinement.html)**  2021-04-03 19:10:16
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi Saint](https://josephnguyenmahebourg.blogspot.com/2021/04/samedi-saint.html)**  2021-04-03 05:37:57
+**[La Veillée Pascale](https://josephnguyenmahebourg.blogspot.com/2021/04/la-veillee-pascale.html)**  2021-04-03 15:08:17
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[How To Tweet From Your Obsidian Notes](https://teelocked.blogspot.com/2021/04/how-to-tweet-from-your-obsidian-notes.html)**  2021-04-02 23:56:07
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Electric bikes and motorcycles now subject to more regulations](https://yashvinblogs.com/2021/03/30/electric-scooters-moto-regulations/)**  2021-03-30 12:33:14
-
-[Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
-**[Rattrapage express 2019 parce que les annees filent...](https://petitpotagerilemaurice.blogspot.com/2021/03/rattrapage-express-2019-parce-que-les.html)**  2021-03-28 17:22:10
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Making Veg Burger](https://nayarweb.com/blog/2021/making-veg-burger/)**  2021-03-27 16:14:19
