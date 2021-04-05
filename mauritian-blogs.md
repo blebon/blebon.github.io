@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Lundi de la 1ère Semaine du Temps Pascal](https://josephnguyenmahebourg.blogspot.com/2021/04/lundi-de-la-1ere-semaine-du-temps-pascal.html)**  2021-04-05 04:00:00
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Fake Guru](https://vintishgokool.blogspot.com/2021/04/fake-guru.html)**  2021-04-04 17:12:57
+
+[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
+**[Covid in Mauritius](https://mymauritiangarden.wordpress.com/2021/04/04/covid-in-mauritius/)**  2021-04-04 07:03:56
+
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[2020: Confinement...](https://petitpotagerilemaurice.blogspot.com/2021/04/2020-confinement.html)**  2021-04-03 19:10:16
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[La Veillée Pascale](https://josephnguyenmahebourg.blogspot.com/2021/04/la-veillee-pascale.html)**  2021-04-03 15:08:17
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[How To Tweet From Your Obsidian Notes](https://teelocked.blogspot.com/2021/04/how-to-tweet-from-your-obsidian-notes.html)**  2021-04-02 23:56:07
@@ -531,9 +537,6 @@ permalink: /mauritian-blogs/
 
 [Keshini's blog](https://kehini.blogspot.com/)  
 **[Style guide  (made in moris logo)](https://kehini.blogspot.com/2020/05/style-guide-made-in-moris-logo.html)**  2020-05-25 16:09:49
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Compassion](https://vintishgokool.blogspot.com/2020/05/blog-post.html)**  2020-05-24 15:24:57
 
 [Mauritius Agriculture News](https://news-agriculture.blogspot.com/)  
 **[MAISNET Blog to Shut Down](https://news-agriculture.blogspot.com/2020/05/maisnet-blog-to-shut-down.html)**  2020-05-21 19:33:13
