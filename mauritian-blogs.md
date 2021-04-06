@@ -5,19 +5,25 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi de la 1ère Semaine du Temps Pascal](https://josephnguyenmahebourg.blogspot.com/2021/04/lundi-de-la-1ere-semaine-du-temps-pascal.html)**  2021-04-05 04:00:00
+**[Mardi dans l'Octave de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mardi-dans-loctave-de-paques.html)**  2021-04-06 04:30:00
+
+[Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
+**[Annee 2021 Quand tu nous tiens...Groseille de Ceylan](https://petitpotagerilemaurice.blogspot.com/2021/04/2021-quand-tu-nous-tiensgroseille-de.html)**  2021-04-05 17:32:36
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Anne-Laure Le Cunff: How To Be Prolific](https://teelocked.blogspot.com/2021/04/anne-laure-le-cunff-how-to-be-prolific.html)**  2021-04-05 17:10:29
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[Data on 848,558 Facebook users from Mauritius leaked online](https://sysadmin-journal.com/data-on-848558-facebook-users-from-mauritius-leaked-online/)**  2021-04-05 13:01:44
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[We are not quite as rational as we think](https://zoomdr.blogspot.com/2021/04/we-are-not-quite-as-rational-as-we-think.html)**  2021-04-05 11:48:44
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Fake Guru](https://vintishgokool.blogspot.com/2021/04/fake-guru.html)**  2021-04-04 17:12:57
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Covid in Mauritius](https://mymauritiangarden.wordpress.com/2021/04/04/covid-in-mauritius/)**  2021-04-04 07:03:56
-
-[Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
-**[2020: Confinement...](https://petitpotagerilemaurice.blogspot.com/2021/04/2020-confinement.html)**  2021-04-03 19:10:16
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[How To Tweet From Your Obsidian Notes](https://teelocked.blogspot.com/2021/04/how-to-tweet-from-your-obsidian-notes.html)**  2021-04-02 23:56:07
 
 [Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
 **[How can you minimize the impact of the persistence layer on your domain models?](https://www.mauritiusblogtracker.com/how-can-you-minimize-the-impact-of-the-persistence-layer-on-your-domain-models/)**  2021-04-02 16:51:19
@@ -66,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Graphic design](https://poyheeraloll.blogspot.com/)  
 **[is the vaccine the new luxury ?](https://poyheeraloll.blogspot.com/2021/03/is-vaccine-new-luxury.html)**  2021-03-24 17:19:21
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Namit Arora explores the Indian civilisation in all its splendour and “complex shades”](https://zoomdr.blogspot.com/2021/03/namit-arora-explores-indian.html)**  2021-03-24 07:13:53
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[Convert multiple lines into one tab-separated line using paste](https://www.noulakaz.net/2021/03/24/convert-multiple-lines-into-one-tab-separated-line-using-paste/)**  2021-03-24 04:51:21
@@ -135,9 +138,6 @@ permalink: /mauritian-blogs/
 
 [Madly (Madly, #1) by M. Leighton](https://emmanueld-standstrong.blogspot.com/)  
 **[Reading Pdf Work Your Light Oracle Cards: A 44-Card Deck and Guidebook Tutorial Free Reading PDF](https://emmanueld-standstrong.blogspot.com/2020/11/reading-pdf-work-your-light-oracle.html)**  2021-03-02 07:07:57
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[MSCC Summit 2021 announced](https://sysadmin-journal.com/mscc-summit-2021/)**  2021-03-01 16:58:59
 
 [ORNELLA MARTINSON - MY TEACHING AND LEARNING EXPERIENCES](https://ornellamartinson.blogspot.com/)  
 **[THROUGH GOOD AND BAD TIMES.](https://ornellamartinson.blogspot.com/2021/02/through-good-and-bad-times.html)**  2021-02-28 12:09:50
