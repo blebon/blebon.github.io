@@ -5,16 +5,25 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi dans l'Octave de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mardi-dans-loctave-de-paques.html)**  2021-04-06 04:30:00
+**[Mercredi dans l'Octave de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mercredi-dans-loctave-de-paques.html)**  2021-04-07 04:00:00
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[How Old Cell Phones Are Protecting the Rainforest](https://teelocked.blogspot.com/2021/04/how-old-cell-phones-are-protecting.html)**  2021-04-06 22:44:48
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Garden Shadow Box Card](https://swanlady-impressions.blogspot.com/2021/04/garden-shadow-box-card.html)**  2021-04-06 21:21:01
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Paiement des concessions du cimetière de Saint-Pierre](https://www.dioceseportlouis.org/2021/04/06/paiement-des-concessions-du-cimetiere-de-saint-pierre/)**  2021-04-06 11:56:29
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Es tut sich was....First group of blocked Rodriguans in quarantine - Nouvelles concernant des Rodriguais bloqués à Maurice](https://insel-rodrigues.blogspot.com/2021/04/es-tut-sich-wasfirst-group-of-blocked.html)**  2021-04-06 11:14:26
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[Questions people are asking about COVID-19 related deaths](https://sysadmin-journal.com/questions-people-are-asking-about-covid19-related-deaths/)**  2021-04-06 09:28:39
 
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[Annee 2021 Quand tu nous tiens...Groseille de Ceylan](https://petitpotagerilemaurice.blogspot.com/2021/04/2021-quand-tu-nous-tiensgroseille-de.html)**  2021-04-05 17:32:36
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Anne-Laure Le Cunff: How To Be Prolific](https://teelocked.blogspot.com/2021/04/anne-laure-le-cunff-how-to-be-prolific.html)**  2021-04-05 17:10:29
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Data on 848,558 Facebook users from Mauritius leaked online](https://sysadmin-journal.com/data-on-848558-facebook-users-from-mauritius-leaked-online/)**  2021-04-05 13:01:44
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[We are not quite as rational as we think](https://zoomdr.blogspot.com/2021/04/we-are-not-quite-as-rational-as-we-think.html)**  2021-04-05 11:48:44
@@ -31,12 +40,6 @@ permalink: /mauritian-blogs/
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Financial Markets and Stock Market Technical Analysis – 02 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/financial-markets-and-stock-market.html)**  2021-04-02 10:59:14
 
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Innovation : Achat et abonnement de La Vie Catholique en ligne](https://www.dioceseportlouis.org/2021/04/02/innovation-achat-et-abonnement-de-la-vie-catholique-en-ligne/)**  2021-04-02 10:22:18
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Lockdown 2 : Ronn in Rodrigues - der Papa in Mauritius....Blocked in Mauritius....Les Rodriguais bloqués à Maurice](https://insel-rodrigues.blogspot.com/2021/04/lockdown-2-ronn-in-rodrigues-der-papa.html)**  2021-04-02 06:10:23
-
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SEDECO, c’est des valeurs entrepreneuriales solides !](https://sedecobtob.blogspot.com/2021/04/sedeco-cest-des-valeurs.html)**  2021-04-01 14:09:00
 
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Covid Doesn’t Give Standing Ovations](http://kozelidir.blogspot.com/2021/03/covid-doesnt-give-standing-ovations.html)**  2021-03-31 20:59:30
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[The Tranquility Set](https://swanlady-impressions.blogspot.com/2021/03/the-tranquility-set.html)**  2021-03-31 19:58:22
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[To konpasion kifer selektif?](https://meeraappadoo.wordpress.com/2021/03/31/to-konpasion-kifer-selektif/)**  2021-03-31 15:08:03
