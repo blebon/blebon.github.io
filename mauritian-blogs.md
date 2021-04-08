@@ -5,16 +5,19 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi dans l'Octave de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mercredi-dans-loctave-de-paques.html)**  2021-04-07 04:00:00
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[How Old Cell Phones Are Protecting the Rainforest](https://teelocked.blogspot.com/2021/04/how-old-cell-phones-are-protecting.html)**  2021-04-06 22:44:48
+**[Jeudi dans l'Octave de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/jeudi-dans-loctave-de-paques.html)**  2021-04-08 04:30:00
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Garden Shadow Box Card](https://swanlady-impressions.blogspot.com/2021/04/garden-shadow-box-card.html)**  2021-04-06 21:21:01
+**[Rainbow Birthday Hugs](https://swanlady-impressions.blogspot.com/2021/04/rainbow-birthday-hugs.html)**  2021-04-07 20:33:37
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[DAVID PERELL &#124; The Power Of Writing &#124; Modern Wisdom Podcast 072](https://teelocked.blogspot.com/2021/04/david-perell-power-of-writing-modern.html)**  2021-04-07 20:26:49
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Relation client : pourquoi externaliser ce service chez SEDECO ?](https://sedecobtob.blogspot.com/2021/04/relation-client-pourquoi-externaliser.html)**  2021-04-07 19:19:22
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Paiement des concessions du cimetière de Saint-Pierre](https://www.dioceseportlouis.org/2021/04/06/paiement-des-concessions-du-cimetiere-de-saint-pierre/)**  2021-04-06 11:56:29
+**[PSAC – Le SEDEC appelle les adultes à faire une trêve pour le bien être des enfants](https://www.dioceseportlouis.org/2021/04/07/psac-le-sedec-appelle-les-adultes-a-faire-une-treve-pour-le-bien-etre-des-enfants/)**  2021-04-07 06:03:08
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Es tut sich was....First group of blocked Rodriguans in quarantine - Nouvelles concernant des Rodriguais bloqués à Maurice](https://insel-rodrigues.blogspot.com/2021/04/es-tut-sich-wasfirst-group-of-blocked.html)**  2021-04-06 11:14:26
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Financial Markets and Stock Market Technical Analysis – 02 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/financial-markets-and-stock-market.html)**  2021-04-02 10:59:14
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[SEDECO, c’est des valeurs entrepreneuriales solides !](https://sedecobtob.blogspot.com/2021/04/sedeco-cest-des-valeurs.html)**  2021-04-01 14:09:00
 
 [Alice in no Wonderland](https://alisonern.blogspot.com/)  
 **[Lamour V/s Latention](https://alisonern.blogspot.com/2021/03/lamour-vs-latention.html)**  2021-04-01 06:28:41
