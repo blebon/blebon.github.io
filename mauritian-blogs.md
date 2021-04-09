@@ -5,19 +5,28 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi dans l'Octave de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/jeudi-dans-loctave-de-paques.html)**  2021-04-08 04:30:00
+**[Vendredi dans l'Octave de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/vendredi-dans-loctave-de-paques.html)**  2021-04-09 04:30:00
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Rainbow Birthday Hugs](https://swanlady-impressions.blogspot.com/2021/04/rainbow-birthday-hugs.html)**  2021-04-07 20:33:37
+**[Outlines and solids!](https://swanlady-impressions.blogspot.com/2021/04/outlines-and-solids.html)**  2021-04-08 20:44:32
 
 [L😀ck](https://teelocked.blogspot.com/)  
-**[DAVID PERELL &#124; The Power Of Writing &#124; Modern Wisdom Podcast 072](https://teelocked.blogspot.com/2021/04/david-perell-power-of-writing-modern.html)**  2021-04-07 20:26:49
+**[CRISPR, AI & Brain-Machine Interface: The Future Is Faster Than You Thin...](https://teelocked.blogspot.com/2021/04/crispr-ai-brain-machine-interface.html)**  2021-04-08 20:37:11
+
+[C'est reparti !](https://c-est-reparti.blogspot.com/)  
+**[Neige de printemps](https://c-est-reparti.blogspot.com/2021/04/neige-de-printemps.html)**  2021-04-08 12:48:47
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Technical Analysis of the Financial Markets – Report On 08 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/technical-analysis-of-financial-markets.html)**  2021-04-08 12:39:47
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Formation en ligne « Post Covid-19, de la peur à la confiance… »](https://www.dioceseportlouis.org/2021/04/08/formation-en-ligne-post-covid-19-de-la-peur-a-la-confiance/)**  2021-04-08 08:20:35
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Universally Cinematic Marvels](https://davidandjennilyn.com/2021/04/07/universally-cinematic-marvels/)**  2021-04-08 06:06:20
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Relation client : pourquoi externaliser ce service chez SEDECO ?](https://sedecobtob.blogspot.com/2021/04/relation-client-pourquoi-externaliser.html)**  2021-04-07 19:19:22
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[PSAC – Le SEDEC appelle les adultes à faire une trêve pour le bien être des enfants](https://www.dioceseportlouis.org/2021/04/07/psac-le-sedec-appelle-les-adultes-a-faire-une-treve-pour-le-bien-etre-des-enfants/)**  2021-04-07 06:03:08
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Es tut sich was....First group of blocked Rodriguans in quarantine - Nouvelles concernant des Rodriguais bloqués à Maurice](https://insel-rodrigues.blogspot.com/2021/04/es-tut-sich-wasfirst-group-of-blocked.html)**  2021-04-06 11:14:26
@@ -40,9 +49,6 @@ permalink: /mauritian-blogs/
 [Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
 **[How can you minimize the impact of the persistence layer on your domain models?](https://www.mauritiusblogtracker.com/how-can-you-minimize-the-impact-of-the-persistence-layer-on-your-domain-models/)**  2021-04-02 16:51:19
 
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Financial Markets and Stock Market Technical Analysis – 02 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/financial-markets-and-stock-market.html)**  2021-04-02 10:59:14
-
 [Alice in no Wonderland](https://alisonern.blogspot.com/)  
 **[Lamour V/s Latention](https://alisonern.blogspot.com/2021/03/lamour-vs-latention.html)**  2021-04-01 06:28:41
 
@@ -63,9 +69,6 @@ permalink: /mauritian-blogs/
 
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[Soo, let's Dojo, hohoho!!](https://melanieperes.blogspot.com/2021/03/soo-lets-dojo-hohoho.html)**  2021-03-26 16:02:24
-
-[C'est reparti !](https://c-est-reparti.blogspot.com/)  
-**[Rats des villes](https://c-est-reparti.blogspot.com/2021/03/rats-des-villes.html)**  2021-03-25 13:36:51
 
 [My Voice](https://jeevashi.blogspot.com/)  
 **[The city of Ghosts](https://jeevashi.blogspot.com/2020/12/the-city-of-ghosts.html)**  2021-03-25 09:29:34
@@ -150,9 +153,6 @@ permalink: /mauritian-blogs/
 
 [Forex Trader &#124; Viivek Naiir](https://viiveknaiir.blogspot.com/)  
 **[No title](https://viiveknaiir.blogspot.com/2021/02/how-to-choose-forex-broker-once-you-get.html)**  2021-02-25 11:07:28
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[The Game of Names](https://davidandjennilyn.com/2021/02/24/the-game-of-names/)**  2021-02-24 16:00:00
 
 [Top 5 Stock and Market News &#124; Forex Market News](https://top5stock.blogspot.com/)  
 **[TOP 5 STOCKS & Stock Market News – FEBRUARY 24, 2021 – CAPITAL STREET FX](https://top5stock.blogspot.com/2021/02/top-5-stocks-stock-market-news-february.html)**  2021-02-24 14:18:48
