@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi dans l'Octave de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/vendredi-dans-loctave-de-paques.html)**  2021-04-09 04:30:00
+**[Samedi dans l'Octave de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/samedi-dans-loctave-de-paques.html)**  2021-04-10 04:00:00
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Intimate Islands For Relaxation](https://blog.constancehotels.com/intimate-islands-for-relaxation/)**  2021-04-09 11:31:59
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Outlines and solids!](https://swanlady-impressions.blogspot.com/2021/04/outlines-and-solids.html)**  2021-04-08 20:44:32
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[To konpasion kifer selektif?](https://meeraappadoo.wordpress.com/2021/03/31/to-konpasion-kifer-selektif/)**  2021-03-31 15:08:03
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[How Constance Lemuria Strives Towards Sustainability](https://blog.constancehotels.com/how-constance-lemuria-strives-towards-sustainability/)**  2021-03-31 13:31:56
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Electric bikes and motorcycles now subject to more regulations](https://yashvinblogs.com/2021/03/30/electric-scooters-moto-regulations/)**  2021-03-30 12:33:14
