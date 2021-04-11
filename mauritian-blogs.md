@@ -4,6 +4,18 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Design and Adaptive Technologies](https://teelocked.blogspot.com/2021/04/design-and-adaptive-technologies.html)**  2021-04-11 04:17:35
+
+[Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
+**[Mars-Avril 2021: Confinement...le retour!](https://petitpotagerilemaurice.blogspot.com/2021/04/mars-avril-2021-confinementle-retour.html)**  2021-04-10 18:09:00
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[This is a golden moment for policy thinkers like Minouche Shafik](https://zoomdr.blogspot.com/2021/04/this-is-golden-moment-for-policy.html)**  2021-04-10 17:38:38
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[SEO : SEDECO et son service de qualité](https://sedecobtob.blogspot.com/2021/04/seo-sedeco-et-son-service-de-qualite.html)**  2021-04-10 07:02:14
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Samedi dans l'Octave de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/samedi-dans-loctave-de-paques.html)**  2021-04-10 04:00:00
 
@@ -12,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Outlines and solids!](https://swanlady-impressions.blogspot.com/2021/04/outlines-and-solids.html)**  2021-04-08 20:44:32
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[CRISPR, AI & Brain-Machine Interface: The Future Is Faster Than You Thin...](https://teelocked.blogspot.com/2021/04/crispr-ai-brain-machine-interface.html)**  2021-04-08 20:37:11
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Neige de printemps](https://c-est-reparti.blogspot.com/2021/04/neige-de-printemps.html)**  2021-04-08 12:48:47
@@ -28,20 +37,11 @@ permalink: /mauritian-blogs/
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Universally Cinematic Marvels](https://davidandjennilyn.com/2021/04/07/universally-cinematic-marvels/)**  2021-04-08 06:06:20
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Relation client : pourquoi externaliser ce service chez SEDECO ?](https://sedecobtob.blogspot.com/2021/04/relation-client-pourquoi-externaliser.html)**  2021-04-07 19:19:22
-
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Es tut sich was....First group of blocked Rodriguans in quarantine - Nouvelles concernant des Rodriguais bloqués à Maurice](https://insel-rodrigues.blogspot.com/2021/04/es-tut-sich-wasfirst-group-of-blocked.html)**  2021-04-06 11:14:26
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Questions people are asking about COVID-19 related deaths](https://sysadmin-journal.com/questions-people-are-asking-about-covid19-related-deaths/)**  2021-04-06 09:28:39
-
-[Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
-**[Annee 2021 Quand tu nous tiens...Groseille de Ceylan](https://petitpotagerilemaurice.blogspot.com/2021/04/2021-quand-tu-nous-tiensgroseille-de.html)**  2021-04-05 17:32:36
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[We are not quite as rational as we think](https://zoomdr.blogspot.com/2021/04/we-are-not-quite-as-rational-as-we-think.html)**  2021-04-05 11:48:44
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Fake Guru](https://vintishgokool.blogspot.com/2021/04/fake-guru.html)**  2021-04-04 17:12:57
