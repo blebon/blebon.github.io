@@ -4,8 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Le père Labour de retour de Rodrigues](https://www.dioceseportlouis.org/2021/04/12/le-pere-labour-de-retour-de-rodrigues/)**  2021-04-12 05:01:38
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Lundi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/lundi-de-la-2e-semaine-de-paques.html)**  2021-04-12 04:30:00
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Sunshine & Laughter](https://swanlady-impressions.blogspot.com/2021/04/sunshine-laughter.html)**  2021-04-11 20:16:52
+
+[Spiritual in my life](https://spiritualinlife23.blogspot.com/)  
+**[Durga bhajan, jay ambe bhawani](https://spiritualinlife23.blogspot.com/2021/04/durga-bhajan-jay-ambe-bhawani.html)**  2021-04-11 16:53:58
+
+[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
+**[Faux Ceramics](https://mymauritiangarden.wordpress.com/2021/04/11/faux-ceramics/)**  2021-04-11 06:41:26
+
 [L😀ck](https://teelocked.blogspot.com/)  
-**[Design and Adaptive Technologies](https://teelocked.blogspot.com/2021/04/design-and-adaptive-technologies.html)**  2021-04-11 04:17:35
+**[Vishen Lakhiani On Self Actualization  &#124; PRETTY INTENSE PODCAST EP. 84](https://teelocked.blogspot.com/2021/04/vishen-lakhiani-on-self-actualization.html)**  2021-04-11 06:40:22
 
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[Mars-Avril 2021: Confinement...le retour!](https://petitpotagerilemaurice.blogspot.com/2021/04/mars-avril-2021-confinementle-retour.html)**  2021-04-10 18:09:00
@@ -16,23 +31,14 @@ permalink: /mauritian-blogs/
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SEO : SEDECO et son service de qualité](https://sedecobtob.blogspot.com/2021/04/seo-sedeco-et-son-service-de-qualite.html)**  2021-04-10 07:02:14
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi dans l'Octave de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/samedi-dans-loctave-de-paques.html)**  2021-04-10 04:00:00
-
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Intimate Islands For Relaxation](https://blog.constancehotels.com/intimate-islands-for-relaxation/)**  2021-04-09 11:31:59
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Outlines and solids!](https://swanlady-impressions.blogspot.com/2021/04/outlines-and-solids.html)**  2021-04-08 20:44:32
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Neige de printemps](https://c-est-reparti.blogspot.com/2021/04/neige-de-printemps.html)**  2021-04-08 12:48:47
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical Analysis of the Financial Markets – Report On 08 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/technical-analysis-of-financial-markets.html)**  2021-04-08 12:39:47
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Formation en ligne « Post Covid-19, de la peur à la confiance… »](https://www.dioceseportlouis.org/2021/04/08/formation-en-ligne-post-covid-19-de-la-peur-a-la-confiance/)**  2021-04-08 08:20:35
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Universally Cinematic Marvels](https://davidandjennilyn.com/2021/04/07/universally-cinematic-marvels/)**  2021-04-08 06:06:20
@@ -45,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Fake Guru](https://vintishgokool.blogspot.com/2021/04/fake-guru.html)**  2021-04-04 17:12:57
-
-[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
-**[Covid in Mauritius](https://mymauritiangarden.wordpress.com/2021/04/04/covid-in-mauritius/)**  2021-04-04 07:03:56
 
 [Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
 **[How can you minimize the impact of the persistence layer on your domain models?](https://www.mauritiusblogtracker.com/how-can-you-minimize-the-impact-of-the-persistence-layer-on-your-domain-models/)**  2021-04-02 16:51:19
@@ -201,9 +204,6 @@ permalink: /mauritian-blogs/
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Deep Under](https://faustianmatters.blogspot.com/2021/01/deep-under.html)**  2021-01-24 01:44:44
-
-[Spiritual in my life](https://spiritualinlife23.blogspot.com/)  
-**[Ganpati om jai ganpati om](https://spiritualinlife23.blogspot.com/2021/01/ganpati-om-jai-ganpati-om.html)**  2021-01-21 12:27:52
 
 [Boldly Voyaging the Multiverse](https://roymathur.wordpress.com)  
 **[CRRRaSh! 368 The End is Nighish](https://roymathur.wordpress.com/2021/01/20/crrrash368/)**  2021-01-20 23:00:00
