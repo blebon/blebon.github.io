@@ -4,11 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Le père Labour de retour de Rodrigues](https://www.dioceseportlouis.org/2021/04/12/le-pere-labour-de-retour-de-rodrigues/)**  2021-04-12 05:01:38
-
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/lundi-de-la-2e-semaine-de-paques.html)**  2021-04-12 04:30:00
+**[Mardi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mardi-de-la-2e-semaine-de-paques.html)**  2021-04-13 04:30:00
+
+[Savour the moment](https://savourthemomentattechie.blogspot.com/)  
+**[[Microsoft Azure][Privileged Identity Management][Self-assignment and activation of roles]](https://savourthemomentattechie.blogspot.com/2021/04/microsoft-azureprivileged-identity.html)**  2021-04-12 15:02:07
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Ramadan – Cardinal Piat :  » Vivre ce grand mois du Ramadan avec joie et profit spirituel malgré les circonstances »](https://www.dioceseportlouis.org/2021/04/12/ramadan-cardinal-piat-vivre-ce-grand-mois-du-ramadan-avec-joie-et-profit-spirituel-malgre-les-circonstances/)**  2021-04-12 11:59:01
+
+[Dari Hati](https://thepetiteblog.blogspot.com/)  
+**[Koleksi Puisi Kehilangan Dan Motivasi Cinta Sejati](https://thepetiteblog.blogspot.com/2020/02/koleksi-puisi-cinta-kehilangan-dan-motivasi-cinta-sejati.html)**  2021-04-12 09:22:23
+
+[Veganlovlie](https://veganlovlie.com)  
+**[Apple Crème Caramel Recipe](http://feedproxy.google.com/~r/veganlovlie/~3/XcMkAtV3f7w/)**  2021-04-12 05:54:53
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Sunshine & Laughter](https://swanlady-impressions.blogspot.com/2021/04/sunshine-laughter.html)**  2021-04-11 20:16:52
@@ -84,9 +93,6 @@ permalink: /mauritian-blogs/
 
 [Eternal Sakshi Writes](https://eternalsakshiwrites.blogspot.com/)  
 **[#YesAllWomen](https://eternalsakshiwrites.blogspot.com/2021/03/yesallwomen.html)**  2021-03-21 17:49:39
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Beetroot Fried Rice](http://feedproxy.google.com/~r/veganlovlie/~3/7DEzvpjoyw8/)**  2021-03-20 23:41:35
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What are The Best Ways to Invest Money? &#124; Capital Street Fx](https://capital-streetfx.blogspot.com/2021/03/what-are-best-ways-to-invest-money.html)**  2021-03-20 10:08:34
@@ -324,9 +330,6 @@ permalink: /mauritian-blogs/
 
 [Martian Spoken Here](https://mauricianismes.wordpress.com)  
 **[Crown land](https://mauricianismes.wordpress.com/2020/10/12/crown-land/)**  2020-10-12 15:40:54
-
-[Savour the moment](https://savourthemomentattechie.blogspot.com/)  
-**[[IT System Administration][BasicTools]](https://savourthemomentattechie.blogspot.com/2020/10/it-system-administrationbasictools.html)**  2020-10-11 23:29:33
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Sir Gaëtan Duval : "Je n’ai pas peur de mourir"](https://jeanmeedesveaux.blogspot.com/2020/06/sir-gaetan-duval-je-nai-pas-peur-de.html)**  2020-10-09 12:12:03
