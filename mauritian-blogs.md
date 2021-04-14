@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Yashvinblogs](https://yashvinblogs.com)  
+**[After Covaxine shot, unexplained high fever for several days…](https://yashvinblogs.com/2021/04/14/covaxine-shot-unexplained-high-fever/)**  2021-04-14 04:41:24
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mardi-de-la-2e-semaine-de-paques.html)**  2021-04-13 04:30:00
+**[Mercredi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mercredi-de-la-2e-semaine-de-paques.html)**  2021-04-14 04:30:00
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Microsoft Azure][Privileged Identity Management][Self-assignment and activation of roles]](https://savourthemomentattechie.blogspot.com/2021/04/microsoft-azureprivileged-identity.html)**  2021-04-12 15:02:07
@@ -72,9 +75,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[To konpasion kifer selektif?](https://meeraappadoo.wordpress.com/2021/03/31/to-konpasion-kifer-selektif/)**  2021-03-31 15:08:03
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[Electric bikes and motorcycles now subject to more regulations](https://yashvinblogs.com/2021/03/30/electric-scooters-moto-regulations/)**  2021-03-30 12:33:14
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Making Veg Burger](https://nayarweb.com/blog/2021/making-veg-burger/)**  2021-03-27 16:14:19
