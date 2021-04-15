@@ -4,11 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Jeudi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/jeudi-de-la-2e-semaine-de-paques.html)**  2021-04-15 04:30:00
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[It's Your Day](https://swanlady-impressions.blogspot.com/2021/04/its-your-day.html)**  2021-04-14 20:04:08
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[No you don't only use 10% of your brain (and other neuromyths)](https://teelocked.blogspot.com/2021/04/no-you-dont-only-use-10-of-your-brain.html)**  2021-04-14 08:52:07
+
+[Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
+**[After Covaxine shot, unexplained high fever for several days…](https://www.mauritiusblogtracker.com/after-covaxine-shot-unexplained-high-fever-for-several-days/)**  2021-04-14 04:41:24
+
 [Yashvinblogs](https://yashvinblogs.com)  
 **[After Covaxine shot, unexplained high fever for several days…](https://yashvinblogs.com/2021/04/14/covaxine-shot-unexplained-high-fever/)**  2021-04-14 04:41:24
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mercredi-de-la-2e-semaine-de-paques.html)**  2021-04-14 04:30:00
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Microsoft Azure][Privileged Identity Management][Self-assignment and activation of roles]](https://savourthemomentattechie.blogspot.com/2021/04/microsoft-azureprivileged-identity.html)**  2021-04-12 15:02:07
@@ -22,17 +31,11 @@ permalink: /mauritian-blogs/
 [Veganlovlie](https://veganlovlie.com)  
 **[Apple Crème Caramel Recipe](http://feedproxy.google.com/~r/veganlovlie/~3/XcMkAtV3f7w/)**  2021-04-12 05:54:53
 
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Sunshine & Laughter](https://swanlady-impressions.blogspot.com/2021/04/sunshine-laughter.html)**  2021-04-11 20:16:52
-
 [Spiritual in my life](https://spiritualinlife23.blogspot.com/)  
 **[Durga bhajan, jay ambe bhawani](https://spiritualinlife23.blogspot.com/2021/04/durga-bhajan-jay-ambe-bhawani.html)**  2021-04-11 16:53:58
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Faux Ceramics](https://mymauritiangarden.wordpress.com/2021/04/11/faux-ceramics/)**  2021-04-11 06:41:26
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Vishen Lakhiani On Self Actualization  &#124; PRETTY INTENSE PODCAST EP. 84](https://teelocked.blogspot.com/2021/04/vishen-lakhiani-on-self-actualization.html)**  2021-04-11 06:40:22
 
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[Mars-Avril 2021: Confinement...le retour!](https://petitpotagerilemaurice.blogspot.com/2021/04/mars-avril-2021-confinementle-retour.html)**  2021-04-10 18:09:00
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Fake Guru](https://vintishgokool.blogspot.com/2021/04/fake-guru.html)**  2021-04-04 17:12:57
-
-[Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
-**[How can you minimize the impact of the persistence layer on your domain models?](https://www.mauritiusblogtracker.com/how-can-you-minimize-the-impact-of-the-persistence-layer-on-your-domain-models/)**  2021-04-02 16:51:19
 
 [Alice in no Wonderland](https://alisonern.blogspot.com/)  
 **[Lamour V/s Latention](https://alisonern.blogspot.com/2021/03/lamour-vs-latention.html)**  2021-04-01 06:28:41
