@@ -4,20 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/jeudi-de-la-2e-semaine-de-paques.html)**  2021-04-15 04:30:00
-
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[It's Your Day](https://swanlady-impressions.blogspot.com/2021/04/its-your-day.html)**  2021-04-14 20:04:08
+**[Happiest Birthday](https://swanlady-impressions.blogspot.com/2021/04/happiest-birthday.html)**  2021-04-15 21:53:12
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Jeudi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/jeudi-de-la-2e-semaine-de-paques.html)**  2021-04-15 13:28:48
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Financial Markets & Stock Market Technical Analysis – Technical Analysis Report – 15 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/financial-markets-stock-market_15.html)**  2021-04-15 13:10:54
+
+[Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
+**[ICTA’s public consultation to ammend laws around social media](https://www.mauritiusblogtracker.com/ictas-public-consultation-to-ammend-laws-around-social-media/)**  2021-04-15 06:22:38
+
+[Yashvinblogs](https://yashvinblogs.com)  
+**[ICTA’s public consultation to ammend laws around social media](https://yashvinblogs.com/2021/04/15/icta-laws-social-media/)**  2021-04-15 06:22:38
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[No you don't only use 10% of your brain (and other neuromyths)](https://teelocked.blogspot.com/2021/04/no-you-dont-only-use-10-of-your-brain.html)**  2021-04-14 08:52:07
 
-[Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
-**[After Covaxine shot, unexplained high fever for several days…](https://www.mauritiusblogtracker.com/after-covaxine-shot-unexplained-high-fever-for-several-days/)**  2021-04-14 04:41:24
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[After Covaxine shot, unexplained high fever for several days…](https://yashvinblogs.com/2021/04/14/covaxine-shot-unexplained-high-fever/)**  2021-04-14 04:41:24
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[Satellites Paper](https://mars3b8.wordpress.com/2021/04/14/satellites-paper/)**  2021-04-14 04:23:43
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Microsoft Azure][Privileged Identity Management][Self-assignment and activation of roles]](https://savourthemomentattechie.blogspot.com/2021/04/microsoft-azureprivileged-identity.html)**  2021-04-12 15:02:07
@@ -51,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Neige de printemps](https://c-est-reparti.blogspot.com/2021/04/neige-de-printemps.html)**  2021-04-08 12:48:47
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Technical Analysis of the Financial Markets – Report On 08 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/technical-analysis-of-financial-markets.html)**  2021-04-08 12:39:47
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Universally Cinematic Marvels](https://davidandjennilyn.com/2021/04/07/universally-cinematic-marvels/)**  2021-04-08 06:06:20
