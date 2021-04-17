@@ -4,11 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Samedi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/samedi-de-la-2e-semaine-de-paques.html)**  2021-04-17 04:30:00
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[The Man Who Changed My Life &#124; Naval Ravikant](https://teelocked.blogspot.com/2021/04/the-man-who-changed-my-life-naval.html)**  2021-04-16 14:13:12
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Travelling In Style: Our Top Hand Luggage Essentials](https://blog.constancehotels.com/travelling-in-style-our-top-hand-luggage-essentials/)**  2021-04-16 13:02:31
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Externalisation : le domaine d’expertise de SEDECO !](https://sedecobtob.blogspot.com/2021/04/externalisation-le-domaine-dexpertise.html)**  2021-04-16 08:01:45
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Ougadi & Gudi Padwa ...Zweimal Neujahr mitten im Jahr... New Year Festivals inmidst of the Partial Lockdown](https://insel-rodrigues.blogspot.com/2021/04/ougadi-gudi-padwa-zweimal-neujahr.html)**  2021-04-16 07:44:57
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Happiest Birthday](https://swanlady-impressions.blogspot.com/2021/04/happiest-birthday.html)**  2021-04-15 21:53:12
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/jeudi-de-la-2e-semaine-de-paques.html)**  2021-04-15 13:28:48
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Financial Markets & Stock Market Technical Analysis – Technical Analysis Report – 15 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/financial-markets-stock-market_15.html)**  2021-04-15 13:10:54
@@ -18,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[ICTA’s public consultation to ammend laws around social media](https://yashvinblogs.com/2021/04/15/icta-laws-social-media/)**  2021-04-15 06:22:38
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[No you don't only use 10% of your brain (and other neuromyths)](https://teelocked.blogspot.com/2021/04/no-you-dont-only-use-10-of-your-brain.html)**  2021-04-14 08:52:07
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Satellites Paper](https://mars3b8.wordpress.com/2021/04/14/satellites-paper/)**  2021-04-14 04:23:43
@@ -49,20 +58,11 @@ permalink: /mauritian-blogs/
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[This is a golden moment for policy thinkers like Minouche Shafik](https://zoomdr.blogspot.com/2021/04/this-is-golden-moment-for-policy.html)**  2021-04-10 17:38:38
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[SEO : SEDECO et son service de qualité](https://sedecobtob.blogspot.com/2021/04/seo-sedeco-et-son-service-de-qualite.html)**  2021-04-10 07:02:14
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Intimate Islands For Relaxation](https://blog.constancehotels.com/intimate-islands-for-relaxation/)**  2021-04-09 11:31:59
-
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Neige de printemps](https://c-est-reparti.blogspot.com/2021/04/neige-de-printemps.html)**  2021-04-08 12:48:47
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Universally Cinematic Marvels](https://davidandjennilyn.com/2021/04/07/universally-cinematic-marvels/)**  2021-04-08 06:06:20
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Es tut sich was....First group of blocked Rodriguans in quarantine - Nouvelles concernant des Rodriguais bloqués à Maurice](https://insel-rodrigues.blogspot.com/2021/04/es-tut-sich-wasfirst-group-of-blocked.html)**  2021-04-06 11:14:26
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Questions people are asking about COVID-19 related deaths](https://sysadmin-journal.com/questions-people-are-asking-about-covid19-related-deaths/)**  2021-04-06 09:28:39
