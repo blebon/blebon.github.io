@@ -4,6 +4,18 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
+**[Faux Tropical Leaves](https://mymauritiangarden.wordpress.com/2021/04/18/faux-tropical-leaves/)**  2021-04-18 05:11:06
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Sakura Wine.](https://kabilen.tumblr.com/post/648749379693445120)**  2021-04-17 22:40:21
+
+[Mike Sinnott's World](https://msinnott.net)  
+**[World Amateur Radio Day](https://msinnott.net/2021/04/18/world-amateur-radio-day-2/?utm_source=rss&utm_medium=rss&utm_campaign=world-amateur-radio-day-2)**  2021-04-17 22:00:19
+
+[Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
+**[Dans l’orbite du pouvoir : incursion dans la galaxie des « superconseillers » des PM](https://jeanmeedesveaux.blogspot.com/2021/02/dans-lorbite-du-pouvoir-incursion-dans.html)**  2021-04-17 09:18:40
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Samedi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/samedi-de-la-2e-semaine-de-paques.html)**  2021-04-17 04:30:00
 
@@ -48,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Spiritual in my life](https://spiritualinlife23.blogspot.com/)  
 **[Durga bhajan, jay ambe bhawani](https://spiritualinlife23.blogspot.com/2021/04/durga-bhajan-jay-ambe-bhawani.html)**  2021-04-11 16:53:58
-
-[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
-**[Faux Ceramics](https://mymauritiangarden.wordpress.com/2021/04/11/faux-ceramics/)**  2021-04-11 06:41:26
 
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[Mars-Avril 2021: Confinement...le retour!](https://petitpotagerilemaurice.blogspot.com/2021/04/mars-avril-2021-confinementle-retour.html)**  2021-04-10 18:09:00
@@ -112,9 +121,6 @@ permalink: /mauritian-blogs/
 [Mantras with meanings](https://hindumantrasmeanings.blogspot.com/)  
 **[Das Mahavidya Stotram](https://hindumantrasmeanings.blogspot.com/2021/03/das-mahavidya-stotram.html)**  2021-03-14 11:09:06
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Queenstown Heritage Ride with LOR](https://kabilen.tumblr.com/post/645598628820484096)**  2021-03-14 03:00:31
-
 [Nidhi K. Buskalawa](https://nidhikhoushee.blogspot.com/)  
 **[My best friend](https://nidhikhoushee.blogspot.com/2021/03/my-best-friend.html)**  2021-03-13 09:32:20
 
@@ -129,9 +135,6 @@ permalink: /mauritian-blogs/
 .
 .
 #igerslareunion...](https://adarsh.me/post/645353512861040640)**  2021-03-11 10:04:28
-
-[Mike Sinnott's World](https://msinnott.net)  
-**[Lockdown V2.0](https://msinnott.net/2021/03/11/lockdown-v2-0/?utm_source=rss&utm_medium=rss&utm_campaign=lockdown-v2-0)**  2021-03-11 06:04:01
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[Litecoin Logo PNG Transparent Background Free Download - DollarsMarkt](https://www.dollarsmarkt.com/2021/03/litecoin-logo-png.html)**  2021-03-09 18:56:03
@@ -333,9 +336,6 @@ permalink: /mauritian-blogs/
 
 [Martian Spoken Here](https://mauricianismes.wordpress.com)  
 **[Crown land](https://mauricianismes.wordpress.com/2020/10/12/crown-land/)**  2020-10-12 15:40:54
-
-[Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
-**[Sir Gaëtan Duval : "Je n’ai pas peur de mourir"](https://jeanmeedesveaux.blogspot.com/2020/06/sir-gaetan-duval-je-nai-pas-peur-de.html)**  2020-10-09 12:12:03
 
 [DesignHub](https://theolivertwistblog.blogspot.com/)  
 **[No title](https://theolivertwistblog.blogspot.com/2020/10/blog-post_64.html)**  2020-10-07 20:35:02
