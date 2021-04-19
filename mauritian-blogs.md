@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Why you need scout mindset to change the world](https://teelocked.blogspot.com/2021/04/why-you-need-scout-mindset-to-change.html)**  2021-04-19 05:17:19
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Lundi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/lundi-de-la-3e-semaine-de-paques.html)**  2021-04-19 04:30:00
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[ICT Authority's proposal to monitor the Internet, in a nutshell](https://sysadmin-journal.com/ict-authority-proposal-to-monitor-the-internet-in-a-nutshell/)**  2021-04-19 00:17:32
+
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Faux Tropical Leaves](https://mymauritiangarden.wordpress.com/2021/04/18/faux-tropical-leaves/)**  2021-04-18 05:11:06
 
@@ -15,12 +24,6 @@ permalink: /mauritian-blogs/
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Dans l’orbite du pouvoir : incursion dans la galaxie des « superconseillers » des PM](https://jeanmeedesveaux.blogspot.com/2021/02/dans-lorbite-du-pouvoir-incursion-dans.html)**  2021-04-17 09:18:40
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 2e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/samedi-de-la-2e-semaine-de-paques.html)**  2021-04-17 04:30:00
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[The Man Who Changed My Life &#124; Naval Ravikant](https://teelocked.blogspot.com/2021/04/the-man-who-changed-my-life-naval.html)**  2021-04-16 14:13:12
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Travelling In Style: Our Top Hand Luggage Essentials](https://blog.constancehotels.com/travelling-in-style-our-top-hand-luggage-essentials/)**  2021-04-16 13:02:31
@@ -72,9 +75,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Universally Cinematic Marvels](https://davidandjennilyn.com/2021/04/07/universally-cinematic-marvels/)**  2021-04-08 06:06:20
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Questions people are asking about COVID-19 related deaths](https://sysadmin-journal.com/questions-people-are-asking-about-covid19-related-deaths/)**  2021-04-06 09:28:39
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Fake Guru](https://vintishgokool.blogspot.com/2021/04/fake-guru.html)**  2021-04-04 17:12:57
