@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Why you need scout mindset to change the world](https://teelocked.blogspot.com/2021/04/why-you-need-scout-mindset-to-change.html)**  2021-04-19 05:17:19
-
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/lundi-de-la-3e-semaine-de-paques.html)**  2021-04-19 04:30:00
+**[Mardi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mardi-de-la-3e-semaine-de-paques.html)**  2021-04-20 04:30:00
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Rodrigues Repatriation Batch No.1:  Welcome home.... und ein Unbekanntes-Flug-Objekt](https://insel-rodrigues.blogspot.com/2021/04/rodrigues-repatriation-batch-no1.html)**  2021-04-20 04:25:43
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Simple D&D Note-Taking with Org Mode](https://teelocked.blogspot.com/2021/04/simple-d-note-taking-with-org-mode.html)**  2021-04-19 11:40:09
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Communiqué du SeDEC concernant les candidats absents aux examens du PSAC et du NCE](https://www.dioceseportlouis.org/2021/04/19/communique-du-sedec-concernant-les-candidats-absents-aux-examens-du-psac-et-du-nce/)**  2021-04-19 07:14:02
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[ICT Authority's proposal to monitor the Internet, in a nutshell](https://sysadmin-journal.com/ict-authority-proposal-to-monitor-the-internet-in-a-nutshell/)**  2021-04-19 00:17:32
@@ -31,9 +37,6 @@ permalink: /mauritian-blogs/
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Externalisation : le domaine d’expertise de SEDECO !](https://sedecobtob.blogspot.com/2021/04/externalisation-le-domaine-dexpertise.html)**  2021-04-16 08:01:45
 
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Ougadi & Gudi Padwa ...Zweimal Neujahr mitten im Jahr... New Year Festivals inmidst of the Partial Lockdown](https://insel-rodrigues.blogspot.com/2021/04/ougadi-gudi-padwa-zweimal-neujahr.html)**  2021-04-16 07:44:57
-
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Happiest Birthday](https://swanlady-impressions.blogspot.com/2021/04/happiest-birthday.html)**  2021-04-15 21:53:12
 
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Microsoft Azure][Privileged Identity Management][Self-assignment and activation of roles]](https://savourthemomentattechie.blogspot.com/2021/04/microsoft-azureprivileged-identity.html)**  2021-04-12 15:02:07
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Ramadan – Cardinal Piat :  » Vivre ce grand mois du Ramadan avec joie et profit spirituel malgré les circonstances »](https://www.dioceseportlouis.org/2021/04/12/ramadan-cardinal-piat-vivre-ce-grand-mois-du-ramadan-avec-joie-et-profit-spirituel-malgre-les-circonstances/)**  2021-04-12 11:59:01
 
 [Dari Hati](https://thepetiteblog.blogspot.com/)  
 **[Koleksi Puisi Kehilangan Dan Motivasi Cinta Sejati](https://thepetiteblog.blogspot.com/2020/02/koleksi-puisi-cinta-kehilangan-dan-motivasi-cinta-sejati.html)**  2021-04-12 09:22:23
