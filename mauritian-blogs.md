@@ -5,16 +5,28 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mardi-de-la-3e-semaine-de-paques.html)**  2021-04-20 04:30:00
+**[Mercredi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mercredi-de-la-3e-semaine-de-paques.html)**  2021-04-21 12:32:51
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[The Sharpest Report on Mauritius in A Long Time](http://kozelidir.blogspot.com/2021/04/the-sharpest-report-on-mauritius-in.html)**  2021-04-21 11:16:13
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Stay Organised Before Travelling: Our Top 5 Tips](https://blog.constancehotels.com/stay-organised-before-travelling-our-top-five-tips/)**  2021-04-21 11:09:26
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : SEDECO et ses prestations offshore !](https://sedecobtob.blogspot.com/2021/04/bpo-sedeco-et-ses-prestations-offshore.html)**  2021-04-21 04:57:02
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Wisteria Hello](https://swanlady-impressions.blogspot.com/2021/04/wisteria-hello.html)**  2021-04-20 22:39:04
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Confinement – Des psychologues au service du public gratuitement](https://www.dioceseportlouis.org/2021/04/20/15198/)**  2021-04-20 13:32:02
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Comprehensive Markdown Crash Course - Fundementals, Extensions, & Obsidi...](https://teelocked.blogspot.com/2021/04/comprehensive-markdown-crash-course.html)**  2021-04-20 09:04:14
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Rodrigues Repatriation Batch No.1:  Welcome home.... und ein Unbekanntes-Flug-Objekt](https://insel-rodrigues.blogspot.com/2021/04/rodrigues-repatriation-batch-no1.html)**  2021-04-20 04:25:43
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Simple D&D Note-Taking with Org Mode](https://teelocked.blogspot.com/2021/04/simple-d-note-taking-with-org-mode.html)**  2021-04-19 11:40:09
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Communiqué du SeDEC concernant les candidats absents aux examens du PSAC et du NCE](https://www.dioceseportlouis.org/2021/04/19/communique-du-sedec-concernant-les-candidats-absents-aux-examens-du-psac-et-du-nce/)**  2021-04-19 07:14:02
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[ICT Authority's proposal to monitor the Internet, in a nutshell](https://sysadmin-journal.com/ict-authority-proposal-to-monitor-the-internet-in-a-nutshell/)**  2021-04-19 00:17:32
@@ -30,15 +42,6 @@ permalink: /mauritian-blogs/
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Dans l’orbite du pouvoir : incursion dans la galaxie des « superconseillers » des PM](https://jeanmeedesveaux.blogspot.com/2021/02/dans-lorbite-du-pouvoir-incursion-dans.html)**  2021-04-17 09:18:40
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Travelling In Style: Our Top Hand Luggage Essentials](https://blog.constancehotels.com/travelling-in-style-our-top-hand-luggage-essentials/)**  2021-04-16 13:02:31
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Externalisation : le domaine d’expertise de SEDECO !](https://sedecobtob.blogspot.com/2021/04/externalisation-le-domaine-dexpertise.html)**  2021-04-16 08:01:45
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Happiest Birthday](https://swanlady-impressions.blogspot.com/2021/04/happiest-birthday.html)**  2021-04-15 21:53:12
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Financial Markets & Stock Market Technical Analysis – Technical Analysis Report – 15 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/financial-markets-stock-market_15.html)**  2021-04-15 13:10:54
@@ -81,9 +84,6 @@ permalink: /mauritian-blogs/
 
 [Alice in no Wonderland](https://alisonern.blogspot.com/)  
 **[Lamour V/s Latention](https://alisonern.blogspot.com/2021/03/lamour-vs-latention.html)**  2021-04-01 06:28:41
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Covid Doesn’t Give Standing Ovations](http://kozelidir.blogspot.com/2021/03/covid-doesnt-give-standing-ovations.html)**  2021-03-31 20:59:30
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[To konpasion kifer selektif?](https://meeraappadoo.wordpress.com/2021/03/31/to-konpasion-kifer-selektif/)**  2021-03-31 15:08:03
