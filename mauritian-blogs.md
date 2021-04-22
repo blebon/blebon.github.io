@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[La CDT : aujourd’hui plus que jamais, écouter, soutenir et encourager les Mauriciens](https://www.dioceseportlouis.org/2021/04/22/la-cdt-aujourdhui-plus-que-jamais-ecouter-de-soutenir-et-encourager-les-mauriciens/)**  2021-04-22 08:14:15
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[The Sharpest Report on Mauritius in A Long Time](http://kozelidir.blogspot.com/2021/04/the-sharpest-report-on-mauritius-in.html)**  2021-04-22 04:49:00
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO et ses prestations offshore !](https://sedecobtob.blogspot.com/2021/04/bpo-sedeco-et-ses-prestations-offshore.html)**  2021-04-21 04:57:02
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Confinement – Des psychologues au service du public gratuitement](https://www.dioceseportlouis.org/2021/04/20/15198/)**  2021-04-20 13:32:02
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Comprehensive Markdown Crash Course - Fundementals, Extensions, & Obsidi...](https://teelocked.blogspot.com/2021/04/comprehensive-markdown-crash-course.html)**  2021-04-20 09:04:14
@@ -45,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Financial Markets & Stock Market Technical Analysis – Technical Analysis Report – 15 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/financial-markets-stock-market_15.html)**  2021-04-15 13:10:54
-
-[Mauritius Blog Tracker](https://www.mauritiusblogtracker.com)  
-**[ICTA’s public consultation to ammend laws around social media](https://www.mauritiusblogtracker.com/ictas-public-consultation-to-ammend-laws-around-social-media/)**  2021-04-15 06:22:38
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[ICTA’s public consultation to ammend laws around social media](https://yashvinblogs.com/2021/04/15/icta-laws-social-media/)**  2021-04-15 06:22:38
@@ -543,8 +540,5 @@ permalink: /mauritian-blogs/
 
 [Keshini's blog](https://kehini.blogspot.com/)  
 **[Style guide  (made in moris logo)](https://kehini.blogspot.com/2020/05/style-guide-made-in-moris-logo.html)**  2020-05-25 16:09:49
-
-[Mauritius Agriculture News](https://news-agriculture.blogspot.com/)  
-**[MAISNET Blog to Shut Down](https://news-agriculture.blogspot.com/2020/05/maisnet-blog-to-shut-down.html)**  2020-05-21 19:33:13
 
 <div style="height:0;width:0;overflow:hidden;"></div>
