@@ -4,20 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mercredi-de-la-3e-semaine-de-paques.html)**  2021-04-21 12:32:51
-
 [Kozelidir](http://kozelidir.blogspot.com/)  
-**[The Sharpest Report on Mauritius in A Long Time](http://kozelidir.blogspot.com/2021/04/the-sharpest-report-on-mauritius-in.html)**  2021-04-21 11:16:13
+**[The Sharpest Report on Mauritius in A Long Time](http://kozelidir.blogspot.com/2021/04/the-sharpest-report-on-mauritius-in.html)**  2021-04-22 04:49:00
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Jeudi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/jeudi-de-la-3e-semaine-de-paques.html)**  2021-04-22 04:30:00
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Lockdown Greetings](https://swanlady-impressions.blogspot.com/2021/04/lockdown-greetings.html)**  2021-04-21 20:18:56
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Stay Organised Before Travelling: Our Top 5 Tips](https://blog.constancehotels.com/stay-organised-before-travelling-our-top-five-tips/)**  2021-04-21 11:09:26
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO et ses prestations offshore !](https://sedecobtob.blogspot.com/2021/04/bpo-sedeco-et-ses-prestations-offshore.html)**  2021-04-21 04:57:02
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Wisteria Hello](https://swanlady-impressions.blogspot.com/2021/04/wisteria-hello.html)**  2021-04-20 22:39:04
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Confinement – Des psychologues au service du public gratuitement](https://www.dioceseportlouis.org/2021/04/20/15198/)**  2021-04-20 13:32:02
