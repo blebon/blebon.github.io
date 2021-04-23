@@ -4,14 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[La CDT : aujourd’hui plus que jamais, écouter, soutenir et encourager les Mauriciens](https://www.dioceseportlouis.org/2021/04/22/la-cdt-aujourdhui-plus-que-jamais-ecouter-de-soutenir-et-encourager-les-mauriciens/)**  2021-04-22 08:14:15
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[The Sharpest Report on Mauritius in A Long Time](http://kozelidir.blogspot.com/2021/04/the-sharpest-report-on-mauritius-in.html)**  2021-04-22 04:49:00
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Just love!](https://www.lemauricien.com/le-mauricien/just-love/418052/)**  2021-04-23 05:00:00
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/jeudi-de-la-3e-semaine-de-paques.html)**  2021-04-22 04:30:00
+**[Vendredi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/vendredi-de-la-3e-semaine-de-paques.html)**  2021-04-23 04:00:00
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Thinking inside Dodoland's box](https://tchombo.blogspot.com/2021/04/thinking-inside-dodolands-box.html)**  2021-04-22 17:04:24
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[MARIE KONDO, LA REINE DU RANGEMENT](https://teelocked.blogspot.com/2021/04/marie-kondo-la-reine-du-rangement.html)**  2021-04-22 15:46:18
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Boss Has A Message For Us](http://kozelidir.blogspot.com/2021/04/boss-has-message-for-us.html)**  2021-04-22 13:48:58
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[La CDT : aujourd’hui plus que jamais, écouter, soutenir et encourager les Mauriciens](https://www.dioceseportlouis.org/2021/04/22/la-cdt-aujourdhui-plus-que-jamais-ecouter-de-soutenir-et-encourager-les-mauriciens/)**  2021-04-22 08:14:15
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Lockdown Greetings](https://swanlady-impressions.blogspot.com/2021/04/lockdown-greetings.html)**  2021-04-21 20:18:56
@@ -21,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO et ses prestations offshore !](https://sedecobtob.blogspot.com/2021/04/bpo-sedeco-et-ses-prestations-offshore.html)**  2021-04-21 04:57:02
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Comprehensive Markdown Crash Course - Fundementals, Extensions, & Obsidi...](https://teelocked.blogspot.com/2021/04/comprehensive-markdown-crash-course.html)**  2021-04-20 09:04:14
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Rodrigues Repatriation Batch No.1:  Welcome home.... und ein Unbekanntes-Flug-Objekt](https://insel-rodrigues.blogspot.com/2021/04/rodrigues-repatriation-batch-no1.html)**  2021-04-20 04:25:43
@@ -168,9 +174,6 @@ permalink: /mauritian-blogs/
 
 [Top 5 Stock and Market News &#124; Forex Market News](https://top5stock.blogspot.com/)  
 **[TOP 5 STOCKS & Stock Market News – FEBRUARY 24, 2021 – CAPITAL STREET FX](https://top5stock.blogspot.com/2021/02/top-5-stocks-stock-market-news-february.html)**  2021-02-24 14:18:48
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Leadership deficit leaves Mauritius in limbo](https://tchombo.blogspot.com/2021/02/leadership-deficit-leaves-mauritius-in.html)**  2021-02-22 14:40:51
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Inauguration Ceremony of the FSSH Digital Language Lab](https://comstudies.wordpress.com/2021/02/22/inauguration-ceremony-of-the-fssh-digital-language-lab/)**  2021-02-22 05:36:15
