@@ -5,16 +5,22 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Just love!](https://www.lemauricien.com/le-mauricien/just-love/418052/)**  2021-04-23 05:00:00
+**[Rediving Into The Maritime Hub  after the Suez Canal Incident](https://www.lemauricien.com/le-mauricien/rediving-into-the-maritime-hub-after-the-suez-canal-incident/418324/)**  2021-04-23 13:30:17
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[ICTA says only public posts on Social Media will be archived — Wrong!](https://sysadmin-journal.com/icta-says-only-public-posts-on-facebook-will-be-archived-wrong/)**  2021-04-23 10:32:31
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[The Life Changing Magic of Tidying Up &#124; Marie Kondo &#124; Talks at Google](https://teelocked.blogspot.com/2021/04/the-life-changing-magic-of-tidying-up.html)**  2021-04-23 10:00:37
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Centre de contact : zoom sur la société SEDECO !](https://sedecobtob.blogspot.com/2021/04/centre-de-contact-zoom-sur-la-societe.html)**  2021-04-23 07:02:30
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/vendredi-de-la-3e-semaine-de-paques.html)**  2021-04-23 04:00:00
+**[Vendredi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/vendredi-de-la-3e-semaine-de-paques.html)**  2021-04-23 06:17:24
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Thinking inside Dodoland's box](https://tchombo.blogspot.com/2021/04/thinking-inside-dodolands-box.html)**  2021-04-22 17:04:24
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[MARIE KONDO, LA REINE DU RANGEMENT](https://teelocked.blogspot.com/2021/04/marie-kondo-la-reine-du-rangement.html)**  2021-04-22 15:46:18
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Boss Has A Message For Us](http://kozelidir.blogspot.com/2021/04/boss-has-message-for-us.html)**  2021-04-22 13:48:58
@@ -28,14 +34,8 @@ permalink: /mauritian-blogs/
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Stay Organised Before Travelling: Our Top 5 Tips](https://blog.constancehotels.com/stay-organised-before-travelling-our-top-five-tips/)**  2021-04-21 11:09:26
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : SEDECO et ses prestations offshore !](https://sedecobtob.blogspot.com/2021/04/bpo-sedeco-et-ses-prestations-offshore.html)**  2021-04-21 04:57:02
-
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Rodrigues Repatriation Batch No.1:  Welcome home.... und ein Unbekanntes-Flug-Objekt](https://insel-rodrigues.blogspot.com/2021/04/rodrigues-repatriation-batch-no1.html)**  2021-04-20 04:25:43
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[ICT Authority's proposal to monitor the Internet, in a nutshell](https://sysadmin-journal.com/ict-authority-proposal-to-monitor-the-internet-in-a-nutshell/)**  2021-04-19 00:17:32
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Faux Tropical Leaves](https://mymauritiangarden.wordpress.com/2021/04/18/faux-tropical-leaves/)**  2021-04-18 05:11:06
