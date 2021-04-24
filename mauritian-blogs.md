@@ -4,20 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/04/fond-on-ne-sinteresse-qua-des-faits.html)**  2021-04-24 01:24:30
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Samedi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/samedi-de-la-3e-semaine-de-paques.html)**  2021-04-23 17:49:46
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Lavender wishes](https://swanlady-impressions.blogspot.com/2021/04/lavender-wishes.html)**  2021-04-23 17:37:02
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Rethinking Innovation: In Conversation With Anjali Sud &#124; Breakaway CEO S...](https://teelocked.blogspot.com/2021/04/rethinking-innovation-in-conversation.html)**  2021-04-23 15:14:55
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Rediving Into The Maritime Hub  after the Suez Canal Incident](https://www.lemauricien.com/le-mauricien/rediving-into-the-maritime-hub-after-the-suez-canal-incident/418324/)**  2021-04-23 13:30:17
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[ICTA says only public posts on Social Media will be archived — Wrong!](https://sysadmin-journal.com/icta-says-only-public-posts-on-facebook-will-be-archived-wrong/)**  2021-04-23 10:32:31
 
-[L😀ck](https://teelocked.blogspot.com/)  
-**[The Life Changing Magic of Tidying Up &#124; Marie Kondo &#124; Talks at Google](https://teelocked.blogspot.com/2021/04/the-life-changing-magic-of-tidying-up.html)**  2021-04-23 10:00:37
-
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Centre de contact : zoom sur la société SEDECO !](https://sedecobtob.blogspot.com/2021/04/centre-de-contact-zoom-sur-la-societe.html)**  2021-04-23 07:02:30
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/vendredi-de-la-3e-semaine-de-paques.html)**  2021-04-23 06:17:24
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Thinking inside Dodoland's box](https://tchombo.blogspot.com/2021/04/thinking-inside-dodolands-box.html)**  2021-04-22 17:04:24
@@ -27,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[La CDT : aujourd’hui plus que jamais, écouter, soutenir et encourager les Mauriciens](https://www.dioceseportlouis.org/2021/04/22/la-cdt-aujourdhui-plus-que-jamais-ecouter-de-soutenir-et-encourager-les-mauriciens/)**  2021-04-22 08:14:15
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Lockdown Greetings](https://swanlady-impressions.blogspot.com/2021/04/lockdown-greetings.html)**  2021-04-21 20:18:56
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Stay Organised Before Travelling: Our Top 5 Tips](https://blog.constancehotels.com/stay-organised-before-travelling-our-top-five-tips/)**  2021-04-21 11:09:26
@@ -330,9 +333,6 @@ permalink: /mauritian-blogs/
 
 [Robert Gaston](https://yadhav.tumblr.com/)  
 **[Forex, Cryptocurrencies and Stocks, Free Daily Webinar 2020/09/22](https://yadhav.tumblr.com/post/632041115706621952)**  2020-10-15 12:29:38
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2020/10/le-reel-est-bien-le-rationnel-et-que-le.html)**  2020-10-15 09:32:35
 
 [Martian Spoken Here](https://mauricianismes.wordpress.com)  
 **[Crown land](https://mauricianismes.wordpress.com/2020/10/12/crown-land/)**  2020-10-12 15:40:54
