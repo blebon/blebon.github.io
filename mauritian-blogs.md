@@ -4,26 +4,38 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
-**[Boho Tribal Sticks](https://mymauritiangarden.wordpress.com/2021/04/25/boho-tribal-sticks/)**  2021-04-25 04:51:25
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Lundi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/lundi-de-la-4e-semaine-de-paques.html)**  2021-04-26 04:30:00
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/04/faut-bien-respecter-la-loi-non-ce-qui.html)**  2021-04-25 04:49:00
+**[No title](https://sooriamoorthy.blogspot.com/2021/04/sa-vie-soi-est-impardonnable-mais-il.html)**  2021-04-26 01:58:03
+
+[Teaching and learning journey](https://sunjuh.blogspot.com/)  
+**[Classroom Management softwares](https://sunjuh.blogspot.com/2021/04/classroom-management-softwares.html)**  2021-04-25 20:31:03
 
 [L😀ck](https://teelocked.blogspot.com/)  
-**[Journey to NASA with Astronaut Jessica Meir](https://teelocked.blogspot.com/2021/04/journey-to-nasa-with-astronaut-jessica.html)**  2021-04-24 21:26:19
+**[From a Childhood Dream to The First Person On Mars &#124; Alyssa Carson &#124; TED...](https://teelocked.blogspot.com/2021/04/from-childhood-dream-to-first-person-on.html)**  2021-04-25 13:50:12
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[Censorship in not a new thing for the Information & Communication Technologies Authority](https://sysadmin-journal.com/censorship-in-not-a-new-thing-for-the-information-communication-technologies-authority/)**  2021-04-25 11:05:09
+
+[Education and technology](https://ateesharamkalawonseegoolam.blogspot.com/)  
+**[My journey and learning during the lockdown and technology being my companion.](https://ateesharamkalawonseegoolam.blogspot.com/2021/04/my-journey-and-learning-during-lockdown.html)**  2021-04-25 09:28:42
+
+[Mera Blog](https://nayarweb.com/blog)  
+**[Why are Laptops so expensive in Mauritius](https://nayarweb.com/blog/2021/expensive-laptop-mauritius/)**  2021-04-25 06:49:22
+
+[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
+**[Boho Tribal Sticks](https://mymauritiangarden.wordpress.com/2021/04/25/boho-tribal-sticks/)**  2021-04-25 04:51:25
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Time to Celebrate](https://swanlady-impressions.blogspot.com/2021/04/time-to-celebrate.html)**  2021-04-24 18:01:30
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 3e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/samedi-de-la-3e-semaine-de-paques.html)**  2021-04-23 17:49:46
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Happily Sixteen Years After](https://davidandjennilyn.com/2021/04/23/happily-sixteen-years-after/)**  2021-04-24 02:00:53
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Rediving Into The Maritime Hub  after the Suez Canal Incident](https://www.lemauricien.com/le-mauricien/rediving-into-the-maritime-hub-after-the-suez-canal-incident/418324/)**  2021-04-23 13:30:17
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[ICTA says only public posts on Social Media will be archived — Wrong!](https://sysadmin-journal.com/icta-says-only-public-posts-on-facebook-will-be-archived-wrong/)**  2021-04-23 10:32:31
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Centre de contact : zoom sur la société SEDECO !](https://sedecobtob.blogspot.com/2021/04/centre-de-contact-zoom-sur-la-societe.html)**  2021-04-23 07:02:30
@@ -82,9 +94,6 @@ permalink: /mauritian-blogs/
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Neige de printemps](https://c-est-reparti.blogspot.com/2021/04/neige-de-printemps.html)**  2021-04-08 12:48:47
 
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Universally Cinematic Marvels](https://davidandjennilyn.com/2021/04/07/universally-cinematic-marvels/)**  2021-04-08 06:06:20
-
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Fake Guru](https://vintishgokool.blogspot.com/2021/04/fake-guru.html)**  2021-04-04 17:12:57
 
@@ -93,9 +102,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[To konpasion kifer selektif?](https://meeraappadoo.wordpress.com/2021/03/31/to-konpasion-kifer-selektif/)**  2021-03-31 15:08:03
-
-[Mera Blog](https://nayarweb.com/blog)  
-**[Making Veg Burger](https://nayarweb.com/blog/2021/making-veg-burger/)**  2021-03-27 16:14:19
 
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[Soo, let's Dojo, hohoho!!](https://melanieperes.blogspot.com/2021/03/soo-lets-dojo-hohoho.html)**  2021-03-26 16:02:24
@@ -120,9 +126,6 @@ permalink: /mauritian-blogs/
 
 [Golden mind](https://goldenmind23.blogspot.com/)  
 **[Serial, mere agne mein,  understanding in relationships](https://goldenmind23.blogspot.com/2021/03/serial-mere-agne-mein-understanding-in.html)**  2021-03-19 13:30:48
-
-[Teaching and learning journey](https://sunjuh.blogspot.com/)  
-**[Diigo- more than just a social bookmarking tool](https://sunjuh.blogspot.com/2021/03/diigo-more-than-just-social-bookmarking.html)**  2021-03-14 12:21:27
 
 [Mantras with meanings](https://hindumantrasmeanings.blogspot.com/)  
 **[Das Mahavidya Stotram](https://hindumantrasmeanings.blogspot.com/2021/03/das-mahavidya-stotram.html)**  2021-03-14 11:09:06
@@ -195,9 +198,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[LES SELS AROMATIQUES BIO DE FEUILLES ET FLEURS](https://mysweetmauritius.blogspot.com/2021/02/les-sels-aromatiques-bio-de-feuilles-et.html)**  2021-02-08 12:12:43
-
-[Education and technology](https://ateesharamkalawonseegoolam.blogspot.com/)  
-**[Climate change and Education](https://ateesharamkalawonseegoolam.blogspot.com/2021/02/climate-change-and-education.html)**  2021-02-07 16:44:50
 
 [Welcome to Kaviraj Goodoory's blog](https://kgoodoory.blogspot.com/)  
 **[Using various technologies in my teaching and learning](https://kgoodoory.blogspot.com/2021/02/using-various-technologies-in-my.html)**  2021-02-07 09:53:18
