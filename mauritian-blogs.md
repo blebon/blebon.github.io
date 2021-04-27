@@ -4,11 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/04/ny-rien-de-plus-dangereux-que-la.html)**  2021-04-26 09:59:29
-
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/lundi-de-la-4e-semaine-de-paques.html)**  2021-04-26 04:30:00
+**[Mardi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mardi-de-la-4e-semaine-de-paques.html)**  2021-04-27 04:30:00
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Endlich nach Hause....The first Rodriguans on their way home...En rentrant enfin....](https://insel-rodrigues.blogspot.com/2021/04/endlich-nach-hausethe-first-rodriguans.html)**  2021-04-27 04:05:25
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/04/would-at-first-sight-think-that-people.html)**  2021-04-27 00:57:08
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : confiez votre référencement naturel à SEDECO !](https://sedecobtob.blogspot.com/2021/04/bpo-confiez-votre-referencement-naturel.html)**  2021-04-26 15:47:31
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Fighting synthetic poison  is as much a priority…](https://www.lemauricien.com/le-mauricien/fighting-synthetic-poison-is-as-much-a-priority/418976/)**  2021-04-26 12:45:13
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Classroom Management softwares](https://sunjuh.blogspot.com/2021/04/classroom-management-softwares.html)**  2021-04-25 20:31:03
@@ -34,12 +43,6 @@ permalink: /mauritian-blogs/
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happily Sixteen Years After](https://davidandjennilyn.com/2021/04/23/happily-sixteen-years-after/)**  2021-04-24 02:00:53
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Rediving Into The Maritime Hub  after the Suez Canal Incident](https://www.lemauricien.com/le-mauricien/rediving-into-the-maritime-hub-after-the-suez-canal-incident/418324/)**  2021-04-23 13:30:17
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Centre de contact : zoom sur la société SEDECO !](https://sedecobtob.blogspot.com/2021/04/centre-de-contact-zoom-sur-la-societe.html)**  2021-04-23 07:02:30
-
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Thinking inside Dodoland's box](https://tchombo.blogspot.com/2021/04/thinking-inside-dodolands-box.html)**  2021-04-22 17:04:24
 
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Stay Organised Before Travelling: Our Top 5 Tips](https://blog.constancehotels.com/stay-organised-before-travelling-our-top-five-tips/)**  2021-04-21 11:09:26
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Rodrigues Repatriation Batch No.1:  Welcome home.... und ein Unbekanntes-Flug-Objekt](https://insel-rodrigues.blogspot.com/2021/04/rodrigues-repatriation-batch-no1.html)**  2021-04-20 04:25:43
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Sakura Wine.](https://kabilen.tumblr.com/post/648749379693445120)**  2021-04-17 22:40:21
@@ -534,14 +534,5 @@ permalink: /mauritian-blogs/
 
 [Learning a little bit more everyday](https://learningalittlebitmore.blogspot.com/)  
 **[Who I Am](https://learningalittlebitmore.blogspot.com/2020/05/who-i-am-i-think-that-it-is-very.html)**  2020-05-26 11:56:18
-
-[Dany](https://danyboodeea.blogspot.com/)  
-**[Le créole mauricien la langue préféré des mauriciens.](https://danyboodeea.blogspot.com/2020/05/le-creole-mauricien-langage-prefere-des.html)**  2020-05-26 04:05:31
-
-[Lesh Coonjan](https://lesh112.blogspot.com/)  
-**[MADE IN MORIS FINAL OUTCOMES](https://lesh112.blogspot.com/2020/05/made-in-moris-final-outcomes.html)**  2020-05-25 20:59:14
-
-[Keshini's blog](https://kehini.blogspot.com/)  
-**[Style guide  (made in moris logo)](https://kehini.blogspot.com/2020/05/style-guide-made-in-moris-logo.html)**  2020-05-25 16:09:49
 
 <div style="height:0;width:0;overflow:hidden;"></div>
