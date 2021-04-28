@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/04/must-be-formidable-people-those-who-to.html)**  2021-04-28 05:24:04
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mercredi-de-la-4e-semaine-de-paques.html)**  2021-04-28 04:30:00
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[TECHNICAL ANALYSIS REPORT – 28 APRIL 2021 &#124; CAPITAL STREET FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/technical-analysis-report-28-april-2021.html)**  2021-04-28 11:17:46
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Des niveaux de rémunération en accord  avec la « new normal » post-Covid ?](https://www.lemauricien.com/le-mauricien/des-niveaux-de-remuneration-en-accord-avec-la-new-normal-post-covid/419197/)**  2021-04-27 13:29:17
+**[The Rain of Tears](https://www.lemauricien.com/le-mauricien/the-rain-of-tears/419423/)**  2021-04-28 08:12:34
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mercredi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mercredi-de-la-4e-semaine-de-paques.html)**  2021-04-28 06:06:13
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/04/must-be-formidable-people-those-who-to.html)**  2021-04-28 05:24:04
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Endlich nach Hause....The first Rodriguans on their way home...En rentrant enfin....](https://insel-rodrigues.blogspot.com/2021/04/endlich-nach-hausethe-first-rodriguans.html)**  2021-04-27 04:05:25
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Dans l’orbite du pouvoir : incursion dans la galaxie des « superconseillers » des PM](https://jeanmeedesveaux.blogspot.com/2021/02/dans-lorbite-du-pouvoir-incursion-dans.html)**  2021-04-17 09:18:40
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Financial Markets & Stock Market Technical Analysis – Technical Analysis Report – 15 April 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/financial-markets-stock-market_15.html)**  2021-04-15 13:10:54
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[ICTA’s public consultation to ammend laws around social media](https://yashvinblogs.com/2021/04/15/icta-laws-social-media/)**  2021-04-15 06:22:38
