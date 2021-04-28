@@ -5,19 +5,19 @@ permalink: /mauritian-blogs/
 ---
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/04/used-to-be-and-for-all-i-know-there-may.html)**  2021-04-27 07:43:01
+**[No title](https://sooriamoorthy.blogspot.com/2021/04/must-be-formidable-people-those-who-to.html)**  2021-04-28 05:24:04
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mardi-de-la-4e-semaine-de-paques.html)**  2021-04-27 07:10:05
+**[Mercredi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mercredi-de-la-4e-semaine-de-paques.html)**  2021-04-28 04:30:00
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Des niveaux de rémunération en accord  avec la « new normal » post-Covid ?](https://www.lemauricien.com/le-mauricien/des-niveaux-de-remuneration-en-accord-avec-la-new-normal-post-covid/419197/)**  2021-04-27 13:29:17
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Endlich nach Hause....The first Rodriguans on their way home...En rentrant enfin....](https://insel-rodrigues.blogspot.com/2021/04/endlich-nach-hausethe-first-rodriguans.html)**  2021-04-27 04:05:25
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : confiez votre référencement naturel à SEDECO !](https://sedecobtob.blogspot.com/2021/04/bpo-confiez-votre-referencement-naturel.html)**  2021-04-26 15:47:31
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Fighting synthetic poison  is as much a priority…](https://www.lemauricien.com/le-mauricien/fighting-synthetic-poison-is-as-much-a-priority/418976/)**  2021-04-26 12:45:13
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Classroom Management softwares](https://sunjuh.blogspot.com/2021/04/classroom-management-softwares.html)**  2021-04-25 20:31:03
@@ -531,8 +531,5 @@ permalink: /mauritian-blogs/
 
 [Design](https://akijawaheer.blogspot.com/)  
 **[Branding poster 'made in moris'](https://akijawaheer.blogspot.com/2020/05/branding-poster-made-in-moris.html)**  2020-05-29 12:44:08
-
-[Learning a little bit more everyday](https://learningalittlebitmore.blogspot.com/)  
-**[Who I Am](https://learningalittlebitmore.blogspot.com/2020/05/who-i-am-i-think-that-it-is-very.html)**  2020-05-26 11:56:18
 
 <div style="height:0;width:0;overflow:hidden;"></div>
