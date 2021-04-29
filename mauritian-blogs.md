@@ -4,20 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[TECHNICAL ANALYSIS REPORT – 28 APRIL 2021 &#124; CAPITAL STREET FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/technical-analysis-report-28-april-2021.html)**  2021-04-28 11:17:46
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Rain of Tears](https://www.lemauricien.com/le-mauricien/the-rain-of-tears/419423/)**  2021-04-28 08:12:34
-
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/mercredi-de-la-4e-semaine-de-paques.html)**  2021-04-28 06:06:13
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/04/must-be-formidable-people-those-who-to.html)**  2021-04-28 05:24:04
+**[Jeudi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/jeudi-de-la-4e-semaine-de-paques.html)**  2021-04-29 05:32:58
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Endlich nach Hause....The first Rodriguans on their way home...En rentrant enfin....](https://insel-rodrigues.blogspot.com/2021/04/endlich-nach-hausethe-first-rodriguans.html)**  2021-04-27 04:05:25
+**[Mauritius: Und es regnet weiter....Torrential Rain Warning...Alerte de pluie torrentielle](https://insel-rodrigues.blogspot.com/2021/04/mauritius-und-es-regnet.html)**  2021-04-29 04:06:59
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/04/menteur-par-exemple-aime-mentir-sait.html)**  2021-04-29 02:49:43
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Assessing the proposed amendments to the ICT Act  to regulate social media in democratic Mauritius](https://www.lemauricien.com/le-mauricien/assessing-the-proposed-amendments-to-the-ict-act-to-regulate-social-media-in-democratic-mauritius-2/419386/)**  2021-04-28 13:00:47
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[TECHNICAL ANALYSIS REPORT – 28 APRIL 2021 &#124; CAPITAL STREET FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/technical-analysis-report-28-april-2021.html)**  2021-04-28 11:17:46
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : confiez votre référencement naturel à SEDECO !](https://sedecobtob.blogspot.com/2021/04/bpo-confiez-votre-referencement-naturel.html)**  2021-04-26 15:47:31
