@@ -5,22 +5,22 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/jeudi-de-la-4e-semaine-de-paques.html)**  2021-04-29 05:32:58
+**[Vendredi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/vendredi-de-la-4e-semaine-de-paques.html)**  2021-04-30 04:30:00
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/04/necris-pas-pour-mexprimer-ni-pour.html)**  2021-04-30 02:52:06
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Sous-traitance : SEDECO a ce qu’il vous faut !](https://sedecobtob.blogspot.com/2021/04/sous-traitance-sedeco-ce-quil-vous-faut.html)**  2021-04-29 18:33:27
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[À l’heure](https://www.lemauricien.com/le-mauricien/a-lheure/419653/)**  2021-04-29 12:30:30
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Mauritius: Und es regnet weiter....Torrential Rain Warning...Alerte de pluie torrentielle](https://insel-rodrigues.blogspot.com/2021/04/mauritius-und-es-regnet.html)**  2021-04-29 04:06:59
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/04/menteur-par-exemple-aime-mentir-sait.html)**  2021-04-29 02:49:43
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Assessing the proposed amendments to the ICT Act  to regulate social media in democratic Mauritius](https://www.lemauricien.com/le-mauricien/assessing-the-proposed-amendments-to-the-ict-act-to-regulate-social-media-in-democratic-mauritius-2/419386/)**  2021-04-28 13:00:47
-
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[TECHNICAL ANALYSIS REPORT – 28 APRIL 2021 &#124; CAPITAL STREET FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/technical-analysis-report-28-april-2021.html)**  2021-04-28 11:17:46
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : confiez votre référencement naturel à SEDECO !](https://sedecobtob.blogspot.com/2021/04/bpo-confiez-votre-referencement-naturel.html)**  2021-04-26 15:47:31
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Classroom Management softwares](https://sunjuh.blogspot.com/2021/04/classroom-management-softwares.html)**  2021-04-25 20:31:03
