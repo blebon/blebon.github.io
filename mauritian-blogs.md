@@ -4,14 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/vendredi-de-la-4e-semaine-de-paques.html)**  2021-04-30 04:30:00
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/04/necris-pas-pour-mexprimer-ni-pour.html)**  2021-04-30 02:52:06
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Le CoR s’exprime sur la 2e phase du déconfinement](https://www.dioceseportlouis.org/2021/04/30/le-cor-sexprime-sur-la-2e-phase-du-deconfinement/)**  2021-04-30 11:03:07
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
-**[Sous-traitance : SEDECO a ce qu’il vous faut !](https://sedecobtob.blogspot.com/2021/04/sous-traitance-sedeco-ce-quil-vous-faut.html)**  2021-04-29 18:33:27
+**[BPO : SEDECO vous facilite la tâche !](https://sedecobtob.blogspot.com/2021/04/bpo-sedeco-vous-facilite-la-tache.html)**  2021-04-30 10:04:16
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/04/necris-pas-pour-mexprimer-ni-pour.html)**  2021-04-30 08:27:45
+
+[MPeres' blog](https://melanieperes.blogspot.com/)  
+**[CCR?? Yes!! CloudClassRoom](https://melanieperes.blogspot.com/2021/04/ccr-yes-cloudclassroom.html)**  2021-04-30 08:00:35
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Vendredi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/vendredi-de-la-4e-semaine-de-paques.html)**  2021-04-30 04:30:00
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[À l’heure](https://www.lemauricien.com/le-mauricien/a-lheure/419653/)**  2021-04-29 12:30:30
@@ -51,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Boss Has A Message For Us](http://kozelidir.blogspot.com/2021/04/boss-has-message-for-us.html)**  2021-04-22 13:48:58
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[La CDT : aujourd’hui plus que jamais, écouter, soutenir et encourager les Mauriciens](https://www.dioceseportlouis.org/2021/04/22/la-cdt-aujourdhui-plus-que-jamais-ecouter-de-soutenir-et-encourager-les-mauriciens/)**  2021-04-22 08:14:15
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Stay Organised Before Travelling: Our Top 5 Tips](https://blog.constancehotels.com/stay-organised-before-travelling-our-top-five-tips/)**  2021-04-21 11:09:26
@@ -102,9 +105,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[To konpasion kifer selektif?](https://meeraappadoo.wordpress.com/2021/03/31/to-konpasion-kifer-selektif/)**  2021-03-31 15:08:03
-
-[MPeres' blog](https://melanieperes.blogspot.com/)  
-**[Soo, let's Dojo, hohoho!!](https://melanieperes.blogspot.com/2021/03/soo-lets-dojo-hohoho.html)**  2021-03-26 16:02:24
 
 [My Voice](https://jeevashi.blogspot.com/)  
 **[The city of Ghosts](https://jeevashi.blogspot.com/2020/12/the-city-of-ghosts.html)**  2021-03-25 09:29:34
