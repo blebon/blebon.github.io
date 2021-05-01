@@ -4,35 +4,35 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Mauritius: Und es regnet weiter....Torrential Rain Warning...Alerte de pluie torrentielle](https://insel-rodrigues.blogspot.com/2021/04/mauritius-und-es-regnet.html)**  2021-05-01 04:35:56
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Samedi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/samedi-de-la-4e-semaine-de-paques.html)**  2021-05-01 04:30:00
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/04/on-est-incapable-decrire-de-bons-livres.html)**  2021-04-30 14:24:42
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Why So Many CEOs Are Immigrants](https://teelocked.blogspot.com/2021/04/why-so-many-ceos-are-immigrants.html)**  2021-04-30 14:12:31
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[AU NOM DE LA DIGNITÉ…  Souhaitons que le GM  ne tremble pas sous peu](https://www.lemauricien.com/le-mauricien/au-nom-de-la-dignite-souhaitons-que-le-gm-ne-tremble-pas-sous-peu/420014/)**  2021-04-30 12:00:50
+
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Le CoR s’exprime sur la 2e phase du déconfinement](https://www.dioceseportlouis.org/2021/04/30/le-cor-sexprime-sur-la-2e-phase-du-deconfinement/)**  2021-04-30 11:03:07
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO vous facilite la tâche !](https://sedecobtob.blogspot.com/2021/04/bpo-sedeco-vous-facilite-la-tache.html)**  2021-04-30 10:04:16
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/04/necris-pas-pour-mexprimer-ni-pour.html)**  2021-04-30 08:27:45
-
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[CCR?? Yes!! CloudClassRoom](https://melanieperes.blogspot.com/2021/04/ccr-yes-cloudclassroom.html)**  2021-04-30 08:00:35
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/04/vendredi-de-la-4e-semaine-de-paques.html)**  2021-04-30 04:30:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[À l’heure](https://www.lemauricien.com/le-mauricien/a-lheure/419653/)**  2021-04-29 12:30:30
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Mauritius: Und es regnet weiter....Torrential Rain Warning...Alerte de pluie torrentielle](https://insel-rodrigues.blogspot.com/2021/04/mauritius-und-es-regnet.html)**  2021-04-29 04:06:59
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[TECHNICAL ANALYSIS REPORT – 28 APRIL 2021 &#124; CAPITAL STREET FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/technical-analysis-report-28-april-2021.html)**  2021-04-28 11:17:46
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Classroom Management softwares](https://sunjuh.blogspot.com/2021/04/classroom-management-softwares.html)**  2021-04-25 20:31:03
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[From a Childhood Dream to The First Person On Mars &#124; Alyssa Carson &#124; TED...](https://teelocked.blogspot.com/2021/04/from-childhood-dream-to-first-person-on.html)**  2021-04-25 13:50:12
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Censorship in not a new thing for the Information & Communication Technologies Authority](https://sysadmin-journal.com/censorship-in-not-a-new-thing-for-the-information-communication-technologies-authority/)**  2021-04-25 11:05:09
@@ -528,8 +528,5 @@ permalink: /mauritian-blogs/
 
 [Elofashion](https://elofashionmru.blogspot.com/)  
 **[No title](https://elofashionmru.blogspot.com/2020/05/blog-post.html)**  2020-05-30 10:29:40
-
-[Design](https://akijawaheer.blogspot.com/)  
-**[Branding poster 'made in moris'](https://akijawaheer.blogspot.com/2020/05/branding-poster-made-in-moris.html)**  2020-05-29 12:44:08
 
 <div style="height:0;width:0;overflow:hidden;"></div>
