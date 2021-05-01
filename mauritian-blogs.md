@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [L😀ck](https://teelocked.blogspot.com/)  
-**[Au Cœur de l'Info -  Labour Day : la nouvelle normalité au travail décry...](https://teelocked.blogspot.com/2021/05/au-cur-de-linfo-labour-day-la-nouvelle.html)**  2021-05-01 10:33:24
+**[Au Coeur de l'Info -  Labour Day : la nouvelle normalité au travail décry...](https://teelocked.blogspot.com/2021/05/au-cur-de-linfo-labour-day-la-nouvelle.html)**  2021-05-01 10:33:24
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour la fête de St Joseph-Travailleur](https://josephnguyenmahebourg.blogspot.com/2021/05/homelie-pour-la-fete-de-st-joseph.html)**  2021-05-01 07:29:13
