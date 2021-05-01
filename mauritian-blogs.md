@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[10 conseils pour gérer  la peur des confinés](https://www.lemauricien.com/le-mauricien/10-conseils-pour-gerer-la-peur-des-confines/420298/)**  2021-05-01 12:06:28
+
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Au Coeur de l'Info -  Labour Day : la nouvelle normalité au travail décry...](https://teelocked.blogspot.com/2021/05/au-cur-de-linfo-labour-day-la-nouvelle.html)**  2021-05-01 10:33:24
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/04/on-est-incapable-decrire-de-bons-livres.html)**  2021-04-30 14:24:42
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[AU NOM DE LA DIGNITÉ…  Souhaitons que le GM  ne tremble pas sous peu](https://www.lemauricien.com/le-mauricien/au-nom-de-la-dignite-souhaitons-que-le-gm-ne-tremble-pas-sous-peu/420014/)**  2021-04-30 12:00:50
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Le CoR s’exprime sur la 2e phase du déconfinement](https://www.dioceseportlouis.org/2021/04/30/le-cor-sexprime-sur-la-2e-phase-du-deconfinement/)**  2021-04-30 11:03:07
