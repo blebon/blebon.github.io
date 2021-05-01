@@ -4,17 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Au Cœur de l'Info -  Labour Day : la nouvelle normalité au travail décry...](https://teelocked.blogspot.com/2021/05/au-cur-de-linfo-labour-day-la-nouvelle.html)**  2021-05-01 10:33:24
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour la fête de St Joseph-Travailleur](https://josephnguyenmahebourg.blogspot.com/2021/05/homelie-pour-la-fete-de-st-joseph.html)**  2021-05-01 07:29:13
+
+[Huisvlyt](https://huisvlyt.blogspot.com/)  
+**[Tandemuis en DJ](https://huisvlyt.blogspot.com/2021/05/tandemuis-en-dj.html)**  2021-05-01 06:28:54
+
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Mauritius: Und es regnet weiter....Torrential Rain Warning...Alerte de pluie torrentielle](https://insel-rodrigues.blogspot.com/2021/04/mauritius-und-es-regnet.html)**  2021-05-01 04:35:56
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 4e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/samedi-de-la-4e-semaine-de-paques.html)**  2021-05-01 04:30:00
-
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/04/on-est-incapable-decrire-de-bons-livres.html)**  2021-04-30 14:24:42
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Why So Many CEOs Are Immigrants](https://teelocked.blogspot.com/2021/04/why-so-many-ceos-are-immigrants.html)**  2021-04-30 14:12:31
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[AU NOM DE LA DIGNITÉ…  Souhaitons que le GM  ne tremble pas sous peu](https://www.lemauricien.com/le-mauricien/au-nom-de-la-dignite-souhaitons-que-le-gm-ne-tremble-pas-sous-peu/420014/)**  2021-04-30 12:00:50
@@ -415,9 +418,6 @@ permalink: /mauritian-blogs/
 [Wonders I have seen : Places I have visited](https://places-i-have-visited.blogspot.com/)  
 **[No title](https://places-i-have-visited.blogspot.com/2020/07/more-pictures-on-page-wonders-i-have.html)**  2020-07-16 10:14:17
 
-[Huisvlyt](https://huisvlyt.blogspot.com/)  
-**[Dans rompie](https://huisvlyt.blogspot.com/2020/07/dans-rompie.html)**  2020-07-10 08:16:37
-
 [FIGUE Noohairah](https://noohgraphicdesigner.blogspot.com/)  
 **[Bob Noorda](https://noohgraphicdesigner.blogspot.com/2020/07/bob-noorda.html)**  2020-07-08 17:23:32
 
@@ -525,8 +525,5 @@ permalink: /mauritian-blogs/
 
 [Elodie Photography](https://elopaul.blogspot.com/)  
 **[PHOTOGRAPHY ASSIGNMENT TEMPLATE](https://elopaul.blogspot.com/2020/06/blog-post.html)**  2020-06-02 15:13:58
-
-[Elofashion](https://elofashionmru.blogspot.com/)  
-**[No title](https://elofashionmru.blogspot.com/2020/05/blog-post.html)**  2020-05-30 10:29:40
 
 <div style="height:0;width:0;overflow:hidden;"></div>
