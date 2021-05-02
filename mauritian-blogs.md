@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
+**[Easy Wall Art Part 1](https://mymauritiangarden.wordpress.com/2021/05/02/easy-wall-art-part-1/)**  2021-05-02 04:42:13
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 5e Dimanche de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/homelie-pour-le-5e-dimanche-de-paques.html)**  2021-05-01 20:35:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[10 conseils pour gérer  la peur des confinés](https://www.lemauricien.com/le-mauricien/10-conseils-pour-gerer-la-peur-des-confines/420298/)**  2021-05-01 12:06:28
+**[‘KLARA AND THE SUN’ DE KAZUO ISHIGURO : L’intelligence artificielle dans le miroir de l’homme](https://www.lemauricien.com/le-mauricien/klara-and-the-sun-de-kazuo-ishiguro-lintelligence-artificielle-dans-le-miroir-de-lhomme/420342/)**  2021-05-01 17:16:29
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Au Coeur de l'Info -  Labour Day : la nouvelle normalité au travail décry...](https://teelocked.blogspot.com/2021/05/au-cur-de-linfo-labour-day-la-nouvelle.html)**  2021-05-01 10:33:24
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la fête de St Joseph-Travailleur](https://josephnguyenmahebourg.blogspot.com/2021/05/homelie-pour-la-fete-de-st-joseph.html)**  2021-05-01 07:29:13
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Tandemuis en DJ](https://huisvlyt.blogspot.com/2021/05/tandemuis-en-dj.html)**  2021-05-01 06:28:54
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Why are Laptops so expensive in Mauritius](https://nayarweb.com/blog/2021/expensive-laptop-mauritius/)**  2021-04-25 06:49:22
-
-[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
-**[Boho Tribal Sticks](https://mymauritiangarden.wordpress.com/2021/04/25/boho-tribal-sticks/)**  2021-04-25 04:51:25
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Time to Celebrate](https://swanlady-impressions.blogspot.com/2021/04/time-to-celebrate.html)**  2021-04-24 18:01:30
