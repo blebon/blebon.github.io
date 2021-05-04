@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[ICTA's Consultation Paper prepared by specialists, criticized by many](https://sysadmin-journal.com/icta-controversial-consultation-paper-prepared-by-specialists/)**  2021-05-04 09:03:03
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mardi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mardi-de-la-5e-semaine-de-paques.html)**  2021-05-04 04:30:00
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[The One with Brené Brown &#124; A Bit of Optimism with Simon Sinek](https://teelocked.blogspot.com/2021/05/the-one-with-brene-brown-bit-of.html)**  2021-05-03 22:17:41
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Did ICTA change its CSA Internet filter?](https://sysadmin-journal.com/did-icta-change-its-csa-internet-filter/)**  2021-05-03 16:13:20
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[OPEN LETTER — A STOP ORDER on the felling of native flora along B104 road at CHAMAREL…](https://www.lemauricien.com/le-mauricien/open-letter-to-the-minister-of-environment-a-stop-order-on-the-felling-of-native-flora-along-b104-road-at-chamarel/420861/)**  2021-05-03 12:30:36
