@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Vaccines : From Folk Origin to Medical Science](https://www.lemauricien.com/opinions/forum/vaccines-from-folk-origin-to-medical-science/421209/)**  2021-05-04 13:00:41
+
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[ICTA's Consultation Paper prepared by specialists, criticized by many](https://sysadmin-journal.com/icta-controversial-consultation-paper-prepared-by-specialists/)**  2021-05-04 09:03:03
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[The One with Brené Brown &#124; A Bit of Optimism with Simon Sinek](https://teelocked.blogspot.com/2021/05/the-one-with-brene-brown-bit-of.html)**  2021-05-03 22:17:41
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[OPEN LETTER — A STOP ORDER on the felling of native flora along B104 road at CHAMAREL…](https://www.lemauricien.com/le-mauricien/open-letter-to-the-minister-of-environment-a-stop-order-on-the-felling-of-native-flora-along-b104-road-at-chamarel/420861/)**  2021-05-03 12:30:36
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Emma Goldman...."Living my Life..." or "To The Daring Belongs The Future"](https://insel-rodrigues.blogspot.com/2021/05/emma-goldmanliving-my-life-or-to-daring.html)**  2021-05-03 03:01:15
@@ -519,11 +519,5 @@ permalink: /mauritian-blogs/
 
 [Photography: An Introduction](https://figaropaul.blogspot.com/)  
 **[Equipment Used](https://figaropaul.blogspot.com/2020/06/equipment-used_2.html)**  2020-06-03 13:25:31
-
-[AB GRAPHICS](https://antishb.blogspot.com/)  
-**[WATER](https://antishb.blogspot.com/2020/06/water.html)**  2020-06-02 17:31:24
-
-[Elodie Photography](https://elopaul.blogspot.com/)  
-**[PHOTOGRAPHY ASSIGNMENT TEMPLATE](https://elopaul.blogspot.com/2020/06/blog-post.html)**  2020-06-02 15:13:58
 
 <div style="height:0;width:0;overflow:hidden;"></div>
