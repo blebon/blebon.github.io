@@ -5,19 +5,22 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/lundi-de-la-5e-semaine-de-paques.html)**  2021-05-03 04:30:00
+**[Mardi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mardi-de-la-5e-semaine-de-paques.html)**  2021-05-04 04:30:00
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[The One with Brené Brown &#124; A Bit of Optimism with Simon Sinek](https://teelocked.blogspot.com/2021/05/the-one-with-brene-brown-bit-of.html)**  2021-05-03 22:17:41
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[Did ICTA change its CSA Internet filter?](https://sysadmin-journal.com/did-icta-change-its-csa-internet-filter/)**  2021-05-03 16:13:20
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[OPEN LETTER — A STOP ORDER on the felling of native flora along B104 road at CHAMAREL…](https://www.lemauricien.com/le-mauricien/open-letter-to-the-minister-of-environment-a-stop-order-on-the-felling-of-native-flora-along-b104-road-at-chamarel/420861/)**  2021-05-03 12:30:36
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Emma Goldman...."Living my Life..." or "To The Daring Belongs The Future"](https://insel-rodrigues.blogspot.com/2021/05/emma-goldmanliving-my-life-or-to-daring.html)**  2021-05-03 03:01:15
 
-[L😀ck](https://teelocked.blogspot.com/)  
-**[My year reading a book from every country in the world &#124; Ann Morgan](https://teelocked.blogspot.com/2021/05/my-year-reading-book-from-every-country.html)**  2021-05-02 20:14:05
-
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Easy Wall Art Part 1](https://mymauritiangarden.wordpress.com/2021/05/02/easy-wall-art-part-1/)**  2021-05-02 04:42:13
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[‘KLARA AND THE SUN’ DE KAZUO ISHIGURO : L’intelligence artificielle dans le miroir de l’homme](https://www.lemauricien.com/le-mauricien/klara-and-the-sun-de-kazuo-ishiguro-lintelligence-artificielle-dans-le-miroir-de-lhomme/420342/)**  2021-05-01 17:16:29
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Tandemuis en DJ](https://huisvlyt.blogspot.com/2021/05/tandemuis-en-dj.html)**  2021-05-01 06:28:54
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Classroom Management softwares](https://sunjuh.blogspot.com/2021/04/classroom-management-softwares.html)**  2021-04-25 20:31:03
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Censorship in not a new thing for the Information & Communication Technologies Authority](https://sysadmin-journal.com/censorship-in-not-a-new-thing-for-the-information-communication-technologies-authority/)**  2021-04-25 11:05:09
 
 [Education and technology](https://ateesharamkalawonseegoolam.blogspot.com/)  
 **[My journey and learning during the lockdown and technology being my companion.](https://ateesharamkalawonseegoolam.blogspot.com/2021/04/my-journey-and-learning-during-lockdown.html)**  2021-04-25 09:28:42
