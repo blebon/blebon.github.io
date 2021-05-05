@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Messe du Travail : se réinventer en temps de crise](https://www.dioceseportlouis.org/2021/05/05/messe-du-travail-se-reinventer-en-temps-de-crise/)**  2021-05-05 08:10:42
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mercredi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mercredi-de-la-5e-semaine-de-paques.html)**  2021-05-05 04:30:00
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/04/on-est-incapable-decrire-de-bons-livres.html)**  2021-04-30 14:24:42
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Le CoR s’exprime sur la 2e phase du déconfinement](https://www.dioceseportlouis.org/2021/04/30/le-cor-sexprime-sur-la-2e-phase-du-deconfinement/)**  2021-04-30 11:03:07
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO vous facilite la tâche !](https://sedecobtob.blogspot.com/2021/04/bpo-sedeco-vous-facilite-la-tache.html)**  2021-04-30 10:04:16
