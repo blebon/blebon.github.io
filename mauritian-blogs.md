@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mercredi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mercredi-de-la-5e-semaine-de-paques.html)**  2021-05-05 04:30:00
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Sea You Soon](https://swanlady-impressions.blogspot.com/2021/05/sea-you-soon.html)**  2021-05-04 22:12:46
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Vaccines : From Folk Origin to Medical Science](https://www.lemauricien.com/opinions/forum/vaccines-from-folk-origin-to-medical-science/421209/)**  2021-05-04 13:00:41
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[ICTA's Consultation Paper prepared by specialists, criticized by many](https://sysadmin-journal.com/icta-controversial-consultation-paper-prepared-by-specialists/)**  2021-05-04 09:03:03
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mardi-de-la-5e-semaine-de-paques.html)**  2021-05-04 04:30:00
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[The One with Brené Brown &#124; A Bit of Optimism with Simon Sinek](https://teelocked.blogspot.com/2021/05/the-one-with-brene-brown-bit-of.html)**  2021-05-03 22:17:41
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Why are Laptops so expensive in Mauritius](https://nayarweb.com/blog/2021/expensive-laptop-mauritius/)**  2021-04-25 06:49:22
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Time to Celebrate](https://swanlady-impressions.blogspot.com/2021/04/time-to-celebrate.html)**  2021-04-24 18:01:30
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happily Sixteen Years After](https://davidandjennilyn.com/2021/04/23/happily-sixteen-years-after/)**  2021-04-24 02:00:53
