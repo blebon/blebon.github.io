@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Jeudi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/jeudi-de-la-5e-semaine-de-paques.html)**  2021-05-06 04:30:00
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[L’apprentissage de la citoyenneté et du danger](https://www.lemauricien.com/le-mauricien/lapprentissage-de-la-citoyennete-et-du-danger/421372/)**  2021-05-05 13:00:23
+
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Messe du Travail : se réinventer en temps de crise](https://www.dioceseportlouis.org/2021/05/05/messe-du-travail-se-reinventer-en-temps-de-crise/)**  2021-05-05 08:10:42
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mercredi-de-la-5e-semaine-de-paques.html)**  2021-05-05 04:30:00
-
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Sea You Soon](https://swanlady-impressions.blogspot.com/2021/05/sea-you-soon.html)**  2021-05-04 22:12:46
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Vaccines : From Folk Origin to Medical Science](https://www.lemauricien.com/opinions/forum/vaccines-from-folk-origin-to-medical-science/421209/)**  2021-05-04 13:00:41
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[ICTA's Consultation Paper prepared by specialists, criticized by many](https://sysadmin-journal.com/icta-controversial-consultation-paper-prepared-by-specialists/)**  2021-05-04 09:03:03
@@ -510,14 +510,5 @@ permalink: /mauritian-blogs/
 
 [Stephanie Online Story](https://stephanieonlinestory.blogspot.com/)  
 **[How To Earn An Income Being A Housewife](https://stephanieonlinestory.blogspot.com/2020/06/how-to-earn-income-being-housewife.html)**  2020-06-05 04:40:05
-
-[a l o h a](https://nndnp.blogspot.com/)  
-**[Self Care & Love](https://nndnp.blogspot.com/2020/06/self-care-love.html)**  2020-06-03 19:36:55
-
-[Photography assignment](https://picturesoflockdown.blogspot.com/)  
-**[No title](https://picturesoflockdown.blogspot.com/2020/06/a-sunday-during-lockdown.html)**  2020-06-03 19:01:48
-
-[Photography: An Introduction](https://figaropaul.blogspot.com/)  
-**[Equipment Used](https://figaropaul.blogspot.com/2020/06/equipment-used_2.html)**  2020-06-03 13:25:31
 
 <div style="height:0;width:0;overflow:hidden;"></div>
