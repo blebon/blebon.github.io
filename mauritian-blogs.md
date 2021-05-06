@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : des formations continues chez SEDECO !](https://sedecobtob.blogspot.com/2021/05/bpo-des-formations-continues-chez-sedeco.html)**  2021-05-06 09:08:22
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Jeudi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/jeudi-de-la-5e-semaine-de-paques.html)**  2021-05-06 04:30:00
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/04/on-est-incapable-decrire-de-bons-livres.html)**  2021-04-30 14:24:42
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : SEDECO vous facilite la tâche !](https://sedecobtob.blogspot.com/2021/04/bpo-sedeco-vous-facilite-la-tache.html)**  2021-04-30 10:04:16
 
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[CCR?? Yes!! CloudClassRoom](https://melanieperes.blogspot.com/2021/04/ccr-yes-cloudclassroom.html)**  2021-04-30 08:00:35
