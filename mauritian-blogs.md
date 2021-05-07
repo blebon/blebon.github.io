@@ -4,23 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : des formations continues chez SEDECO !](https://sedecobtob.blogspot.com/2021/05/bpo-des-formations-continues-chez-sedeco.html)**  2021-05-06 09:08:22
-
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/jeudi-de-la-5e-semaine-de-paques.html)**  2021-05-06 04:30:00
+**[Vendredi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/vendredi-de-la-5e-semaine-de-paques.html)**  2021-05-07 04:30:00
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[Requests to bing.com being proxied via ICTA's Internet filtering system in Netherlands](https://sysadmin-journal.com/requests-to-bing-com-being-proxied-via-icta-internet-filtering-system-in-netherlands/)**  2021-05-06 19:08:07
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’apprentissage de la citoyenneté et du danger](https://www.lemauricien.com/le-mauricien/lapprentissage-de-la-citoyennete-et-du-danger/421372/)**  2021-05-05 13:00:23
+**[ENVIRONNEMENT ET CLIMAT – Pluies torrentielles et inondations :  pistes pour des solutions pratiques](https://www.lemauricien.com/le-mauricien/environnement-et-climat-pluies-torrentielles-et-inondations-pistes-pour-des-solutions-pratiques/421609/)**  2021-05-06 13:00:06
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : des formations continues chez SEDECO !](https://sedecobtob.blogspot.com/2021/05/bpo-des-formations-continues-chez-sedeco.html)**  2021-05-06 09:08:22
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Messe du Travail : se réinventer en temps de crise](https://www.dioceseportlouis.org/2021/05/05/messe-du-travail-se-reinventer-en-temps-de-crise/)**  2021-05-05 08:10:42
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Sea You Soon](https://swanlady-impressions.blogspot.com/2021/05/sea-you-soon.html)**  2021-05-04 22:12:46
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[ICTA's Consultation Paper prepared by specialists, criticized by many](https://sysadmin-journal.com/icta-controversial-consultation-paper-prepared-by-specialists/)**  2021-05-04 09:03:03
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[The One with Brené Brown &#124; A Bit of Optimism with Simon Sinek](https://teelocked.blogspot.com/2021/05/the-one-with-brene-brown-bit-of.html)**  2021-05-03 22:17:41
@@ -507,8 +507,5 @@ permalink: /mauritian-blogs/
 
 [DevegiTPomanahcohort11](https://devegitpomanahcohort11.blogspot.com/)  
 **[Theme +Lockdown pictures](https://devegitpomanahcohort11.blogspot.com/2020/06/theme-lockdown-pictures.html)**  2020-06-07 07:02:35
-
-[Stephanie Online Story](https://stephanieonlinestory.blogspot.com/)  
-**[How To Earn An Income Being A Housewife](https://stephanieonlinestory.blogspot.com/2020/06/how-to-earn-income-being-housewife.html)**  2020-06-05 04:40:05
 
 <div style="height:0;width:0;overflow:hidden;"></div>
