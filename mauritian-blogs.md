@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Intention de prière du Cardinal Piat pour mai](https://www.dioceseportlouis.org/2021/05/07/intention-de-priere-du-cardinal-piat-pour-mai-3/)**  2021-05-07 11:00:37
+
+[Linux User Group of Mauritius](https://lugm.org)  
+**[ICTA Public consultation for TLS MITM in Mauritius](https://lugm.org/2021/05/07/icta-public-consultation-for-tls-mitm-in-mauritius/)**  2021-05-07 10:22:25
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Vendredi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/vendredi-de-la-5e-semaine-de-paques.html)**  2021-05-07 04:30:00
 
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : des formations continues chez SEDECO !](https://sedecobtob.blogspot.com/2021/05/bpo-des-formations-continues-chez-sedeco.html)**  2021-05-06 09:08:22
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Messe du Travail : se réinventer en temps de crise](https://www.dioceseportlouis.org/2021/05/05/messe-du-travail-se-reinventer-en-temps-de-crise/)**  2021-05-05 08:10:42
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Sea You Soon](https://swanlady-impressions.blogspot.com/2021/05/sea-you-soon.html)**  2021-05-04 22:12:46
@@ -114,9 +117,6 @@ permalink: /mauritian-blogs/
 
 [Graphic design](https://poyheeraloll.blogspot.com/)  
 **[is the vaccine the new luxury ?](https://poyheeraloll.blogspot.com/2021/03/is-vaccine-new-luxury.html)**  2021-03-24 17:19:21
-
-[Linux User Group of Mauritius](https://lugm.org)  
-**[Convert multiple lines into one tab-separated line using paste](https://www.noulakaz.net/2021/03/24/convert-multiple-lines-into-one-tab-separated-line-using-paste/)**  2021-03-24 04:51:21
 
 [Eternal Sakshi Writes](https://eternalsakshiwrites.blogspot.com/)  
 **[#YesAllWomen](https://eternalsakshiwrites.blogspot.com/2021/03/yesallwomen.html)**  2021-03-21 17:49:39
