@@ -4,20 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Vendredi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/vendredi-de-la-5e-semaine-de-paques.html)**  2021-05-07 17:45:38
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[CRISE SANITAIRE &#124; Constat : Au-delà de l’économie](https://www.lemauricien.com/le-mauricien/crise-sanitaire-constat-au-dela-de-leconomie/421919/)**  2021-05-07 15:30:04
+
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Intention de prière du Cardinal Piat pour mai](https://www.dioceseportlouis.org/2021/05/07/intention-de-priere-du-cardinal-piat-pour-mai-3/)**  2021-05-07 11:00:37
+**[Deux membres de la familles du père Dorai Raj emportés par la Covid-19 en Inde](https://www.dioceseportlouis.org/2021/05/07/deux-membres-de-la-familles-du-pere-dorai-raj-emportes-par-la-covid-19-en-inde/)**  2021-05-07 12:56:53
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[The Art Of Sushi](https://blog.constancehotels.com/selection-of-delectable-sushi-recipes-from-constance-hotels/)**  2021-05-07 12:26:27
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[ICTA Public consultation for TLS MITM in Mauritius](https://lugm.org/2021/05/07/icta-public-consultation-for-tls-mitm-in-mauritius/)**  2021-05-07 10:22:25
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/vendredi-de-la-5e-semaine-de-paques.html)**  2021-05-07 04:30:00
-
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Requests to bing.com being proxied via ICTA's Internet filtering system in Netherlands](https://sysadmin-journal.com/requests-to-bing-com-being-proxied-via-icta-internet-filtering-system-in-netherlands/)**  2021-05-06 19:08:07
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ENVIRONNEMENT ET CLIMAT – Pluies torrentielles et inondations :  pistes pour des solutions pratiques](https://www.lemauricien.com/le-mauricien/environnement-et-climat-pluies-torrentielles-et-inondations-pistes-pour-des-solutions-pratiques/421609/)**  2021-05-06 13:00:06
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : des formations continues chez SEDECO !](https://sedecobtob.blogspot.com/2021/05/bpo-des-formations-continues-chez-sedeco.html)**  2021-05-06 09:08:22
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Boss Has A Message For Us](http://kozelidir.blogspot.com/2021/04/boss-has-message-for-us.html)**  2021-04-22 13:48:58
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Stay Organised Before Travelling: Our Top 5 Tips](https://blog.constancehotels.com/stay-organised-before-travelling-our-top-five-tips/)**  2021-04-21 11:09:26
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Sakura Wine.](https://kabilen.tumblr.com/post/648749379693445120)**  2021-04-17 22:40:21
