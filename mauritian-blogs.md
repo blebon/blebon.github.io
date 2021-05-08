@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Yves Morieux: As work gets more complex, 6 rules to simplify](https://teelocked.blogspot.com/2021/05/yves-morieux-as-work-gets-more-complex.html)**  2021-05-08 10:20:46
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/vendredi-de-la-5e-semaine-de-paques.html)**  2021-05-07 17:45:38
+**[Samedi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/evangile-jean-1518-21-en-ce-temps-la.html)**  2021-05-08 06:03:50
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[CRISE SANITAIRE &#124; Constat : Au-delà de l’économie](https://www.lemauricien.com/le-mauricien/crise-sanitaire-constat-au-dela-de-leconomie/421919/)**  2021-05-07 15:30:04
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Sea You Soon](https://swanlady-impressions.blogspot.com/2021/05/sea-you-soon.html)**  2021-05-04 22:12:46
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[The One with Brené Brown &#124; A Bit of Optimism with Simon Sinek](https://teelocked.blogspot.com/2021/05/the-one-with-brene-brown-bit-of.html)**  2021-05-03 22:17:41
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Emma Goldman...."Living my Life..." or "To The Daring Belongs The Future"](https://insel-rodrigues.blogspot.com/2021/05/emma-goldmanliving-my-life-or-to-daring.html)**  2021-05-03 03:01:15
