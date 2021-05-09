@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
+**[Easy Wall Art Part 2](https://mymauritiangarden.wordpress.com/2021/05/09/easy-wall-art-part-2/)**  2021-05-09 04:48:44
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Retraçons les pas du Bouddha](https://www.lemauricien.com/le-mauricien/retracons-les-pas-du-bouddha/422138/)**  2021-05-08 12:27:50
+
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Yves Morieux: As work gets more complex, 6 rules to simplify](https://teelocked.blogspot.com/2021/05/yves-morieux-as-work-gets-more-complex.html)**  2021-05-08 10:20:46
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Samedi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/evangile-jean-1518-21-en-ce-temps-la.html)**  2021-05-08 06:03:50
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[CRISE SANITAIRE &#124; Constat : Au-delà de l’économie](https://www.lemauricien.com/le-mauricien/crise-sanitaire-constat-au-dela-de-leconomie/421919/)**  2021-05-07 15:30:04
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Deux membres de la familles du père Dorai Raj emportés par la Covid-19 en Inde](https://www.dioceseportlouis.org/2021/05/07/deux-membres-de-la-familles-du-pere-dorai-raj-emportes-par-la-covid-19-en-inde/)**  2021-05-07 12:56:53
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Emma Goldman...."Living my Life..." or "To The Daring Belongs The Future"](https://insel-rodrigues.blogspot.com/2021/05/emma-goldmanliving-my-life-or-to-daring.html)**  2021-05-03 03:01:15
-
-[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
-**[Easy Wall Art Part 1](https://mymauritiangarden.wordpress.com/2021/05/02/easy-wall-art-part-1/)**  2021-05-02 04:42:13
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Tandemuis en DJ](https://huisvlyt.blogspot.com/2021/05/tandemuis-en-dj.html)**  2021-05-01 06:28:54
