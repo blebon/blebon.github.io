@@ -502,10 +502,4 @@ permalink: /mauritian-blogs/
 [Natural Hairs](https://naturalcurly05.blogspot.com/)  
 **[15 TIPS FOR CURLY HAIRS](https://naturalcurly05.blogspot.com/2020/06/15-tips-for-curly-hairs.html)**  2020-06-08 11:28:30
 
-[DevegiTPomanahCohort11](https://devegicohort11.blogspot.com/)  
-**[No title](https://devegicohort11.blogspot.com/2020/06/hello-everyone-my-name-is-devegi-t.html)**  2020-06-07 10:34:42
-
-[DevegiTPomanahcohort11](https://devegitpomanahcohort11.blogspot.com/)  
-**[Theme +Lockdown pictures](https://devegitpomanahcohort11.blogspot.com/2020/06/theme-lockdown-pictures.html)**  2020-06-07 07:02:35
-
 <div style="height:0;width:0;overflow:hidden;"></div>
