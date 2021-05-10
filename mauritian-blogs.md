@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Technical Analysis Report Today &#124; Forex News – 10 May 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/05/technical-analysis-report-today-forex.html)**  2021-05-10 11:38:28
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Lundi de la 6e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/lundi-de-la-6e-semaine-de-paques.html)**  2021-05-10 04:00:00
 
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[CCR?? Yes!! CloudClassRoom](https://melanieperes.blogspot.com/2021/04/ccr-yes-cloudclassroom.html)**  2021-04-30 08:00:35
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[TECHNICAL ANALYSIS REPORT – 28 APRIL 2021 &#124; CAPITAL STREET FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/04/technical-analysis-report-28-april-2021.html)**  2021-04-28 11:17:46
 
 [Teaching and learning journey](https://sunjuh.blogspot.com/)  
 **[Classroom Management softwares](https://sunjuh.blogspot.com/2021/04/classroom-management-softwares.html)**  2021-04-25 20:31:03
@@ -498,8 +498,5 @@ permalink: /mauritian-blogs/
 
 [ProDaily](https://prodaily67.blogspot.com/)  
 **[Coming from the sky. Sony Vegas effect. ask for a tutorial.](https://prodaily67.blogspot.com/2020/06/coming-from-sky-sony-vegas-effect.html)**  2020-06-08 13:12:46
-
-[Natural Hairs](https://naturalcurly05.blogspot.com/)  
-**[15 TIPS FOR CURLY HAIRS](https://naturalcurly05.blogspot.com/2020/06/15-tips-for-curly-hairs.html)**  2020-06-08 11:28:30
 
 <div style="height:0;width:0;overflow:hidden;"></div>
