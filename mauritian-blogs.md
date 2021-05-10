@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Lundi de la 6e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/lundi-de-la-6e-semaine-de-paques.html)**  2021-05-10 04:00:00
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[S. Moonesamy's thoughts on ICTA's proposals](https://sysadmin-journal.com/s-moonesamy-thoughts-on-icta-proposals/)**  2021-05-09 19:01:27
+
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Easy Wall Art Part 2](https://mymauritiangarden.wordpress.com/2021/05/09/easy-wall-art-part-2/)**  2021-05-09 04:48:44
 
@@ -13,9 +19,6 @@ permalink: /mauritian-blogs/
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Yves Morieux: As work gets more complex, 6 rules to simplify](https://teelocked.blogspot.com/2021/05/yves-morieux-as-work-gets-more-complex.html)**  2021-05-08 10:20:46
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 5e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/evangile-jean-1518-21-en-ce-temps-la.html)**  2021-05-08 06:03:50
-
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Deux membres de la familles du père Dorai Raj emportés par la Covid-19 en Inde](https://www.dioceseportlouis.org/2021/05/07/deux-membres-de-la-familles-du-pere-dorai-raj-emportes-par-la-covid-19-en-inde/)**  2021-05-07 12:56:53
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[ICTA Public consultation for TLS MITM in Mauritius](https://lugm.org/2021/05/07/icta-public-consultation-for-tls-mitm-in-mauritius/)**  2021-05-07 10:22:25
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Requests to bing.com being proxied via ICTA's Internet filtering system in Netherlands](https://sysadmin-journal.com/requests-to-bing-com-being-proxied-via-icta-internet-filtering-system-in-netherlands/)**  2021-05-06 19:08:07
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : des formations continues chez SEDECO !](https://sedecobtob.blogspot.com/2021/05/bpo-des-formations-continues-chez-sedeco.html)**  2021-05-06 09:08:22
