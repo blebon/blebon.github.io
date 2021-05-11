@@ -4,23 +4,29 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mardi de la 6e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mardi-de-la-6e-semaine-de-paques.html)**  2021-05-11 04:30:00
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[How to Master Your Negative Thoughts and Use Them for Good](https://teelocked.blogspot.com/2021/05/how-to-master-your-negative-thoughts.html)**  2021-05-11 00:02:52
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Two Cakes !](https://swanlady-impressions.blogspot.com/2021/05/two-cakes.html)**  2021-05-10 19:31:24
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[IN THE AFTERMATH OF THE BLACK DEATH : The PEASANTS’ REVOLT (1381) triggered ideas about freedom](https://www.lemauricien.com/opinions/forum/in-the-aftermath-of-the-black-death-the-peasants-revolt-1381-triggered-ideas-about-freedom/422423/)**  2021-05-10 13:00:35
+
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical Analysis Report Today &#124; Forex News – 10 May 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/05/technical-analysis-report-today-forex.html)**  2021-05-10 11:38:28
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi de la 6e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/lundi-de-la-6e-semaine-de-paques.html)**  2021-05-10 04:00:00
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Happy Mother’s Day](https://davidandjennilyn.com/2021/05/09/happy-mothers-day-3/)**  2021-05-10 05:00:00
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[S. Moonesamy's thoughts on ICTA's proposals](https://sysadmin-journal.com/s-moonesamy-thoughts-on-icta-proposals/)**  2021-05-09 19:01:27
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Easy Wall Art Part 2](https://mymauritiangarden.wordpress.com/2021/05/09/easy-wall-art-part-2/)**  2021-05-09 04:48:44
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Retraçons les pas du Bouddha](https://www.lemauricien.com/le-mauricien/retracons-les-pas-du-bouddha/422138/)**  2021-05-08 12:27:50
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Yves Morieux: As work gets more complex, 6 rules to simplify](https://teelocked.blogspot.com/2021/05/yves-morieux-as-work-gets-more-complex.html)**  2021-05-08 10:20:46
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Deux membres de la familles du père Dorai Raj emportés par la Covid-19 en Inde](https://www.dioceseportlouis.org/2021/05/07/deux-membres-de-la-familles-du-pere-dorai-raj-emportes-par-la-covid-19-en-inde/)**  2021-05-07 12:56:53
@@ -33,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : des formations continues chez SEDECO !](https://sedecobtob.blogspot.com/2021/05/bpo-des-formations-continues-chez-sedeco.html)**  2021-05-06 09:08:22
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Sea You Soon](https://swanlady-impressions.blogspot.com/2021/05/sea-you-soon.html)**  2021-05-04 22:12:46
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Emma Goldman...."Living my Life..." or "To The Daring Belongs The Future"](https://insel-rodrigues.blogspot.com/2021/05/emma-goldmanliving-my-life-or-to-daring.html)**  2021-05-03 03:01:15
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Why are Laptops so expensive in Mauritius](https://nayarweb.com/blog/2021/expensive-laptop-mauritius/)**  2021-04-25 06:49:22
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happily Sixteen Years After](https://davidandjennilyn.com/2021/04/23/happily-sixteen-years-after/)**  2021-04-24 02:00:53
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Thinking inside Dodoland's box](https://tchombo.blogspot.com/2021/04/thinking-inside-dodolands-box.html)**  2021-04-22 17:04:24
@@ -492,11 +492,5 @@ permalink: /mauritian-blogs/
 
 [Poezi An Kreol](https://poeziankreol.blogspot.com/)  
 **[Tape Latab, Tape Latab!](https://poeziankreol.blogspot.com/2020/06/tape-latab-tape-latab.html)**  2020-06-11 07:51:37
-
-[Lekretir Keira](https://lekretirkeira.blogspot.com/)  
-**[LEDIKASYON](https://lekretirkeira.blogspot.com/2020/06/ledikasyon.html)**  2020-06-08 18:29:55
-
-[ProDaily](https://prodaily67.blogspot.com/)  
-**[Coming from the sky. Sony Vegas effect. ask for a tutorial.](https://prodaily67.blogspot.com/2020/06/coming-from-sky-sony-vegas-effect.html)**  2020-06-08 13:12:46
 
 <div style="height:0;width:0;overflow:hidden;"></div>
