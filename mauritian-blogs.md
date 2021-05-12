@@ -5,16 +5,16 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 6e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mardi-de-la-6e-semaine-de-paques.html)**  2021-05-11 04:30:00
+**[Mercredi de la 6e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mercredi-de-la-6e-semaine-de-paques.html)**  2021-05-12 05:34:51
 
 [L😀ck](https://teelocked.blogspot.com/)  
-**[How to Master Your Negative Thoughts and Use Them for Good](https://teelocked.blogspot.com/2021/05/how-to-master-your-negative-thoughts.html)**  2021-05-11 00:02:52
+**[Conférence Superfrance - île de la réunion &#124; IDRISS ABERKANE](https://teelocked.blogspot.com/2021/05/conference-superfrance-ile-de-la.html)**  2021-05-12 01:58:14
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Two Cakes !](https://swanlady-impressions.blogspot.com/2021/05/two-cakes.html)**  2021-05-10 19:31:24
+**[Natur{elle}](https://swanlady-impressions.blogspot.com/2021/05/naturelle.html)**  2021-05-11 20:22:41
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[IN THE AFTERMATH OF THE BLACK DEATH : The PEASANTS’ REVOLT (1381) triggered ideas about freedom](https://www.lemauricien.com/opinions/forum/in-the-aftermath-of-the-black-death-the-peasants-revolt-1381-triggered-ideas-about-freedom/422423/)**  2021-05-10 13:00:35
+**[Having the freedom to make  choices and embrace challenge](https://www.lemauricien.com/le-mauricien/having-the-freedom-to-make-choices-and-embrace-challenge/422728/)**  2021-05-11 13:00:40
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical Analysis Report Today &#124; Forex News – 10 May 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/05/technical-analysis-report-today-forex.html)**  2021-05-10 11:38:28
