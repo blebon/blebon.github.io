@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Memories of the past..](https://pandanours.blogspot.com/)  
+**[No title](https://pandanours.blogspot.com/2020/10/time-mysticism-everything-is-subject-to.html)**  2021-05-12 07:17:24
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[COVID -19 in Rumänien: "Kühn und verantwortungsbewusst"....Impfen im Schloss Dracula....Vaccination Transylvanian Style](https://insel-rodrigues.blogspot.com/2021/05/covid-19-in-rumanien-kuhn-und.html)**  2021-05-12 06:39:29
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mercredi de la 6e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mercredi-de-la-6e-semaine-de-paques.html)**  2021-05-12 05:34:51
 
@@ -39,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : des formations continues chez SEDECO !](https://sedecobtob.blogspot.com/2021/05/bpo-des-formations-continues-chez-sedeco.html)**  2021-05-06 09:08:22
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Emma Goldman...."Living my Life..." or "To The Daring Belongs The Future"](https://insel-rodrigues.blogspot.com/2021/05/emma-goldmanliving-my-life-or-to-daring.html)**  2021-05-03 03:01:15
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Tandemuis en DJ](https://huisvlyt.blogspot.com/2021/05/tandemuis-en-dj.html)**  2021-05-01 06:28:54
@@ -348,9 +351,6 @@ permalink: /mauritian-blogs/
 
 [Seasons](https://coachingthroughseasons.blogspot.com/)  
 **[The One](https://coachingthroughseasons.blogspot.com/2020/10/the-one.html)**  2020-10-06 17:04:37
-
-[Memories of the past..](https://pandanours.blogspot.com/)  
-**[No title](https://pandanours.blogspot.com/2020/10/time-mysticism-everything-is-subject-to.html)**  2020-10-05 15:31:19
 
 [First DigiCup Bootcamp](https://hiresh-pandoo--digicup-bootcamp.blogspot.com/)  
 **[No title](https://hiresh-pandoo--digicup-bootcamp.blogspot.com/2020/10/first-day-of-digicup-bootcamp-what-is.html)**  2020-10-03 18:08:57
