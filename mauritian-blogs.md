@@ -4,17 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[A National Consumer Survey on Food Safety, Food & Nutrition Security, Dietary Diversity and Physical Activity with Reference to the COVID-19 Experience](https://facultyagriculture.blogspot.com/2021/05/a-national-consumer-survey-on-food.html)**  2021-05-13 11:16:59
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Des services offshore variés chez SEDECO !](https://sedecobtob.blogspot.com/2021/05/des-services-offshore-varies-chez-sedeco.html)**  2021-05-13 10:06:56
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Propositions de l’ICTA – P. Labour :« N’étouffons pas la liberté d’expression que nous voulons protéger »](https://www.dioceseportlouis.org/2021/05/13/propositions-de-licta-p-labour-netouffons-pas-la-liberte-dexpression-que-nous-voulons-proteger/)**  2021-05-13 07:01:37
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/05/ne-peut-jamais-etre-sur-davoir-raison.html)**  2021-05-13 05:37:47
+**[No title](https://sooriamoorthy.blogspot.com/2021/05/ne-peut-jamais-etre-sur-davoir-raison.html)**  2021-05-13 06:24:28
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Jeudi de la 6e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/jeudi-de-la-6e-semaine-de-paques.html)**  2021-05-13 04:00:00
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Esther Perel on Workplace Dynamics &#124; SXSW 2019](https://teelocked.blogspot.com/2021/05/esther-perel-on-workplace-dynamics-sxsw.html)**  2021-05-12 17:37:46
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Prestation offshore SEDECO, à votre service !](https://sedecobtob.blogspot.com/2021/05/prestation-offshore-sedeco-votre-service.html)**  2021-05-12 15:41:50
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[INTERNATIONAL NURSES DAY : The relentless contribution of Nurses to the healthcare system](https://www.lemauricien.com/le-mauricien/international-nurses-day-the-relentless-contribution-of-nurses-to-the-healthcare-system/422934/)**  2021-05-12 15:01:08
@@ -42,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Easy Wall Art Part 2](https://mymauritiangarden.wordpress.com/2021/05/09/easy-wall-art-part-2/)**  2021-05-09 04:48:44
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Deux membres de la familles du père Dorai Raj emportés par la Covid-19 en Inde](https://www.dioceseportlouis.org/2021/05/07/deux-membres-de-la-familles-du-pere-dorai-raj-emportes-par-la-covid-19-en-inde/)**  2021-05-07 12:56:53
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Art Of Sushi](https://blog.constancehotels.com/selection-of-delectable-sushi-recipes-from-constance-hotels/)**  2021-05-07 12:26:27
@@ -322,9 +325,6 @@ permalink: /mauritian-blogs/
 [Francesca Sookahet Blog](https://fsookahet.blogspot.com/)  
 **[Un ami trop discret](https://fsookahet.blogspot.com/2020/10/un-ami-trop-discret.html)**  2020-10-27 18:31:12
 
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Centenary Celebrations of the Curepipe Livetsock Research Station, FAREI](https://facultyagriculture.blogspot.com/2020/10/centenary-celebrations-of-curepipe.html)**  2020-10-27 04:11:17
-
 [Forex News &#124; Market News &#124; Market Update &#124; Capital Street Fx](https://fxforexnews1.blogspot.com/)  
 **[Wall Street Opens Lower on Virus Surge, Stimulus Impasse; Dow Down 325 Pts &#124; Market News](https://fxforexnews1.blogspot.com/2020/10/wall-street-opens-lower-on-virus-surge.html)**  2020-10-26 17:09:04
 
@@ -489,8 +489,5 @@ permalink: /mauritian-blogs/
 
 [YUVRNT](https://yuvrnt.blogspot.com/)  
 **[Hello!](https://yuvrnt.blogspot.com/2020/06/hello_12.html)**  2020-06-12 12:47:26
-
-[Poezi An Kreol](https://poeziankreol.blogspot.com/)  
-**[Tape Latab, Tape Latab!](https://poeziankreol.blogspot.com/2020/06/tape-latab-tape-latab.html)**  2020-06-11 07:51:37
 
 <div style="height:0;width:0;overflow:hidden;"></div>
