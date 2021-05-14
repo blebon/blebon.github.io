@@ -4,26 +4,29 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Fête de Saint Matthias, Apôtre](https://josephnguyenmahebourg.blogspot.com/2021/05/fete-de-saint-matthias-apotre.html)**  2021-05-14 04:00:00
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[Several international NGOs, people affiliated with academia, Google and Mozilla, call on ICTA to abandon the idea of decrypting social media traffic](https://sysadmin-journal.com/several-international-ngo-call-on-icta-to-abandon-the-idea-of-decrypting-social-media-traffic/)**  2021-05-13 23:40:38
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[The Messed Up Mythology of Taurus &#124; Astrology Explained - Jon Solo](https://teelocked.blogspot.com/2021/05/the-messed-up-mythology-of-taurus.html)**  2021-05-13 22:41:02
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Cet appauvrissement généralisé qui nous ronge](https://www.lemauricien.com/le-mauricien/cet-appauvrissement-generalise-qui-nous-ronge/423086/)**  2021-05-13 13:00:59
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Covid-19 – Un nouveau calendrier diocésain proposé en attendant les consignes](https://www.dioceseportlouis.org/2021/05/13/covid-19-un-nouveau-calendrier-diocesain-propose-en-attendant-les-consignes/)**  2021-05-13 12:20:59
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[A National Consumer Survey on Food Safety, Food & Nutrition Security, Dietary Diversity and Physical Activity with Reference to the COVID-19 Experience](https://facultyagriculture.blogspot.com/2021/05/a-national-consumer-survey-on-food.html)**  2021-05-13 11:16:59
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Des services offshore variés chez SEDECO !](https://sedecobtob.blogspot.com/2021/05/des-services-offshore-varies-chez-sedeco.html)**  2021-05-13 10:06:56
 
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Propositions de l’ICTA – P. Labour :« N’étouffons pas la liberté d’expression que nous voulons protéger »](https://www.dioceseportlouis.org/2021/05/13/propositions-de-licta-p-labour-netouffons-pas-la-liberte-dexpression-que-nous-voulons-proteger/)**  2021-05-13 07:01:37
-
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/05/ne-peut-jamais-etre-sur-davoir-raison.html)**  2021-05-13 06:24:28
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 6e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/jeudi-de-la-6e-semaine-de-paques.html)**  2021-05-13 04:00:00
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Esther Perel on Workplace Dynamics &#124; SXSW 2019](https://teelocked.blogspot.com/2021/05/esther-perel-on-workplace-dynamics-sxsw.html)**  2021-05-12 17:37:46
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[INTERNATIONAL NURSES DAY : The relentless contribution of Nurses to the healthcare system](https://www.lemauricien.com/le-mauricien/international-nurses-day-the-relentless-contribution-of-nurses-to-the-healthcare-system/422934/)**  2021-05-12 15:01:08
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[NESCAFɮ Farmers Origins Coffee Capsules](https://amarbheenick.blogspot.com/2021/05/nescafe-farmers-origins-coffee-capsules.html)**  2021-05-12 12:17:26
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy Mother’s Day](https://davidandjennilyn.com/2021/05/09/happy-mothers-day-3/)**  2021-05-10 05:00:00
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[S. Moonesamy's thoughts on ICTA's proposals](https://sysadmin-journal.com/s-moonesamy-thoughts-on-icta-proposals/)**  2021-05-09 19:01:27
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Easy Wall Art Part 2](https://mymauritiangarden.wordpress.com/2021/05/09/easy-wall-art-part-2/)**  2021-05-09 04:48:44
