@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Cornflower 1](https://swanlady-impressions.blogspot.com/2021/05/cornflower-1.html)**  2021-05-14 07:26:48
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Ein Beben von 6.7 auf der Richterskala.....A quake not far from Rodrigues....Séisme dans notre région](https://insel-rodrigues.blogspot.com/2021/05/ein-beben-von-67-auf-der-richterskalaa.html)**  2021-05-14 06:25:34
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Fête de Saint Matthias, Apôtre](https://josephnguyenmahebourg.blogspot.com/2021/05/fete-de-saint-matthias-apotre.html)**  2021-05-14 04:00:00
 
@@ -33,12 +39,6 @@ permalink: /mauritian-blogs/
 
 [Memories of the past..](https://pandanours.blogspot.com/)  
 **[No title](https://pandanours.blogspot.com/2020/10/time-mysticism-everything-is-subject-to.html)**  2021-05-12 07:17:24
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[COVID -19 in Rumänien: "Kühn und verantwortungsbewusst"....Impfen im Schloss Dracula....Vaccination Transylvanian Style](https://insel-rodrigues.blogspot.com/2021/05/covid-19-in-rumanien-kuhn-und.html)**  2021-05-12 06:39:29
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Natur{elle}](https://swanlady-impressions.blogspot.com/2021/05/naturelle.html)**  2021-05-11 20:22:41
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical Analysis Report Today &#124; Forex News – 10 May 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/05/technical-analysis-report-today-forex.html)**  2021-05-10 11:38:28
