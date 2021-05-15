@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[MALEZ](https://www.lemauricien.com/le-mauricien/malez/423485/)**  2021-05-15 11:25:56
+
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Writer Ariel Saramandi & ICTA Chairman Dick Ng Sui Wa respond to BBC's journalist on ICTA's consultation paper](https://sysadmin-journal.com/writer-ariel-saramandi-icta-chairman-dick-ng-sui-wa-respond/)**  2021-05-15 05:16:40
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[The Messed Up Mythology of Taurus &#124; Astrology Explained - Jon Solo](https://teelocked.blogspot.com/2021/05/the-messed-up-mythology-of-taurus.html)**  2021-05-13 22:41:02
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Cet appauvrissement généralisé qui nous ronge](https://www.lemauricien.com/le-mauricien/cet-appauvrissement-generalise-qui-nous-ronge/423086/)**  2021-05-13 13:00:59
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Covid-19 – Un nouveau calendrier diocésain proposé en attendant les consignes](https://www.dioceseportlouis.org/2021/05/13/covid-19-un-nouveau-calendrier-diocesain-propose-en-attendant-les-consignes/)**  2021-05-13 12:20:59
