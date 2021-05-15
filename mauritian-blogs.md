@@ -4,17 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[Writer Ariel Saramandi & ICTA Chairman Dick Ng Sui Wa respond to BBC's journalist on ICTA's consultation paper](https://sysadmin-journal.com/writer-ariel-saramandi-icta-chairman-dick-ng-sui-wa-respond/)**  2021-05-15 05:16:40
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Samedi de la 6e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/samedi-de-la-6e-semaine-de-paques.html)**  2021-05-15 04:57:05
+
+[Savour the moment](https://savourthemomentattechie.blogspot.com/)  
+**[[Secure Connection Failed][PR_END_OF_FILE_ERROR]](https://savourthemomentattechie.blogspot.com/2021/05/secure-connection-failedprendoffileerror.html)**  2021-05-14 20:04:57
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Cornflower 1](https://swanlady-impressions.blogspot.com/2021/05/cornflower-1.html)**  2021-05-14 07:26:48
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Ein Beben von 6.7 auf der Richterskala.....A quake not far from Rodrigues....Séisme dans notre région](https://insel-rodrigues.blogspot.com/2021/05/ein-beben-von-67-auf-der-richterskalaa.html)**  2021-05-14 06:25:34
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Fête de Saint Matthias, Apôtre](https://josephnguyenmahebourg.blogspot.com/2021/05/fete-de-saint-matthias-apotre.html)**  2021-05-14 04:00:00
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Several international NGOs, people affiliated with academia, Google and Mozilla, call on ICTA to abandon the idea of decrypting social media traffic](https://sysadmin-journal.com/several-international-ngo-call-on-icta-to-abandon-the-idea-of-decrypting-social-media-traffic/)**  2021-05-13 23:40:38
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[The Messed Up Mythology of Taurus &#124; Astrology Explained - Jon Solo](https://teelocked.blogspot.com/2021/05/the-messed-up-mythology-of-taurus.html)**  2021-05-13 22:41:02
@@ -90,9 +93,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Satellites Paper](https://mars3b8.wordpress.com/2021/04/14/satellites-paper/)**  2021-04-14 04:23:43
-
-[Savour the moment](https://savourthemomentattechie.blogspot.com/)  
-**[[Microsoft Azure][Privileged Identity Management][Self-assignment and activation of roles]](https://savourthemomentattechie.blogspot.com/2021/04/microsoft-azureprivileged-identity.html)**  2021-04-12 15:02:07
 
 [Dari Hati](https://thepetiteblog.blogspot.com/)  
 **[Koleksi Puisi Kehilangan Dan Motivasi Cinta Sejati](https://thepetiteblog.blogspot.com/2020/02/koleksi-puisi-cinta-kehilangan-dan-motivasi-cinta-sejati.html)**  2021-04-12 09:22:23
@@ -486,8 +486,5 @@ permalink: /mauritian-blogs/
 
 [SWINGER_MAN](https://swinger-man.blogspot.com/)  
 **[No title](https://swinger-man.blogspot.com/2020/06/blog-post_48.html)**  2020-06-14 09:36:07
-
-[YUVRNT](https://yuvrnt.blogspot.com/)  
-**[Hello!](https://yuvrnt.blogspot.com/2020/06/hello_12.html)**  2020-06-12 12:47:26
 
 <div style="height:0;width:0;overflow:hidden;"></div>
