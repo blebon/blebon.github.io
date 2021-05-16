@@ -484,7 +484,4 @@ permalink: /mauritian-blogs/
 [PriyamPhotographyBlog2020](https://priyambhoodhoo.blogspot.com/)  
 **[NATURE](https://priyambhoodhoo.blogspot.com/2020/06/nature.html)**  2020-06-14 21:09:23
 
-[SWINGER_MAN](https://swinger-man.blogspot.com/)  
-**[No title](https://swinger-man.blogspot.com/2020/06/blog-post_48.html)**  2020-06-14 09:36:07
-
 <div style="height:0;width:0;overflow:hidden;"></div>
