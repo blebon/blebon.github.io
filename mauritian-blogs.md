@@ -4,6 +4,18 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
+**[Cardboard Art – Hamsa](https://mymauritiangarden.wordpress.com/2021/05/16/cardboard-art-hamsa/)**  2021-05-16 03:32:12
+
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[MIR-SAT1](https://mars3b8.wordpress.com/2021/05/16/mir-sat1/)**  2021-05-16 02:55:13
+
+[Veganlovlie](https://veganlovlie.com)  
+**[No-knead Overnight Spelt Bread](http://feedproxy.google.com/~r/veganlovlie/~3/jWPIuLnlQhI/)**  2021-05-16 01:05:25
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[A Discussion with Dr. Sylvia Earle and Craig Foster from My Octopus Teacher](https://teelocked.blogspot.com/2021/05/a-discussion-with-dr-sylvia-earle-and.html)**  2021-05-15 22:15:35
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[MALEZ](https://www.lemauricien.com/le-mauricien/malez/423485/)**  2021-05-15 11:25:56
 
@@ -21,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Ein Beben von 6.7 auf der Richterskala.....A quake not far from Rodrigues....Séisme dans notre région](https://insel-rodrigues.blogspot.com/2021/05/ein-beben-von-67-auf-der-richterskalaa.html)**  2021-05-14 06:25:34
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[The Messed Up Mythology of Taurus &#124; Astrology Explained - Jon Solo](https://teelocked.blogspot.com/2021/05/the-messed-up-mythology-of-taurus.html)**  2021-05-13 22:41:02
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Covid-19 – Un nouveau calendrier diocésain proposé en attendant les consignes](https://www.dioceseportlouis.org/2021/05/13/covid-19-un-nouveau-calendrier-diocesain-propose-en-attendant-les-consignes/)**  2021-05-13 12:20:59
@@ -48,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy Mother’s Day](https://davidandjennilyn.com/2021/05/09/happy-mothers-day-3/)**  2021-05-10 05:00:00
-
-[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
-**[Easy Wall Art Part 2](https://mymauritiangarden.wordpress.com/2021/05/09/easy-wall-art-part-2/)**  2021-05-09 04:48:44
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Art Of Sushi](https://blog.constancehotels.com/selection-of-delectable-sushi-recipes-from-constance-hotels/)**  2021-05-07 12:26:27
@@ -91,14 +97,8 @@ permalink: /mauritian-blogs/
 [Yashvinblogs](https://yashvinblogs.com)  
 **[ICTA’s public consultation to ammend laws around social media](https://yashvinblogs.com/2021/04/15/icta-laws-social-media/)**  2021-04-15 06:22:38
 
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[Satellites Paper](https://mars3b8.wordpress.com/2021/04/14/satellites-paper/)**  2021-04-14 04:23:43
-
 [Dari Hati](https://thepetiteblog.blogspot.com/)  
 **[Koleksi Puisi Kehilangan Dan Motivasi Cinta Sejati](https://thepetiteblog.blogspot.com/2020/02/koleksi-puisi-cinta-kehilangan-dan-motivasi-cinta-sejati.html)**  2021-04-12 09:22:23
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Apple Crème Caramel Recipe](http://feedproxy.google.com/~r/veganlovlie/~3/XcMkAtV3f7w/)**  2021-04-12 05:54:53
 
 [Spiritual in my life](https://spiritualinlife23.blogspot.com/)  
 **[Durga bhajan, jay ambe bhawani](https://spiritualinlife23.blogspot.com/2021/04/durga-bhajan-jay-ambe-bhawani.html)**  2021-04-11 16:53:58
