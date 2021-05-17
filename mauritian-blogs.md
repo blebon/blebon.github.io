@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Color Hues #18 : Purple & Teal](https://swanlady-impressions.blogspot.com/2021/05/color-hues-18-purple-teal.html)**  2021-05-16 18:22:51
+
+[The Mauritian Shareaholic](http://www.themauritianshareaholic.com/)  
+**[Want To Reach Your Goals? Use This FREE Method!](http://feedproxy.google.com/~r/blogspot/BNplv/~3/HiMXp4m7WU4/reach-goals-free-method.html)**  2021-05-16 17:55:56
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Eid Mubarak, mais pour qui ?](https://www.lemauricien.com/opinions/forum/eid-mubarak-mais-pour-qui/423671/)**  2021-05-16 16:23:00
+
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Cardboard Art – Hamsa](https://mymauritiangarden.wordpress.com/2021/05/16/cardboard-art-hamsa/)**  2021-05-16 03:32:12
 
@@ -16,9 +25,6 @@ permalink: /mauritian-blogs/
 [L😀ck](https://teelocked.blogspot.com/)  
 **[A Discussion with Dr. Sylvia Earle and Craig Foster from My Octopus Teacher](https://teelocked.blogspot.com/2021/05/a-discussion-with-dr-sylvia-earle-and.html)**  2021-05-15 22:15:35
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[MALEZ](https://www.lemauricien.com/le-mauricien/malez/423485/)**  2021-05-15 11:25:56
-
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Writer Ariel Saramandi & ICTA Chairman Dick Ng Sui Wa respond to BBC's journalist on ICTA's consultation paper](https://sysadmin-journal.com/writer-ariel-saramandi-icta-chairman-dick-ng-sui-wa-respond/)**  2021-05-15 05:16:40
 
@@ -27,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Secure Connection Failed][PR_END_OF_FILE_ERROR]](https://savourthemomentattechie.blogspot.com/2021/05/secure-connection-failedprendoffileerror.html)**  2021-05-14 20:04:57
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Cornflower 1](https://swanlady-impressions.blogspot.com/2021/05/cornflower-1.html)**  2021-05-14 07:26:48
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Ein Beben von 6.7 auf der Richterskala.....A quake not far from Rodrigues....Séisme dans notre région](https://insel-rodrigues.blogspot.com/2021/05/ein-beben-von-67-auf-der-richterskalaa.html)**  2021-05-14 06:25:34
@@ -237,9 +240,6 @@ permalink: /mauritian-blogs/
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[New single by EL PLAGA & Kreol Diez](https://elplagaa.blogspot.com/2021/01/new-single-by-el-plaga-kreol-diez.html)**  2021-01-07 09:31:16
-
-[The Mauritian Shareaholic](http://www.themauritianshareaholic.com/)  
-**[Alibaba, The Symbol Of Chinese Tech In Disgrace!](http://feedproxy.google.com/~r/blogspot/BNplv/~3/el4p-jxeMmM/alibaba-chinese-tech-symbol-disgrace.html)**  2020-12-31 06:40:14
 
 [Cogito...](https://patil-hunma.blogspot.com/)  
 **[A case for a systematic implementation of the ‘flipped classroom’ at all levels](https://patil-hunma.blogspot.com/2020/12/a-case-for-systematic-implementation-of.html)**  2020-12-27 15:10:54
@@ -480,8 +480,5 @@ permalink: /mauritian-blogs/
 
 [photography](https://teeshaphotography.blogspot.com/)  
 **[Natural_beauty](https://teeshaphotography.blogspot.com/2020/06/naturalbeauty.html)**  2020-06-15 12:45:07
-
-[PriyamPhotographyBlog2020](https://priyambhoodhoo.blogspot.com/)  
-**[NATURE](https://priyambhoodhoo.blogspot.com/2020/06/nature.html)**  2020-06-14 21:09:23
 
 <div style="height:0;width:0;overflow:hidden;"></div>
