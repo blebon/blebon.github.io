@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Ein Beben von 6.7 auf der Richterskala.....A quake not far from Rodrigues....Séisme dans notre région](https://insel-rodrigues.blogspot.com/2021/05/ein-beben-von-67-auf-der-richterskalaa.html)**  2021-05-17 10:50:42
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Color Hues #18 : Purple & Teal](https://swanlady-impressions.blogspot.com/2021/05/color-hues-18-purple-teal.html)**  2021-05-16 18:22:51
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Secure Connection Failed][PR_END_OF_FILE_ERROR]](https://savourthemomentattechie.blogspot.com/2021/05/secure-connection-failedprendoffileerror.html)**  2021-05-14 20:04:57
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Ein Beben von 6.7 auf der Richterskala.....A quake not far from Rodrigues....Séisme dans notre région](https://insel-rodrigues.blogspot.com/2021/05/ein-beben-von-67-auf-der-richterskalaa.html)**  2021-05-14 06:25:34
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Covid-19 – Un nouveau calendrier diocésain proposé en attendant les consignes](https://www.dioceseportlouis.org/2021/05/13/covid-19-un-nouveau-calendrier-diocesain-propose-en-attendant-les-consignes/)**  2021-05-13 12:20:59
