@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Family Travel At Constance Moofushi Maldives](https://blog.constancehotels.com/family-travel-at-constance-moofushi-maldives/)**  2021-05-18 09:34:16
+
+[http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
+**[https://www.cnbc.com/2021/05/18/india-covid-crisis-shows-public-health-neglect-problems-underinvestment.html](https://arvindbabajee.blogspot.com/2021/05/httpswwwcnbccom20210518india-covid.html)**  2021-05-18 08:17:33
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mardi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mardi-de-la-7e-semaine-de-paques.html)**  2021-05-18 04:37:40
 
@@ -60,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy Mother’s Day](https://davidandjennilyn.com/2021/05/09/happy-mothers-day-3/)**  2021-05-10 05:00:00
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[The Art Of Sushi](https://blog.constancehotels.com/selection-of-delectable-sushi-recipes-from-constance-hotels/)**  2021-05-07 12:26:27
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[ICTA Public consultation for TLS MITM in Mauritius](https://lugm.org/2021/05/07/icta-public-consultation-for-tls-mitm-in-mauritius/)**  2021-05-07 10:22:25
@@ -183,9 +186,6 @@ permalink: /mauritian-blogs/
 
 [The Four Walls of Life](https://the4wallsoflife.blogspot.com/)  
 **[NOT HOME SWEET HOME](https://the4wallsoflife.blogspot.com/2021/02/not-home-sweet-home.html)**  2021-02-26 17:58:10
-
-[http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
-**[https://www.cnbc.com/2021/02/25/standard-chartered-ceo-bill-winters-warns-stock-markets-look-frothy.html](https://arvindbabajee.blogspot.com/2021/02/httpswwwcnbccom20210225standard.html)**  2021-02-25 11:38:59
 
 [Forex Trader &#124; Viivek Naiir](https://viiveknaiir.blogspot.com/)  
 **[No title](https://viiveknaiir.blogspot.com/2021/02/how-to-choose-forex-broker-once-you-get.html)**  2021-02-25 11:07:28
