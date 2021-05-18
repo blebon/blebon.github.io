@@ -4,17 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mardi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mardi-de-la-7e-semaine-de-paques.html)**  2021-05-18 04:37:40
+
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Ein Beben von 6.7 auf der Richterskala.....A quake not far from Rodrigues....Séisme dans notre région](https://insel-rodrigues.blogspot.com/2021/05/ein-beben-von-67-auf-der-richterskalaa.html)**  2021-05-17 10:50:42
+**[Expertenmeinungen zu den Beben in unserer Region...More on the earthquakes in our region by some experts - Plus sur des séismes dans notre région](https://insel-rodrigues.blogspot.com/2021/05/expertenmeinungen-zu-den-beben-in.html)**  2021-05-18 03:28:46
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Digital Nomad Visas EXPLAINED: The Best🏆 and Worst ❌  Remote Work and Tr...](https://teelocked.blogspot.com/2021/05/digital-nomad-visas-explained-best-and.html)**  2021-05-18 00:50:15
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Color Hues #18 : Purple & Teal](https://swanlady-impressions.blogspot.com/2021/05/color-hues-18-purple-teal.html)**  2021-05-16 18:22:51
+**[Color Hues #18 : Purple & Teal](https://swanlady-impressions.blogspot.com/2021/05/color-hues-18-purple-teal.html)**  2021-05-17 14:59:21
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[COMBAT CONTRE LE BLANCHIMENT D’ARGENT : Les écuries d’Augias à nettoyer au plus vite](https://www.lemauricien.com/le-mauricien/combat-contre-le-blanchiment-dargent-les-ecuries-daugias-a-nettoyer-au-plus-vite/423853/)**  2021-05-17 13:05:24
 
 [The Mauritian Shareaholic](http://www.themauritianshareaholic.com/)  
 **[Want To Reach Your Goals? Use This FREE Method!](http://feedproxy.google.com/~r/blogspot/BNplv/~3/HiMXp4m7WU4/reach-goals-free-method.html)**  2021-05-16 17:55:56
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Eid Mubarak, mais pour qui ?](https://www.lemauricien.com/opinions/forum/eid-mubarak-mais-pour-qui/423671/)**  2021-05-16 16:23:00
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Cardboard Art – Hamsa](https://mymauritiangarden.wordpress.com/2021/05/16/cardboard-art-hamsa/)**  2021-05-16 03:32:12
@@ -25,14 +31,8 @@ permalink: /mauritian-blogs/
 [Veganlovlie](https://veganlovlie.com)  
 **[No-knead Overnight Spelt Bread](http://feedproxy.google.com/~r/veganlovlie/~3/jWPIuLnlQhI/)**  2021-05-16 01:05:25
 
-[L😀ck](https://teelocked.blogspot.com/)  
-**[A Discussion with Dr. Sylvia Earle and Craig Foster from My Octopus Teacher](https://teelocked.blogspot.com/2021/05/a-discussion-with-dr-sylvia-earle-and.html)**  2021-05-15 22:15:35
-
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Writer Ariel Saramandi & ICTA Chairman Dick Ng Sui Wa respond to BBC's journalist on ICTA's consultation paper](https://sysadmin-journal.com/writer-ariel-saramandi-icta-chairman-dick-ng-sui-wa-respond/)**  2021-05-15 05:16:40
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 6e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/samedi-de-la-6e-semaine-de-paques.html)**  2021-05-15 04:57:05
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Secure Connection Failed][PR_END_OF_FILE_ERROR]](https://savourthemomentattechie.blogspot.com/2021/05/secure-connection-failedprendoffileerror.html)**  2021-05-14 20:04:57
@@ -474,11 +474,5 @@ permalink: /mauritian-blogs/
 
 [Self consciousness](https://karishmaselfconsciousness.blogspot.com/)  
 **[No title](https://karishmaselfconsciousness.blogspot.com/2020/06/good-morning-today-i-want-to-share.html)**  2020-06-18 06:43:23
-
-[YPhotography](https://yegam2991.blogspot.com/)  
-**[Animals](https://yegam2991.blogspot.com/2020/06/animals.html)**  2020-06-15 13:26:57
-
-[photography](https://teeshaphotography.blogspot.com/)  
-**[Natural_beauty](https://teeshaphotography.blogspot.com/2020/06/naturalbeauty.html)**  2020-06-15 12:45:07
 
 <div style="height:0;width:0;overflow:hidden;"></div>
