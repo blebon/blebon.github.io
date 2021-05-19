@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[St Pierre- Renouvellement de la redevance annuelle des concessions](https://www.dioceseportlouis.org/2021/05/19/st-pierre-renouvellement-de-la-redevance-annuelle-des-concessions/)**  2021-05-19 11:04:33
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Expertenmeinungen zu den Beben in unserer Region...More on the earthquakes in our region by some experts - Plus sur des séismes dans notre région](https://insel-rodrigues.blogspot.com/2021/05/expertenmeinungen-zu-den-beben-in.html)**  2021-05-19 07:50:10
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[Internet Society and Mauritius IGF react to ICTA's consultation paper](https://sysadmin-journal.com/internet-society-and-mauritius-igf-react-to-icta-consultation-paper/)**  2021-05-19 07:27:33
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mecredi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mecredi-de-la-7e-semaine-de-paques.html)**  2021-05-19 05:18:47
 
@@ -18,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
 **[https://www.cnbc.com/2021/05/18/india-covid-crisis-shows-public-health-neglect-problems-underinvestment.html](https://arvindbabajee.blogspot.com/2021/05/httpswwwcnbccom20210518india-covid.html)**  2021-05-18 08:17:33
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Expertenmeinungen zu den Beben in unserer Region...More on the earthquakes in our region by some experts - Plus sur des séismes dans notre région](https://insel-rodrigues.blogspot.com/2021/05/expertenmeinungen-zu-den-beben-in.html)**  2021-05-18 03:28:46
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Color Hues #18 : Purple & Teal](https://swanlady-impressions.blogspot.com/2021/05/color-hues-18-purple-teal.html)**  2021-05-17 14:59:21
@@ -40,14 +46,8 @@ permalink: /mauritian-blogs/
 [Veganlovlie](https://veganlovlie.com)  
 **[No-knead Overnight Spelt Bread](http://feedproxy.google.com/~r/veganlovlie/~3/jWPIuLnlQhI/)**  2021-05-16 01:05:25
 
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Writer Ariel Saramandi & ICTA Chairman Dick Ng Sui Wa respond to BBC's journalist on ICTA's consultation paper](https://sysadmin-journal.com/writer-ariel-saramandi-icta-chairman-dick-ng-sui-wa-respond/)**  2021-05-15 05:16:40
-
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Secure Connection Failed][PR_END_OF_FILE_ERROR]](https://savourthemomentattechie.blogspot.com/2021/05/secure-connection-failedprendoffileerror.html)**  2021-05-14 20:04:57
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Covid-19 – Un nouveau calendrier diocésain proposé en attendant les consignes](https://www.dioceseportlouis.org/2021/05/13/covid-19-un-nouveau-calendrier-diocesain-propose-en-attendant-les-consignes/)**  2021-05-13 12:20:59
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[A National Consumer Survey on Food Safety, Food & Nutrition Security, Dietary Diversity and Physical Activity with Reference to the COVID-19 Experience](https://facultyagriculture.blogspot.com/2021/05/a-national-consumer-survey-on-food.html)**  2021-05-13 11:16:59
