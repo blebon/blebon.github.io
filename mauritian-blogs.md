@@ -4,20 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mecredi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mecredi-de-la-7e-semaine-de-paques.html)**  2021-05-19 05:18:47
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Kati Morton &#124; Are U Okay? &#124; Talks at Google](https://teelocked.blogspot.com/2021/05/kati-morton-are-u-okay-talks-at-google.html)**  2021-05-18 23:31:41
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Externalisation : un service de qualité avec SEDECO !](https://sedecobtob.blogspot.com/2021/05/externalisation-un-service-de-qualite.html)**  2021-05-18 18:26:03
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Family Travel At Constance Moofushi Maldives](https://blog.constancehotels.com/family-travel-at-constance-moofushi-maldives/)**  2021-05-18 09:34:16
 
 [http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
 **[https://www.cnbc.com/2021/05/18/india-covid-crisis-shows-public-health-neglect-problems-underinvestment.html](https://arvindbabajee.blogspot.com/2021/05/httpswwwcnbccom20210518india-covid.html)**  2021-05-18 08:17:33
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mardi-de-la-7e-semaine-de-paques.html)**  2021-05-18 04:37:40
-
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Expertenmeinungen zu den Beben in unserer Region...More on the earthquakes in our region by some experts - Plus sur des séismes dans notre région](https://insel-rodrigues.blogspot.com/2021/05/expertenmeinungen-zu-den-beben-in.html)**  2021-05-18 03:28:46
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Digital Nomad Visas EXPLAINED: The Best🏆 and Worst ❌  Remote Work and Tr...](https://teelocked.blogspot.com/2021/05/digital-nomad-visas-explained-best-and.html)**  2021-05-18 00:50:15
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Color Hues #18 : Purple & Teal](https://swanlady-impressions.blogspot.com/2021/05/color-hues-18-purple-teal.html)**  2021-05-17 14:59:21
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[A National Consumer Survey on Food Safety, Food & Nutrition Security, Dietary Diversity and Physical Activity with Reference to the COVID-19 Experience](https://facultyagriculture.blogspot.com/2021/05/a-national-consumer-survey-on-food.html)**  2021-05-13 11:16:59
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Des services offshore variés chez SEDECO !](https://sedecobtob.blogspot.com/2021/05/des-services-offshore-varies-chez-sedeco.html)**  2021-05-13 10:06:56
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/05/ne-peut-jamais-etre-sur-davoir-raison.html)**  2021-05-13 06:24:28
