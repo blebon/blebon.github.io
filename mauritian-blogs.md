@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[St Pierre- Renouvellement de la redevance annuelle des concessions](https://www.dioceseportlouis.org/2021/05/19/st-pierre-renouvellement-de-la-redevance-annuelle-des-concessions/)**  2021-05-19 11:04:33
-
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Expertenmeinungen zu den Beben in unserer Region...More on the earthquakes in our region by some experts - Plus sur des séismes dans notre région](https://insel-rodrigues.blogspot.com/2021/05/expertenmeinungen-zu-den-beben-in.html)**  2021-05-19 07:50:10
+**[COVID -19 : Wo Impfen belohnt wird....Vaccination Incentives: Between Joints and Blue Whales in the USA](https://insel-rodrigues.blogspot.com/2021/05/covid-19-wo-impfen-belohnt.html)**  2021-05-20 04:43:13
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Internet Society and Mauritius IGF react to ICTA's consultation paper](https://sysadmin-journal.com/internet-society-and-mauritius-igf-react-to-icta-consultation-paper/)**  2021-05-19 07:27:33
+**[Proof-of-concept proxy shows user account passwords and private photos can be decrypted](https://sysadmin-journal.com/proof-of-concept-proxy-shows-user-account-passwords-and-private-photos-can-be-decrypted/)**  2021-05-19 17:59:46
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Of Potholes and Manholes](https://www.lemauricien.com/le-mauricien/of-potholes-and-manholes/424177/)**  2021-05-19 13:31:18
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Ordination épiscopale de Mgr Piat en 1991 : « C’est toujours avec vous et jamais sans vous que je pousserai vers le large… »](https://www.dioceseportlouis.org/2021/05/19/ordination-episcopale-de-mgr-maurice-piat-en-1991-cest-toujours-avec-vous-et-jamais-sans-vous-que-je-pousserai-vers-le-large/)**  2021-05-19 11:57:21
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mecredi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mecredi-de-la-7e-semaine-de-paques.html)**  2021-05-19 05:18:47
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Color Hues #18 : Purple & Teal](https://swanlady-impressions.blogspot.com/2021/05/color-hues-18-purple-teal.html)**  2021-05-17 14:59:21
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[COMBAT CONTRE LE BLANCHIMENT D’ARGENT : Les écuries d’Augias à nettoyer au plus vite](https://www.lemauricien.com/le-mauricien/combat-contre-le-blanchiment-dargent-les-ecuries-daugias-a-nettoyer-au-plus-vite/423853/)**  2021-05-17 13:05:24
 
 [The Mauritian Shareaholic](http://www.themauritianshareaholic.com/)  
 **[Want To Reach Your Goals? Use This FREE Method!](http://feedproxy.google.com/~r/blogspot/BNplv/~3/HiMXp4m7WU4/reach-goals-free-method.html)**  2021-05-16 17:55:56
