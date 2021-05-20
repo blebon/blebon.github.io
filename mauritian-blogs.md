@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[imathsit](https://imathsit.blogspot.com/)  
+**[Welcome to imathsit.com](https://imathsit.blogspot.com/2017/05/lower-secondary-grade-13-and-below.html)**  2021-05-20 07:27:05
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Jeudi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/jeudi-de-la-7e-semaine-de-paques.html)**  2021-05-20 06:20:50
+
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[COVID -19 : Wo Impfen belohnt wird....Vaccination Incentives: Between Joints and Blue Whales in the USA](https://insel-rodrigues.blogspot.com/2021/05/covid-19-wo-impfen-belohnt.html)**  2021-05-20 04:43:13
 
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Ordination épiscopale de Mgr Piat en 1991 : « C’est toujours avec vous et jamais sans vous que je pousserai vers le large… »](https://www.dioceseportlouis.org/2021/05/19/ordination-episcopale-de-mgr-maurice-piat-en-1991-cest-toujours-avec-vous-et-jamais-sans-vous-que-je-pousserai-vers-le-large/)**  2021-05-19 11:57:21
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mecredi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/mecredi-de-la-7e-semaine-de-paques.html)**  2021-05-19 05:18:47
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Kati Morton &#124; Are U Okay? &#124; Talks at Google](https://teelocked.blogspot.com/2021/05/kati-morton-are-u-okay-talks-at-google.html)**  2021-05-18 23:31:41
@@ -247,9 +250,6 @@ permalink: /mauritian-blogs/
 [Oneself ✨](https://oneselfthepoweriswithinyou.blogspot.com/)  
 **[Be happy](https://oneselfthepoweriswithinyou.blogspot.com/2020/12/be-happy.html)**  2020-12-22 17:39:26
 
-[imathsit](https://imathsit.blogspot.com/)  
-**[Grade 7 to 11](https://imathsit.blogspot.com/2017/05/lower-secondary-grade-13-and-below.html)**  2020-12-17 13:53:34
-
 [Mica](https://micaramjee.blogspot.com/)  
 **[Mica - Dafuq (Riddim)](https://micaramjee.blogspot.com/2020/12/mica-dafuq-riddim.html)**  2020-12-16 21:03:34
 
@@ -471,8 +471,5 @@ permalink: /mauritian-blogs/
 
 [Photography: conversing in pictures](https://amirahiphotos.blogspot.com/)  
 **[TRIP TO MBC](https://amirahiphotos.blogspot.com/2020/06/trip-to-mbc.html)**  2020-06-20 16:00:39
-
-[Self consciousness](https://karishmaselfconsciousness.blogspot.com/)  
-**[No title](https://karishmaselfconsciousness.blogspot.com/2020/06/good-morning-today-i-want-to-share.html)**  2020-06-18 06:43:23
 
 <div style="height:0;width:0;overflow:hidden;"></div>
