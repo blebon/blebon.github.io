@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Vendredi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/vendredi-de-la-7e-semaine-de-paques.html)**  2021-05-21 05:40:14
+
+[Linux User Group of Mauritius](https://lugm.org)  
+**[LUGM submission on the ICTA consultation paper](https://lugm.org/2021/05/20/lugm-submission-on-the-icta-consultation-paper/)**  2021-05-20 18:54:55
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Wired to Create &#124; Carolyn Gregoire & Scott Barry Kaufman &#124; Talks at Google](https://teelocked.blogspot.com/2021/05/wired-to-create-carolyn-gregoire-scott.html)**  2021-05-20 16:30:15
+
 [imathsit](https://imathsit.blogspot.com/)  
 **[Welcome to imathsit.com](https://imathsit.blogspot.com/2017/05/lower-secondary-grade-13-and-below.html)**  2021-05-20 07:27:05
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/jeudi-de-la-7e-semaine-de-paques.html)**  2021-05-20 06:20:50
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[COVID -19 : Wo Impfen belohnt wird....Vaccination Incentives: Between Joints and Blue Whales in the USA](https://insel-rodrigues.blogspot.com/2021/05/covid-19-wo-impfen-belohnt.html)**  2021-05-20 04:43:13
@@ -21,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Ordination épiscopale de Mgr Piat en 1991 : « C’est toujours avec vous et jamais sans vous que je pousserai vers le large… »](https://www.dioceseportlouis.org/2021/05/19/ordination-episcopale-de-mgr-maurice-piat-en-1991-cest-toujours-avec-vous-et-jamais-sans-vous-que-je-pousserai-vers-le-large/)**  2021-05-19 11:57:21
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Kati Morton &#124; Are U Okay? &#124; Talks at Google](https://teelocked.blogspot.com/2021/05/kati-morton-are-u-okay-talks-at-google.html)**  2021-05-18 23:31:41
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Externalisation : un service de qualité avec SEDECO !](https://sedecobtob.blogspot.com/2021/05/externalisation-un-service-de-qualite.html)**  2021-05-18 18:26:03
@@ -69,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy Mother’s Day](https://davidandjennilyn.com/2021/05/09/happy-mothers-day-3/)**  2021-05-10 05:00:00
-
-[Linux User Group of Mauritius](https://lugm.org)  
-**[ICTA Public consultation for TLS MITM in Mauritius](https://lugm.org/2021/05/07/icta-public-consultation-for-tls-mitm-in-mauritius/)**  2021-05-07 10:22:25
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Tandemuis en DJ](https://huisvlyt.blogspot.com/2021/05/tandemuis-en-dj.html)**  2021-05-01 06:28:54
