@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[L’annuaire du diocèse disponible à Rs 550](https://www.dioceseportlouis.org/2021/05/21/lannuaire-du-diocese-disponible-a-rs-550/)**  2021-05-21 11:11:48
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Vendredi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/vendredi-de-la-7e-semaine-de-paques.html)**  2021-05-21 05:40:14
 
@@ -13,6 +16,9 @@ permalink: /mauritian-blogs/
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Wired to Create &#124; Carolyn Gregoire & Scott Barry Kaufman &#124; Talks at Google](https://teelocked.blogspot.com/2021/05/wired-to-create-carolyn-gregoire-scott.html)**  2021-05-20 16:30:15
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[La vaccination est un choix personnel](https://www.lemauricien.com/le-mauricien/la-vaccination-est-un-choix-personnel/424489/)**  2021-05-20 10:19:21
+
 [imathsit](https://imathsit.blogspot.com/)  
 **[Welcome to imathsit.com](https://imathsit.blogspot.com/2017/05/lower-secondary-grade-13-and-below.html)**  2021-05-20 07:27:05
 
@@ -21,12 +27,6 @@ permalink: /mauritian-blogs/
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Proof-of-concept proxy shows user account passwords and private photos can be decrypted](https://sysadmin-journal.com/proof-of-concept-proxy-shows-user-account-passwords-and-private-photos-can-be-decrypted/)**  2021-05-19 17:59:46
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Of Potholes and Manholes](https://www.lemauricien.com/le-mauricien/of-potholes-and-manholes/424177/)**  2021-05-19 13:31:18
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Ordination épiscopale de Mgr Piat en 1991 : « C’est toujours avec vous et jamais sans vous que je pousserai vers le large… »](https://www.dioceseportlouis.org/2021/05/19/ordination-episcopale-de-mgr-maurice-piat-en-1991-cest-toujours-avec-vous-et-jamais-sans-vous-que-je-pousserai-vers-le-large/)**  2021-05-19 11:57:21
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Externalisation : un service de qualité avec SEDECO !](https://sedecobtob.blogspot.com/2021/05/externalisation-un-service-de-qualite.html)**  2021-05-18 18:26:03
