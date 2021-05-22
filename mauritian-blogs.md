@@ -4,20 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Samedi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/samedi-de-la-7e-semaine-de-paques.html)**  2021-05-22 04:30:00
+
+[The Mauritian Shareaholic](http://www.themauritianshareaholic.com/)  
+**[Scientifically Eliminate Your Headaches/Migraines Away!](http://feedproxy.google.com/~r/blogspot/BNplv/~3/6To0-gHimjU/scientifically-eliminate-headaches.html)**  2021-05-22 03:48:27
+
+[C'est reparti !](https://c-est-reparti.blogspot.com/)  
+**[Quelques nouvelles (à défaut d'un titre plus inspiré)](https://c-est-reparti.blogspot.com/2021/05/quelques-nouvelles-defaut-dun-titre.html)**  2021-05-21 13:58:34
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Vaccination Policy at the Workplace: The consequences from a legal standpoint](https://www.lemauricien.com/le-mauricien/vaccination-policy-at-the-workplace-the-consequences-from-a-legal-standpoint/424526/)**  2021-05-21 13:00:09
+
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[L’annuaire du diocèse disponible à Rs 550](https://www.dioceseportlouis.org/2021/05/21/lannuaire-du-diocese-disponible-a-rs-550/)**  2021-05-21 11:11:48
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/vendredi-de-la-7e-semaine-de-paques.html)**  2021-05-21 05:40:14
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[LUGM submission on the ICTA consultation paper](https://lugm.org/2021/05/20/lugm-submission-on-the-icta-consultation-paper/)**  2021-05-20 18:54:55
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Wired to Create &#124; Carolyn Gregoire & Scott Barry Kaufman &#124; Talks at Google](https://teelocked.blogspot.com/2021/05/wired-to-create-carolyn-gregoire-scott.html)**  2021-05-20 16:30:15
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[La vaccination est un choix personnel](https://www.lemauricien.com/le-mauricien/la-vaccination-est-un-choix-personnel/424489/)**  2021-05-20 10:19:21
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[Welcome to imathsit.com](https://imathsit.blogspot.com/2017/05/lower-secondary-grade-13-and-below.html)**  2021-05-20 07:27:05
@@ -39,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Color Hues #18 : Purple & Teal](https://swanlady-impressions.blogspot.com/2021/05/color-hues-18-purple-teal.html)**  2021-05-17 14:59:21
-
-[The Mauritian Shareaholic](http://www.themauritianshareaholic.com/)  
-**[Want To Reach Your Goals? Use This FREE Method!](http://feedproxy.google.com/~r/blogspot/BNplv/~3/HiMXp4m7WU4/reach-goals-free-method.html)**  2021-05-16 17:55:56
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Cardboard Art – Hamsa](https://mymauritiangarden.wordpress.com/2021/05/16/cardboard-art-hamsa/)**  2021-05-16 03:32:12
@@ -117,9 +120,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[This is a golden moment for policy thinkers like Minouche Shafik](https://zoomdr.blogspot.com/2021/04/this-is-golden-moment-for-policy.html)**  2021-04-10 17:38:38
-
-[C'est reparti !](https://c-est-reparti.blogspot.com/)  
-**[Neige de printemps](https://c-est-reparti.blogspot.com/2021/04/neige-de-printemps.html)**  2021-04-08 12:48:47
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Fake Guru](https://vintishgokool.blogspot.com/2021/04/fake-guru.html)**  2021-04-04 17:12:57
