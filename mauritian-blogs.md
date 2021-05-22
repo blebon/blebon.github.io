@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**["Whites will cling to power far into the future, because it is so entrenched in the system"](https://zoomdr.blogspot.com/2021/05/whites-will-cling-to-power-far-into.html)**  2021-05-22 08:38:20
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Samedi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/samedi-de-la-7e-semaine-de-paques.html)**  2021-05-22 04:30:00
 
@@ -117,9 +120,6 @@ permalink: /mauritian-blogs/
 
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[Mars-Avril 2021: Confinement...le retour!](https://petitpotagerilemaurice.blogspot.com/2021/04/mars-avril-2021-confinementle-retour.html)**  2021-04-10 18:09:00
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[This is a golden moment for policy thinkers like Minouche Shafik](https://zoomdr.blogspot.com/2021/04/this-is-golden-moment-for-policy.html)**  2021-04-10 17:38:38
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Fake Guru](https://vintishgokool.blogspot.com/2021/04/fake-guru.html)**  2021-04-04 17:12:57
