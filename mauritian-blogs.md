@@ -4,11 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour la Solennité de la Pentecôte](https://josephnguyenmahebourg.blogspot.com/2021/05/homelie-pour-la-solennite-de-la.html)**  2021-05-23 05:00:00
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Denis Villeneuve & His Cinema of Ambiguity  — Directing Styles Explained](https://teelocked.blogspot.com/2021/05/denis-villeneuve-his-cinema-of.html)**  2021-05-22 22:10:10
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Looking out the Window](https://swanlady-impressions.blogspot.com/2021/05/looking-out-window.html)**  2021-05-22 19:49:09
+
+[adarsh.me](https://adarsh.me/)  
+**[Found that while going through my shots of Rome in...](https://adarsh.me/post/651907428478255104)**  2021-05-22 19:16:09
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : quels services déléguer à SEDECO ?](https://sedecobtob.blogspot.com/2021/05/bpo-quels-services-deleguer-sedeco.html)**  2021-05-22 14:16:00
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The Champion of the green track](https://www.lemauricien.com/le-mauricien/the-champion-of-the-green-track/424754/)**  2021-05-22 13:21:09
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Whites will cling to power far into the future, because it is so entrenched in the system"](https://zoomdr.blogspot.com/2021/05/whites-will-cling-to-power-far-into.html)**  2021-05-22 08:38:20
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 7e Semaine de Pâques](https://josephnguyenmahebourg.blogspot.com/2021/05/samedi-de-la-7e-semaine-de-paques.html)**  2021-05-22 04:30:00
 
 [The Mauritian Shareaholic](http://www.themauritianshareaholic.com/)  
 **[Scientifically Eliminate Your Headaches/Migraines Away!](http://feedproxy.google.com/~r/blogspot/BNplv/~3/6To0-gHimjU/scientifically-eliminate-headaches.html)**  2021-05-22 03:48:27
@@ -16,17 +31,11 @@ permalink: /mauritian-blogs/
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Quelques nouvelles (à défaut d'un titre plus inspiré)](https://c-est-reparti.blogspot.com/2021/05/quelques-nouvelles-defaut-dun-titre.html)**  2021-05-21 13:58:34
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Vaccination Policy at the Workplace: The consequences from a legal standpoint](https://www.lemauricien.com/le-mauricien/vaccination-policy-at-the-workplace-the-consequences-from-a-legal-standpoint/424526/)**  2021-05-21 13:00:09
-
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[L’annuaire du diocèse disponible à Rs 550](https://www.dioceseportlouis.org/2021/05/21/lannuaire-du-diocese-disponible-a-rs-550/)**  2021-05-21 11:11:48
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[LUGM submission on the ICTA consultation paper](https://lugm.org/2021/05/20/lugm-submission-on-the-icta-consultation-paper/)**  2021-05-20 18:54:55
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Wired to Create &#124; Carolyn Gregoire & Scott Barry Kaufman &#124; Talks at Google](https://teelocked.blogspot.com/2021/05/wired-to-create-carolyn-gregoire-scott.html)**  2021-05-20 16:30:15
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[Welcome to imathsit.com](https://imathsit.blogspot.com/2017/05/lower-secondary-grade-13-and-below.html)**  2021-05-20 07:27:05
@@ -37,17 +46,11 @@ permalink: /mauritian-blogs/
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Proof-of-concept proxy shows user account passwords and private photos can be decrypted](https://sysadmin-journal.com/proof-of-concept-proxy-shows-user-account-passwords-and-private-photos-can-be-decrypted/)**  2021-05-19 17:59:46
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Externalisation : un service de qualité avec SEDECO !](https://sedecobtob.blogspot.com/2021/05/externalisation-un-service-de-qualite.html)**  2021-05-18 18:26:03
-
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Family Travel At Constance Moofushi Maldives](https://blog.constancehotels.com/family-travel-at-constance-moofushi-maldives/)**  2021-05-18 09:34:16
 
 [http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
 **[https://www.cnbc.com/2021/05/18/india-covid-crisis-shows-public-health-neglect-problems-underinvestment.html](https://arvindbabajee.blogspot.com/2021/05/httpswwwcnbccom20210518india-covid.html)**  2021-05-18 08:17:33
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Color Hues #18 : Purple & Teal](https://swanlady-impressions.blogspot.com/2021/05/color-hues-18-purple-teal.html)**  2021-05-17 14:59:21
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Cardboard Art – Hamsa](https://mymauritiangarden.wordpress.com/2021/05/16/cardboard-art-hamsa/)**  2021-05-16 03:32:12
@@ -153,15 +156,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Happy Independence Day Mauritius](https://ritesh2103.wordpress.com/2021/03/12/happy-independence-day-mauritius/)**  2021-03-12 10:26:20
-
-[adarsh.me](https://adarsh.me/)  
-**[Dyonisien series_06
-.
-.
-.
-.
-.
-#igerslareunion...](https://adarsh.me/post/645353512861040640)**  2021-03-11 10:04:28
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[Litecoin Logo PNG Transparent Background Free Download - DollarsMarkt](https://www.dollarsmarkt.com/2021/03/litecoin-logo-png.html)**  2021-03-09 18:56:03
@@ -468,8 +462,5 @@ permalink: /mauritian-blogs/
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Day 1. 21/05/2020](https://tachah.blogspot.com/2020/06/day-1-21052020.html)**  2020-06-21 13:12:54
-
-[Photography: conversing in pictures](https://amirahiphotos.blogspot.com/)  
-**[TRIP TO MBC](https://amirahiphotos.blogspot.com/2020/06/trip-to-mbc.html)**  2020-06-20 16:00:39
 
 <div style="height:0;width:0;overflow:hidden;"></div>
