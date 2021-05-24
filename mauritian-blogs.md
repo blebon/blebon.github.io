@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[L😀ck](https://teelocked.blogspot.com/)  
+**[TEDxOslo 2012 - Steve Denning - The Transformation of Leadership and Man...](https://teelocked.blogspot.com/2021/05/tedxoslo-2012-steve-denning.html)**  2021-05-23 19:32:04
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[End of Premier League season 2020-2021](https://ritesh2103.wordpress.com/2021/05/23/end-of-premier-league-season-2020-2021/)**  2021-05-23 18:22:38
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour la Solennité de la Pentecôte](https://josephnguyenmahebourg.blogspot.com/2021/05/homelie-pour-la-solennite-de-la.html)**  2021-05-23 05:00:00
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Denis Villeneuve & His Cinema of Ambiguity  — Directing Styles Explained](https://teelocked.blogspot.com/2021/05/denis-villeneuve-his-cinema-of.html)**  2021-05-22 22:10:10
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Looking out the Window](https://swanlady-impressions.blogspot.com/2021/05/looking-out-window.html)**  2021-05-22 19:49:09
@@ -153,9 +156,6 @@ permalink: /mauritian-blogs/
 
 [Nidhi K. Buskalawa](https://nidhikhoushee.blogspot.com/)  
 **[My best friend](https://nidhikhoushee.blogspot.com/2021/03/my-best-friend.html)**  2021-03-13 09:32:20
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Happy Independence Day Mauritius](https://ritesh2103.wordpress.com/2021/03/12/happy-independence-day-mauritius/)**  2021-03-12 10:26:20
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[Litecoin Logo PNG Transparent Background Free Download - DollarsMarkt](https://www.dollarsmarkt.com/2021/03/litecoin-logo-png.html)**  2021-03-09 18:56:03
@@ -459,8 +459,5 @@ permalink: /mauritian-blogs/
 
 [How do I deal with a PCOS diagnosis?](https://htacha.blogspot.com/)  
 **[Vulnerable... Me.](https://htacha.blogspot.com/2020/06/vulnerable-me.html)**  2020-06-23 08:31:29
-
-[Reflection Corner](https://tachah.blogspot.com/)  
-**[Day 1. 21/05/2020](https://tachah.blogspot.com/2020/06/day-1-21052020.html)**  2020-06-21 13:12:54
 
 <div style="height:0;width:0;overflow:hidden;"></div>
