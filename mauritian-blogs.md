@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Fête Saint Marie, Mère de l'Eglise](https://josephnguyenmahebourg.blogspot.com/2021/05/fete-saint-marie-mere-de-leglise.html)**  2021-05-24 06:49:24
+
 [L😀ck](https://teelocked.blogspot.com/)  
 **[TEDxOslo 2012 - Steve Denning - The Transformation of Leadership and Man...](https://teelocked.blogspot.com/2021/05/tedxoslo-2012-steve-denning.html)**  2021-05-23 19:32:04
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[End of Premier League season 2020-2021](https://ritesh2103.wordpress.com/2021/05/23/end-of-premier-league-season-2020-2021/)**  2021-05-23 18:22:38
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la Solennité de la Pentecôte](https://josephnguyenmahebourg.blogspot.com/2021/05/homelie-pour-la-solennite-de-la.html)**  2021-05-23 05:00:00
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Looking out the Window](https://swanlady-impressions.blogspot.com/2021/05/looking-out-window.html)**  2021-05-22 19:49:09
