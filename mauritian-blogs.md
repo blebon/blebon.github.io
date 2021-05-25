@@ -4,8 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Inscription dans les collèges Catholiques pour l’admission en  Grade 7 en juin 2021](https://www.dioceseportlouis.org/2021/05/25/inscription-dans-les-colleges-catholiques-pour-ladmission-en-grade-7-en-juin-2021/)**  2021-05-25 05:39:03
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Fête Saint Marie, Mère de l'Eglise](https://josephnguyenmahebourg.blogspot.com/2021/05/fete-saint-marie-mere-de-leglise.html)**  2021-05-24 06:49:24
+**[Mardi de la 8e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/mardi-de-la-8e-semaine-du-tob.html)**  2021-05-25 05:12:52
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Offshore : le secteur d’activité de SEDECO !](https://sedecobtob.blogspot.com/2021/05/offshore-le-secteur-dactivite-de-sedeco.html)**  2021-05-24 15:06:06
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[ANALYSE ET PROPOSITIONS : Déconstruire le calendrier scolaire](https://www.lemauricien.com/le-mauricien/analyse-et-propositions-deconstruire-le-calendrier-scolaire/425067/)**  2021-05-24 14:34:02
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[A Wedding Worth The Wait](https://blog.constancehotels.com/a-wedding-worth-the-wait/)**  2021-05-24 13:31:49
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[TEDxOslo 2012 - Steve Denning - The Transformation of Leadership and Man...](https://teelocked.blogspot.com/2021/05/tedxoslo-2012-steve-denning.html)**  2021-05-23 19:32:04
@@ -19,12 +31,6 @@ permalink: /mauritian-blogs/
 [adarsh.me](https://adarsh.me/)  
 **[Found that while going through my shots of Rome in...](https://adarsh.me/post/651907428478255104)**  2021-05-22 19:16:09
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : quels services déléguer à SEDECO ?](https://sedecobtob.blogspot.com/2021/05/bpo-quels-services-deleguer-sedeco.html)**  2021-05-22 14:16:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Champion of the green track](https://www.lemauricien.com/le-mauricien/the-champion-of-the-green-track/424754/)**  2021-05-22 13:21:09
-
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Whites will cling to power far into the future, because it is so entrenched in the system"](https://zoomdr.blogspot.com/2021/05/whites-will-cling-to-power-far-into.html)**  2021-05-22 08:38:20
 
@@ -33,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Quelques nouvelles (à défaut d'un titre plus inspiré)](https://c-est-reparti.blogspot.com/2021/05/quelques-nouvelles-defaut-dun-titre.html)**  2021-05-21 13:58:34
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[L’annuaire du diocèse disponible à Rs 550](https://www.dioceseportlouis.org/2021/05/21/lannuaire-du-diocese-disponible-a-rs-550/)**  2021-05-21 11:11:48
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[LUGM submission on the ICTA consultation paper](https://lugm.org/2021/05/20/lugm-submission-on-the-icta-consultation-paper/)**  2021-05-20 18:54:55
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Proof-of-concept proxy shows user account passwords and private photos can be decrypted](https://sysadmin-journal.com/proof-of-concept-proxy-shows-user-account-passwords-and-private-photos-can-be-decrypted/)**  2021-05-19 17:59:46
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Family Travel At Constance Moofushi Maldives](https://blog.constancehotels.com/family-travel-at-constance-moofushi-maldives/)**  2021-05-18 09:34:16
 
 [http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
 **[https://www.cnbc.com/2021/05/18/india-covid-crisis-shows-public-health-neglect-problems-underinvestment.html](https://arvindbabajee.blogspot.com/2021/05/httpswwwcnbccom20210518india-covid.html)**  2021-05-18 08:17:33
