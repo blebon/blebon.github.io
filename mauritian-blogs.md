@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Inscription dans les collèges Catholiques pour l’admission en  Grade 7 en juin 2021](https://www.dioceseportlouis.org/2021/05/25/inscription-dans-les-colleges-catholiques-pour-ladmission-en-grade-7-en-juin-2021/)**  2021-05-25 05:39:03
+**[Centre Frère René Guillemin – Webinar gratuit pour les jeunes](https://www.dioceseportlouis.org/2021/05/25/centre-frere-rene-guillemin-webinar-gratuit-pour-les-jeunes/)**  2021-05-25 07:17:17
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[How We’re House Hunting](https://davidandjennilyn.com/2021/05/24/how-were-house-hunting/)**  2021-05-25 05:52:38
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mardi de la 8e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/mardi-de-la-8e-semaine-du-tob.html)**  2021-05-25 05:12:52
@@ -81,9 +84,6 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical Analysis Report Today &#124; Forex News – 10 May 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/05/technical-analysis-report-today-forex.html)**  2021-05-10 11:38:28
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy Mother’s Day](https://davidandjennilyn.com/2021/05/09/happy-mothers-day-3/)**  2021-05-10 05:00:00
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Tandemuis en DJ](https://huisvlyt.blogspot.com/2021/05/tandemuis-en-dj.html)**  2021-05-01 06:28:54
@@ -456,8 +456,5 @@ permalink: /mauritian-blogs/
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Preserve Prolong life here - Préserver Prolonger la vie ici-bas](https://lleclezio.blogspot.com/2020/06/preserve-prolong-life-here-preserver.html)**  2020-06-26 06:49:40
-
-[How do I deal with a PCOS diagnosis?](https://htacha.blogspot.com/)  
-**[Vulnerable... Me.](https://htacha.blogspot.com/2020/06/vulnerable-me.html)**  2020-06-23 08:31:29
 
 <div style="height:0;width:0;overflow:hidden;"></div>
