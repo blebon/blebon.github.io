@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mercredi de la 8e semaine du TOA](https://josephnguyenmahebourg.blogspot.com/2021/05/mercredi-de-la-8e-semaine-du-toa.html)**  2021-05-26 06:15:36
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[ANOU KOZ PAROL – 119  Me 75-Me 2011-Me 2021 Trwa dat istorik dan nou sistem  ledikasion konsernan lang kreol](https://www.lemauricien.com/le-mauricien/anou-koz-parol-119-me-75-me-2011-me-2021-trwa-dat-istorik-dan-nou-sistem-ledikasion-konsernan-lang-kreol/425267/)**  2021-05-25 12:49:54
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[How We’re House Hunting](https://davidandjennilyn.com/2021/05/24/how-were-house-hunting/)**  2021-05-25 05:52:38
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 8e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/mardi-de-la-8e-semaine-du-tob.html)**  2021-05-25 05:12:52
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Offshore : le secteur d’activité de SEDECO !](https://sedecobtob.blogspot.com/2021/05/offshore-le-secteur-dactivite-de-sedeco.html)**  2021-05-24 15:06:06
