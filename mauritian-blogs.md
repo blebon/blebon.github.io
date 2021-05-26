@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[ANOU KOZ PAROL – 119  Me 75-Me 2011-Me 2021 Trwa dat istorik dan nou sistem  ledikasion konsernan lang kreol](https://www.lemauricien.com/le-mauricien/anou-koz-parol-119-me-75-me-2011-me-2021-trwa-dat-istorik-dan-nou-sistem-ledikasion-konsernan-lang-kreol/425267/)**  2021-05-25 12:49:54
+
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Centre Frère René Guillemin – Webinar gratuit pour les jeunes](https://www.dioceseportlouis.org/2021/05/25/centre-frere-rene-guillemin-webinar-gratuit-pour-les-jeunes/)**  2021-05-25 07:17:17
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Offshore : le secteur d’activité de SEDECO !](https://sedecobtob.blogspot.com/2021/05/offshore-le-secteur-dactivite-de-sedeco.html)**  2021-05-24 15:06:06
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ANALYSE ET PROPOSITIONS : Déconstruire le calendrier scolaire](https://www.lemauricien.com/le-mauricien/analyse-et-propositions-deconstruire-le-calendrier-scolaire/425067/)**  2021-05-24 14:34:02
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Wedding Worth The Wait](https://blog.constancehotels.com/a-wedding-worth-the-wait/)**  2021-05-24 13:31:49
