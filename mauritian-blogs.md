@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 8e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/mercredi-de-la-8e-semaine-du-tob.html)**  2021-05-27 04:30:00
+**[Jeudi de la 8e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/mercredi-de-la-8e-semaine-du-tob.html)**  2021-05-27 06:09:56
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Koa Beck: Did Feminism Forget Diversity? &#124; The Agenda](https://teelocked.blogspot.com/2021/05/koa-beck-did-feminism-forget-diversity.html)**  2021-05-27 04:03:44
