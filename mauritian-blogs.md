@@ -5,13 +5,19 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 8e semaine du TOA](https://josephnguyenmahebourg.blogspot.com/2021/05/mercredi-de-la-8e-semaine-du-toa.html)**  2021-05-26 06:15:36
+**[Mercredi de la 8e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/mercredi-de-la-8e-semaine-du-tob.html)**  2021-05-27 04:30:00
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ANOU KOZ PAROL – 119  Me 75-Me 2011-Me 2021 Trwa dat istorik dan nou sistem  ledikasion konsernan lang kreol](https://www.lemauricien.com/le-mauricien/anou-koz-parol-119-me-75-me-2011-me-2021-trwa-dat-istorik-dan-nou-sistem-ledikasion-konsernan-lang-kreol/425267/)**  2021-05-25 12:49:54
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Koa Beck: Did Feminism Forget Diversity? &#124; The Agenda](https://teelocked.blogspot.com/2021/05/koa-beck-did-feminism-forget-diversity.html)**  2021-05-27 04:03:44
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Vesak 2021 Mount Faber / Sentosa Solo Ride](https://kabilen.tumblr.com/post/652251961173901312)**  2021-05-26 14:32:23
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Centre Frère René Guillemin – Webinar gratuit pour les jeunes](https://www.dioceseportlouis.org/2021/05/25/centre-frere-rene-guillemin-webinar-gratuit-pour-les-jeunes/)**  2021-05-25 07:17:17
+**[Inscription en Grade 7 – Le SeDEC propose l’option en ligne](https://www.dioceseportlouis.org/2021/05/26/inscription-en-grade-7-le-sedec-propose-loption-en-ligne/)**  2021-05-26 13:09:58
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[De quoi être effrayé !](https://www.lemauricien.com/opinions/forum/de-quoi-etre-effraye/425483/)**  2021-05-26 13:01:47
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[How We’re House Hunting](https://davidandjennilyn.com/2021/05/24/how-were-house-hunting/)**  2021-05-25 05:52:38
@@ -21,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Wedding Worth The Wait](https://blog.constancehotels.com/a-wedding-worth-the-wait/)**  2021-05-24 13:31:49
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[TEDxOslo 2012 - Steve Denning - The Transformation of Leadership and Man...](https://teelocked.blogspot.com/2021/05/tedxoslo-2012-steve-denning.html)**  2021-05-23 19:32:04
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[End of Premier League season 2020-2021](https://ritesh2103.wordpress.com/2021/05/23/end-of-premier-league-season-2020-2021/)**  2021-05-23 18:22:38
@@ -105,9 +108,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Boss Has A Message For Us](http://kozelidir.blogspot.com/2021/04/boss-has-message-for-us.html)**  2021-04-22 13:48:58
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Sakura Wine.](https://kabilen.tumblr.com/post/648749379693445120)**  2021-04-17 22:40:21
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[World Amateur Radio Day](https://msinnott.net/2021/04/18/world-amateur-radio-day-2/?utm_source=rss&utm_medium=rss&utm_campaign=world-amateur-radio-day-2)**  2021-04-17 22:00:19
