@@ -5,7 +5,19 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 8e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/mercredi-de-la-8e-semaine-du-tob.html)**  2021-05-27 06:09:56
+**[Vendredi de la 8e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/vendredi-de-la-8e-semaine-du-tob.html)**  2021-05-28 05:40:14
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Our identity trap](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-05-28 04:59:59
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[The Red Devils fail again](https://ritesh2103.wordpress.com/2021/05/27/the-red-devils-fail-again/)**  2021-05-27 15:14:35
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[After the Storm Comes a New Horizon](https://www.lemauricien.com/opinions/forum/oped-after-the-storm-comes-a-new-horizon/425719/)**  2021-05-27 13:17:16
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : zoom sur les services de SEDECO !](https://sedecobtob.blogspot.com/2021/05/bpo-zoom-sur-les-services-de-sedeco.html)**  2021-05-27 13:04:14
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Koa Beck: Did Feminism Forget Diversity? &#124; The Agenda](https://teelocked.blogspot.com/2021/05/koa-beck-did-feminism-forget-diversity.html)**  2021-05-27 04:03:44
@@ -16,20 +28,11 @@ permalink: /mauritian-blogs/
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Inscription en Grade 7 – Le SeDEC propose l’option en ligne](https://www.dioceseportlouis.org/2021/05/26/inscription-en-grade-7-le-sedec-propose-loption-en-ligne/)**  2021-05-26 13:09:58
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[De quoi être effrayé !](https://www.lemauricien.com/opinions/forum/de-quoi-etre-effraye/425483/)**  2021-05-26 13:01:47
-
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[How We’re House Hunting](https://davidandjennilyn.com/2021/05/24/how-were-house-hunting/)**  2021-05-25 05:52:38
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Offshore : le secteur d’activité de SEDECO !](https://sedecobtob.blogspot.com/2021/05/offshore-le-secteur-dactivite-de-sedeco.html)**  2021-05-24 15:06:06
-
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Wedding Worth The Wait](https://blog.constancehotels.com/a-wedding-worth-the-wait/)**  2021-05-24 13:31:49
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[End of Premier League season 2020-2021](https://ritesh2103.wordpress.com/2021/05/23/end-of-premier-league-season-2020-2021/)**  2021-05-23 18:22:38
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Looking out the Window](https://swanlady-impressions.blogspot.com/2021/05/looking-out-window.html)**  2021-05-22 19:49:09
@@ -102,9 +105,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Why are Laptops so expensive in Mauritius](https://nayarweb.com/blog/2021/expensive-laptop-mauritius/)**  2021-04-25 06:49:22
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Thinking inside Dodoland's box](https://tchombo.blogspot.com/2021/04/thinking-inside-dodolands-box.html)**  2021-04-22 17:04:24
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Boss Has A Message For Us](http://kozelidir.blogspot.com/2021/04/boss-has-message-for-us.html)**  2021-04-22 13:48:58
