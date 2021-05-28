@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 8e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/vendredi-de-la-8e-semaine-du-tob.html)**  2021-05-28 05:40:14
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Technical Analysis Report Today – 28 May 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/05/technical-analysis-report-today-28-may.html)**  2021-05-28 10:32:00
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[Our identity trap](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-05-28 04:59:59
+**[Our identity trap](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-05-28 09:33:44
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[White Feminism with Koa Beck & Julia Serano](https://teelocked.blogspot.com/2021/05/white-feminism-with-koa-beck-julia.html)**  2021-05-28 05:50:56
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Vendredi de la 8e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/vendredi-de-la-8e-semaine-du-tob.html)**  2021-05-28 05:40:14
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[The Red Devils fail again](https://ritesh2103.wordpress.com/2021/05/27/the-red-devils-fail-again/)**  2021-05-27 15:14:35
@@ -18,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : zoom sur les services de SEDECO !](https://sedecobtob.blogspot.com/2021/05/bpo-zoom-sur-les-services-de-sedeco.html)**  2021-05-27 13:04:14
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Koa Beck: Did Feminism Forget Diversity? &#124; The Agenda](https://teelocked.blogspot.com/2021/05/koa-beck-did-feminism-forget-diversity.html)**  2021-05-27 04:03:44
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Vesak 2021 Mount Faber / Sentosa Solo Ride](https://kabilen.tumblr.com/post/652251961173901312)**  2021-05-26 14:32:23
@@ -87,9 +90,6 @@ permalink: /mauritian-blogs/
 
 [Memories of the past..](https://pandanours.blogspot.com/)  
 **[No title](https://pandanours.blogspot.com/2020/10/time-mysticism-everything-is-subject-to.html)**  2021-05-12 07:17:24
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Technical Analysis Report Today &#124; Forex News – 10 May 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/05/technical-analysis-report-today-forex.html)**  2021-05-10 11:38:28
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Tandemuis en DJ](https://huisvlyt.blogspot.com/2021/05/tandemuis-en-dj.html)**  2021-05-01 06:28:54
@@ -450,11 +450,5 @@ permalink: /mauritian-blogs/
 
 [Pictures of nature](https://naturepicturesanimals.blogspot.com/)  
 **[No title](https://naturepicturesanimals.blogspot.com/2020/06/more-pictures-on-page-pictures-of.html)**  2020-06-26 17:26:00
-
-[YOURs' Corner By DG](https://yourscornerbydg.blogspot.com/)  
-**[BORGANIK Repair Shampoo](https://yourscornerbydg.blogspot.com/2020/06/borganik-repair-shampoo.html)**  2020-06-26 10:21:56
-
-[Leclézio](https://lleclezio.blogspot.com/)  
-**[Preserve Prolong life here - Préserver Prolonger la vie ici-bas](https://lleclezio.blogspot.com/2020/06/preserve-prolong-life-here-preserver.html)**  2020-06-26 06:49:40
 
 <div style="height:0;width:0;overflow:hidden;"></div>
