@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Samedi de la 8e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/saint-paul-vi-pape-2905-evangile-mc-112.html)**  2021-05-29 06:13:30
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/05/plus-quun-homme-vil-tient-defendre-son.html)**  2021-05-29 04:32:18
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[White Feminism with Koa Beck & Julia Serano](https://teelocked.blogspot.com/2021/05/white-feminism-with-koa-beck-julia.html)**  2021-05-28 05:50:56
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 8e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/vendredi-de-la-8e-semaine-du-tob.html)**  2021-05-28 05:40:14
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[The Red Devils fail again](https://ritesh2103.wordpress.com/2021/05/27/the-red-devils-fail-again/)**  2021-05-27 15:14:35
