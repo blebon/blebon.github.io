@@ -4,11 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Technical Analysis Report Today – 28 May 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/05/technical-analysis-report-today-28-may.html)**  2021-05-28 10:32:00
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/05/plus-quun-homme-vil-tient-defendre-son.html)**  2021-05-29 04:32:18
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[Our identity trap](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-05-28 09:33:44
+**[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-05-29 00:31:02
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Le drame silencieux du Rodriguais](https://www.lemauricien.com/le-mauricien/le-drame-silencieux-du-rodriguais/425887/)**  2021-05-28 19:37:15
+
+[Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
+**[20+ Free Ethereum Faucets List with Instant Payouts, ETH Free Faucets [2021]](https://www.dollarsmarkt.com/2020/10/earn-free-ethereum-faucets.html)**  2021-05-28 16:22:45
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Happiest Birthday](https://swanlady-impressions.blogspot.com/2021/05/happiest-birthday.html)**  2021-05-28 12:05:22
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Technical Analysis Report Today – 28 May 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/05/technical-analysis-report-today-28-may.html)**  2021-05-28 10:32:00
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[White Feminism with Koa Beck & Julia Serano](https://teelocked.blogspot.com/2021/05/white-feminism-with-koa-beck-julia.html)**  2021-05-28 05:50:56
@@ -18,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[The Red Devils fail again](https://ritesh2103.wordpress.com/2021/05/27/the-red-devils-fail-again/)**  2021-05-27 15:14:35
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[After the Storm Comes a New Horizon](https://www.lemauricien.com/opinions/forum/oped-after-the-storm-comes-a-new-horizon/425719/)**  2021-05-27 13:17:16
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : zoom sur les services de SEDECO !](https://sedecobtob.blogspot.com/2021/05/bpo-zoom-sur-les-services-de-sedeco.html)**  2021-05-27 13:04:14
@@ -36,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Wedding Worth The Wait](https://blog.constancehotels.com/a-wedding-worth-the-wait/)**  2021-05-24 13:31:49
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Looking out the Window](https://swanlady-impressions.blogspot.com/2021/05/looking-out-window.html)**  2021-05-22 19:49:09
 
 [adarsh.me](https://adarsh.me/)  
 **[Found that while going through my shots of Rome in...](https://adarsh.me/post/651907428478255104)**  2021-05-22 19:16:09
@@ -81,9 +87,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[A National Consumer Survey on Food Safety, Food & Nutrition Security, Dietary Diversity and Physical Activity with Reference to the COVID-19 Experience](https://facultyagriculture.blogspot.com/2021/05/a-national-consumer-survey-on-food.html)**  2021-05-13 11:16:59
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/05/ne-peut-jamais-etre-sur-davoir-raison.html)**  2021-05-13 06:24:28
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[NESCAFɮ Farmers Origins Coffee Capsules](https://amarbheenick.blogspot.com/2021/05/nescafe-farmers-origins-coffee-capsules.html)**  2021-05-12 12:17:26
@@ -156,9 +159,6 @@ permalink: /mauritian-blogs/
 
 [Nidhi K. Buskalawa](https://nidhikhoushee.blogspot.com/)  
 **[My best friend](https://nidhikhoushee.blogspot.com/2021/03/my-best-friend.html)**  2021-03-13 09:32:20
-
-[Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
-**[Litecoin Logo PNG Transparent Background Free Download - DollarsMarkt](https://www.dollarsmarkt.com/2021/03/litecoin-logo-png.html)**  2021-03-09 18:56:03
 
 [Inspiration](https://nishtakhimia.blogspot.com/)  
 **[Loneliness.](https://nishtakhimia.blogspot.com/2021/03/loneliness.html)**  2021-03-06 17:56:42
@@ -447,8 +447,5 @@ permalink: /mauritian-blogs/
 
 [Eternal Bliss: the nearest ones](https://ammaara.blogspot.com/)  
 **[La tromperie du diable - comment tu dois faire pour t'en protéger](https://ammaara.blogspot.com/2020/06/la-tromperie-du-diable-comment-tu-dois.html)**  2020-06-27 23:11:23
-
-[Pictures of nature](https://naturepicturesanimals.blogspot.com/)  
-**[No title](https://naturepicturesanimals.blogspot.com/2020/06/more-pictures-on-page-pictures-of.html)**  2020-06-26 17:26:00
 
 <div style="height:0;width:0;overflow:hidden;"></div>
