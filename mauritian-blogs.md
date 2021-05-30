@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Maman … nos petites mamans …](https://www.lemauricien.com/opinions/forum/maman-nos-petites-mamans/426188/)**  2021-05-30 08:34:12
+
+[Mike Sinnott's World](https://msinnott.net)  
+**[Days of Woe in Paradise](https://msinnott.net/2021/05/30/days-of-woe-in-paradise/?utm_source=rss&utm_medium=rss&utm_campaign=days-of-woe-in-paradise)**  2021-05-30 08:01:58
+
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Cardboard Art – More Stuff on Sticks](https://mymauritiangarden.wordpress.com/2021/05/30/cardboard-art-more-stuff-on-sticks/)**  2021-05-30 03:18:39
 
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Playing at Bethany Creek Park](https://davidandjennilyn.com/2021/05/29/playing-at-bethany-creek-park/)**  2021-05-29 15:04:59
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Motherhood: the embodiment of divine love](https://www.lemauricien.com/opinions/forum/motherhood-the-embodiment-of-divine-love/426052/)**  2021-05-29 14:29:14
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Samedi de la 8e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/saint-paul-vi-pape-2905-evangile-mc-112.html)**  2021-05-29 06:13:30
@@ -111,9 +114,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Boss Has A Message For Us](http://kozelidir.blogspot.com/2021/04/boss-has-message-for-us.html)**  2021-04-22 13:48:58
-
-[Mike Sinnott's World](https://msinnott.net)  
-**[World Amateur Radio Day](https://msinnott.net/2021/04/18/world-amateur-radio-day-2/?utm_source=rss&utm_medium=rss&utm_campaign=world-amateur-radio-day-2)**  2021-04-17 22:00:19
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Dans l’orbite du pouvoir : incursion dans la galaxie des « superconseillers » des PM](https://jeanmeedesveaux.blogspot.com/2021/02/dans-lorbite-du-pouvoir-incursion-dans.html)**  2021-04-17 09:18:40
