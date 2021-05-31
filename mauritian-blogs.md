@@ -4,6 +4,24 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[ICTA says it will summarize the comments & suggestions, can we trust?](https://sysadmin-journal.com/icta-says-it-will-summarize-the-comments-suggestions-can-we-trust/)**  2021-05-31 04:41:42
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/05/ce-qui-ete-est-toujours-est-et-toujours.html)**  2021-05-31 04:32:58
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour la Solennité de la Sainte Trinité](https://josephnguyenmahebourg.blogspot.com/2021/05/homelie-pour-la-solennite-de-la-sainte.html)**  2021-05-30 19:11:34
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Happy Birthday - More Doodle Flowers](https://swanlady-impressions.blogspot.com/2021/05/happy-birthday-more-doodle-flowers.html)**  2021-05-30 16:55:40
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Chomsky Has An Interesting Story on Kissinger](http://kozelidir.blogspot.com/2021/05/chomsky-has-interesting-story-on.html)**  2021-05-30 16:13:36
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[A Duo of Dales](https://davidandjennilyn.com/2021/05/30/a-duo-of-dales/)**  2021-05-30 15:48:15
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Maman … nos petites mamans …](https://www.lemauricien.com/opinions/forum/maman-nos-petites-mamans/426188/)**  2021-05-30 08:34:12
 
@@ -12,18 +30,6 @@ permalink: /mauritian-blogs/
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Cardboard Art – More Stuff on Sticks](https://mymauritiangarden.wordpress.com/2021/05/30/cardboard-art-more-stuff-on-sticks/)**  2021-05-30 03:18:39
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/05/est-toujours-fut-on-enferme-dans-sa.html)**  2021-05-30 03:05:27
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Hello Beautiful](https://swanlady-impressions.blogspot.com/2021/05/hello-beautiful.html)**  2021-05-29 18:52:56
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Playing at Bethany Creek Park](https://davidandjennilyn.com/2021/05/29/playing-at-bethany-creek-park/)**  2021-05-29 15:04:59
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 8e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/saint-paul-vi-pape-2905-evangile-mc-112.html)**  2021-05-29 06:13:30
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-05-29 00:31:02
@@ -73,9 +79,6 @@ permalink: /mauritian-blogs/
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[COVID -19 : Wo Impfen belohnt wird....Vaccination Incentives: Between Joints and Blue Whales in the USA](https://insel-rodrigues.blogspot.com/2021/05/covid-19-wo-impfen-belohnt.html)**  2021-05-20 04:43:13
 
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Proof-of-concept proxy shows user account passwords and private photos can be decrypted](https://sysadmin-journal.com/proof-of-concept-proxy-shows-user-account-passwords-and-private-photos-can-be-decrypted/)**  2021-05-19 17:59:46
-
 [http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
 **[https://www.cnbc.com/2021/05/18/india-covid-crisis-shows-public-health-neglect-problems-underinvestment.html](https://arvindbabajee.blogspot.com/2021/05/httpswwwcnbccom20210518india-covid.html)**  2021-05-18 08:17:33
 
@@ -111,9 +114,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Why are Laptops so expensive in Mauritius](https://nayarweb.com/blog/2021/expensive-laptop-mauritius/)**  2021-04-25 06:49:22
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Boss Has A Message For Us](http://kozelidir.blogspot.com/2021/04/boss-has-message-for-us.html)**  2021-04-22 13:48:58
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Dans l’orbite du pouvoir : incursion dans la galaxie des « superconseillers » des PM](https://jeanmeedesveaux.blogspot.com/2021/02/dans-lorbite-du-pouvoir-incursion-dans.html)**  2021-04-17 09:18:40
