@@ -4,14 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[ICTA says it will summarize the comments & suggestions, can we trust?](https://sysadmin-journal.com/icta-says-it-will-summarize-the-comments-suggestions-can-we-trust/)**  2021-05-31 04:41:42
-
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/05/ce-qui-ete-est-toujours-est-et-toujours.html)**  2021-05-31 04:32:58
+**[No title](https://sooriamoorthy.blogspot.com/2021/05/est-assurement-humiliant-honteux-meme.html)**  2021-06-01 02:39:23
+
+[Veganlovlie](https://veganlovlie.com)  
+**[Creamy Lemony Lentil Curry](http://feedproxy.google.com/~r/veganlovlie/~3/CPdkysifpQE/)**  2021-05-31 22:22:05
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la Solennité de la Sainte Trinité](https://josephnguyenmahebourg.blogspot.com/2021/05/homelie-pour-la-solennite-de-la-sainte.html)**  2021-05-30 19:11:34
+**[Lundi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/lundi-de-la-9e-semaine-du-tob.html)**  2021-05-31 18:28:10
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-05-31 16:57:49
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[BREATHEFREE 2.0 &#124; Et si l’on faisait une croix sur la cigarette !](https://www.lemauricien.com/le-mauricien/breathefree-2-0-lundi-31-mai-journee-mondiale-sans-tabac-et-si-lon-faisait-une-croix-sur-la-cigarette/426410/)**  2021-05-31 13:28:48
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[ICTA says it will summarize the comments & suggestions, can we trust?](https://sysadmin-journal.com/icta-says-it-will-summarize-the-comments-suggestions-can-we-trust/)**  2021-05-31 04:41:42
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Happy Birthday - More Doodle Flowers](https://swanlady-impressions.blogspot.com/2021/05/happy-birthday-more-doodle-flowers.html)**  2021-05-30 16:55:40
@@ -22,17 +31,11 @@ permalink: /mauritian-blogs/
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[A Duo of Dales](https://davidandjennilyn.com/2021/05/30/a-duo-of-dales/)**  2021-05-30 15:48:15
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Maman … nos petites mamans …](https://www.lemauricien.com/opinions/forum/maman-nos-petites-mamans/426188/)**  2021-05-30 08:34:12
-
 [Mike Sinnott's World](https://msinnott.net)  
 **[Days of Woe in Paradise](https://msinnott.net/2021/05/30/days-of-woe-in-paradise/?utm_source=rss&utm_medium=rss&utm_campaign=days-of-woe-in-paradise)**  2021-05-30 08:01:58
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Cardboard Art – More Stuff on Sticks](https://mymauritiangarden.wordpress.com/2021/05/30/cardboard-art-more-stuff-on-sticks/)**  2021-05-30 03:18:39
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-05-29 00:31:02
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[20+ Free Ethereum Faucets List with Instant Payouts, ETH Free Faucets [2021]](https://www.dollarsmarkt.com/2020/10/earn-free-ethereum-faucets.html)**  2021-05-28 16:22:45
@@ -84,9 +87,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[MIR-SAT1](https://mars3b8.wordpress.com/2021/05/16/mir-sat1/)**  2021-05-16 02:55:13
-
-[Veganlovlie](https://veganlovlie.com)  
-**[No-knead Overnight Spelt Bread](http://feedproxy.google.com/~r/veganlovlie/~3/jWPIuLnlQhI/)**  2021-05-16 01:05:25
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Secure Connection Failed][PR_END_OF_FILE_ERROR]](https://savourthemomentattechie.blogspot.com/2021/05/secure-connection-failedprendoffileerror.html)**  2021-05-14 20:04:57
