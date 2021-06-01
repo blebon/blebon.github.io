@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mardi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mardi-de-la-9e-semaine-du-tob.html)**  2021-06-01 05:57:55
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/05/est-assurement-humiliant-honteux-meme.html)**  2021-06-01 02:39:23
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Creamy Lemony Lentil Curry](http://feedproxy.google.com/~r/veganlovlie/~3/CPdkysifpQE/)**  2021-05-31 22:22:05
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/05/lundi-de-la-9e-semaine-du-tob.html)**  2021-05-31 18:28:10
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-05-31 16:57:49
