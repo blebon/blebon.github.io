@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[We love ❤️ links](https://sysadmin-journal.com/we-love-links/)**  2021-06-02 10:26:31
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Intention de prière du Cardinal Piat pour juin](https://www.dioceseportlouis.org/2021/06/02/intention-de-priere-du-cardinal-piat-pour-juin-3/)**  2021-06-02 08:00:19
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mecredi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mecredi-de-la-9e-semaine-du-tob.html)**  2021-06-02 04:30:00
 
@@ -21,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-05-31 16:57:49
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[ICTA says it will summarize the comments & suggestions, can we trust?](https://sysadmin-journal.com/icta-says-it-will-summarize-the-comments-suggestions-can-we-trust/)**  2021-05-31 04:41:42
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Chomsky Has An Interesting Story on Kissinger](http://kozelidir.blogspot.com/2021/05/chomsky-has-interesting-story-on.html)**  2021-05-30 16:13:36
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Vesak 2021 Mount Faber / Sentosa Solo Ride](https://kabilen.tumblr.com/post/652251961173901312)**  2021-05-26 14:32:23
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Inscription en Grade 7 – Le SeDEC propose l’option en ligne](https://www.dioceseportlouis.org/2021/05/26/inscription-en-grade-7-le-sedec-propose-loption-en-ligne/)**  2021-05-26 13:09:58
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Wedding Worth The Wait](https://blog.constancehotels.com/a-wedding-worth-the-wait/)**  2021-05-24 13:31:49
