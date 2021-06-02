@@ -5,10 +5,16 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mardi-de-la-9e-semaine-du-tob.html)**  2021-06-01 05:57:55
+**[Mecredi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mecredi-de-la-9e-semaine-du-tob.html)**  2021-06-02 04:30:00
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/05/est-assurement-humiliant-honteux-meme.html)**  2021-06-01 02:39:23
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/ideal-ne-peut-par-definition-quetre.html)**  2021-06-02 02:03:30
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[More Doodle Blooms](https://swanlady-impressions.blogspot.com/2021/06/more-doodle-blooms.html)**  2021-06-01 22:09:48
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[E-book of short stories on COVID-19 experience](https://www.lemauricien.com/opinions/forum/e-book-of-short-stories-on-covid-19-experience/426532/)**  2021-06-01 13:00:39
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Creamy Lemony Lentil Curry](http://feedproxy.google.com/~r/veganlovlie/~3/CPdkysifpQE/)**  2021-05-31 22:22:05
@@ -16,14 +22,8 @@ permalink: /mauritian-blogs/
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-05-31 16:57:49
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[BREATHEFREE 2.0 &#124; Et si l’on faisait une croix sur la cigarette !](https://www.lemauricien.com/le-mauricien/breathefree-2-0-lundi-31-mai-journee-mondiale-sans-tabac-et-si-lon-faisait-une-croix-sur-la-cigarette/426410/)**  2021-05-31 13:28:48
-
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[ICTA says it will summarize the comments & suggestions, can we trust?](https://sysadmin-journal.com/icta-says-it-will-summarize-the-comments-suggestions-can-we-trust/)**  2021-05-31 04:41:42
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Happy Birthday - More Doodle Flowers](https://swanlady-impressions.blogspot.com/2021/05/happy-birthday-more-doodle-flowers.html)**  2021-05-30 16:55:40
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Chomsky Has An Interesting Story on Kissinger](http://kozelidir.blogspot.com/2021/05/chomsky-has-interesting-story-on.html)**  2021-05-30 16:13:36
