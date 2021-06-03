@@ -4,23 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Jeudi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/jeudi-de-la-9e-semaine-du-tob.html)**  2021-06-03 05:17:18
+
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[Launching to ISS](https://mars3b8.wordpress.com/2021/06/03/launching-to-iss/)**  2021-06-03 03:28:14
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[PERFORMANCE ÉCOLES ZEP  : Donnez ces écoles à  l’Éducation Catholique !](https://www.lemauricien.com/le-mauricien/performance-ecoles-zep-donnez-ces-ecoles-a-leducation-catholique/426795/)**  2021-06-02 13:46:18
+
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[We love ❤️ links](https://sysadmin-journal.com/we-love-links/)**  2021-06-02 10:26:31
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Intention de prière du Cardinal Piat pour juin](https://www.dioceseportlouis.org/2021/06/02/intention-de-priere-du-cardinal-piat-pour-juin-3/)**  2021-06-02 08:00:19
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mecredi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mecredi-de-la-9e-semaine-du-tob.html)**  2021-06-02 04:30:00
-
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/06/ideal-ne-peut-par-definition-quetre.html)**  2021-06-02 02:03:30
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[More Doodle Blooms](https://swanlady-impressions.blogspot.com/2021/06/more-doodle-blooms.html)**  2021-06-01 22:09:48
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[E-book of short stories on COVID-19 experience](https://www.lemauricien.com/opinions/forum/e-book-of-short-stories-on-covid-19-experience/426532/)**  2021-06-01 13:00:39
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Creamy Lemony Lentil Curry](http://feedproxy.google.com/~r/veganlovlie/~3/CPdkysifpQE/)**  2021-05-31 22:22:05
@@ -84,9 +87,6 @@ permalink: /mauritian-blogs/
 
 [http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
 **[https://www.cnbc.com/2021/05/18/india-covid-crisis-shows-public-health-neglect-problems-underinvestment.html](https://arvindbabajee.blogspot.com/2021/05/httpswwwcnbccom20210518india-covid.html)**  2021-05-18 08:17:33
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[MIR-SAT1](https://mars3b8.wordpress.com/2021/05/16/mir-sat1/)**  2021-05-16 02:55:13
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Secure Connection Failed][PR_END_OF_FILE_ERROR]](https://savourthemomentattechie.blogspot.com/2021/05/secure-connection-failedprendoffileerror.html)**  2021-05-14 20:04:57
