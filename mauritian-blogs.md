@@ -4,6 +4,18 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Service offshore : SEDECO est opérationnel 24/7 !](https://sedecobtob.blogspot.com/2021/06/service-offshore-sedeco-est.html)**  2021-06-03 09:45:10
+
+[Huisvlyt](https://huisvlyt.blogspot.com/)  
+**[Nuwer projekte en pret](https://huisvlyt.blogspot.com/2021/06/nuwer-projekte-en-pret.html)**  2021-06-03 08:59:31
+
+[Golden mind](https://goldenmind23.blogspot.com/)  
+**[Serial kulfi baje wala, good message](https://goldenmind23.blogspot.com/2021/06/serial-kulfi-baje-wala-good-message.html)**  2021-06-03 06:44:02
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-06-03 06:41:39
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Jeudi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/jeudi-de-la-9e-semaine-du-tob.html)**  2021-06-03 05:17:18
 
@@ -28,9 +40,6 @@ permalink: /mauritian-blogs/
 [Veganlovlie](https://veganlovlie.com)  
 **[Creamy Lemony Lentil Curry](http://feedproxy.google.com/~r/veganlovlie/~3/CPdkysifpQE/)**  2021-05-31 22:22:05
 
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-05-31 16:57:49
-
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Chomsky Has An Interesting Story on Kissinger](http://kozelidir.blogspot.com/2021/05/chomsky-has-interesting-story-on.html)**  2021-05-30 16:13:36
 
@@ -54,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[The Red Devils fail again](https://ritesh2103.wordpress.com/2021/05/27/the-red-devils-fail-again/)**  2021-05-27 15:14:35
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : zoom sur les services de SEDECO !](https://sedecobtob.blogspot.com/2021/05/bpo-zoom-sur-les-services-de-sedeco.html)**  2021-05-27 13:04:14
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Vesak 2021 Mount Faber / Sentosa Solo Ride](https://kabilen.tumblr.com/post/652251961173901312)**  2021-05-26 14:32:23
@@ -99,9 +105,6 @@ permalink: /mauritian-blogs/
 
 [Memories of the past..](https://pandanours.blogspot.com/)  
 **[No title](https://pandanours.blogspot.com/2020/10/time-mysticism-everything-is-subject-to.html)**  2021-05-12 07:17:24
-
-[Huisvlyt](https://huisvlyt.blogspot.com/)  
-**[Tandemuis en DJ](https://huisvlyt.blogspot.com/2021/05/tandemuis-en-dj.html)**  2021-05-01 06:28:54
 
 [MPeres' blog](https://melanieperes.blogspot.com/)  
 **[CCR?? Yes!! CloudClassRoom](https://melanieperes.blogspot.com/2021/04/ccr-yes-cloudclassroom.html)**  2021-04-30 08:00:35
@@ -150,9 +153,6 @@ permalink: /mauritian-blogs/
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What are The Best Ways to Invest Money? &#124; Capital Street Fx](https://capital-streetfx.blogspot.com/2021/03/what-are-best-ways-to-invest-money.html)**  2021-03-20 10:08:34
-
-[Golden mind](https://goldenmind23.blogspot.com/)  
-**[Serial, mere agne mein,  understanding in relationships](https://goldenmind23.blogspot.com/2021/03/serial-mere-agne-mein-understanding-in.html)**  2021-03-19 13:30:48
 
 [Mantras with meanings](https://hindumantrasmeanings.blogspot.com/)  
 **[Das Mahavidya Stotram](https://hindumantrasmeanings.blogspot.com/2021/03/das-mahavidya-stotram.html)**  2021-03-14 11:09:06
