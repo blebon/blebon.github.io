@@ -4,14 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/ny-rien-dans-toute-vie-qui-vaille-quoi.html)**  2021-06-04 05:31:07
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Adelman Peony Gardens](https://davidandjennilyn.com/2021/06/03/adelman-peony-gardens/)**  2021-06-04 05:14:40
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Sir Anerood Jugnauth: A personal tribute](https://www.lemauricien.com/opinions/forum/sir-anerood-jugnauth-a-personal-tribute/427084/)**  2021-06-03 20:58:13
+
+[Golden mind](https://goldenmind23.blogspot.com/)  
+**[Bhakharwadi serial, laughing cute scene](https://goldenmind23.blogspot.com/2021/06/bhakharwadi-serial-laughing-cute-scene.html)**  2021-06-03 15:42:29
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Service offshore : SEDECO est opérationnel 24/7 !](https://sedecobtob.blogspot.com/2021/06/service-offshore-sedeco-est.html)**  2021-06-03 09:45:10
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Nuwer projekte en pret](https://huisvlyt.blogspot.com/2021/06/nuwer-projekte-en-pret.html)**  2021-06-03 08:59:31
-
-[Golden mind](https://goldenmind23.blogspot.com/)  
-**[Serial kulfi baje wala, good message](https://goldenmind23.blogspot.com/2021/06/serial-kulfi-baje-wala-good-message.html)**  2021-06-03 06:44:02
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-06-03 06:41:39
@@ -22,17 +31,11 @@ permalink: /mauritian-blogs/
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Launching to ISS](https://mars3b8.wordpress.com/2021/06/03/launching-to-iss/)**  2021-06-03 03:28:14
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[PERFORMANCE ÉCOLES ZEP  : Donnez ces écoles à  l’Éducation Catholique !](https://www.lemauricien.com/le-mauricien/performance-ecoles-zep-donnez-ces-ecoles-a-leducation-catholique/426795/)**  2021-06-02 13:46:18
-
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[We love ❤️ links](https://sysadmin-journal.com/we-love-links/)**  2021-06-02 10:26:31
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Intention de prière du Cardinal Piat pour juin](https://www.dioceseportlouis.org/2021/06/02/intention-de-priere-du-cardinal-piat-pour-juin-3/)**  2021-06-02 08:00:19
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/ideal-ne-peut-par-definition-quetre.html)**  2021-06-02 02:03:30
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[More Doodle Blooms](https://swanlady-impressions.blogspot.com/2021/06/more-doodle-blooms.html)**  2021-06-01 22:09:48
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Chomsky Has An Interesting Story on Kissinger](http://kozelidir.blogspot.com/2021/05/chomsky-has-interesting-story-on.html)**  2021-05-30 16:13:36
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[A Duo of Dales](https://davidandjennilyn.com/2021/05/30/a-duo-of-dales/)**  2021-05-30 15:48:15
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Days of Woe in Paradise](https://msinnott.net/2021/05/30/days-of-woe-in-paradise/?utm_source=rss&utm_medium=rss&utm_campaign=days-of-woe-in-paradise)**  2021-05-30 08:01:58
@@ -441,8 +441,5 @@ permalink: /mauritian-blogs/
 
 [Nike Logo (1971)](https://faahusayn.blogspot.com/)  
 **[Nike 1971](https://faahusayn.blogspot.com/2020/07/in-creative-world-of-design-nike-swoosh.html)**  2020-07-07 04:19:30
-
-[A warrior](https://amishaisblogging.blogspot.com/)  
-**[No title](https://amishaisblogging.blogspot.com/2020/07/experiences-of-life-are-what-people.html)**  2020-07-02 17:25:47
 
 <div style="height:0;width:0;overflow:hidden;"></div>
