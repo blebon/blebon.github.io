@@ -4,8 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Technical Analysis Report Today – 04 June 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/06/technical-analysis-report-today-04-june.html)**  2021-06-04 09:29:42
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Hommage du Cardinal Piat à Sir Anerood Jugnauth](https://www.dioceseportlouis.org/2021/06/04/hommage-du-cardinal-piat-a-sir-anerood-jugnauth/)**  2021-06-04 09:14:46
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Vendredi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/vendredi-de-la-9e-semaine-du-tob.html)**  2021-06-04 06:06:17
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/ny-rien-dans-toute-vie-qui-vaille-quoi.html)**  2021-06-04 05:31:07
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/ny-rien-dans-toute-vie-qui-vaille-quoi.html)**  2021-06-04 05:53:00
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Adelman Peony Gardens](https://davidandjennilyn.com/2021/06/03/adelman-peony-gardens/)**  2021-06-04 05:14:40
@@ -25,17 +34,11 @@ permalink: /mauritian-blogs/
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-06-03 06:41:39
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/jeudi-de-la-9e-semaine-du-tob.html)**  2021-06-03 05:17:18
-
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Launching to ISS](https://mars3b8.wordpress.com/2021/06/03/launching-to-iss/)**  2021-06-03 03:28:14
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[We love ❤️ links](https://sysadmin-journal.com/we-love-links/)**  2021-06-02 10:26:31
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Intention de prière du Cardinal Piat pour juin](https://www.dioceseportlouis.org/2021/06/02/intention-de-priere-du-cardinal-piat-pour-juin-3/)**  2021-06-02 08:00:19
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[More Doodle Blooms](https://swanlady-impressions.blogspot.com/2021/06/more-doodle-blooms.html)**  2021-06-01 22:09:48
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[20+ Free Ethereum Faucets List with Instant Payouts, ETH Free Faucets [2021]](https://www.dollarsmarkt.com/2020/10/earn-free-ethereum-faucets.html)**  2021-05-28 16:22:45
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Technical Analysis Report Today – 28 May 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/05/technical-analysis-report-today-28-may.html)**  2021-05-28 10:32:00
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[White Feminism with Koa Beck & Julia Serano](https://teelocked.blogspot.com/2021/05/white-feminism-with-koa-beck-julia.html)**  2021-05-28 05:50:56
