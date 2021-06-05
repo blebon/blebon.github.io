@@ -4,23 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Samedi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/samedi-de-la-9e-semaine-du-tob.html)**  2021-06-05 04:00:00
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/ne-faut-jamais-laisser-croire-un-sot.html)**  2021-06-05 01:33:58
+
+[The Jag!](https://morisk.blogspot.com/)  
+**[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-04 14:18:44
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[World Bank Not Shutting Down Yet,  Publishes Another Sloppy Report Instead](https://www.lemauricien.com/le-mauricien/world-bank-not-shutting-down-yet-publishes-another-sloppy-report-instead/427209/)**  2021-06-04 13:00:54
+
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical Analysis Report Today – 04 June 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/06/technical-analysis-report-today-04-june.html)**  2021-06-04 09:29:42
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Hommage du Cardinal Piat à Sir Anerood Jugnauth](https://www.dioceseportlouis.org/2021/06/04/hommage-du-cardinal-piat-a-sir-anerood-jugnauth/)**  2021-06-04 09:14:46
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/vendredi-de-la-9e-semaine-du-tob.html)**  2021-06-04 06:06:17
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/ny-rien-dans-toute-vie-qui-vaille-quoi.html)**  2021-06-04 05:53:00
-
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Adelman Peony Gardens](https://davidandjennilyn.com/2021/06/03/adelman-peony-gardens/)**  2021-06-04 05:14:40
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Sir Anerood Jugnauth: A personal tribute](https://www.lemauricien.com/opinions/forum/sir-anerood-jugnauth-a-personal-tribute/427084/)**  2021-06-03 20:58:13
 
 [Golden mind](https://goldenmind23.blogspot.com/)  
 **[Bhakharwadi serial, laughing cute scene](https://goldenmind23.blogspot.com/2021/06/bhakharwadi-serial-laughing-cute-scene.html)**  2021-06-03 15:42:29
