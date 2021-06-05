@@ -4,17 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Mauritians Say Goodbye To Their Longest-Serving PM](http://kozelidir.blogspot.com/2021/06/mauritians-say-goodbye-to-their-longest.html)**  2021-06-05 11:04:36
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[JOURNÉE MONDIALE DE L’ENVIRONNEMENT – L’espoir de meilleurs lendemains](https://www.lemauricien.com/le-mauricien/journee-mondiale-de-lenvironnement-lespoir-de-meilleurs-lendemains/427320/)**  2021-06-05 10:43:34
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Farewell to a great leader and national hero](https://ritesh2103.wordpress.com/2021/06/05/farewell-to-a-great-leader-and-national-hero/)**  2021-06-05 09:38:15
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[Nigerian government suspends Twitter operations in the country](https://sysadmin-journal.com/nigerian-government-suspends-all-twitters-operations-in-the-country/)**  2021-06-05 09:07:14
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/ne-faut-jamais-laisser-croire-un-sot.html)**  2021-06-05 06:27:41
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Samedi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/samedi-de-la-9e-semaine-du-tob.html)**  2021-06-05 04:00:00
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/ne-faut-jamais-laisser-croire-un-sot.html)**  2021-06-05 01:33:58
-
 [The Jag!](https://morisk.blogspot.com/)  
 **[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-04 14:18:44
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[World Bank Not Shutting Down Yet,  Publishes Another Sloppy Report Instead](https://www.lemauricien.com/le-mauricien/world-bank-not-shutting-down-yet-publishes-another-sloppy-report-instead/427209/)**  2021-06-04 13:00:54
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical Analysis Report Today – 04 June 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/06/technical-analysis-report-today-04-june.html)**  2021-06-04 09:29:42
@@ -40,17 +49,11 @@ permalink: /mauritian-blogs/
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Launching to ISS](https://mars3b8.wordpress.com/2021/06/03/launching-to-iss/)**  2021-06-03 03:28:14
 
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[We love ❤️ links](https://sysadmin-journal.com/we-love-links/)**  2021-06-02 10:26:31
-
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[More Doodle Blooms](https://swanlady-impressions.blogspot.com/2021/06/more-doodle-blooms.html)**  2021-06-01 22:09:48
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Creamy Lemony Lentil Curry](http://feedproxy.google.com/~r/veganlovlie/~3/CPdkysifpQE/)**  2021-05-31 22:22:05
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Chomsky Has An Interesting Story on Kissinger](http://kozelidir.blogspot.com/2021/05/chomsky-has-interesting-story-on.html)**  2021-05-30 16:13:36
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Days of Woe in Paradise](https://msinnott.net/2021/05/30/days-of-woe-in-paradise/?utm_source=rss&utm_medium=rss&utm_campaign=days-of-woe-in-paradise)**  2021-05-30 08:01:58
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[White Feminism with Koa Beck & Julia Serano](https://teelocked.blogspot.com/2021/05/white-feminism-with-koa-beck-julia.html)**  2021-05-28 05:50:56
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[The Red Devils fail again](https://ritesh2103.wordpress.com/2021/05/27/the-red-devils-fail-again/)**  2021-05-27 15:14:35
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Vesak 2021 Mount Faber / Sentosa Solo Ride](https://kabilen.tumblr.com/post/652251961173901312)**  2021-05-26 14:32:23
