@@ -4,6 +4,21 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
+**[Air Dry Clay Beads and Incense Holder](https://mymauritiangarden.wordpress.com/2021/06/06/air-dry-clay-beads-and-incense-holder/)**  2021-06-06 04:15:16
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/ne-suffit-de-parler-la-meme-langue-pour.html)**  2021-06-06 02:40:45
+
+[priscimon.com](https://priscimon.com/blog)  
+**[Back to blogging?](http://feedproxy.google.com/~r/EddyYoung/~3/NEATaq3nsSM/)**  2021-06-06 00:20:59
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Imitate](https://vintishgokool.blogspot.com/2021/06/mimic.html)**  2021-06-05 14:58:11
+
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[Radio Amateur Exams 2022](https://mars3b8.wordpress.com/2021/06/05/radio-amateur-exams-2022/)**  2021-06-05 12:17:11
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Mauritians Say Goodbye To Their Longest-Serving PM](http://kozelidir.blogspot.com/2021/06/mauritians-say-goodbye-to-their-longest.html)**  2021-06-05 11:04:36
 
@@ -15,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Nigerian government suspends Twitter operations in the country](https://sysadmin-journal.com/nigerian-government-suspends-all-twitters-operations-in-the-country/)**  2021-06-05 09:07:14
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/ne-faut-jamais-laisser-croire-un-sot.html)**  2021-06-05 06:27:41
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Samedi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/samedi-de-la-9e-semaine-du-tob.html)**  2021-06-05 04:00:00
@@ -46,9 +58,6 @@ permalink: /mauritian-blogs/
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-06-03 06:41:39
 
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[Launching to ISS](https://mars3b8.wordpress.com/2021/06/03/launching-to-iss/)**  2021-06-03 03:28:14
-
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[More Doodle Blooms](https://swanlady-impressions.blogspot.com/2021/06/more-doodle-blooms.html)**  2021-06-01 22:09:48
 
@@ -57,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Days of Woe in Paradise](https://msinnott.net/2021/05/30/days-of-woe-in-paradise/?utm_source=rss&utm_medium=rss&utm_campaign=days-of-woe-in-paradise)**  2021-05-30 08:01:58
-
-[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
-**[Cardboard Art – More Stuff on Sticks](https://mymauritiangarden.wordpress.com/2021/05/30/cardboard-art-more-stuff-on-sticks/)**  2021-05-30 03:18:39
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[20+ Free Ethereum Faucets List with Instant Payouts, ETH Free Faucets [2021]](https://www.dollarsmarkt.com/2020/10/earn-free-ethereum-faucets.html)**  2021-05-28 16:22:45
@@ -135,9 +141,6 @@ permalink: /mauritian-blogs/
 
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[Mars-Avril 2021: Confinement...le retour!](https://petitpotagerilemaurice.blogspot.com/2021/04/mars-avril-2021-confinementle-retour.html)**  2021-04-10 18:09:00
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Fake Guru](https://vintishgokool.blogspot.com/2021/04/fake-guru.html)**  2021-04-04 17:12:57
 
 [Alice in no Wonderland](https://alisonern.blogspot.com/)  
 **[Lamour V/s Latention](https://alisonern.blogspot.com/2021/03/lamour-vs-latention.html)**  2021-04-01 06:28:41
@@ -303,9 +306,6 @@ permalink: /mauritian-blogs/
 
 [plats camerounais](https://platkmer.blogspot.com/)  
 **[PLATS KMERS](https://platkmer.blogspot.com/2020/11/plats-kmers.html)**  2020-11-09 09:01:43
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Sign of the times](http://feedproxy.google.com/~r/EddyYoung/~3/ssq2bZCt1dk/)**  2020-11-08 11:48:16
 
 [Meteo blabla! Maurice](https://meteoblablamaurice.blogspot.com/)  
 **[pour les passionnés de météo ECMWF ouvre aux publics ses données.](https://meteoblablamaurice.blogspot.com/2020/11/pour-les-passionnes-de-meteo-ecmwf.html)**  2020-11-07 09:10:20
