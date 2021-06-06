@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[Indian government gives final notice to Twitter to comply with new IT rules](https://sysadmin-journal.com/indian-government-gvies-final-notice-to-twitter-to-comply-with-new-it-rules/)**  2021-06-06 11:19:17
+
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Air Dry Clay Beads and Incense Holder](https://mymauritiangarden.wordpress.com/2021/06/06/air-dry-clay-beads-and-incense-holder/)**  2021-06-06 04:15:16
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Farewell to a great leader and national hero](https://ritesh2103.wordpress.com/2021/06/05/farewell-to-a-great-leader-and-national-hero/)**  2021-06-05 09:38:15
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Nigerian government suspends Twitter operations in the country](https://sysadmin-journal.com/nigerian-government-suspends-all-twitters-operations-in-the-country/)**  2021-06-05 09:07:14
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Samedi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/samedi-de-la-9e-semaine-du-tob.html)**  2021-06-05 04:00:00
