@@ -4,14 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Road side breaks with no dine-in allowed #roundislandride 5//Jun//21](https://kabilen.tumblr.com/post/653292795036057600)**  2021-06-07 02:15:59
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/ne-suffit-de-parler-la-meme-langue-pour.html)**  2021-06-07 01:27:46
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Can You Trust Animals Without Sight? ft. Blind YouTuber Molly Burke](https://teelocked.blogspot.com/2021/06/can-you-trust-animals-without-sight-ft.html)**  2021-06-06 18:10:54
+
+[The Jag!](https://morisk.blogspot.com/)  
+**[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-06 16:45:20
+
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Indian government gives final notice to Twitter to comply with new IT rules](https://sysadmin-journal.com/indian-government-gvies-final-notice-to-twitter-to-comply-with-new-it-rules/)**  2021-06-06 11:19:17
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Air Dry Clay Beads and Incense Holder](https://mymauritiangarden.wordpress.com/2021/06/06/air-dry-clay-beads-and-incense-holder/)**  2021-06-06 04:15:16
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/ne-suffit-de-parler-la-meme-langue-pour.html)**  2021-06-06 02:40:45
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Back to blogging?](http://feedproxy.google.com/~r/EddyYoung/~3/NEATaq3nsSM/)**  2021-06-06 00:20:59
@@ -33,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Samedi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/samedi-de-la-9e-semaine-du-tob.html)**  2021-06-05 04:00:00
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-04 14:18:44
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical Analysis Report Today – 04 June 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/06/technical-analysis-report-today-04-june.html)**  2021-06-04 09:29:42
@@ -69,12 +75,6 @@ permalink: /mauritian-blogs/
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[20+ Free Ethereum Faucets List with Instant Payouts, ETH Free Faucets [2021]](https://www.dollarsmarkt.com/2020/10/earn-free-ethereum-faucets.html)**  2021-05-28 16:22:45
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[White Feminism with Koa Beck & Julia Serano](https://teelocked.blogspot.com/2021/05/white-feminism-with-koa-beck-julia.html)**  2021-05-28 05:50:56
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Vesak 2021 Mount Faber / Sentosa Solo Ride](https://kabilen.tumblr.com/post/652251961173901312)**  2021-05-26 14:32:23
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Wedding Worth The Wait](https://blog.constancehotels.com/a-wedding-worth-the-wait/)**  2021-05-24 13:31:49
