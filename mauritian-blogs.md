@@ -4,11 +4,27 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Road side breaks with no dine-in allowed #roundislandride 5//Jun//21](https://kabilen.tumblr.com/post/653292795036057600)**  2021-06-07 02:15:59
+[http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
+**[https://www.cnbc.com/2021/06/07/google-fined-by-france-for-abusing-online-advertising-position.html](https://arvindbabajee.blogspot.com/2021/06/httpswwwcnbccom20210607google-fined-by.html)**  2021-06-07 11:12:27
+
+[adarsh.me](https://adarsh.me/)  
+**[Early afternoon, Bellepierre
+.
+.
+.
+.
+.
+. 
+#shadowsandlight...](https://adarsh.me/post/653324947332186112)**  2021-06-07 10:47:01
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Financial Markets & Stock Market Technical Analysis Report Today – 07 June 2021 &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/06/financial-markets-stock-market.html)**  2021-06-07 09:48:01
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/ne-suffit-de-parler-la-meme-langue-pour.html)**  2021-06-07 01:27:46
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/ce-putain-besoin-de-dominer-etou-detre.html)**  2021-06-07 07:49:21
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Road side breaks with no dine-in allowed #roundislandride 5//Jun//21](https://kabilen.tumblr.com/post/653292795036057600)**  2021-06-07 02:15:59
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Can You Trust Animals Without Sight? ft. Blind YouTuber Molly Burke](https://teelocked.blogspot.com/2021/06/can-you-trust-animals-without-sight-ft.html)**  2021-06-06 18:10:54
@@ -43,9 +59,6 @@ permalink: /mauritian-blogs/
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Samedi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/samedi-de-la-9e-semaine-du-tob.html)**  2021-06-05 04:00:00
 
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Technical Analysis Report Today – 04 June 2021 &#124; Capital Street Fx](https://dailytechnicalanalysisforexnews.blogspot.com/2021/06/technical-analysis-report-today-04-june.html)**  2021-06-04 09:29:42
-
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Hommage du Cardinal Piat à Sir Anerood Jugnauth](https://www.dioceseportlouis.org/2021/06/04/hommage-du-cardinal-piat-a-sir-anerood-jugnauth/)**  2021-06-04 09:14:46
 
@@ -79,9 +92,6 @@ permalink: /mauritian-blogs/
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Wedding Worth The Wait](https://blog.constancehotels.com/a-wedding-worth-the-wait/)**  2021-05-24 13:31:49
 
-[adarsh.me](https://adarsh.me/)  
-**[Found that while going through my shots of Rome in...](https://adarsh.me/post/651907428478255104)**  2021-05-22 19:16:09
-
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Whites will cling to power far into the future, because it is so entrenched in the system"](https://zoomdr.blogspot.com/2021/05/whites-will-cling-to-power-far-into.html)**  2021-05-22 08:38:20
 
@@ -99,9 +109,6 @@ permalink: /mauritian-blogs/
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[COVID -19 : Wo Impfen belohnt wird....Vaccination Incentives: Between Joints and Blue Whales in the USA](https://insel-rodrigues.blogspot.com/2021/05/covid-19-wo-impfen-belohnt.html)**  2021-05-20 04:43:13
-
-[http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
-**[https://www.cnbc.com/2021/05/18/india-covid-crisis-shows-public-health-neglect-problems-underinvestment.html](https://arvindbabajee.blogspot.com/2021/05/httpswwwcnbccom20210518india-covid.html)**  2021-05-18 08:17:33
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Secure Connection Failed][PR_END_OF_FILE_ERROR]](https://savourthemomentattechie.blogspot.com/2021/05/secure-connection-failedprendoffileerror.html)**  2021-05-14 20:04:57
