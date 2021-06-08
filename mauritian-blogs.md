@@ -4,6 +4,18 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mardi de la 10e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mardi-de-la-10e-semaine-du-tob.html)**  2021-06-08 04:30:00
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/ce-putain-besoin-de-dominer-etou-detre.html)**  2021-06-08 02:09:13
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-07 17:15:30
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Identités : distinguons les arbres parasités de la forêt endémique](https://www.lemauricien.com/le-mauricien/identites-distinguons-les-arbres-parasites-de-la-foret-endemique/427638/)**  2021-06-07 13:26:24
+
 [http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
 **[https://www.cnbc.com/2021/06/07/google-fined-by-france-for-abusing-online-advertising-position.html](https://arvindbabajee.blogspot.com/2021/06/httpswwwcnbccom20210607google-fined-by.html)**  2021-06-07 11:12:27
 
@@ -19,9 +31,6 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Financial Markets & Stock Market Technical Analysis Report Today – 07 June 2021 &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/06/financial-markets-stock-market.html)**  2021-06-07 09:48:01
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/ce-putain-besoin-de-dominer-etou-detre.html)**  2021-06-07 07:49:21
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Road side breaks with no dine-in allowed #roundislandride 5//Jun//21](https://kabilen.tumblr.com/post/653292795036057600)**  2021-06-07 02:15:59
@@ -50,14 +59,8 @@ permalink: /mauritian-blogs/
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Mauritians Say Goodbye To Their Longest-Serving PM](http://kozelidir.blogspot.com/2021/06/mauritians-say-goodbye-to-their-longest.html)**  2021-06-05 11:04:36
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[JOURNÉE MONDIALE DE L’ENVIRONNEMENT – L’espoir de meilleurs lendemains](https://www.lemauricien.com/le-mauricien/journee-mondiale-de-lenvironnement-lespoir-de-meilleurs-lendemains/427320/)**  2021-06-05 10:43:34
-
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Farewell to a great leader and national hero](https://ritesh2103.wordpress.com/2021/06/05/farewell-to-a-great-leader-and-national-hero/)**  2021-06-05 09:38:15
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 9e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/samedi-de-la-9e-semaine-du-tob.html)**  2021-06-05 04:00:00
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Hommage du Cardinal Piat à Sir Anerood Jugnauth](https://www.dioceseportlouis.org/2021/06/04/hommage-du-cardinal-piat-a-sir-anerood-jugnauth/)**  2021-06-04 09:14:46
@@ -73,9 +76,6 @@ permalink: /mauritian-blogs/
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Nuwer projekte en pret](https://huisvlyt.blogspot.com/2021/06/nuwer-projekte-en-pret.html)**  2021-06-03 08:59:31
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The deep identity crisis of Mauritius](https://tchombo.blogspot.com/2021/05/our-identity-trap.html)**  2021-06-03 06:41:39
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[More Doodle Blooms](https://swanlady-impressions.blogspot.com/2021/06/more-doodle-blooms.html)**  2021-06-01 22:09:48
@@ -448,8 +448,5 @@ permalink: /mauritian-blogs/
 
 [mithilesh](https://mithileshmuddoo.blogspot.com/)  
 **[EVENTS IN 1900 THAT HAD IMPACT ON GRAPHIC DESIGN.](https://mithileshmuddoo.blogspot.com/2020/07/events-in-1900-that-had-impact-on.html)**  2020-07-08 06:09:50
-
-[Nike Logo (1971)](https://faahusayn.blogspot.com/)  
-**[Nike 1971](https://faahusayn.blogspot.com/2020/07/in-creative-world-of-design-nike-swoosh.html)**  2020-07-07 04:19:30
 
 <div style="height:0;width:0;overflow:hidden;"></div>
