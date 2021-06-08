@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Protecting Our Environment At Constance Hotels & Resorts](https://blog.constancehotels.com/protecting-our-environment-at-constance-hotels-and-resorts/)**  2021-06-08 11:21:08
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mardi de la 10e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mardi-de-la-10e-semaine-du-tob.html)**  2021-06-08 04:30:00
 
@@ -88,9 +91,6 @@ permalink: /mauritian-blogs/
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[20+ Free Ethereum Faucets List with Instant Payouts, ETH Free Faucets [2021]](https://www.dollarsmarkt.com/2020/10/earn-free-ethereum-faucets.html)**  2021-05-28 16:22:45
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[A Wedding Worth The Wait](https://blog.constancehotels.com/a-wedding-worth-the-wait/)**  2021-05-24 13:31:49
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Whites will cling to power far into the future, because it is so entrenched in the system"](https://zoomdr.blogspot.com/2021/05/whites-will-cling-to-power-far-into.html)**  2021-05-22 08:38:20
