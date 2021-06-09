@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Be Still](https://swanlady-impressions.blogspot.com/2021/06/be-still.html)**  2021-06-09 10:14:48
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mercredi de la 10e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mercredi-de-la-10e-semaine-du-tob.html)**  2021-06-09 04:30:00
 
@@ -79,9 +82,6 @@ permalink: /mauritian-blogs/
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Nuwer projekte en pret](https://huisvlyt.blogspot.com/2021/06/nuwer-projekte-en-pret.html)**  2021-06-03 08:59:31
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[More Doodle Blooms](https://swanlady-impressions.blogspot.com/2021/06/more-doodle-blooms.html)**  2021-06-01 22:09:48
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Creamy Lemony Lentil Curry](http://feedproxy.google.com/~r/veganlovlie/~3/CPdkysifpQE/)**  2021-05-31 22:22:05
@@ -442,11 +442,5 @@ permalink: /mauritian-blogs/
 
 [Shibloll Abhavsingh](https://shiblollabhavsingh.blogspot.com/)  
 **[Design trends which influenced the world in 2014](https://shiblollabhavsingh.blogspot.com/2020/07/deaign-trends-which-influenced-world-in.html)**  2020-07-08 13:35:57
-
-[Mubiin Cader](https://mubiincader.blogspot.com/)  
-**[Convid-19 and Graphic Design (2020)](https://mubiincader.blogspot.com/2020/07/convid-19-and-graphic-design-2020.html)**  2020-07-08 09:24:47
-
-[mithilesh](https://mithileshmuddoo.blogspot.com/)  
-**[EVENTS IN 1900 THAT HAD IMPACT ON GRAPHIC DESIGN.](https://mithileshmuddoo.blogspot.com/2020/07/events-in-1900-that-had-impact-on.html)**  2020-07-08 06:09:50
 
 <div style="height:0;width:0;overflow:hidden;"></div>
