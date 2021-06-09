@@ -4,20 +4,35 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mercredi de la 10e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mercredi-de-la-10e-semaine-du-tob.html)**  2021-06-09 04:30:00
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/accuse-les-eleves-de-ne-pas-etre.html)**  2021-06-09 04:29:34
+
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[Deployment Date](https://mars3b8.wordpress.com/2021/06/09/deployment-date/)**  2021-06-09 03:17:54
+
+[The Jag!](https://morisk.blogspot.com/)  
+**[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-08 22:22:42
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Emploi ou chômage : un vrai chantage !](https://www.lemauricien.com/opinions/forum/emploi-ou-chomage-un-vrai-chantage/427838/)**  2021-06-08 13:00:52
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[La Roue qui tourne](https://kabilen.tumblr.com/post/653423300388749312)**  2021-06-08 12:50:19
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Protecting Our Environment At Constance Hotels & Resorts](https://blog.constancehotels.com/protecting-our-environment-at-constance-hotels-and-resorts/)**  2021-06-08 11:21:08
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 10e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mardi-de-la-10e-semaine-du-tob.html)**  2021-06-08 04:30:00
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/ce-putain-besoin-de-dominer-etou-detre.html)**  2021-06-08 02:09:13
+[priscimon.com](https://priscimon.com/blog)  
+**[2Blowhards](http://feedproxy.google.com/~r/EddyYoung/~3/_XZKfjZv-Nk/)**  2021-06-08 01:00:00
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-07 17:15:30
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Identités : distinguons les arbres parasités de la forêt endémique](https://www.lemauricien.com/le-mauricien/identites-distinguons-les-arbres-parasites-de-la-foret-endemique/427638/)**  2021-06-07 13:26:24
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Happy Birthday Gerbils!](https://davidandjennilyn.com/2021/06/07/happy-birthday-gerbils/)**  2021-06-07 16:00:00
 
 [http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
 **[https://www.cnbc.com/2021/06/07/google-fined-by-france-for-abusing-online-advertising-position.html](https://arvindbabajee.blogspot.com/2021/06/httpswwwcnbccom20210607google-fined-by.html)**  2021-06-07 11:12:27
@@ -35,14 +50,8 @@ permalink: /mauritian-blogs/
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Financial Markets & Stock Market Technical Analysis Report Today – 07 June 2021 &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/06/financial-markets-stock-market.html)**  2021-06-07 09:48:01
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Road side breaks with no dine-in allowed #roundislandride 5//Jun//21](https://kabilen.tumblr.com/post/653292795036057600)**  2021-06-07 02:15:59
-
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Can You Trust Animals Without Sight? ft. Blind YouTuber Molly Burke](https://teelocked.blogspot.com/2021/06/can-you-trust-animals-without-sight-ft.html)**  2021-06-06 18:10:54
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-06 16:45:20
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Indian government gives final notice to Twitter to comply with new IT rules](https://sysadmin-journal.com/indian-government-gvies-final-notice-to-twitter-to-comply-with-new-it-rules/)**  2021-06-06 11:19:17
@@ -50,14 +59,8 @@ permalink: /mauritian-blogs/
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Air Dry Clay Beads and Incense Holder](https://mymauritiangarden.wordpress.com/2021/06/06/air-dry-clay-beads-and-incense-holder/)**  2021-06-06 04:15:16
 
-[priscimon.com](https://priscimon.com/blog)  
-**[Back to blogging?](http://feedproxy.google.com/~r/EddyYoung/~3/NEATaq3nsSM/)**  2021-06-06 00:20:59
-
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Imitate](https://vintishgokool.blogspot.com/2021/06/mimic.html)**  2021-06-05 14:58:11
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[Radio Amateur Exams 2022](https://mars3b8.wordpress.com/2021/06/05/radio-amateur-exams-2022/)**  2021-06-05 12:17:11
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Mauritians Say Goodbye To Their Longest-Serving PM](http://kozelidir.blogspot.com/2021/06/mauritians-say-goodbye-to-their-longest.html)**  2021-06-05 11:04:36
@@ -67,9 +70,6 @@ permalink: /mauritian-blogs/
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Hommage du Cardinal Piat à Sir Anerood Jugnauth](https://www.dioceseportlouis.org/2021/06/04/hommage-du-cardinal-piat-a-sir-anerood-jugnauth/)**  2021-06-04 09:14:46
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Adelman Peony Gardens](https://davidandjennilyn.com/2021/06/03/adelman-peony-gardens/)**  2021-06-04 05:14:40
 
 [Golden mind](https://goldenmind23.blogspot.com/)  
 **[Bhakharwadi serial, laughing cute scene](https://goldenmind23.blogspot.com/2021/06/bhakharwadi-serial-laughing-cute-scene.html)**  2021-06-03 15:42:29
