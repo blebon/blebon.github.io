@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Jeudi de la 10e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/jeudi-de-la-10e-semaine-du-tob.html)**  2021-06-10 06:03:27
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/06/ne-dit-jamais-tant-de-betises-que-quand.html)**  2021-06-10 05:36:14
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Savoir Rebondir face au Covid-19](https://www.lemauricien.com/le-mauricien/savoir-rebondir-face-au-covid-19/428004/)**  2021-06-09 13:00:49
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 10e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mercredi-de-la-10e-semaine-du-tob.html)**  2021-06-09 04:30:00
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Deployment Date](https://mars3b8.wordpress.com/2021/06/09/deployment-date/)**  2021-06-09 03:17:54
