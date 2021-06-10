@@ -4,14 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/ne-dit-jamais-tant-de-betises-que-quand.html)**  2021-06-10 05:36:14
+
+[priscimon.com](https://priscimon.com/blog)  
+**[Remember to touch base](http://feedproxy.google.com/~r/EddyYoung/~3/bukMqtU9xCw/)**  2021-06-10 01:00:00
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[What Jonathan Zimmerman Learned Living in Nepal for 2 Years](https://teelocked.blogspot.com/2021/06/what-jonathan-zimmerman-learned-living.html)**  2021-06-09 22:14:20
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Be Still](https://swanlady-impressions.blogspot.com/2021/06/be-still.html)**  2021-06-09 10:14:48
+**[Be Still](https://swanlady-impressions.blogspot.com/2021/06/be-still.html)**  2021-06-09 18:36:55
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : SEDECO est présent sur les réseaux sociaux !](https://sedecobtob.blogspot.com/2021/06/bpo-sedeco-est-present-sur-les-reseaux.html)**  2021-06-09 15:22:54
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Savoir Rebondir face au Covid-19](https://www.lemauricien.com/le-mauricien/savoir-rebondir-face-au-covid-19/428004/)**  2021-06-09 13:00:49
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mercredi de la 10e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mercredi-de-la-10e-semaine-du-tob.html)**  2021-06-09 04:30:00
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/accuse-les-eleves-de-ne-pas-etre.html)**  2021-06-09 04:29:34
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Deployment Date](https://mars3b8.wordpress.com/2021/06/09/deployment-date/)**  2021-06-09 03:17:54
@@ -19,17 +31,11 @@ permalink: /mauritian-blogs/
 [The Jag!](https://morisk.blogspot.com/)  
 **[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-08 22:22:42
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Emploi ou chômage : un vrai chantage !](https://www.lemauricien.com/opinions/forum/emploi-ou-chomage-un-vrai-chantage/427838/)**  2021-06-08 13:00:52
-
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[La Roue qui tourne](https://kabilen.tumblr.com/post/653423300388749312)**  2021-06-08 12:50:19
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Protecting Our Environment At Constance Hotels & Resorts](https://blog.constancehotels.com/protecting-our-environment-at-constance-hotels-and-resorts/)**  2021-06-08 11:21:08
-
-[priscimon.com](https://priscimon.com/blog)  
-**[2Blowhards](http://feedproxy.google.com/~r/EddyYoung/~3/_XZKfjZv-Nk/)**  2021-06-08 01:00:00
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-07 17:15:30
@@ -53,9 +59,6 @@ permalink: /mauritian-blogs/
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Financial Markets & Stock Market Technical Analysis Report Today – 07 June 2021 &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/06/financial-markets-stock-market.html)**  2021-06-07 09:48:01
 
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Can You Trust Animals Without Sight? ft. Blind YouTuber Molly Burke](https://teelocked.blogspot.com/2021/06/can-you-trust-animals-without-sight-ft.html)**  2021-06-06 18:10:54
-
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Indian government gives final notice to Twitter to comply with new IT rules](https://sysadmin-journal.com/indian-government-gvies-final-notice-to-twitter-to-comply-with-new-it-rules/)**  2021-06-06 11:19:17
 
@@ -76,9 +79,6 @@ permalink: /mauritian-blogs/
 
 [Golden mind](https://goldenmind23.blogspot.com/)  
 **[Bhakharwadi serial, laughing cute scene](https://goldenmind23.blogspot.com/2021/06/bhakharwadi-serial-laughing-cute-scene.html)**  2021-06-03 15:42:29
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Service offshore : SEDECO est opérationnel 24/7 !](https://sedecobtob.blogspot.com/2021/06/service-offshore-sedeco-est.html)**  2021-06-03 09:45:10
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Nuwer projekte en pret](https://huisvlyt.blogspot.com/2021/06/nuwer-projekte-en-pret.html)**  2021-06-03 08:59:31
@@ -421,26 +421,5 @@ permalink: /mauritian-blogs/
 
 [Wonders I have seen : Places I have visited](https://places-i-have-visited.blogspot.com/)  
 **[No title](https://places-i-have-visited.blogspot.com/2020/07/more-pictures-on-page-wonders-i-have.html)**  2020-07-16 10:14:17
-
-[FIGUE Noohairah](https://noohgraphicdesigner.blogspot.com/)  
-**[Bob Noorda](https://noohgraphicdesigner.blogspot.com/2020/07/bob-noorda.html)**  2020-07-08 17:23:32
-
-[Uzeyr Kodabaccus](https://uzeyrkodabaccus.blogspot.com/)  
-**[Microsoft Foundation](https://uzeyrkodabaccus.blogspot.com/2020/07/microsoft-foundation.html)**  2020-07-08 15:44:16
-
-[School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
-**[School Science Learning and Languages](https://vhunma.blogspot.com/2020/07/school-science-learning-and-languages.html)**  2020-07-08 15:39:46
-
-[Leanne Lingiah](https://leannelingiah.blogspot.com/)  
-**[1942](https://leannelingiah.blogspot.com/2020/07/1942_8.html)**  2020-07-08 15:35:18
-
-[Graphic design in 1949](https://aaadill.blogspot.com/)  
-**[Graphic Design in 1949](https://aaadill.blogspot.com/2020/07/graphic-design-in-1949.html)**  2020-07-08 14:00:40
-
-[AUBROO YASHILA](https://aubrooyashila.blogspot.com/)  
-**[EVENT IN 1994](https://aubrooyashila.blogspot.com/2020/07/event-in-1994.html)**  2020-07-08 13:58:00
-
-[Shibloll Abhavsingh](https://shiblollabhavsingh.blogspot.com/)  
-**[Design trends which influenced the world in 2014](https://shiblollabhavsingh.blogspot.com/2020/07/deaign-trends-which-influenced-world-in.html)**  2020-07-08 13:35:57
 
 <div style="height:0;width:0;overflow:hidden;"></div>
