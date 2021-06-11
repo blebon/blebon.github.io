@@ -4,17 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour la solennité du Sacré-Coeur de Jésus](https://josephnguyenmahebourg.blogspot.com/2021/06/homelie-pour-la-solennite-du-sacre.html)**  2021-06-11 10:37:44
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Sri Lankan Lunch #tekkasingapore #market 11//jun//21](https://kabilen.tumblr.com/post/653675850636591104)**  2021-06-11 07:44:29
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/hommes-ont-ils-commence-par-se-battre.html)**  2021-06-11 05:20:49
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/hommes-ont-ils-commence-par-se-battre.html)**  2021-06-11 06:02:09
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Be Still](https://swanlady-impressions.blogspot.com/2021/06/be-still.html)**  2021-06-10 18:09:25
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Inaccurate reporting of Homicide cases in Mauritius](https://comstudies.wordpress.com/2021/06/10/inaccurate-reporting-of-homicide-cases-in-mauritius/)**  2021-06-10 13:20:48
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 10e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/jeudi-de-la-10e-semaine-du-tob.html)**  2021-06-10 06:03:27
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Remember to touch base](http://feedproxy.google.com/~r/EddyYoung/~3/bukMqtU9xCw/)**  2021-06-10 01:00:00
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-08 22:22:42
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[La Roue qui tourne](https://kabilen.tumblr.com/post/653423300388749312)**  2021-06-08 12:50:19
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Protecting Our Environment At Constance Hotels & Resorts](https://blog.constancehotels.com/protecting-our-environment-at-constance-hotels-and-resorts/)**  2021-06-08 11:21:08
