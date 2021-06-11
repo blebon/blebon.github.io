@@ -4,20 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/hommes-ont-ils-commence-par-se-battre.html)**  2021-06-11 05:20:49
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Be Still](https://swanlady-impressions.blogspot.com/2021/06/be-still.html)**  2021-06-10 18:09:25
+
+[UoM-Communication Studies](https://comstudies.wordpress.com)  
+**[Inaccurate reporting of Homicide cases in Mauritius](https://comstudies.wordpress.com/2021/06/10/inaccurate-reporting-of-homicide-cases-in-mauritius/)**  2021-06-10 13:20:48
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Jeudi de la 10e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/jeudi-de-la-10e-semaine-du-tob.html)**  2021-06-10 06:03:27
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/ne-dit-jamais-tant-de-betises-que-quand.html)**  2021-06-10 05:36:14
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Remember to touch base](http://feedproxy.google.com/~r/EddyYoung/~3/bukMqtU9xCw/)**  2021-06-10 01:00:00
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[What Jonathan Zimmerman Learned Living in Nepal for 2 Years](https://teelocked.blogspot.com/2021/06/what-jonathan-zimmerman-learned-living.html)**  2021-06-09 22:14:20
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Be Still](https://swanlady-impressions.blogspot.com/2021/06/be-still.html)**  2021-06-09 18:36:55
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO est présent sur les réseaux sociaux !](https://sedecobtob.blogspot.com/2021/06/bpo-sedeco-est-present-sur-les-reseaux.html)**  2021-06-09 15:22:54
@@ -202,9 +205,6 @@ permalink: /mauritian-blogs/
 
 [Top 5 Stock and Market News &#124; Forex Market News](https://top5stock.blogspot.com/)  
 **[TOP 5 STOCKS & Stock Market News – FEBRUARY 24, 2021 – CAPITAL STREET FX](https://top5stock.blogspot.com/2021/02/top-5-stocks-stock-market-news-february.html)**  2021-02-24 14:18:48
-
-[UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[Inauguration Ceremony of the FSSH Digital Language Lab](https://comstudies.wordpress.com/2021/02/22/inauguration-ceremony-of-the-fssh-digital-language-lab/)**  2021-02-22 05:36:15
 
 [French and Technology](https://aurorealexandra.blogspot.com/)  
 **[No title](https://aurorealexandra.blogspot.com/2021/02/notre-existence-sur-terre-est-comme-un.html)**  2021-02-20 09:20:42
