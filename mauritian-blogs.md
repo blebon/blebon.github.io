@@ -4,14 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/fait-ce-nest-pas-le-pouvoir-lui-meme-si.html)**  2021-06-12 04:52:07
+
+[priscimon.com](https://priscimon.com/blog)  
+**[Undoing Facebook](http://feedproxy.google.com/~r/EddyYoung/~3/UpHW40T7Yvc/)**  2021-06-12 01:00:00
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[E-marketing : les sous-services de SEDECO !](https://sedecobtob.blogspot.com/2021/06/e-marketing-les-sous-services-de-sedeco.html)**  2021-06-11 15:33:44
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Budgets, the Mauritius-Africa Strategy : Africanising the Mauritian mind](https://www.lemauricien.com/le-mauricien/budgets-the-mauritius-africa-strategy-africanising-the-mauritian-mind/428413/)**  2021-06-11 13:00:31
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour la solennité du Sacré-Coeur de Jésus](https://josephnguyenmahebourg.blogspot.com/2021/06/homelie-pour-la-solennite-du-sacre.html)**  2021-06-11 10:37:44
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Sri Lankan Lunch #tekkasingapore #market 11//jun//21](https://kabilen.tumblr.com/post/653675850636591104)**  2021-06-11 07:44:29
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/hommes-ont-ils-commence-par-se-battre.html)**  2021-06-11 06:02:09
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Be Still](https://swanlady-impressions.blogspot.com/2021/06/be-still.html)**  2021-06-10 18:09:25
@@ -19,17 +28,8 @@ permalink: /mauritian-blogs/
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Inaccurate reporting of Homicide cases in Mauritius](https://comstudies.wordpress.com/2021/06/10/inaccurate-reporting-of-homicide-cases-in-mauritius/)**  2021-06-10 13:20:48
 
-[priscimon.com](https://priscimon.com/blog)  
-**[Remember to touch base](http://feedproxy.google.com/~r/EddyYoung/~3/bukMqtU9xCw/)**  2021-06-10 01:00:00
-
 [L😀ck](https://teelocked.blogspot.com/)  
 **[What Jonathan Zimmerman Learned Living in Nepal for 2 Years](https://teelocked.blogspot.com/2021/06/what-jonathan-zimmerman-learned-living.html)**  2021-06-09 22:14:20
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : SEDECO est présent sur les réseaux sociaux !](https://sedecobtob.blogspot.com/2021/06/bpo-sedeco-est-present-sur-les-reseaux.html)**  2021-06-09 15:22:54
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Savoir Rebondir face au Covid-19](https://www.lemauricien.com/le-mauricien/savoir-rebondir-face-au-covid-19/428004/)**  2021-06-09 13:00:49
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Deployment Date](https://mars3b8.wordpress.com/2021/06/09/deployment-date/)**  2021-06-09 03:17:54
