@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Fête du Coeur Immaculé de Ste Marie](https://josephnguyenmahebourg.blogspot.com/2021/06/fete-du-cur-immacule-de-ste-marie.html)**  2021-06-12 08:55:02
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Le Cardinal Piat consacre le saint chrême dans une Cathédrale fermée](https://www.dioceseportlouis.org/2021/06/12/le-cardinal-piat-consacre-le-saint-chreme-dans-une-cathedrale-fermee/)**  2021-06-12 08:00:51
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/06/fait-ce-nest-pas-le-pouvoir-lui-meme-si.html)**  2021-06-12 04:52:07
 
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Budgets, the Mauritius-Africa Strategy : Africanising the Mauritian mind](https://www.lemauricien.com/le-mauricien/budgets-the-mauritius-africa-strategy-africanising-the-mauritian-mind/428413/)**  2021-06-11 13:00:31
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la solennité du Sacré-Coeur de Jésus](https://josephnguyenmahebourg.blogspot.com/2021/06/homelie-pour-la-solennite-du-sacre.html)**  2021-06-11 10:37:44
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Sri Lankan Lunch #tekkasingapore #market 11//jun//21](https://kabilen.tumblr.com/post/653675850636591104)**  2021-06-11 07:44:29
@@ -76,9 +79,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Farewell to a great leader and national hero](https://ritesh2103.wordpress.com/2021/06/05/farewell-to-a-great-leader-and-national-hero/)**  2021-06-05 09:38:15
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Hommage du Cardinal Piat à Sir Anerood Jugnauth](https://www.dioceseportlouis.org/2021/06/04/hommage-du-cardinal-piat-a-sir-anerood-jugnauth/)**  2021-06-04 09:14:46
 
 [Golden mind](https://goldenmind23.blogspot.com/)  
 **[Bhakharwadi serial, laughing cute scene](https://goldenmind23.blogspot.com/2021/06/bhakharwadi-serial-laughing-cute-scene.html)**  2021-06-03 15:42:29
