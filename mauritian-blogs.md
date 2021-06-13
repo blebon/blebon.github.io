@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Sembawang Park &amp; Beach 12//jun//21](https://kabilen.tumblr.com/post/653838144000622592)**  2021-06-13 02:44:05
+
+[Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
+**[20+ Free Ethereum Faucets List with Instant Payouts [2021]](https://www.dollarsmarkt.com/2020/10/earn-free-ethereum-faucets.html)**  2021-06-12 17:35:52
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Let’s talk about Teenage Romance!](https://www.lemauricien.com/le-mauricien/lets-talk-about-teenage-romance/428674/)**  2021-06-12 13:33:02
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Fête du Coeur Immaculé de Ste Marie](https://josephnguyenmahebourg.blogspot.com/2021/06/fete-du-cur-immacule-de-ste-marie.html)**  2021-06-12 08:55:02
 
@@ -18,12 +27,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[E-marketing : les sous-services de SEDECO !](https://sedecobtob.blogspot.com/2021/06/e-marketing-les-sous-services-de-sedeco.html)**  2021-06-11 15:33:44
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Budgets, the Mauritius-Africa Strategy : Africanising the Mauritian mind](https://www.lemauricien.com/le-mauricien/budgets-the-mauritius-africa-strategy-africanising-the-mauritian-mind/428413/)**  2021-06-11 13:00:31
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Sri Lankan Lunch #tekkasingapore #market 11//jun//21](https://kabilen.tumblr.com/post/653675850636591104)**  2021-06-11 07:44:29
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Be Still](https://swanlady-impressions.blogspot.com/2021/06/be-still.html)**  2021-06-10 18:09:25
@@ -91,9 +94,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Days of Woe in Paradise](https://msinnott.net/2021/05/30/days-of-woe-in-paradise/?utm_source=rss&utm_medium=rss&utm_campaign=days-of-woe-in-paradise)**  2021-05-30 08:01:58
-
-[Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
-**[20+ Free Ethereum Faucets List with Instant Payouts, ETH Free Faucets [2021]](https://www.dollarsmarkt.com/2020/10/earn-free-ethereum-faucets.html)**  2021-05-28 16:22:45
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Whites will cling to power far into the future, because it is so entrenched in the system"](https://zoomdr.blogspot.com/2021/05/whites-will-cling-to-power-far-into.html)**  2021-05-22 08:38:20
