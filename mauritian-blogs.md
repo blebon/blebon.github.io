@@ -4,6 +4,18 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/societe-pour-fonctionner-besoin-de.html)**  2021-06-14 11:36:33
+
+[Capital Street Fx](https://capital-streetfx.blogspot.com/)  
+**[How To Make Money Online With Capital Street Fx](https://capital-streetfx.blogspot.com/2021/06/how-to-make-money-online-with-capital.html)**  2021-06-14 10:33:20
+
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[MIR-SAT1 Update](https://mars3b8.wordpress.com/2021/06/14/mir-sat1-update-4/)**  2021-06-14 08:14:58
+
+[Moothoosamy.A](https://moothoosamya.blogspot.com/)  
+**[Foodiscovery Poster](https://moothoosamya.blogspot.com/2021/05/foodiscovery-poster.html)**  2021-06-14 07:20:14
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Lundi de la 11e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/lundi-de-la-11e-semaine-du-tob.html)**  2021-06-14 04:30:00
 
@@ -34,9 +46,6 @@ permalink: /mauritian-blogs/
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Le Cardinal Piat consacre le saint chrême dans une Cathédrale fermée](https://www.dioceseportlouis.org/2021/06/12/le-cardinal-piat-consacre-le-saint-chreme-dans-une-cathedrale-fermee/)**  2021-06-12 08:00:51
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/fait-ce-nest-pas-le-pouvoir-lui-meme-si.html)**  2021-06-12 04:52:07
-
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[E-marketing : les sous-services de SEDECO !](https://sedecobtob.blogspot.com/2021/06/e-marketing-les-sous-services-de-sedeco.html)**  2021-06-11 15:33:44
 
@@ -45,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[What Jonathan Zimmerman Learned Living in Nepal for 2 Years](https://teelocked.blogspot.com/2021/06/what-jonathan-zimmerman-learned-living.html)**  2021-06-09 22:14:20
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[Deployment Date](https://mars3b8.wordpress.com/2021/06/09/deployment-date/)**  2021-06-09 03:17:54
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-08 22:22:42
@@ -170,9 +176,6 @@ permalink: /mauritian-blogs/
 [Eternal Sakshi Writes](https://eternalsakshiwrites.blogspot.com/)  
 **[#YesAllWomen](https://eternalsakshiwrites.blogspot.com/2021/03/yesallwomen.html)**  2021-03-21 17:49:39
 
-[Capital Street Fx](https://capital-streetfx.blogspot.com/)  
-**[What are The Best Ways to Invest Money? &#124; Capital Street Fx](https://capital-streetfx.blogspot.com/2021/03/what-are-best-ways-to-invest-money.html)**  2021-03-20 10:08:34
-
 [Mantras with meanings](https://hindumantrasmeanings.blogspot.com/)  
 **[Das Mahavidya Stotram](https://hindumantrasmeanings.blogspot.com/2021/03/das-mahavidya-stotram.html)**  2021-03-14 11:09:06
 
@@ -247,9 +250,6 @@ permalink: /mauritian-blogs/
 
 [Boldly Voyaging the Multiverse](https://roymathur.wordpress.com)  
 **[CRRRaSh! 368 The End is Nighish](https://roymathur.wordpress.com/2021/01/20/crrrash368/)**  2021-01-20 23:00:00
-
-[Moothoosamy.A](https://moothoosamya.blogspot.com/)  
-**[comic book](https://moothoosamya.blogspot.com/2021/01/comic-book.html)**  2021-01-18 10:30:16
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[New single by EL PLAGA & Kreol Diez](https://elplagaa.blogspot.com/2021/01/new-single-by-el-plaga-kreol-diez.html)**  2021-01-07 09:31:16
