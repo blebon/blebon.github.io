@@ -4,17 +4,32 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Sembawang Park &amp; Beach 12//jun//21](https://kabilen.tumblr.com/post/653838144000622592)**  2021-06-13 02:44:05
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Lundi de la 11e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/lundi-de-la-11e-semaine-du-tob.html)**  2021-06-14 04:30:00
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Kein kleiner Fisch...A good catch...Grand poisson](https://insel-rodrigues.blogspot.com/2021/06/kein-kleiner-fischa-good-catchgrand.html)**  2021-06-14 03:35:50
+
+[priscimon.com](https://priscimon.com/blog)  
+**[US$ 0.68, postage included](http://feedproxy.google.com/~r/EddyYoung/~3/qwr8xKr5YSo/)**  2021-06-14 01:00:00
+
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Mauritius Riapre Le Frontiere (1 fase - 2 fase)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-13 20:32:34
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
-**[20+ Free Ethereum Faucets List with Instant Payouts [2021]](https://www.dollarsmarkt.com/2020/10/earn-free-ethereum-faucets.html)**  2021-06-12 17:35:52
+**[Best Crypto Ads Network To Advertise Your Project [ 2021 ]](https://www.dollarsmarkt.com/2021/06/best-crypto-ads-network-to-advertise.html)**  2021-06-13 19:32:39
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[It's your Birthday ... Woohoo!](https://swanlady-impressions.blogspot.com/2021/06/its-your-birthday-woohoo.html)**  2021-06-13 19:00:38
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Sleeping Beauty by On Pointe School of Ballet](https://davidandjennilyn.com/2021/06/13/sleeping-beauty-by-on-pointe-ballet/)**  2021-06-13 16:20:09
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Vin de Frantz](https://kabilen.tumblr.com/post/653887606731505664)**  2021-06-13 15:50:16
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Let’s talk about Teenage Romance!](https://www.lemauricien.com/le-mauricien/lets-talk-about-teenage-romance/428674/)**  2021-06-12 13:33:02
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Fête du Coeur Immaculé de Ste Marie](https://josephnguyenmahebourg.blogspot.com/2021/06/fete-du-cur-immacule-de-ste-marie.html)**  2021-06-12 08:55:02
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Le Cardinal Piat consacre le saint chrême dans une Cathédrale fermée](https://www.dioceseportlouis.org/2021/06/12/le-cardinal-piat-consacre-le-saint-chreme-dans-une-cathedrale-fermee/)**  2021-06-12 08:00:51
@@ -22,14 +37,8 @@ permalink: /mauritian-blogs/
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/06/fait-ce-nest-pas-le-pouvoir-lui-meme-si.html)**  2021-06-12 04:52:07
 
-[priscimon.com](https://priscimon.com/blog)  
-**[Undoing Facebook](http://feedproxy.google.com/~r/EddyYoung/~3/UpHW40T7Yvc/)**  2021-06-12 01:00:00
-
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[E-marketing : les sous-services de SEDECO !](https://sedecobtob.blogspot.com/2021/06/e-marketing-les-sous-services-de-sedeco.html)**  2021-06-11 15:33:44
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Be Still](https://swanlady-impressions.blogspot.com/2021/06/be-still.html)**  2021-06-10 18:09:25
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Inaccurate reporting of Homicide cases in Mauritius](https://comstudies.wordpress.com/2021/06/10/inaccurate-reporting-of-homicide-cases-in-mauritius/)**  2021-06-10 13:20:48
@@ -48,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-07 17:15:30
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy Birthday Gerbils!](https://davidandjennilyn.com/2021/06/07/happy-birthday-gerbils/)**  2021-06-07 16:00:00
 
 [http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
 **[https://www.cnbc.com/2021/06/07/google-fined-by-france-for-abusing-online-advertising-position.html](https://arvindbabajee.blogspot.com/2021/06/httpswwwcnbccom20210607google-fined-by.html)**  2021-06-07 11:12:27
@@ -109,9 +115,6 @@ permalink: /mauritian-blogs/
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[Welcome to imathsit.com](https://imathsit.blogspot.com/2017/05/lower-secondary-grade-13-and-below.html)**  2021-05-20 07:27:05
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[COVID -19 : Wo Impfen belohnt wird....Vaccination Incentives: Between Joints and Blue Whales in the USA](https://insel-rodrigues.blogspot.com/2021/05/covid-19-wo-impfen-belohnt.html)**  2021-05-20 04:43:13
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Secure Connection Failed][PR_END_OF_FILE_ERROR]](https://savourthemomentattechie.blogspot.com/2021/05/secure-connection-failedprendoffileerror.html)**  2021-05-14 20:04:57
@@ -349,9 +352,6 @@ permalink: /mauritian-blogs/
 
 [DesignHub](https://theolivertwistblog.blogspot.com/)  
 **[No title](https://theolivertwistblog.blogspot.com/2020/10/blog-post_64.html)**  2020-10-07 20:35:02
-
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Riapertura delle Frontiere](https://mauritiuslapassionesisente.blogspot.com/2020/09/riapertura-delle-frontiere.html)**  2020-10-07 06:50:59
 
 [Seasons](https://coachingthroughseasons.blogspot.com/)  
 **[The One](https://coachingthroughseasons.blogspot.com/2020/10/the-one.html)**  2020-10-06 17:04:37
