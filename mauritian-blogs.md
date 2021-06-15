@@ -19,6 +19,9 @@ permalink: /mauritian-blogs/
 [Moothoosamy.A](https://moothoosamya.blogspot.com/)  
 **[Foodiscovery Poster](https://moothoosamya.blogspot.com/2021/05/foodiscovery-poster.html)**  2021-06-14 07:20:14
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[June 14: A Date for Two Heroes](https://www.lemauricien.com/le-mauricien/june-14-a-date-for-two-heroes/429128/)**  2021-06-14 06:25:37
+
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Kein kleiner Fisch...A good catch...Grand poisson](https://insel-rodrigues.blogspot.com/2021/06/kein-kleiner-fischa-good-catchgrand.html)**  2021-06-14 03:35:50
 
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Vin de Frantz](https://kabilen.tumblr.com/post/653887606731505664)**  2021-06-13 15:50:16
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Let’s talk about Teenage Romance!](https://www.lemauricien.com/le-mauricien/lets-talk-about-teenage-romance/428674/)**  2021-06-12 13:33:02
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Le Cardinal Piat consacre le saint chrême dans une Cathédrale fermée](https://www.dioceseportlouis.org/2021/06/12/le-cardinal-piat-consacre-le-saint-chreme-dans-une-cathedrale-fermee/)**  2021-06-12 08:00:51
