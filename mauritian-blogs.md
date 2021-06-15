@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mardi de la 11e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mardi-de-la-11e-semaine-du-tob.html)**  2021-06-15 04:41:50
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/societe-pour-fonctionner-besoin-de.html)**  2021-06-14 11:36:33
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/societe-pour-fonctionner-besoin-de.html)**  2021-06-14 14:29:05
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[How To Make Money Online With Capital Street Fx](https://capital-streetfx.blogspot.com/2021/06/how-to-make-money-online-with-capital.html)**  2021-06-14 10:33:20
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Moothoosamy.A](https://moothoosamya.blogspot.com/)  
 **[Foodiscovery Poster](https://moothoosamya.blogspot.com/2021/05/foodiscovery-poster.html)**  2021-06-14 07:20:14
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi de la 11e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/lundi-de-la-11e-semaine-du-tob.html)**  2021-06-14 04:30:00
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Kein kleiner Fisch...A good catch...Grand poisson](https://insel-rodrigues.blogspot.com/2021/06/kein-kleiner-fischa-good-catchgrand.html)**  2021-06-14 03:35:50
