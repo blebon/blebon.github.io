@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Financial Markets & Stock Market Technical Analysis - June 16, 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/06/financial-markets-stock-market_16.html)**  2021-06-16 11:14:40
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Manchester United: Fixtures 2021/22](https://ritesh2103.wordpress.com/2021/06/16/manchester-united-fixtures-2021-22/)**  2021-06-16 10:52:17
+
+[http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
+**[https://www.cnbc.com/2021/06/16/putin-biden-summit-in-geneva-2021.html](https://arvindbabajee.blogspot.com/2021/06/httpswwwcnbccom20210616putin-biden.html)**  2021-06-16 09:33:41
+
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Message du Pape François pour la Ve Journée mondiale des pauvres](https://www.dioceseportlouis.org/2021/06/16/message-du-pape-francois-pour-la-ve-journee-mondiale-des-pauvres/)**  2021-06-16 05:33:04
 
@@ -67,9 +76,6 @@ permalink: /mauritian-blogs/
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-07 17:15:30
 
-[http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
-**[https://www.cnbc.com/2021/06/07/google-fined-by-france-for-abusing-online-advertising-position.html](https://arvindbabajee.blogspot.com/2021/06/httpswwwcnbccom20210607google-fined-by.html)**  2021-06-07 11:12:27
-
 [adarsh.me](https://adarsh.me/)  
 **[Early afternoon, Bellepierre
 .
@@ -79,9 +85,6 @@ permalink: /mauritian-blogs/
 .
 . 
 #shadowsandlight...](https://adarsh.me/post/653324947332186112)**  2021-06-07 10:47:01
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Financial Markets & Stock Market Technical Analysis Report Today – 07 June 2021 &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/2021/06/financial-markets-stock-market.html)**  2021-06-07 09:48:01
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Indian government gives final notice to Twitter to comply with new IT rules](https://sysadmin-journal.com/indian-government-gvies-final-notice-to-twitter-to-comply-with-new-it-rules/)**  2021-06-06 11:19:17
@@ -94,9 +97,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Mauritians Say Goodbye To Their Longest-Serving PM](http://kozelidir.blogspot.com/2021/06/mauritians-say-goodbye-to-their-longest.html)**  2021-06-05 11:04:36
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Farewell to a great leader and national hero](https://ritesh2103.wordpress.com/2021/06/05/farewell-to-a-great-leader-and-national-hero/)**  2021-06-05 09:38:15
 
 [Golden mind](https://goldenmind23.blogspot.com/)  
 **[Bhakharwadi serial, laughing cute scene](https://goldenmind23.blogspot.com/2021/06/bhakharwadi-serial-laughing-cute-scene.html)**  2021-06-03 15:42:29
