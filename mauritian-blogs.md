@@ -4,11 +4,35 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Message du Pape François pour la Ve Journée mondiale des pauvres](https://www.dioceseportlouis.org/2021/06/16/message-du-pape-francois-pour-la-ve-journee-mondiale-des-pauvres/)**  2021-06-16 05:33:04
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 11e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mardi-de-la-11e-semaine-du-tob.html)**  2021-06-15 04:41:50
+**[Mercredi de la 11e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mercredi-de-la-11e-semaine-du-tob.html)**  2021-06-16 05:27:23
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/societe-pour-fonctionner-besoin-de.html)**  2021-06-14 14:29:05
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/il-nest-pas-bien-difficile-de-faire.html)**  2021-06-16 05:16:22
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Tourismus: Mauritius News...- Opening for international visitors under certain conditions...En deux phases: 15 Juillet & 1 Octobre](https://insel-rodrigues.blogspot.com/2021/06/tourismus-mauritius-news-opening-for.html)**  2021-06-16 04:30:18
+
+[priscimon.com](https://priscimon.com/blog)  
+**[What’s in a name?](http://feedproxy.google.com/~r/EddyYoung/~3/IhKj84j2haA/)**  2021-06-16 01:00:00
+
+[The World of Grace](https://theconfusingworldofgrace.blogspot.com/)  
+**[My Mind And Its Flaws](https://theconfusingworldofgrace.blogspot.com/2020/12/my-mind-and-its-flaws.html)**  2021-06-15 23:47:13
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Who are the Taliban? &#124; Start Here](https://teelocked.blogspot.com/2021/06/who-are-taliban-start-here.html)**  2021-06-15 19:42:11
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Birthday Flower](https://swanlady-impressions.blogspot.com/2021/06/birthday-flower.html)**  2021-06-15 19:10:40
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Mieux comprendre  la maladie de Verneuil](https://www.lemauricien.com/le-mauricien/mieux-comprendre-la-maladie-de-verneuil/429309/)**  2021-06-15 13:28:48
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Cheese And Wine Pairing At Constance Hotels & Resorts](https://blog.constancehotels.com/cheese-and-wine-pairing-at-constance-hotels-resorts/)**  2021-06-15 12:46:58
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[How To Make Money Online With Capital Street Fx](https://capital-streetfx.blogspot.com/2021/06/how-to-make-money-online-with-capital.html)**  2021-06-14 10:33:20
@@ -19,23 +43,11 @@ permalink: /mauritian-blogs/
 [Moothoosamy.A](https://moothoosamya.blogspot.com/)  
 **[Foodiscovery Poster](https://moothoosamya.blogspot.com/2021/05/foodiscovery-poster.html)**  2021-06-14 07:20:14
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[June 14: A Date for Two Heroes](https://www.lemauricien.com/le-mauricien/june-14-a-date-for-two-heroes/429128/)**  2021-06-14 06:25:37
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Kein kleiner Fisch...A good catch...Grand poisson](https://insel-rodrigues.blogspot.com/2021/06/kein-kleiner-fischa-good-catchgrand.html)**  2021-06-14 03:35:50
-
-[priscimon.com](https://priscimon.com/blog)  
-**[US$ 0.68, postage included](http://feedproxy.google.com/~r/EddyYoung/~3/qwr8xKr5YSo/)**  2021-06-14 01:00:00
-
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Mauritius Riapre Le Frontiere (1 fase - 2 fase)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-13 20:32:34
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[Best Crypto Ads Network To Advertise Your Project [ 2021 ]](https://www.dollarsmarkt.com/2021/06/best-crypto-ads-network-to-advertise.html)**  2021-06-13 19:32:39
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[It's your Birthday ... Woohoo!](https://swanlady-impressions.blogspot.com/2021/06/its-your-birthday-woohoo.html)**  2021-06-13 19:00:38
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Sleeping Beauty by On Pointe School of Ballet](https://davidandjennilyn.com/2021/06/13/sleeping-beauty-by-on-pointe-ballet/)**  2021-06-13 16:20:09
@@ -43,23 +55,14 @@ permalink: /mauritian-blogs/
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Vin de Frantz](https://kabilen.tumblr.com/post/653887606731505664)**  2021-06-13 15:50:16
 
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Le Cardinal Piat consacre le saint chrême dans une Cathédrale fermée](https://www.dioceseportlouis.org/2021/06/12/le-cardinal-piat-consacre-le-saint-chreme-dans-une-cathedrale-fermee/)**  2021-06-12 08:00:51
-
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[E-marketing : les sous-services de SEDECO !](https://sedecobtob.blogspot.com/2021/06/e-marketing-les-sous-services-de-sedeco.html)**  2021-06-11 15:33:44
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Inaccurate reporting of Homicide cases in Mauritius](https://comstudies.wordpress.com/2021/06/10/inaccurate-reporting-of-homicide-cases-in-mauritius/)**  2021-06-10 13:20:48
 
-[L😀ck](https://teelocked.blogspot.com/)  
-**[What Jonathan Zimmerman Learned Living in Nepal for 2 Years](https://teelocked.blogspot.com/2021/06/what-jonathan-zimmerman-learned-living.html)**  2021-06-09 22:14:20
-
 [The Jag!](https://morisk.blogspot.com/)  
 **[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-08 22:22:42
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Protecting Our Environment At Constance Hotels & Resorts](https://blog.constancehotels.com/protecting-our-environment-at-constance-hotels-and-resorts/)**  2021-06-08 11:21:08
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-07 17:15:30
@@ -265,9 +268,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius a piece of Heaven](https://tridentmauritius.blogspot.com/)  
 **[Mauritius A Piece of Heaven](https://tridentmauritius.blogspot.com/2020/12/mauritius-piece-of-heaven.html)**  2020-12-13 21:25:03
-
-[The World of Grace](https://theconfusingworldofgrace.blogspot.com/)  
-**[My Mind And Its Flaws](https://theconfusingworldofgrace.blogspot.com/2020/12/my-mind-and-its-flaws.html)**  2020-12-12 08:43:48
 
 [Taxi service Mauritius by www.taxiserviceinmauritius.com](https://taxiservicemaurituus.blogspot.com/)  
 **[All inclusive package transportation package mauritius](https://taxiservicemaurituus.blogspot.com/2020/12/all-inclusive-package-transportation.html)**  2020-12-09 21:41:12
