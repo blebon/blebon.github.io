@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/autrement-dit-ce-qui-est-le-present.html)**  2021-06-17 06:56:31
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Red Bean and Black Rice Burger Recipe](http://feedproxy.google.com/~r/veganlovlie/~3/5gZl7TBUn3w/)**  2021-06-17 04:39:12
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Jeudi de la 11e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/jeudi-de-la-11e-semaine-du-tob.html)**  2021-06-17 04:00:00
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/il-nest-pas-bien-difficile-de-faire.html)**  2021-06-17 00:00:28
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Small Online businesses in Mauritius](https://comstudies.wordpress.com/2021/06/16/small-online-businesses-in-mauritius/)**  2021-06-16 14:17:06
@@ -418,8 +418,5 @@ permalink: /mauritian-blogs/
 
 [Suniti](https://nirkisu.blogspot.com/)  
 **[The attitude of Gratitude](https://nirkisu.blogspot.com/2020/07/the-attitude-of-gratitude.html)**  2020-07-18 08:08:10
-
-[Wonders I have seen : Places I have visited](https://places-i-have-visited.blogspot.com/)  
-**[No title](https://places-i-have-visited.blogspot.com/2020/07/more-pictures-on-page-wonders-i-have.html)**  2020-07-16 10:14:17
 
 <div style="height:0;width:0;overflow:hidden;"></div>
