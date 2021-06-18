@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Vendredi de la 11e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/vendredi-de-la-11e-semaine-du-tob.html)**  2021-06-18 06:08:07
+
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Hidden gem](http://gadatagada.blogspot.com/2021/06/hidden-gem.html)**  2021-06-18 04:56:59
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Red Bean and Black Rice Burger Recipe](http://feedproxy.google.com/~r/veganlovlie/~3/5gZl7TBUn3w/)**  2021-06-17 04:39:12
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 11e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/jeudi-de-la-11e-semaine-du-tob.html)**  2021-06-17 04:00:00
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Small Online businesses in Mauritius](https://comstudies.wordpress.com/2021/06/16/small-online-businesses-in-mauritius/)**  2021-06-16 14:17:06
