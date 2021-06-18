@@ -4,8 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Hidden gem](http://gadatagada.blogspot.com/2021/06/hidden-gem.html)**  2021-06-18 04:56:59
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/autrement-dit-ce-qui-est-le-present.html)**  2021-06-17 06:56:31
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/qui-est-simple-ce-qui-est-en-soi.html)**  2021-06-18 04:41:50
+
+[My Voice](https://jeevashi.blogspot.com/)  
+**[Ben's Prestigious Mont Blanc](https://jeevashi.blogspot.com/2021/06/bens-prestigious-mont-blanc.html)**  2021-06-17 21:28:28
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Beach Birthday](https://swanlady-impressions.blogspot.com/2021/06/beach-birthday.html)**  2021-06-17 20:07:58
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The things I would like to see changed](https://www.lemauricien.com/le-mauricien/the-things-i-would-like-to-see-changed/429746/)**  2021-06-17 13:18:59
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Externalisation : SEDECO cible le marché européen !](https://sedecobtob.blogspot.com/2021/06/externalisation-sedeco-cible-le-marche.html)**  2021-06-17 13:18:46
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[How I Became A Better Speaker](https://teelocked.blogspot.com/2021/06/how-i-became-better-speaker.html)**  2021-06-17 13:10:20
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Red Bean and Black Rice Burger Recipe](http://feedproxy.google.com/~r/veganlovlie/~3/5gZl7TBUn3w/)**  2021-06-17 04:39:12
@@ -15,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Small Online businesses in Mauritius](https://comstudies.wordpress.com/2021/06/16/small-online-businesses-in-mauritius/)**  2021-06-16 14:17:06
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Lang Kreol Morisien, nou lavenir !](https://www.lemauricien.com/opinions/forum/lang-kreol-morisien-nou-lavenir/429495/)**  2021-06-16 13:26:31
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Financial Markets & Stock Market Technical Analysis - June 16, 2021](https://dailytechnicalanalysisforexnews.blogspot.com/2021/06/financial-markets-stock-market_16.html)**  2021-06-16 11:14:40
@@ -39,12 +54,6 @@ permalink: /mauritian-blogs/
 
 [The World of Grace](https://theconfusingworldofgrace.blogspot.com/)  
 **[My Mind And Its Flaws](https://theconfusingworldofgrace.blogspot.com/2020/12/my-mind-and-its-flaws.html)**  2021-06-15 23:47:13
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Who are the Taliban? &#124; Start Here](https://teelocked.blogspot.com/2021/06/who-are-taliban-start-here.html)**  2021-06-15 19:42:11
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Birthday Flower](https://swanlady-impressions.blogspot.com/2021/06/birthday-flower.html)**  2021-06-15 19:10:40
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Cheese And Wine Pairing At Constance Hotels & Resorts](https://blog.constancehotels.com/cheese-and-wine-pairing-at-constance-hotels-resorts/)**  2021-06-15 12:46:58
@@ -69,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Vin de Frantz](https://kabilen.tumblr.com/post/653887606731505664)**  2021-06-13 15:50:16
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[E-marketing : les sous-services de SEDECO !](https://sedecobtob.blogspot.com/2021/06/e-marketing-les-sous-services-de-sedeco.html)**  2021-06-11 15:33:44
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-08 22:22:42
@@ -170,9 +176,6 @@ permalink: /mauritian-blogs/
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[To konpasion kifer selektif?](https://meeraappadoo.wordpress.com/2021/03/31/to-konpasion-kifer-selektif/)**  2021-03-31 15:08:03
 
-[My Voice](https://jeevashi.blogspot.com/)  
-**[The city of Ghosts](https://jeevashi.blogspot.com/2020/12/the-city-of-ghosts.html)**  2021-03-25 09:29:34
-
 [Graphic design](https://poyheeraloll.blogspot.com/)  
 **[is the vaccine the new luxury ?](https://poyheeraloll.blogspot.com/2021/03/is-vaccine-new-luxury.html)**  2021-03-24 17:19:21
 
@@ -220,9 +223,6 @@ permalink: /mauritian-blogs/
 
 [Trade Signal By Capital Street Fx](https://fx-trade-signal.blogspot.com/)  
 **[[BITCOIN Price] Technical Analysis By Capital Street FX - February 19, 2021](https://fx-trade-signal.blogspot.com/2021/02/bitcoin-price-technical-analysis-by.html)**  2021-02-19 10:45:23
-
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Pimpante !](http://gadatagada.blogspot.com/2021/02/pimpante.html)**  2021-02-17 10:01:21
 
 [Mauritius Car Rental](https://easycabmauritius.blogspot.com/)  
 **[Transfer From Mauritius Airport To Grand Baie](https://easycabmauritius.blogspot.com/2021/02/transfer-from-mauritius-airport-to.html)**  2021-02-17 05:56:27
