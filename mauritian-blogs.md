@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Beach Birthday](https://swanlady-impressions.blogspot.com/2021/06/beach-birthday.html)**  2021-06-19 07:50:51
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Samedi de la 11e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/samedi-de-la-11e-semaine-du-tob.html)**  2021-06-19 06:48:45
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Old new friends](http://feedproxy.google.com/~r/EddyYoung/~3/km1WeCmcJsM/)**  2021-06-19 01:00:00
 
@@ -16,17 +22,11 @@ permalink: /mauritian-blogs/
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[REPLY TO JIMMY HARMON : A democratic and transparent  public offer to the best candidate](https://www.lemauricien.com/le-mauricien/reply-to-jimmy-harmon-a-democratic-and-transparent-public-offer-to-the-best-candidate/429908/)**  2021-06-18 13:42:22
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 11e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/vendredi-de-la-11e-semaine-du-tob.html)**  2021-06-18 06:08:07
-
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Hidden gem](http://gadatagada.blogspot.com/2021/06/hidden-gem.html)**  2021-06-18 04:56:59
 
 [My Voice](https://jeevashi.blogspot.com/)  
 **[Ben's Prestigious Mont Blanc](https://jeevashi.blogspot.com/2021/06/bens-prestigious-mont-blanc.html)**  2021-06-17 21:28:28
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Beach Birthday](https://swanlady-impressions.blogspot.com/2021/06/beach-birthday.html)**  2021-06-17 20:07:58
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Externalisation : SEDECO cible le marché européen !](https://sedecobtob.blogspot.com/2021/06/externalisation-sedeco-cible-le-marche.html)**  2021-06-17 13:18:46
@@ -415,8 +415,5 @@ permalink: /mauritian-blogs/
 
 [21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
 **[The polemic surrounding University Ranking of UniRank (4icu.org) : The case of UoM being 85th in the African Top 100](http://feedproxy.google.com/~r/InnovativeLearningTechnologiesAndPedagogies/~3/arQ_1JgePEw/the-polemic-surrounding-university.html)**  2020-07-26 14:54:43
-
-[Suniti](https://nirkisu.blogspot.com/)  
-**[The attitude of Gratitude](https://nirkisu.blogspot.com/2020/07/the-attitude-of-gratitude.html)**  2020-07-18 08:08:10
 
 <div style="height:0;width:0;overflow:hidden;"></div>
