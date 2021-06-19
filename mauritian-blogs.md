@@ -4,23 +4,29 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Old new friends](http://feedproxy.google.com/~r/EddyYoung/~3/km1WeCmcJsM/)**  2021-06-19 01:00:00
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/on-nen-finit-jamais-de-faire-ce-quon.html)**  2021-06-19 00:13:54
+
+[Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
+**[Best Online Crypto Casinos & Sportsbetting Sites in 2021](https://www.dollarsmarkt.com/2021/06/best-online-crypto-casino-sports-bettings-sites.html)**  2021-06-18 19:15:02
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[REPLY TO JIMMY HARMON : A democratic and transparent  public offer to the best candidate](https://www.lemauricien.com/le-mauricien/reply-to-jimmy-harmon-a-democratic-and-transparent-public-offer-to-the-best-candidate/429908/)**  2021-06-18 13:42:22
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Vendredi de la 11e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/vendredi-de-la-11e-semaine-du-tob.html)**  2021-06-18 06:08:07
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Hidden gem](http://gadatagada.blogspot.com/2021/06/hidden-gem.html)**  2021-06-18 04:56:59
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/qui-est-simple-ce-qui-est-en-soi.html)**  2021-06-18 04:41:50
-
 [My Voice](https://jeevashi.blogspot.com/)  
 **[Ben's Prestigious Mont Blanc](https://jeevashi.blogspot.com/2021/06/bens-prestigious-mont-blanc.html)**  2021-06-17 21:28:28
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Beach Birthday](https://swanlady-impressions.blogspot.com/2021/06/beach-birthday.html)**  2021-06-17 20:07:58
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The things I would like to see changed](https://www.lemauricien.com/le-mauricien/the-things-i-would-like-to-see-changed/429746/)**  2021-06-17 13:18:59
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Externalisation : SEDECO cible le marché européen !](https://sedecobtob.blogspot.com/2021/06/externalisation-sedeco-cible-le-marche.html)**  2021-06-17 13:18:46
@@ -49,9 +55,6 @@ permalink: /mauritian-blogs/
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Tourismus: Mauritius News...- Opening for international visitors under certain conditions...En deux phases: 15 Juillet & 1 Octobre](https://insel-rodrigues.blogspot.com/2021/06/tourismus-mauritius-news-opening-for.html)**  2021-06-16 04:30:18
 
-[priscimon.com](https://priscimon.com/blog)  
-**[What’s in a name?](http://feedproxy.google.com/~r/EddyYoung/~3/IhKj84j2haA/)**  2021-06-16 01:00:00
-
 [The World of Grace](https://theconfusingworldofgrace.blogspot.com/)  
 **[My Mind And Its Flaws](https://theconfusingworldofgrace.blogspot.com/2020/12/my-mind-and-its-flaws.html)**  2021-06-15 23:47:13
 
@@ -69,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Mauritius Riapre Le Frontiere (1 fase - 2 fase)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-13 20:32:34
-
-[Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
-**[Best Crypto Ads Network To Advertise Your Project [ 2021 ]](https://www.dollarsmarkt.com/2021/06/best-crypto-ads-network-to-advertise.html)**  2021-06-13 19:32:39
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Sleeping Beauty by On Pointe School of Ballet](https://davidandjennilyn.com/2021/06/13/sleeping-beauty-by-on-pointe-ballet/)**  2021-06-13 16:20:09
