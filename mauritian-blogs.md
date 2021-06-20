@@ -4,6 +4,21 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/nest-pas-ce-que-je-dis-ou-ai-lair-de.html)**  2021-06-20 05:22:32
+
+[C'est reparti !](https://c-est-reparti.blogspot.com/)  
+**[Changement de rythme](https://c-est-reparti.blogspot.com/2021/06/changement-de-rythme.html)**  2021-06-19 20:19:46
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Anou Koz Parol-121: Gro-plan lor rezilta KM (96,6%) dan premie lexame NCE](https://www.lemauricien.com/le-mauricien/anou-koz-parol-121-gro-plan-lor-rezilta-km-966-dan-premie-lexame-nce/430117/)**  2021-06-19 13:27:52
+
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[MIR-SAT1 Special Award](https://mars3b8.wordpress.com/2021/06/19/mir-sat1-special-award/)**  2021-06-19 13:21:28
+
+[Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
+**[Because of Science by Neil deGrasse Tyson](https://lovvy.wordpress.com/2021/06/19/because-of-science-by-neil-degrasse-tyson/)**  2021-06-19 11:59:51
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Beach Birthday](https://swanlady-impressions.blogspot.com/2021/06/beach-birthday.html)**  2021-06-19 07:50:51
 
@@ -13,14 +28,8 @@ permalink: /mauritian-blogs/
 [priscimon.com](https://priscimon.com/blog)  
 **[Old new friends](http://feedproxy.google.com/~r/EddyYoung/~3/km1WeCmcJsM/)**  2021-06-19 01:00:00
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/on-nen-finit-jamais-de-faire-ce-quon.html)**  2021-06-19 00:13:54
-
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[Best Online Crypto Casinos & Sportsbetting Sites in 2021](https://www.dollarsmarkt.com/2021/06/best-online-crypto-casino-sports-bettings-sites.html)**  2021-06-18 19:15:02
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[REPLY TO JIMMY HARMON : A democratic and transparent  public offer to the best candidate](https://www.lemauricien.com/le-mauricien/reply-to-jimmy-harmon-a-democratic-and-transparent-public-offer-to-the-best-candidate/429908/)**  2021-06-18 13:42:22
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Hidden gem](http://gadatagada.blogspot.com/2021/06/hidden-gem.html)**  2021-06-18 04:56:59
@@ -63,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[How To Make Money Online With Capital Street Fx](https://capital-streetfx.blogspot.com/2021/06/how-to-make-money-online-with-capital.html)**  2021-06-14 10:33:20
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[MIR-SAT1 Update](https://mars3b8.wordpress.com/2021/06/14/mir-sat1-update-4/)**  2021-06-14 08:14:58
 
 [Moothoosamy.A](https://moothoosamya.blogspot.com/)  
 **[Foodiscovery Poster](https://moothoosamya.blogspot.com/2021/05/foodiscovery-poster.html)**  2021-06-14 07:20:14
@@ -121,9 +127,6 @@ permalink: /mauritian-blogs/
 
 [The Mauritian Shareaholic](http://www.themauritianshareaholic.com/)  
 **[Scientifically Eliminate Your Headaches/Migraines Away!](http://feedproxy.google.com/~r/blogspot/BNplv/~3/6To0-gHimjU/scientifically-eliminate-headaches.html)**  2021-05-22 03:48:27
-
-[C'est reparti !](https://c-est-reparti.blogspot.com/)  
-**[Quelques nouvelles (à défaut d'un titre plus inspiré)](https://c-est-reparti.blogspot.com/2021/05/quelques-nouvelles-defaut-dun-titre.html)**  2021-05-21 13:58:34
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[LUGM submission on the ICTA consultation paper](https://lugm.org/2021/05/20/lugm-submission-on-the-icta-consultation-paper/)**  2021-05-20 18:54:55
@@ -364,9 +367,6 @@ permalink: /mauritian-blogs/
 
 [Mascarillas de protección facial](https://losmascarilla.blogspot.com/)  
 **[Creación de mascarilla por Kevin Rodrigez](https://losmascarilla.blogspot.com/2020/09/creacion-de-mascarilla-por-kevin.html)**  2020-09-16 17:03:29
-
-[Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
-**[Process automation reinvented for the digital enterprise](https://lovvy.wordpress.com/2020/09/10/process-automation-reinvented-for-the-digital-enterprise/)**  2020-09-10 17:23:54
 
 [Team Building Company Mauritius](https://teambuildingcompanymauritius.blogspot.com/)  
 **[The Team Building Company Mauritius](https://teambuildingcompanymauritius.blogspot.com/2020/08/the-team-building-company-mauritius.html)**  2020-09-03 14:42:03
