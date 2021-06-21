@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Anthropology can help us understand ourselves, our tribes, companies and communities](https://zoomdr.blogspot.com/2021/06/anthropology-can-help-us-understand.html)**  2021-06-21 10:42:46
+
+[Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
+**[Best Online Crypto Casinos & Sportsbetting Sites in 2021](https://www.dollarsmarkt.com/2021/06/best-online-crypto-casino-sports-bettings-sites.html)**  2021-06-21 10:29:33
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 12e Dimanche du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/homelie-pour-le-12e-dimanche-du-tob.html)**  2021-06-20 16:21:30
 
@@ -30,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Old new friends](http://feedproxy.google.com/~r/EddyYoung/~3/km1WeCmcJsM/)**  2021-06-19 01:00:00
-
-[Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
-**[Best Online Crypto Casinos & Sportsbetting Sites in 2021](https://www.dollarsmarkt.com/2021/06/best-online-crypto-casino-sports-bettings-sites.html)**  2021-06-18 19:15:02
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Hidden gem](http://gadatagada.blogspot.com/2021/06/hidden-gem.html)**  2021-06-18 04:56:59
@@ -121,9 +124,6 @@ permalink: /mauritian-blogs/
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Nuwer projekte en pret](https://huisvlyt.blogspot.com/2021/06/nuwer-projekte-en-pret.html)**  2021-06-03 08:59:31
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**["Whites will cling to power far into the future, because it is so entrenched in the system"](https://zoomdr.blogspot.com/2021/05/whites-will-cling-to-power-far-into.html)**  2021-05-22 08:38:20
 
 [The Mauritian Shareaholic](http://www.themauritianshareaholic.com/)  
 **[Scientifically Eliminate Your Headaches/Migraines Away!](http://feedproxy.google.com/~r/blogspot/BNplv/~3/6To0-gHimjU/scientifically-eliminate-headaches.html)**  2021-05-22 03:48:27
