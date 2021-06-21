@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Mike Sinnott's World](https://msinnott.net)  
-**[MIR-SAT1 Special Award](https://msinnott.net/2021/06/20/mir-sat1-special-award/?utm_source=rss&utm_medium=rss&utm_campaign=mir-sat1-special-award)**  2021-06-20 10:19:01
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 12e Dimanche du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/homelie-pour-le-12e-dimanche-du-tob.html)**  2021-06-20 16:21:30
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/nest-pas-ce-que-je-dis-ou-ai-lair-de.html)**  2021-06-20 05:22:32
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/nest-pas-ce-que-je-dis-ou-ai-lair-de.html)**  2021-06-20 12:06:49
+
+[Mike Sinnott's World](https://msinnott.net)  
+**[MIR-SAT1 Special Award](https://msinnott.net/2021/06/20/mir-sat1-special-award/?utm_source=rss&utm_medium=rss&utm_campaign=mir-sat1-special-award)**  2021-06-20 10:19:01
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Changement de rythme](https://c-est-reparti.blogspot.com/2021/06/changement-de-rythme.html)**  2021-06-19 20:19:46
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Beach Birthday](https://swanlady-impressions.blogspot.com/2021/06/beach-birthday.html)**  2021-06-19 07:50:51
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 11e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/samedi-de-la-11e-semaine-du-tob.html)**  2021-06-19 06:48:45
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Old new friends](http://feedproxy.google.com/~r/EddyYoung/~3/km1WeCmcJsM/)**  2021-06-19 01:00:00
