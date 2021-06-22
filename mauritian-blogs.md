@@ -4,26 +4,35 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Saddle Mountain Hike](https://davidandjennilyn.com/2021/06/21/saddle-mountain-hike/)**  2021-06-22 05:03:44
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/revele-bien-plus-sur-soi-et-quon.html)**  2021-06-22 04:45:57
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mardi de la 12e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mardi-de-la-12e-semaine-du-tob.html)**  2021-06-22 04:00:00
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Your Mindset Will Get You in the End &#124; David James &#124; TEDxHultAshridge](https://teelocked.blogspot.com/2021/06/your-mindset-will-get-you-in-end-david.html)**  2021-06-21 23:14:44
+
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Mauritius Riapre Le Frontiere (fase 1 - fase 2)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-21 20:11:02
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[32 ANS APRÈS, CARGO HOLD OF STARS…  Cale d’étoiles-Coolitude traduit par Nancy Carlson](https://www.lemauricien.com/le-mauricien/32-ans-apres-cargo-hold-of-stars-cale-detoiles-coolitude-traduit-par-nancy-carlson/430439/)**  2021-06-21 13:00:51
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Anthropology can help us understand ourselves, our tribes, companies and communities](https://zoomdr.blogspot.com/2021/06/anthropology-can-help-us-understand.html)**  2021-06-21 10:42:46
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[Best Online Crypto Casinos & Sportsbetting Sites in 2021](https://www.dollarsmarkt.com/2021/06/best-online-crypto-casino-sports-bettings-sites.html)**  2021-06-21 10:29:33
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 12e Dimanche du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/homelie-pour-le-12e-dimanche-du-tob.html)**  2021-06-20 16:21:30
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/nest-pas-ce-que-je-dis-ou-ai-lair-de.html)**  2021-06-20 12:06:49
-
 [Mike Sinnott's World](https://msinnott.net)  
 **[MIR-SAT1 Special Award](https://msinnott.net/2021/06/20/mir-sat1-special-award/?utm_source=rss&utm_medium=rss&utm_campaign=mir-sat1-special-award)**  2021-06-20 10:19:01
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Changement de rythme](https://c-est-reparti.blogspot.com/2021/06/changement-de-rythme.html)**  2021-06-19 20:19:46
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou Koz Parol-121: Gro-plan lor rezilta KM (96,6%) dan premie lexame NCE](https://www.lemauricien.com/le-mauricien/anou-koz-parol-121-gro-plan-lor-rezilta-km-966-dan-premie-lexame-nce/430117/)**  2021-06-19 13:27:52
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[MIR-SAT1 Special Award](https://mars3b8.wordpress.com/2021/06/19/mir-sat1-special-award/)**  2021-06-19 13:21:28
@@ -45,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Externalisation : SEDECO cible le marché européen !](https://sedecobtob.blogspot.com/2021/06/externalisation-sedeco-cible-le-marche.html)**  2021-06-17 13:18:46
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[How I Became A Better Speaker](https://teelocked.blogspot.com/2021/06/how-i-became-better-speaker.html)**  2021-06-17 13:10:20
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Red Bean and Black Rice Burger Recipe](http://feedproxy.google.com/~r/veganlovlie/~3/5gZl7TBUn3w/)**  2021-06-17 04:39:12
@@ -81,12 +87,6 @@ permalink: /mauritian-blogs/
 
 [Moothoosamy.A](https://moothoosamya.blogspot.com/)  
 **[Foodiscovery Poster](https://moothoosamya.blogspot.com/2021/05/foodiscovery-poster.html)**  2021-06-14 07:20:14
-
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Mauritius Riapre Le Frontiere (1 fase - 2 fase)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-13 20:32:34
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Sleeping Beauty by On Pointe School of Ballet](https://davidandjennilyn.com/2021/06/13/sleeping-beauty-by-on-pointe-ballet/)**  2021-06-13 16:20:09
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Vin de Frantz](https://kabilen.tumblr.com/post/653887606731505664)**  2021-06-13 15:50:16
