@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : SEDECO et ses engagements !](https://sedecobtob.blogspot.com/2021/06/bpo-sedeco-et-ses-engagements.html)**  2021-06-23 11:19:21
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Voyage au Féminin - Dr Vijaya Teelock](https://teelocked.blogspot.com/2021/06/voyage-au-feminin-dr-vijaya-teelock.html)**  2021-06-23 11:12:41
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mercredi de la 12e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mercredi-de-la-12e-semaine-du-tob.html)**  2021-06-23 06:06:46
+
 [priscimon.com](https://priscimon.com/blog)  
 **[WOW](http://feedproxy.google.com/~r/EddyYoung/~3/Y9VRicz0yFI/)**  2021-06-23 01:00:00
 
@@ -18,12 +27,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Saddle Mountain Hike](https://davidandjennilyn.com/2021/06/21/saddle-mountain-hike/)**  2021-06-22 05:03:44
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 12e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mardi-de-la-12e-semaine-du-tob.html)**  2021-06-22 04:00:00
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Your Mindset Will Get You in the End &#124; David James &#124; TEDxHultAshridge](https://teelocked.blogspot.com/2021/06/your-mindset-will-get-you-in-end-david.html)**  2021-06-21 23:14:44
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Mauritius Riapre Le Frontiere (fase 1 - fase 2)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-21 20:11:02
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [My Voice](https://jeevashi.blogspot.com/)  
 **[Ben's Prestigious Mont Blanc](https://jeevashi.blogspot.com/2021/06/bens-prestigious-mont-blanc.html)**  2021-06-17 21:28:28
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Externalisation : SEDECO cible le marché européen !](https://sedecobtob.blogspot.com/2021/06/externalisation-sedeco-cible-le-marche.html)**  2021-06-17 13:18:46
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Red Bean and Black Rice Burger Recipe](http://feedproxy.google.com/~r/veganlovlie/~3/5gZl7TBUn3w/)**  2021-06-17 04:39:12
@@ -157,6 +157,9 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Why are Laptops so expensive in Mauritius](https://nayarweb.com/blog/2021/expensive-laptop-mauritius/)**  2021-04-25 06:49:22
+
+[The Curious Chap](https://thecuriouschap.herokuapp.com/)  
+**[FREEDOM](https://thecuriouschap.herokuapp.com/freedom/)**  2021-04-19 09:29:35
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Dans l’orbite du pouvoir : incursion dans la galaxie des « superconseillers » des PM](https://jeanmeedesveaux.blogspot.com/2021/02/dans-lorbite-du-pouvoir-incursion-dans.html)**  2021-04-17 09:18:40
