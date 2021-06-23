@@ -4,11 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Saddle Mountain Hike](https://davidandjennilyn.com/2021/06/21/saddle-mountain-hike/)**  2021-06-22 05:03:44
+[priscimon.com](https://priscimon.com/blog)  
+**[WOW](http://feedproxy.google.com/~r/EddyYoung/~3/Y9VRicz0yFI/)**  2021-06-23 01:00:00
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/revele-bien-plus-sur-soi-et-quon.html)**  2021-06-22 04:45:57
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/plus-souvent-letre-humain-deteste-la.html)**  2021-06-22 15:56:50
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Leave Your Environmental Footprint Behind](https://blog.constancehotels.com/leave-your-environmental-footprint-behind/)**  2021-06-22 15:53:55
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Anti-vaxxers and the attack on science](https://www.lemauricien.com/opinions/forum/anti-vaxxers-and-the-attack-on-science/430580/)**  2021-06-22 13:00:51
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Saddle Mountain Hike](https://davidandjennilyn.com/2021/06/21/saddle-mountain-hike/)**  2021-06-22 05:03:44
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mardi de la 12e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mardi-de-la-12e-semaine-du-tob.html)**  2021-06-22 04:00:00
@@ -18,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Mauritius Riapre Le Frontiere (fase 1 - fase 2)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-21 20:11:02
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[32 ANS APRÈS, CARGO HOLD OF STARS…  Cale d’étoiles-Coolitude traduit par Nancy Carlson](https://www.lemauricien.com/le-mauricien/32-ans-apres-cargo-hold-of-stars-cale-detoiles-coolitude-traduit-par-nancy-carlson/430439/)**  2021-06-21 13:00:51
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Anthropology can help us understand ourselves, our tribes, companies and communities](https://zoomdr.blogspot.com/2021/06/anthropology-can-help-us-understand.html)**  2021-06-21 10:42:46
@@ -42,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Beach Birthday](https://swanlady-impressions.blogspot.com/2021/06/beach-birthday.html)**  2021-06-19 07:50:51
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Old new friends](http://feedproxy.google.com/~r/EddyYoung/~3/km1WeCmcJsM/)**  2021-06-19 01:00:00
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Hidden gem](http://gadatagada.blogspot.com/2021/06/hidden-gem.html)**  2021-06-18 04:56:59
@@ -78,9 +81,6 @@ permalink: /mauritian-blogs/
 
 [The World of Grace](https://theconfusingworldofgrace.blogspot.com/)  
 **[My Mind And Its Flaws](https://theconfusingworldofgrace.blogspot.com/2020/12/my-mind-and-its-flaws.html)**  2021-06-15 23:47:13
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Cheese And Wine Pairing At Constance Hotels & Resorts](https://blog.constancehotels.com/cheese-and-wine-pairing-at-constance-hotels-resorts/)**  2021-06-15 12:46:58
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[How To Make Money Online With Capital Street Fx](https://capital-streetfx.blogspot.com/2021/06/how-to-make-money-online-with-capital.html)**  2021-06-14 10:33:20
