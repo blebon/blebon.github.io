@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/ce-qui-est-ce-qui-se-passe-se-produit.html)**  2021-06-24 02:03:30
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The Hidden Losses of Covid-19](https://www.lemauricien.com/le-mauricien/the-hidden-losses-of-covid-19/430704/)**  2021-06-23 13:00:18
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO et ses engagements !](https://sedecobtob.blogspot.com/2021/06/bpo-sedeco-et-ses-engagements.html)**  2021-06-23 11:19:21
 
@@ -16,14 +22,8 @@ permalink: /mauritian-blogs/
 [priscimon.com](https://priscimon.com/blog)  
 **[WOW](http://feedproxy.google.com/~r/EddyYoung/~3/Y9VRicz0yFI/)**  2021-06-23 01:00:00
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/plus-souvent-letre-humain-deteste-la.html)**  2021-06-22 15:56:50
-
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Leave Your Environmental Footprint Behind](https://blog.constancehotels.com/leave-your-environmental-footprint-behind/)**  2021-06-22 15:53:55
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anti-vaxxers and the attack on science](https://www.lemauricien.com/opinions/forum/anti-vaxxers-and-the-attack-on-science/430580/)**  2021-06-22 13:00:51
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Saddle Mountain Hike](https://davidandjennilyn.com/2021/06/21/saddle-mountain-hike/)**  2021-06-22 05:03:44
