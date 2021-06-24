@@ -4,8 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Accès aux locaux – L’ICJM se conforme aux directives reçues de la Mauritius Qualification Authority](https://www.dioceseportlouis.org/2021/06/24/acces-aux-locaux-licjm-se-conforme-aux-directives-recues-de-la-mauritius-qualification-authority/)**  2021-06-24 10:01:59
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/ce-qui-est-ce-qui-se-passe-se-produit.html)**  2021-06-24 02:03:30
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/ce-qui-est-ce-qui-se-passe-se-produit.html)**  2021-06-24 07:52:44
+
+[Amar](https://amarbheenick.blogspot.com/)  
+**[FIRE Magazine Issue 4 - Q1 2021, Looking Back & Looking Ahead](https://amarbheenick.blogspot.com/2021/06/fire-magazine-issue-4-q1-2021-looking.html)**  2021-06-24 07:26:20
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Solennité de la Nativité de St Jean Baptiste](https://josephnguyenmahebourg.blogspot.com/2021/06/solennite-de-la-nativite-de-st-jean.html)**  2021-06-24 06:34:36
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[The Hidden Losses of Covid-19](https://www.lemauricien.com/le-mauricien/the-hidden-losses-of-covid-19/430704/)**  2021-06-23 13:00:18
@@ -15,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Voyage au Féminin - Dr Vijaya Teelock](https://teelocked.blogspot.com/2021/06/voyage-au-feminin-dr-vijaya-teelock.html)**  2021-06-23 11:12:41
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 12e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mercredi-de-la-12e-semaine-du-tob.html)**  2021-06-23 06:06:46
 
 [priscimon.com](https://priscimon.com/blog)  
 **[WOW](http://feedproxy.google.com/~r/EddyYoung/~3/Y9VRicz0yFI/)**  2021-06-23 01:00:00
@@ -72,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [http://www.arvindbabajee.org/](https://arvindbabajee.blogspot.com/)  
 **[https://www.cnbc.com/2021/06/16/putin-biden-summit-in-geneva-2021.html](https://arvindbabajee.blogspot.com/2021/06/httpswwwcnbccom20210616putin-biden.html)**  2021-06-16 09:33:41
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Message du Pape François pour la Ve Journée mondiale des pauvres](https://www.dioceseportlouis.org/2021/06/16/message-du-pape-francois-pour-la-ve-journee-mondiale-des-pauvres/)**  2021-06-16 05:33:04
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Tourismus: Mauritius News...- Opening for international visitors under certain conditions...En deux phases: 15 Juillet & 1 Octobre](https://insel-rodrigues.blogspot.com/2021/06/tourismus-mauritius-news-opening-for.html)**  2021-06-16 04:30:18
@@ -139,9 +142,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[A National Consumer Survey on Food Safety, Food & Nutrition Security, Dietary Diversity and Physical Activity with Reference to the COVID-19 Experience](https://facultyagriculture.blogspot.com/2021/05/a-national-consumer-survey-on-food.html)**  2021-05-13 11:16:59
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[NESCAFɮ Farmers Origins Coffee Capsules](https://amarbheenick.blogspot.com/2021/05/nescafe-farmers-origins-coffee-capsules.html)**  2021-05-12 12:17:26
 
 [Memories of the past..](https://pandanours.blogspot.com/)  
 **[No title](https://pandanours.blogspot.com/2020/10/time-mysticism-everything-is-subject-to.html)**  2021-05-12 07:17:24
