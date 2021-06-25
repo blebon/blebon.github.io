@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
+**[Crypto Latest News: Every El Salvador adult citizen to get $30 worth BTC from Government](https://www.dollarsmarkt.com/2021/06/crypto-latest-news-el-salvador-citizen-airdrop-30-dollars-btc.html)**  2021-06-25 09:00:00
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[ICJM – Une formation destinée aux personnes endeuillées](https://www.dioceseportlouis.org/2021/06/25/icjm-une-formation-destinee-aux-personnes-endeuillees/)**  2021-06-25 07:29:42
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Vendredi de la 12e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/vendredi-de-la-12e-semaine-du-tob.html)**  2021-06-25 04:00:00
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Bulbophyllum mascarenense,  nouvelle espèce d’orchidée](https://www.lemauricien.com/le-mauricien/bulbophyllum-mascarenense-nouvelle-espece-dorchidee/430965/)**  2021-06-24 13:00:11
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Accès aux locaux – L’ICJM se conforme aux directives reçues de la Mauritius Qualification Authority](https://www.dioceseportlouis.org/2021/06/24/acces-aux-locaux-licjm-se-conforme-aux-directives-recues-de-la-mauritius-qualification-authority/)**  2021-06-24 10:01:59
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/06/ce-qui-est-ce-qui-se-passe-se-produit.html)**  2021-06-24 07:52:44
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Anthropology can help us understand ourselves, our tribes, companies and communities](https://zoomdr.blogspot.com/2021/06/anthropology-can-help-us-understand.html)**  2021-06-21 10:42:46
-
-[Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
-**[Best Online Crypto Casinos & Sportsbetting Sites in 2021](https://www.dollarsmarkt.com/2021/06/best-online-crypto-casino-sports-bettings-sites.html)**  2021-06-21 10:29:33
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[MIR-SAT1 Special Award](https://msinnott.net/2021/06/20/mir-sat1-special-award/?utm_source=rss&utm_medium=rss&utm_campaign=mir-sat1-special-award)**  2021-06-20 10:19:01
