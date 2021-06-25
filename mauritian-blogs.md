@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Vendredi de la 12e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/vendredi-de-la-12e-semaine-du-tob.html)**  2021-06-25 04:00:00
+
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Mauritius Riapre Le Frontiere (fase 1 - fase 2)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-24 18:17:33
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Bulbophyllum mascarenense,  nouvelle espèce d’orchidée](https://www.lemauricien.com/le-mauricien/bulbophyllum-mascarenense-nouvelle-espece-dorchidee/430965/)**  2021-06-24 13:00:11
+
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Accès aux locaux – L’ICJM se conforme aux directives reçues de la Mauritius Qualification Authority](https://www.dioceseportlouis.org/2021/06/24/acces-aux-locaux-licjm-se-conforme-aux-directives-recues-de-la-mauritius-qualification-authority/)**  2021-06-24 10:01:59
 
@@ -12,12 +21,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[FIRE Magazine Issue 4 - Q1 2021, Looking Back & Looking Ahead](https://amarbheenick.blogspot.com/2021/06/fire-magazine-issue-4-q1-2021-looking.html)**  2021-06-24 07:26:20
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Solennité de la Nativité de St Jean Baptiste](https://josephnguyenmahebourg.blogspot.com/2021/06/solennite-de-la-nativite-de-st-jean.html)**  2021-06-24 06:34:36
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Hidden Losses of Covid-19](https://www.lemauricien.com/le-mauricien/the-hidden-losses-of-covid-19/430704/)**  2021-06-23 13:00:18
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO et ses engagements !](https://sedecobtob.blogspot.com/2021/06/bpo-sedeco-et-ses-engagements.html)**  2021-06-23 11:19:21
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Saddle Mountain Hike](https://davidandjennilyn.com/2021/06/21/saddle-mountain-hike/)**  2021-06-22 05:03:44
-
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Mauritius Riapre Le Frontiere (fase 1 - fase 2)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-21 20:11:02
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Anthropology can help us understand ourselves, our tribes, companies and communities](https://zoomdr.blogspot.com/2021/06/anthropology-can-help-us-understand.html)**  2021-06-21 10:42:46
