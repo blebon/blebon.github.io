@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[DU 29 MAI AU 19 JUIN 2021 : Exposition de Geneviève Bonieux  et Didier Wong dans le 11e à Paris](https://www.lemauricien.com/le-mauricien/du-29-mai-au-19-juin-2021-exposition-de-genevieve-bonieux-et-didier-wong-dans-le-11e-a-paris/431298/)**  2021-06-26 11:14:39
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Samedi de la 12e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/samedi-de-la-12e-semaine-du-tob.html)**  2021-06-26 07:46:00
+
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[COVID-19: Dritte Öffnungsphase ab 1.Juli in Mauritius...Phase 3: Back to nearly normal...La Réouverture à partir du 1ier Juillet](https://insel-rodrigues.blogspot.com/2021/06/covid-19-dritte-offnungsphase-ab-1juli.html)**  2021-06-26 04:55:07
 
@@ -13,17 +19,11 @@ permalink: /mauritian-blogs/
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Platinum Award Winners](https://mars3b8.wordpress.com/2021/06/25/platinum-award-winners/)**  2021-06-25 19:42:50
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LA PEUR](https://www.lemauricien.com/opinions/forum/la-peur/431122/)**  2021-06-25 15:00:51
-
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[Crypto Latest News: Every El Salvador adult citizen to get $30 worth BTC from Government](https://www.dollarsmarkt.com/2021/06/crypto-latest-news-el-salvador-citizen-airdrop-30-dollars-btc.html)**  2021-06-25 09:00:00
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[ICJM – Une formation destinée aux personnes endeuillées](https://www.dioceseportlouis.org/2021/06/25/icjm-une-formation-destinee-aux-personnes-endeuillees/)**  2021-06-25 07:29:42
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 12e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/vendredi-de-la-12e-semaine-du-tob.html)**  2021-06-25 04:00:00
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Mauritius Riapre Le Frontiere (fase 1 - fase 2)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-24 18:17:33
