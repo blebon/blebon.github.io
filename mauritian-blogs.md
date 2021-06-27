@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/jamais-plus-dune-fois-la-meme-chose-le.html)**  2021-06-27 05:10:00
+
+[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
+**[DIY Lampshades](https://mymauritiangarden.wordpress.com/2021/06/27/diy-lampshades/)**  2021-06-27 03:55:31
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-26 19:25:50
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[DU 29 MAI AU 19 JUIN 2021 : Exposition de Geneviève Bonieux  et Didier Wong dans le 11e à Paris](https://www.lemauricien.com/le-mauricien/du-29-mai-au-19-juin-2021-exposition-de-genevieve-bonieux-et-didier-wong-dans-le-11e-a-paris/431298/)**  2021-06-26 11:14:39
 
@@ -27,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Mauritius Riapre Le Frontiere (fase 1 - fase 2)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-24 18:17:33
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/ce-qui-est-ce-qui-se-passe-se-produit.html)**  2021-06-24 07:52:44
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[FIRE Magazine Issue 4 - Q1 2021, Looking Back & Looking Ahead](https://amarbheenick.blogspot.com/2021/06/fire-magazine-issue-4-q1-2021-looking.html)**  2021-06-24 07:26:20
@@ -97,9 +103,6 @@ permalink: /mauritian-blogs/
 [The Jag!](https://morisk.blogspot.com/)  
 **[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-08 22:22:42
 
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-07 17:15:30
-
 [adarsh.me](https://adarsh.me/)  
 **[Early afternoon, Bellepierre
 .
@@ -112,9 +115,6 @@ permalink: /mauritian-blogs/
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Indian government gives final notice to Twitter to comply with new IT rules](https://sysadmin-journal.com/indian-government-gvies-final-notice-to-twitter-to-comply-with-new-it-rules/)**  2021-06-06 11:19:17
-
-[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
-**[Air Dry Clay Beads and Incense Holder](https://mymauritiangarden.wordpress.com/2021/06/06/air-dry-clay-beads-and-incense-holder/)**  2021-06-06 04:15:16
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Imitate](https://vintishgokool.blogspot.com/2021/06/mimic.html)**  2021-06-05 14:58:11
