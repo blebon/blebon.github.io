@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Les consignes à respecter pour la reprise des messes à l’église](https://www.dioceseportlouis.org/2021/06/28/les-consignes-a-respecter-pour-la-reprise-des-messes-a-leglise/)**  2021-06-28 11:39:22
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 13e Dimanche du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/homelie-pour-le-13e-dimanche-du-tob.html)**  2021-06-28 05:22:59
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[Crypto Latest News: Every El Salvador adult citizen to get $30 worth BTC from Government](https://www.dollarsmarkt.com/2021/06/crypto-latest-news-el-salvador-citizen-airdrop-30-dollars-btc.html)**  2021-06-25 09:00:00
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[ICJM – Une formation destinée aux personnes endeuillées](https://www.dioceseportlouis.org/2021/06/25/icjm-une-formation-destinee-aux-personnes-endeuillees/)**  2021-06-25 07:29:42
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Mauritius Riapre Le Frontiere (fase 1 - fase 2)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-24 18:17:33
