@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 13e Dimanche du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/homelie-pour-le-13e-dimanche-du-tob.html)**  2021-06-28 05:22:59
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Tour de NTU #birthdayride 28//jun//21](https://kabilen.tumblr.com/post/655199931496316928)**  2021-06-28 03:29:06
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[John McAfee: about blockchain, bitcoins and cyber security](https://teelocked.blogspot.com/2021/06/john-mcafee-about-blockchain-bitcoins.html)**  2021-06-27 21:09:05
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/06/jamais-plus-dune-fois-la-meme-chose-le.html)**  2021-06-27 05:10:00
 
@@ -15,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[DU 29 MAI AU 19 JUIN 2021 : Exposition de Geneviève Bonieux  et Didier Wong dans le 11e à Paris](https://www.lemauricien.com/le-mauricien/du-29-mai-au-19-juin-2021-exposition-de-genevieve-bonieux-et-didier-wong-dans-le-11e-a-paris/431298/)**  2021-06-26 11:14:39
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 12e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/samedi-de-la-12e-semaine-du-tob.html)**  2021-06-26 07:46:00
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[COVID-19: Dritte Öffnungsphase ab 1.Juli in Mauritius...Phase 3: Back to nearly normal...La Réouverture à partir du 1ier Juillet](https://insel-rodrigues.blogspot.com/2021/06/covid-19-dritte-offnungsphase-ab-1juli.html)**  2021-06-26 04:55:07
@@ -42,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO et ses engagements !](https://sedecobtob.blogspot.com/2021/06/bpo-sedeco-et-ses-engagements.html)**  2021-06-23 11:19:21
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Voyage au Féminin - Dr Vijaya Teelock](https://teelocked.blogspot.com/2021/06/voyage-au-feminin-dr-vijaya-teelock.html)**  2021-06-23 11:12:41
 
 [priscimon.com](https://priscimon.com/blog)  
 **[WOW](http://feedproxy.google.com/~r/EddyYoung/~3/Y9VRicz0yFI/)**  2021-06-23 01:00:00
@@ -96,9 +99,6 @@ permalink: /mauritian-blogs/
 
 [Moothoosamy.A](https://moothoosamya.blogspot.com/)  
 **[Foodiscovery Poster](https://moothoosamya.blogspot.com/2021/05/foodiscovery-poster.html)**  2021-06-14 07:20:14
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Vin de Frantz](https://kabilen.tumblr.com/post/653887606731505664)**  2021-06-13 15:50:16
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-08 22:22:42
@@ -415,8 +415,5 @@ permalink: /mauritian-blogs/
 
 [Microsoft Dynamics Nav Business Central Learning Platform](https://navlearningcenter.blogspot.com/)  
 **[User Creation on Microsoft Dynamics Nav Business Central](https://navlearningcenter.blogspot.com/2020/07/user-creation-on-microsoft-dynamics-nav.html)**  2020-07-27 12:17:53
-
-[21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
-**[The polemic surrounding University Ranking of UniRank (4icu.org) : The case of UoM being 85th in the African Top 100](http://feedproxy.google.com/~r/InnovativeLearningTechnologiesAndPedagogies/~3/arQ_1JgePEw/the-polemic-surrounding-university.html)**  2020-07-26 14:54:43
 
 <div style="height:0;width:0;overflow:hidden;"></div>
