@@ -4,20 +4,35 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/jamais-plus-dune-fois-la-meme-chose-le.html)**  2021-06-29 04:21:57
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[New Addition to the Classic Film Family!](https://kabilen.tumblr.com/post/655292232659795968)**  2021-06-29 03:56:12
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Back in the Office 458 Days Later](https://davidandjennilyn.com/2021/06/28/back-in-the-office-458-days-later/)**  2021-06-29 03:24:06
+
+[priscimon.com](https://priscimon.com/blog)  
+**[Vaccinated. But safe?](http://feedproxy.google.com/~r/EddyYoung/~3/Df4DbFCa2NA/)**  2021-06-29 01:00:00
+
+[C'est reparti !](https://c-est-reparti.blogspot.com/)  
+**[Le temps est devenu fou](https://c-est-reparti.blogspot.com/2021/06/le-temps-est-devenu-fou.html)**  2021-06-28 20:30:16
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Birthday Mandala 1](https://swanlady-impressions.blogspot.com/2021/06/birthday-mandala-1.html)**  2021-06-28 14:41:01
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Boldly Finance Recovery to Build Forward Better](https://www.lemauricien.com/le-mauricien/boldly-finance-recovery-to-build-forward-better/431645/)**  2021-06-28 12:57:47
+
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Les consignes à respecter pour la reprise des messes à l’église](https://www.dioceseportlouis.org/2021/06/28/les-consignes-a-respecter-pour-la-reprise-des-messes-a-leglise/)**  2021-06-28 11:39:22
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 13e Dimanche du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/homelie-pour-le-13e-dimanche-du-tob.html)**  2021-06-28 05:22:59
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Tour de NTU #birthdayride 28//jun//21](https://kabilen.tumblr.com/post/655199931496316928)**  2021-06-28 03:29:06
-
 [L😀ck](https://teelocked.blogspot.com/)  
 **[John McAfee: about blockchain, bitcoins and cyber security](https://teelocked.blogspot.com/2021/06/john-mcafee-about-blockchain-bitcoins.html)**  2021-06-27 21:09:05
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/jamais-plus-dune-fois-la-meme-chose-le.html)**  2021-06-27 05:10:00
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[DIY Lampshades](https://mymauritiangarden.wordpress.com/2021/06/27/diy-lampshades/)**  2021-06-27 03:55:31
@@ -25,14 +40,8 @@ permalink: /mauritian-blogs/
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-26 19:25:50
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[DU 29 MAI AU 19 JUIN 2021 : Exposition de Geneviève Bonieux  et Didier Wong dans le 11e à Paris](https://www.lemauricien.com/le-mauricien/du-29-mai-au-19-juin-2021-exposition-de-genevieve-bonieux-et-didier-wong-dans-le-11e-a-paris/431298/)**  2021-06-26 11:14:39
-
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[COVID-19: Dritte Öffnungsphase ab 1.Juli in Mauritius...Phase 3: Back to nearly normal...La Réouverture à partir du 1ier Juillet](https://insel-rodrigues.blogspot.com/2021/06/covid-19-dritte-offnungsphase-ab-1juli.html)**  2021-06-26 04:55:07
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Sea Shell Wishes for you](https://swanlady-impressions.blogspot.com/2021/06/sea-shell-wishes-for-you.html)**  2021-06-25 19:50:04
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Platinum Award Winners](https://mars3b8.wordpress.com/2021/06/25/platinum-award-winners/)**  2021-06-25 19:42:50
@@ -49,23 +58,14 @@ permalink: /mauritian-blogs/
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO et ses engagements !](https://sedecobtob.blogspot.com/2021/06/bpo-sedeco-et-ses-engagements.html)**  2021-06-23 11:19:21
 
-[priscimon.com](https://priscimon.com/blog)  
-**[WOW](http://feedproxy.google.com/~r/EddyYoung/~3/Y9VRicz0yFI/)**  2021-06-23 01:00:00
-
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Leave Your Environmental Footprint Behind](https://blog.constancehotels.com/leave-your-environmental-footprint-behind/)**  2021-06-22 15:53:55
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Saddle Mountain Hike](https://davidandjennilyn.com/2021/06/21/saddle-mountain-hike/)**  2021-06-22 05:03:44
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Anthropology can help us understand ourselves, our tribes, companies and communities](https://zoomdr.blogspot.com/2021/06/anthropology-can-help-us-understand.html)**  2021-06-21 10:42:46
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[MIR-SAT1 Special Award](https://msinnott.net/2021/06/20/mir-sat1-special-award/?utm_source=rss&utm_medium=rss&utm_campaign=mir-sat1-special-award)**  2021-06-20 10:19:01
-
-[C'est reparti !](https://c-est-reparti.blogspot.com/)  
-**[Changement de rythme](https://c-est-reparti.blogspot.com/2021/06/changement-de-rythme.html)**  2021-06-19 20:19:46
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Because of Science by Neil deGrasse Tyson](https://lovvy.wordpress.com/2021/06/19/because-of-science-by-neil-degrasse-tyson/)**  2021-06-19 11:59:51
@@ -409,11 +409,5 @@ permalink: /mauritian-blogs/
 
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[hope](https://myanonymouslife24.blogspot.com/2020/07/hope.html)**  2020-07-30 01:09:03
-
-[Confidence Vote](https://cgovote.blogspot.com/)  
-**[Confidence Vote Calculator](https://cgovote.blogspot.com/2020/07/confidence-vote-calculator.html)**  2020-07-28 05:05:04
-
-[Microsoft Dynamics Nav Business Central Learning Platform](https://navlearningcenter.blogspot.com/)  
-**[User Creation on Microsoft Dynamics Nav Business Central](https://navlearningcenter.blogspot.com/2020/07/user-creation-on-microsoft-dynamics-nav.html)**  2020-07-27 12:17:53
 
 <div style="height:0;width:0;overflow:hidden;"></div>
