@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Mauritius: 2021 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Mauritius](https://amarbheenick.blogspot.com/2021/06/mauritius-2021-article-iv-consultation.html)**  2021-06-29 07:05:04
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/06/jamais-plus-dune-fois-la-meme-chose-le.html)**  2021-06-29 04:21:57
 
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Mauritius Riapre Le Frontiere (fase 1 - fase 2)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-24 18:17:33
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[FIRE Magazine Issue 4 - Q1 2021, Looking Back & Looking Ahead](https://amarbheenick.blogspot.com/2021/06/fire-magazine-issue-4-q1-2021-looking.html)**  2021-06-24 07:26:20
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO et ses engagements !](https://sedecobtob.blogspot.com/2021/06/bpo-sedeco-et-ses-engagements.html)**  2021-06-23 11:19:21
