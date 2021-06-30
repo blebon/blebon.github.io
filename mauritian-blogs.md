@@ -4,14 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Mauritius: 2021 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Mauritius](https://amarbheenick.blogspot.com/2021/06/mauritius-2021-article-iv-consultation.html)**  2021-06-29 07:05:04
-
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/jamais-plus-dune-fois-la-meme-chose-le.html)**  2021-06-29 04:21:57
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/fond-on-ne-comprend-rien-rien-meme-pas.html)**  2021-06-30 05:04:05
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mercredi de la 13e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mercredi-de-la-13e-semaine-du-tob.html)**  2021-06-30 04:00:00
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
-**[New Addition to the Classic Film Family!](https://kabilen.tumblr.com/post/655292232659795968)**  2021-06-29 03:56:12
+**[New Age… Same old Batman 30//jun//21](https://kabilen.tumblr.com/post/655378674363875328)**  2021-06-30 02:50:09
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Have faith!](https://www.lemauricien.com/le-mauricien/have-faith/431763/)**  2021-06-29 13:00:46
+
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Mauritius: 2021 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Mauritius](https://amarbheenick.blogspot.com/2021/06/mauritius-2021-article-iv-consultation.html)**  2021-06-29 07:05:04
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Back in the Office 458 Days Later](https://davidandjennilyn.com/2021/06/28/back-in-the-office-458-days-later/)**  2021-06-29 03:24:06
@@ -25,14 +31,8 @@ permalink: /mauritian-blogs/
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Mandala 1](https://swanlady-impressions.blogspot.com/2021/06/birthday-mandala-1.html)**  2021-06-28 14:41:01
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Boldly Finance Recovery to Build Forward Better](https://www.lemauricien.com/le-mauricien/boldly-finance-recovery-to-build-forward-better/431645/)**  2021-06-28 12:57:47
-
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Les consignes à respecter pour la reprise des messes à l’église](https://www.dioceseportlouis.org/2021/06/28/les-consignes-a-respecter-pour-la-reprise-des-messes-a-leglise/)**  2021-06-28 11:39:22
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 13e Dimanche du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/homelie-pour-le-13e-dimanche-du-tob.html)**  2021-06-28 05:22:59
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[John McAfee: about blockchain, bitcoins and cyber security](https://teelocked.blogspot.com/2021/06/john-mcafee-about-blockchain-bitcoins.html)**  2021-06-27 21:09:05
