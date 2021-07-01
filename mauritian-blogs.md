@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Traces de vies passées](http://gadatagada.blogspot.com/2021/07/traces-de-vies-passees.html)**  2021-07-01 06:14:52
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Jeudi de la 13e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/jeudi-de-la-13e-semaine-du-tob.html)**  2021-07-01 04:00:00
 
@@ -69,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Because of Science by Neil deGrasse Tyson](https://lovvy.wordpress.com/2021/06/19/because-of-science-by-neil-degrasse-tyson/)**  2021-06-19 11:59:51
-
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Hidden gem](http://gadatagada.blogspot.com/2021/06/hidden-gem.html)**  2021-06-18 04:56:59
 
 [My Voice](https://jeevashi.blogspot.com/)  
 **[Ben's Prestigious Mont Blanc](https://jeevashi.blogspot.com/2021/06/bens-prestigious-mont-blanc.html)**  2021-06-17 21:28:28
