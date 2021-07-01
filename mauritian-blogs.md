@@ -4,17 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/fond-on-ne-comprend-rien-rien-meme-pas.html)**  2021-06-30 05:04:05
-
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 13e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/06/mercredi-de-la-13e-semaine-du-tob.html)**  2021-06-30 04:00:00
+**[Jeudi de la 13e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/jeudi-de-la-13e-semaine-du-tob.html)**  2021-07-01 04:00:00
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/present-cest-ce-qui-toujours-est-et.html)**  2021-07-01 03:35:05
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
-**[New Age… Same old Batman 30//jun//21](https://kabilen.tumblr.com/post/655378674363875328)**  2021-06-30 02:50:09
+**[Custom Oakley. Animals ahead.](https://kabilen.tumblr.com/post/655464187962818560)**  2021-07-01 01:29:21
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Michael Saylor on Why Bitcoin is the Key to Abundance](https://teelocked.blogspot.com/2021/06/michael-saylor-on-why-bitcoin-is-key-to.html)**  2021-06-30 23:55:48
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Have faith!](https://www.lemauricien.com/le-mauricien/have-faith/431763/)**  2021-06-29 13:00:46
+**[Blood Donation Parking Mayhem at Candos](https://www.lemauricien.com/le-mauricien/blood-donation-parking-mayhem-at-candos/432049/)**  2021-06-30 13:39:42
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Marketing digital offshore : SEDECO a ce qu’il vous faut !](https://sedecobtob.blogspot.com/2021/06/marketing-digital-offshore-sedeco-ce.html)**  2021-06-30 13:23:53
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Mauritius: 2021 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Mauritius](https://amarbheenick.blogspot.com/2021/06/mauritius-2021-article-iv-consultation.html)**  2021-06-29 07:05:04
@@ -34,9 +40,6 @@ permalink: /mauritian-blogs/
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Les consignes à respecter pour la reprise des messes à l’église](https://www.dioceseportlouis.org/2021/06/28/les-consignes-a-respecter-pour-la-reprise-des-messes-a-leglise/)**  2021-06-28 11:39:22
 
-[L😀ck](https://teelocked.blogspot.com/)  
-**[John McAfee: about blockchain, bitcoins and cyber security](https://teelocked.blogspot.com/2021/06/john-mcafee-about-blockchain-bitcoins.html)**  2021-06-27 21:09:05
-
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[DIY Lampshades](https://mymauritiangarden.wordpress.com/2021/06/27/diy-lampshades/)**  2021-06-27 03:55:31
 
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Mauritius Riapre Le Frontiere (fase 1 - fase 2)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-24 18:17:33
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : SEDECO et ses engagements !](https://sedecobtob.blogspot.com/2021/06/bpo-sedeco-et-ses-engagements.html)**  2021-06-23 11:19:21
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Leave Your Environmental Footprint Behind](https://blog.constancehotels.com/leave-your-environmental-footprint-behind/)**  2021-06-22 15:53:55
@@ -406,8 +406,5 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[No title](https://flicenflac.blogspot.com/2020/07/hello-world.html)**  2020-07-31 11:22:01
-
-[My life](https://myanonymouslife24.blogspot.com/)  
-**[hope](https://myanonymouslife24.blogspot.com/2020/07/hope.html)**  2020-07-30 01:09:03
 
 <div style="height:0;width:0;overflow:hidden;"></div>
