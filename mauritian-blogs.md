@@ -4,20 +4,29 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 13e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/vendredi-de-la-13e-semaine-du-tob.html)**  2021-07-02 04:00:00
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Birthday Mandala 1 & 2](https://swanlady-impressions.blogspot.com/2021/06/birthday-mandala-1.html)**  2021-07-02 09:39:10
+
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Shadows and Shell Games: Uncovering an Offshore Business  Empire in Zimbabwe](https://amarbheenick.blogspot.com/2021/07/shadows-and-shell-games-uncovering.html)**  2021-07-02 09:26:16
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Le CoR :  » Préserver la dignité de nos frères autrement capables »](https://www.dioceseportlouis.org/2021/07/02/le-cor-preserver-la-dignite-de-nos-freres-autrement-capables/)**  2021-07-02 08:28:58
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[COVID-19: The EU & Covishield (AstraZenica)...Approved for traveling by 9 countries so far!](https://insel-rodrigues.blogspot.com/2021/07/covid-19-eu-covishield.html)**  2021-07-02 03:47:04
+**[COVID-19: The EU & Covishield (AstraZenica)...Approved for traveling by 9 countries so far!](https://insel-rodrigues.blogspot.com/2021/07/covid-19-eu-covishield.html)**  2021-07-02 07:46:22
+
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Graphic butcher's shop](http://gadatagada.blogspot.com/2021/07/graphic-butchers-shop.html)**  2021-07-02 07:15:21
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Vendredi de la 13e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/vendredi-de-la-13e-semaine-du-tob.html)**  2021-07-02 04:00:00
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/06/present-cest-ce-qui-toujours-est-et.html)**  2021-07-02 01:11:51
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[FOR A SAFER AND HEALTHIER WORLD : Poor sanitation, a major cause of diseases](https://www.lemauricien.com/le-mauricien/for-a-safer-and-healthier-world-poor-sanitation-a-major-cause-of-diseases/432205/)**  2021-07-01 13:00:49
-
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Traces de vies passées](http://gadatagada.blogspot.com/2021/07/traces-de-vies-passees.html)**  2021-07-01 06:14:52
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Custom Oakley. Animals ahead.](https://kabilen.tumblr.com/post/655464187962818560)**  2021-07-01 01:29:21
@@ -28,9 +37,6 @@ permalink: /mauritian-blogs/
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing digital offshore : SEDECO a ce qu’il vous faut !](https://sedecobtob.blogspot.com/2021/06/marketing-digital-offshore-sedeco-ce.html)**  2021-06-30 13:23:53
 
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Mauritius: 2021 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Mauritius](https://amarbheenick.blogspot.com/2021/06/mauritius-2021-article-iv-consultation.html)**  2021-06-29 07:05:04
-
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Back in the Office 458 Days Later](https://davidandjennilyn.com/2021/06/28/back-in-the-office-458-days-later/)**  2021-06-29 03:24:06
 
@@ -39,12 +45,6 @@ permalink: /mauritian-blogs/
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Le temps est devenu fou](https://c-est-reparti.blogspot.com/2021/06/le-temps-est-devenu-fou.html)**  2021-06-28 20:30:16
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Birthday Mandala 1](https://swanlady-impressions.blogspot.com/2021/06/birthday-mandala-1.html)**  2021-06-28 14:41:01
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Les consignes à respecter pour la reprise des messes à l’église](https://www.dioceseportlouis.org/2021/06/28/les-consignes-a-respecter-pour-la-reprise-des-messes-a-leglise/)**  2021-06-28 11:39:22
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[DIY Lampshades](https://mymauritiangarden.wordpress.com/2021/06/27/diy-lampshades/)**  2021-06-27 03:55:31
@@ -403,8 +403,5 @@ permalink: /mauritian-blogs/
 
 [Learn to know](https://sikhiye.blogspot.com/)  
 **[Simple  soroban learning](https://sikhiye.blogspot.com/2020/08/simple-soroban-learning.html)**  2020-08-04 20:23:40
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[No title](https://flicenflac.blogspot.com/2020/07/hello-world.html)**  2020-07-31 11:22:01
 
 <div style="height:0;width:0;overflow:hidden;"></div>
