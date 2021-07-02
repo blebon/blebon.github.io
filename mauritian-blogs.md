@@ -4,23 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Traces de vies passées](http://gadatagada.blogspot.com/2021/07/traces-de-vies-passees.html)**  2021-07-01 06:14:52
-
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 13e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/jeudi-de-la-13e-semaine-du-tob.html)**  2021-07-01 04:00:00
+**[Vendredi de la 13e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/vendredi-de-la-13e-semaine-du-tob.html)**  2021-07-02 04:00:00
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[COVID-19: The EU & Covishield (AstraZenica)...Approved for traveling by 9 countries so far!](https://insel-rodrigues.blogspot.com/2021/07/covid-19-eu-covishield.html)**  2021-07-02 03:47:04
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/present-cest-ce-qui-toujours-est-et.html)**  2021-07-01 03:35:05
+**[No title](https://sooriamoorthy.blogspot.com/2021/06/present-cest-ce-qui-toujours-est-et.html)**  2021-07-02 01:11:51
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[FOR A SAFER AND HEALTHIER WORLD : Poor sanitation, a major cause of diseases](https://www.lemauricien.com/le-mauricien/for-a-safer-and-healthier-world-poor-sanitation-a-major-cause-of-diseases/432205/)**  2021-07-01 13:00:49
+
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Traces de vies passées](http://gadatagada.blogspot.com/2021/07/traces-de-vies-passees.html)**  2021-07-01 06:14:52
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Custom Oakley. Animals ahead.](https://kabilen.tumblr.com/post/655464187962818560)**  2021-07-01 01:29:21
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Michael Saylor on Why Bitcoin is the Key to Abundance](https://teelocked.blogspot.com/2021/06/michael-saylor-on-why-bitcoin-is-key-to.html)**  2021-06-30 23:55:48
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Blood Donation Parking Mayhem at Candos](https://www.lemauricien.com/le-mauricien/blood-donation-parking-mayhem-at-candos/432049/)**  2021-06-30 13:39:42
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing digital offshore : SEDECO a ce qu’il vous faut !](https://sedecobtob.blogspot.com/2021/06/marketing-digital-offshore-sedeco-ce.html)**  2021-06-30 13:23:53
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-26 19:25:50
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[COVID-19: Dritte Öffnungsphase ab 1.Juli in Mauritius...Phase 3: Back to nearly normal...La Réouverture à partir du 1ier Juillet](https://insel-rodrigues.blogspot.com/2021/06/covid-19-dritte-offnungsphase-ab-1juli.html)**  2021-06-26 04:55:07
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Platinum Award Winners](https://mars3b8.wordpress.com/2021/06/25/platinum-award-winners/)**  2021-06-25 19:42:50
