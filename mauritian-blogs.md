@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Understanding the dynamics of Electric Vehicles in Mauritius](https://www.lemauricien.com/le-mauricien/understanding-the-dynamics-of-electric-vehicles-in-mauritius/432640/)**  2021-07-03 11:34:52
+
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[MIR-SAT1 Local News](https://mars3b8.wordpress.com/2021/07/03/mir-sat1-local-news/)**  2021-07-03 10:26:40
+
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[COVID-19 und der EURO 2020...Tournaments in Corona Times](https://insel-rodrigues.blogspot.com/2021/07/covid-19-und-der-euro-2020tournaments.html)**  2021-07-03 04:00:05
 
@@ -18,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Cute Critter Wishes](https://swanlady-impressions.blogspot.com/2021/07/cute-critter-wishes.html)**  2021-07-02 20:28:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[POST 47TH G-7 SUMMIT (YEAR 2021) Towards a Recalibration of  Power without Allegiance?](https://www.lemauricien.com/le-mauricien/post-47th-g-7-summit-year-2021-towards-a-recalibration-of-power-without-allegiance/432465/)**  2021-07-02 15:02:04
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Shadows and Shell Games: Uncovering an Offshore Business  Empire in Zimbabwe](https://amarbheenick.blogspot.com/2021/07/shadows-and-shell-games-uncovering.html)**  2021-07-02 09:26:16
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-26 19:25:50
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[Platinum Award Winners](https://mars3b8.wordpress.com/2021/06/25/platinum-award-winners/)**  2021-06-25 19:42:50
 
 [Dollars Market - Earn Free Money, Live Coins Price, Bitcoin/USD Calculator](https://www.dollarsmarkt.com/)  
 **[Crypto Latest News: Every El Salvador adult citizen to get $30 worth BTC from Government](https://www.dollarsmarkt.com/2021/06/crypto-latest-news-el-salvador-citizen-airdrop-30-dollars-btc.html)**  2021-06-25 09:00:00
