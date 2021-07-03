@@ -4,8 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[COVID-19 und der EURO 2020...Tournaments in Corona Times](https://insel-rodrigues.blogspot.com/2021/07/covid-19-und-der-euro-2020tournaments.html)**  2021-07-03 04:00:05
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Fête de Saint Thomas, apôtre (03/07)](https://josephnguyenmahebourg.blogspot.com/2021/07/fete-de-saint-thomas-apotre-0307.html)**  2021-07-03 04:00:00
+
+[priscimon.com](https://priscimon.com/blog)  
+**[ADSL 4 EVERY 1](http://feedproxy.google.com/~r/EddyYoung/~3/q_MCBX1f860/)**  2021-07-03 01:00:00
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Pomp Podcast #256: Billionaire Chamath Palihapitiya on How To Invest in ...](https://teelocked.blogspot.com/2021/07/pomp-podcast-256-billionaire-chamath.html)**  2021-07-02 23:05:18
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Birthday Mandala 1 & 2](https://swanlady-impressions.blogspot.com/2021/06/birthday-mandala-1.html)**  2021-07-02 09:39:10
+**[Cute Critter Wishes](https://swanlady-impressions.blogspot.com/2021/07/cute-critter-wishes.html)**  2021-07-02 20:28:00
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[POST 47TH G-7 SUMMIT (YEAR 2021) Towards a Recalibration of  Power without Allegiance?](https://www.lemauricien.com/le-mauricien/post-47th-g-7-summit-year-2021-towards-a-recalibration-of-power-without-allegiance/432465/)**  2021-07-02 15:02:04
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Shadows and Shell Games: Uncovering an Offshore Business  Empire in Zimbabwe](https://amarbheenick.blogspot.com/2021/07/shadows-and-shell-games-uncovering.html)**  2021-07-02 09:26:16
@@ -13,35 +28,20 @@ permalink: /mauritian-blogs/
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Le CoR :  » Préserver la dignité de nos frères autrement capables »](https://www.dioceseportlouis.org/2021/07/02/le-cor-preserver-la-dignite-de-nos-freres-autrement-capables/)**  2021-07-02 08:28:58
 
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[COVID-19: The EU & Covishield (AstraZenica)...Approved for traveling by 9 countries so far!](https://insel-rodrigues.blogspot.com/2021/07/covid-19-eu-covishield.html)**  2021-07-02 07:46:22
-
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Graphic butcher's shop](http://gadatagada.blogspot.com/2021/07/graphic-butchers-shop.html)**  2021-07-02 07:15:21
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 13e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/vendredi-de-la-13e-semaine-du-tob.html)**  2021-07-02 04:00:00
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/06/present-cest-ce-qui-toujours-est-et.html)**  2021-07-02 01:11:51
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[FOR A SAFER AND HEALTHIER WORLD : Poor sanitation, a major cause of diseases](https://www.lemauricien.com/le-mauricien/for-a-safer-and-healthier-world-poor-sanitation-a-major-cause-of-diseases/432205/)**  2021-07-01 13:00:49
-
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Custom Oakley. Animals ahead.](https://kabilen.tumblr.com/post/655464187962818560)**  2021-07-01 01:29:21
-
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Michael Saylor on Why Bitcoin is the Key to Abundance](https://teelocked.blogspot.com/2021/06/michael-saylor-on-why-bitcoin-is-key-to.html)**  2021-06-30 23:55:48
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing digital offshore : SEDECO a ce qu’il vous faut !](https://sedecobtob.blogspot.com/2021/06/marketing-digital-offshore-sedeco-ce.html)**  2021-06-30 13:23:53
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Back in the Office 458 Days Later](https://davidandjennilyn.com/2021/06/28/back-in-the-office-458-days-later/)**  2021-06-29 03:24:06
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Vaccinated. But safe?](http://feedproxy.google.com/~r/EddyYoung/~3/Df4DbFCa2NA/)**  2021-06-29 01:00:00
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Le temps est devenu fou](https://c-est-reparti.blogspot.com/2021/06/le-temps-est-devenu-fou.html)**  2021-06-28 20:30:16
