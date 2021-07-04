@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Dis Plas Kot Bizin Komisyon Danket](https://morisk.blogspot.com/2021/07/dis-plas-kot-bizin-komisyon-danket.html)**  2021-07-04 05:41:17
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/07/vie-est-une-illusion-que-les-animaux.html)**  2021-07-04 02:28:05
+
+[L😀ck](https://teelocked.blogspot.com/)  
+**[Mauritius Lockdown Day 56 - La Tour Koenig to Port Louis](https://teelocked.blogspot.com/2021/07/mauritius-lockdown-day-56-la-tour.html)**  2021-07-03 19:01:48
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Understanding the dynamics of Electric Vehicles in Mauritius](https://www.lemauricien.com/le-mauricien/understanding-the-dynamics-of-electric-vehicles-in-mauritius/432640/)**  2021-07-03 11:34:52
 
@@ -19,9 +28,6 @@ permalink: /mauritian-blogs/
 [priscimon.com](https://priscimon.com/blog)  
 **[ADSL 4 EVERY 1](http://feedproxy.google.com/~r/EddyYoung/~3/q_MCBX1f860/)**  2021-07-03 01:00:00
 
-[L😀ck](https://teelocked.blogspot.com/)  
-**[Pomp Podcast #256: Billionaire Chamath Palihapitiya on How To Invest in ...](https://teelocked.blogspot.com/2021/07/pomp-podcast-256-billionaire-chamath.html)**  2021-07-02 23:05:18
-
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Cute Critter Wishes](https://swanlady-impressions.blogspot.com/2021/07/cute-critter-wishes.html)**  2021-07-02 20:28:00
 
@@ -33,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Graphic butcher's shop](http://gadatagada.blogspot.com/2021/07/graphic-butchers-shop.html)**  2021-07-02 07:15:21
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/06/present-cest-ce-qui-toujours-est-et.html)**  2021-07-02 01:11:51
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Custom Oakley. Animals ahead.](https://kabilen.tumblr.com/post/655464187962818560)**  2021-07-01 01:29:21
@@ -99,9 +102,6 @@ permalink: /mauritian-blogs/
 
 [Moothoosamy.A](https://moothoosamya.blogspot.com/)  
 **[Foodiscovery Poster](https://moothoosamya.blogspot.com/2021/05/foodiscovery-poster.html)**  2021-06-14 07:20:14
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[World Bank Not Shutting Down Yet, Publishes Another Sloppy Report Instead](https://morisk.blogspot.com/2021/06/world-bank-not-shutting-down-yet.html)**  2021-06-08 22:22:42
 
 [adarsh.me](https://adarsh.me/)  
 **[Early afternoon, Bellepierre
