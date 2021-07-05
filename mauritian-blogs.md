@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Don’t have floorboards in the kitchen, they said](http://feedproxy.google.com/~r/EddyYoung/~3/S9jcO0duy9Q/)**  2021-07-05 01:00:00
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 14e Dimanche du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/homelie-pour-le-14e-dimanche-du-tob.html)**  2021-07-04 13:01:32
+
 [The Jag!](https://morisk.blogspot.com/)  
 **[Dis Plas Kot Bizin Komisyon Danket](https://morisk.blogspot.com/2021/07/dis-plas-kot-bizin-komisyon-danket.html)**  2021-07-04 05:49:27
 
@@ -21,12 +27,6 @@ permalink: /mauritian-blogs/
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[COVID-19 und der EURO 2020...Tournaments in Corona Times](https://insel-rodrigues.blogspot.com/2021/07/covid-19-und-der-euro-2020tournaments.html)**  2021-07-03 04:00:05
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Fête de Saint Thomas, apôtre (03/07)](https://josephnguyenmahebourg.blogspot.com/2021/07/fete-de-saint-thomas-apotre-0307.html)**  2021-07-03 04:00:00
-
-[priscimon.com](https://priscimon.com/blog)  
-**[ADSL 4 EVERY 1](http://feedproxy.google.com/~r/EddyYoung/~3/q_MCBX1f860/)**  2021-07-03 01:00:00
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Cute Critter Wishes](https://swanlady-impressions.blogspot.com/2021/07/cute-critter-wishes.html)**  2021-07-02 20:28:00
