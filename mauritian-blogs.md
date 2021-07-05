@@ -4,17 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Trade Signal By Capital Street Fx](https://fx-trade-signal.blogspot.com/)  
+**[Daily Free Forex Trading Signals By Capital Street Fx – July 05, 2021](https://fx-trade-signal.blogspot.com/2021/07/daily-free-forex-trading-signals-by.html)**  2021-07-05 11:36:31
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Message du Saint-Siège pour le Dimanche de la Mer 2021](https://www.dioceseportlouis.org/2021/07/05/message-du-saint-siege-pour-le-dimanche-de-la-mer-2021/)**  2021-07-05 08:33:02
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/07/na-pas-regretter-de-perdre-son-temps.html)**  2021-07-05 07:47:25
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Lundi de la 14e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/lundi-de-la-14e-semaine-du-tob.html)**  2021-07-05 05:57:30
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Don’t have floorboards in the kitchen, they said](http://feedproxy.google.com/~r/EddyYoung/~3/S9jcO0duy9Q/)**  2021-07-05 01:00:00
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 14e Dimanche du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/homelie-pour-le-14e-dimanche-du-tob.html)**  2021-07-04 13:01:32
-
 [The Jag!](https://morisk.blogspot.com/)  
 **[Dis Plas Kot Bizin Komisyon Danket](https://morisk.blogspot.com/2021/07/dis-plas-kot-bizin-komisyon-danket.html)**  2021-07-04 05:49:27
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/07/vie-est-une-illusion-que-les-animaux.html)**  2021-07-04 02:28:05
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Mauritius Lockdown Day 56 - La Tour Koenig to Port Louis](https://teelocked.blogspot.com/2021/07/mauritius-lockdown-day-56-la-tour.html)**  2021-07-03 19:01:48
@@ -33,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Shadows and Shell Games: Uncovering an Offshore Business  Empire in Zimbabwe](https://amarbheenick.blogspot.com/2021/07/shadows-and-shell-games-uncovering.html)**  2021-07-02 09:26:16
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Le CoR :  » Préserver la dignité de nos frères autrement capables »](https://www.dioceseportlouis.org/2021/07/02/le-cor-preserver-la-dignite-de-nos-freres-autrement-capables/)**  2021-07-02 08:28:58
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Graphic butcher's shop](http://gadatagada.blogspot.com/2021/07/graphic-butchers-shop.html)**  2021-07-02 07:15:21
@@ -226,9 +229,6 @@ permalink: /mauritian-blogs/
 
 [French and Technology](https://aurorealexandra.blogspot.com/)  
 **[No title](https://aurorealexandra.blogspot.com/2021/02/notre-existence-sur-terre-est-comme-un.html)**  2021-02-20 09:20:42
-
-[Trade Signal By Capital Street Fx](https://fx-trade-signal.blogspot.com/)  
-**[[BITCOIN Price] Technical Analysis By Capital Street FX - February 19, 2021](https://fx-trade-signal.blogspot.com/2021/02/bitcoin-price-technical-analysis-by.html)**  2021-02-19 10:45:23
 
 [Mauritius Car Rental](https://easycabmauritius.blogspot.com/)  
 **[Transfer From Mauritius Airport To Grand Baie](https://easycabmauritius.blogspot.com/2021/02/transfer-from-mauritius-airport-to.html)**  2021-02-17 05:56:27
