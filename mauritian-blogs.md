@@ -4,17 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Trade Signal By Capital Street Fx](https://fx-trade-signal.blogspot.com/)  
-**[Daily Free Forex Trading Signals By Capital Street Fx – July 05, 2021](https://fx-trade-signal.blogspot.com/2021/07/daily-free-forex-trading-signals-by.html)**  2021-07-05 11:36:31
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Message du Saint-Siège pour le Dimanche de la Mer 2021](https://www.dioceseportlouis.org/2021/07/05/message-du-saint-siege-pour-le-dimanche-de-la-mer-2021/)**  2021-07-05 08:33:02
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mardi de la 14e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/mardi-de-la-14e-semaine-du-tob.html)**  2021-07-06 04:00:00
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/07/na-pas-regretter-de-perdre-son-temps.html)**  2021-07-05 07:47:25
+**[No title](https://sooriamoorthy.blogspot.com/2021/07/y-toujours-des-raisons-et-meme-de-tres.html)**  2021-07-06 02:02:19
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi de la 14e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/lundi-de-la-14e-semaine-du-tob.html)**  2021-07-05 05:57:30
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[LETTRE OUVERTE AU GOUVERNEMENT ET AU PEUPLE MAURICIEN : Alerte à la mondialisation sauvage  et à la déshumanisation en aval !](https://www.lemauricien.com/le-mauricien/lettre-ouverte-au-gouvernement-et-au-peuple-mauricien-alerte-a-la-mondialisation-sauvage-et-a-la-deshumanisation-en-aval/433004/)**  2021-07-05 13:00:52
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Consécration de l’autel de l’église Saint-Joseph par le Cardinal Piat](https://www.dioceseportlouis.org/2021/07/05/consecration-de-lautel-de-leglise-saint-joseph-par-le-cardinal-piat/)**  2021-07-05 12:19:30
+
+[Trade Signal By Capital Street Fx](https://fx-trade-signal.blogspot.com/)  
+**[Daily Free Forex Trading Signals By Capital Street Fx – July 05, 2021](https://fx-trade-signal.blogspot.com/2021/07/daily-free-forex-trading-signals-by.html)**  2021-07-05 11:36:31
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Don’t have floorboards in the kitchen, they said](http://feedproxy.google.com/~r/EddyYoung/~3/S9jcO0duy9Q/)**  2021-07-05 01:00:00
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Mauritius Lockdown Day 56 - La Tour Koenig to Port Louis](https://teelocked.blogspot.com/2021/07/mauritius-lockdown-day-56-la-tour.html)**  2021-07-03 19:01:48
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Understanding the dynamics of Electric Vehicles in Mauritius](https://www.lemauricien.com/le-mauricien/understanding-the-dynamics-of-electric-vehicles-in-mauritius/432640/)**  2021-07-03 11:34:52
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[MIR-SAT1 Local News](https://mars3b8.wordpress.com/2021/07/03/mir-sat1-local-news/)**  2021-07-03 10:26:40
