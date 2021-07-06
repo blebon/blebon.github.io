@@ -4,14 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 14e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/mardi-de-la-14e-semaine-du-tob.html)**  2021-07-06 04:00:00
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Dr Maxime Ferrari, a political innovator](https://www.lemauricien.com/le-mauricien/dr-maxime-ferrari-a-political-innovator/433224/)**  2021-07-06 11:18:08
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Uniqlo jumps into in-house production with new 'made in Tokyo' line](https://zoomdr.blogspot.com/2021/07/uniqlo-jumps-into-in-house-production.html)**  2021-07-06 11:00:43
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Birthday Blooms](https://swanlady-impressions.blogspot.com/2021/07/birthday-blooms.html)**  2021-07-06 09:57:11
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/07/y-toujours-des-raisons-et-meme-de-tres.html)**  2021-07-06 02:02:19
+**[No title](https://sooriamoorthy.blogspot.com/2021/07/y-toujours-des-raisons-et-meme-de-tres.html)**  2021-07-06 06:00:45
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LETTRE OUVERTE AU GOUVERNEMENT ET AU PEUPLE MAURICIEN : Alerte à la mondialisation sauvage  et à la déshumanisation en aval !](https://www.lemauricien.com/le-mauricien/lettre-ouverte-au-gouvernement-et-au-peuple-mauricien-alerte-a-la-mondialisation-sauvage-et-a-la-deshumanisation-en-aval/433004/)**  2021-07-05 13:00:52
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mardi de la 14e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/mardi-de-la-14e-semaine-du-tob.html)**  2021-07-06 05:55:50
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Consécration de l’autel de l’église Saint-Joseph par le Cardinal Piat](https://www.dioceseportlouis.org/2021/07/05/consecration-de-lautel-de-leglise-saint-joseph-par-le-cardinal-piat/)**  2021-07-05 12:19:30
@@ -33,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[COVID-19 und der EURO 2020...Tournaments in Corona Times](https://insel-rodrigues.blogspot.com/2021/07/covid-19-und-der-euro-2020tournaments.html)**  2021-07-03 04:00:05
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Cute Critter Wishes](https://swanlady-impressions.blogspot.com/2021/07/cute-critter-wishes.html)**  2021-07-02 20:28:00
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Shadows and Shell Games: Uncovering an Offshore Business  Empire in Zimbabwe](https://amarbheenick.blogspot.com/2021/07/shadows-and-shell-games-uncovering.html)**  2021-07-02 09:26:16
@@ -69,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Leave Your Environmental Footprint Behind](https://blog.constancehotels.com/leave-your-environmental-footprint-behind/)**  2021-06-22 15:53:55
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Anthropology can help us understand ourselves, our tribes, companies and communities](https://zoomdr.blogspot.com/2021/06/anthropology-can-help-us-understand.html)**  2021-06-21 10:42:46
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[MIR-SAT1 Special Award](https://msinnott.net/2021/06/20/mir-sat1-special-award/?utm_source=rss&utm_medium=rss&utm_campaign=mir-sat1-special-award)**  2021-06-20 10:19:01
