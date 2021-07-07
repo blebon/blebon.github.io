@@ -4,8 +4,29 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2021/07/ce-qui-nexiste-pas-ou-nexiste-pas.html)**  2021-07-07 04:33:41
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mercredi de la 14e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/mercredi-de-la-14e-semaine-du-tob.html)**  2021-07-07 04:00:00
+
+[priscimon.com](https://priscimon.com/blog)  
+**[Thoughts of Marcus Antoninus Aurelius](http://feedproxy.google.com/~r/EddyYoung/~3/G2cIq1Ywm_g/)**  2021-07-07 01:00:00
+
+[Yashvinblogs](https://yashvinblogs.com)  
+**[Fixing the door station DS-KD8003-IME1 of the HIK Vision Video Intercom DS-KIS602](https://yashvinblogs.com/2021/07/06/ds-kd8003-ime1-hik-vision-video-intercom-ds-kis602/)**  2021-07-06 19:02:58
+
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[Gold Award Winners](https://mars3b8.wordpress.com/2021/07/06/gold-award-winners/)**  2021-07-06 15:32:01
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[CRÉÉE : les 5 valeurs entrepreneuriales de SEDECO !](https://sedecobtob.blogspot.com/2021/07/creee-les-5-valeurs-entrepreneuriales.html)**  2021-07-06 14:11:44
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Dr Maxime Ferrari, a political innovator](https://www.lemauricien.com/le-mauricien/dr-maxime-ferrari-a-political-innovator/433224/)**  2021-07-06 11:18:08
+**[FICTION : Monamoni et la question qui fâche](https://www.lemauricien.com/le-mauricien/fiction-monamoni-et-la-question-qui-fache/433244/)**  2021-07-06 13:00:55
+
+[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
+**[Père Labour : « Prier et penser out of the box »](https://www.dioceseportlouis.org/2021/07/06/pere-labour-prier-et-penser-out-of-the-box/)**  2021-07-06 12:22:04
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Uniqlo jumps into in-house production with new 'made in Tokyo' line](https://zoomdr.blogspot.com/2021/07/uniqlo-jumps-into-in-house-production.html)**  2021-07-06 11:00:43
@@ -13,29 +34,17 @@ permalink: /mauritian-blogs/
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Blooms](https://swanlady-impressions.blogspot.com/2021/07/birthday-blooms.html)**  2021-07-06 09:57:11
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/07/y-toujours-des-raisons-et-meme-de-tres.html)**  2021-07-06 06:00:45
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 14e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/mardi-de-la-14e-semaine-du-tob.html)**  2021-07-06 05:55:50
-
-[Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
-**[Consécration de l’autel de l’église Saint-Joseph par le Cardinal Piat](https://www.dioceseportlouis.org/2021/07/05/consecration-de-lautel-de-leglise-saint-joseph-par-le-cardinal-piat/)**  2021-07-05 12:19:30
-
 [Trade Signal By Capital Street Fx](https://fx-trade-signal.blogspot.com/)  
 **[Daily Free Forex Trading Signals By Capital Street Fx – July 05, 2021](https://fx-trade-signal.blogspot.com/2021/07/daily-free-forex-trading-signals-by.html)**  2021-07-05 11:36:31
 
-[priscimon.com](https://priscimon.com/blog)  
-**[Don’t have floorboards in the kitchen, they said](http://feedproxy.google.com/~r/EddyYoung/~3/S9jcO0duy9Q/)**  2021-07-05 01:00:00
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Fourth of July at Cory and Arianne’s](https://davidandjennilyn.com/2021/07/04/fourth-of-july-at-cory-and-ariannes/)**  2021-07-05 01:05:00
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Dis Plas Kot Bizin Komisyon Danket](https://morisk.blogspot.com/2021/07/dis-plas-kot-bizin-komisyon-danket.html)**  2021-07-04 05:49:27
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Mauritius Lockdown Day 56 - La Tour Koenig to Port Louis](https://teelocked.blogspot.com/2021/07/mauritius-lockdown-day-56-la-tour.html)**  2021-07-03 19:01:48
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[MIR-SAT1 Local News](https://mars3b8.wordpress.com/2021/07/03/mir-sat1-local-news/)**  2021-07-03 10:26:40
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[COVID-19 und der EURO 2020...Tournaments in Corona Times](https://insel-rodrigues.blogspot.com/2021/07/covid-19-und-der-euro-2020tournaments.html)**  2021-07-03 04:00:05
@@ -48,12 +57,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Custom Oakley. Animals ahead.](https://kabilen.tumblr.com/post/655464187962818560)**  2021-07-01 01:29:21
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Marketing digital offshore : SEDECO a ce qu’il vous faut !](https://sedecobtob.blogspot.com/2021/06/marketing-digital-offshore-sedeco-ce.html)**  2021-06-30 13:23:53
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Back in the Office 458 Days Later](https://davidandjennilyn.com/2021/06/28/back-in-the-office-458-days-later/)**  2021-06-29 03:24:06
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Le temps est devenu fou](https://c-est-reparti.blogspot.com/2021/06/le-temps-est-devenu-fou.html)**  2021-06-28 20:30:16
@@ -166,9 +169,6 @@ permalink: /mauritian-blogs/
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Dans l’orbite du pouvoir : incursion dans la galaxie des « superconseillers » des PM](https://jeanmeedesveaux.blogspot.com/2021/02/dans-lorbite-du-pouvoir-incursion-dans.html)**  2021-04-17 09:18:40
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[ICTA’s public consultation to ammend laws around social media](https://yashvinblogs.com/2021/04/15/icta-laws-social-media/)**  2021-04-15 06:22:38
 
 [Dari Hati](https://thepetiteblog.blogspot.com/)  
 **[Koleksi Puisi Kehilangan Dan Motivasi Cinta Sejati](https://thepetiteblog.blogspot.com/2020/02/koleksi-puisi-cinta-kehilangan-dan-motivasi-cinta-sejati.html)**  2021-04-12 09:22:23
@@ -400,8 +400,5 @@ permalink: /mauritian-blogs/
 
 [YouthSpace](https://youthspacemauritius.blogspot.com/)  
 **[What if ... Mauritius was governmentless?](https://youthspacemauritius.blogspot.com/2020/08/what-if-mauritius-was-governmentless.html)**  2020-08-14 14:12:05
-
-[Learn to know](https://sikhiye.blogspot.com/)  
-**[Simple  soroban learning](https://sikhiye.blogspot.com/2020/08/simple-soroban-learning.html)**  2020-08-04 20:23:40
 
 <div style="height:0;width:0;overflow:hidden;"></div>
