@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Jeudi de la 14e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/jeudi-de-la-14e-semaine-du-tob.html)**  2021-07-08 06:14:43
+
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[A Platinum Award Winner](https://mars3b8.wordpress.com/2021/07/08/a-platinum-award-winner/)**  2021-07-08 05:53:08
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/07/de-chaque-instant-de-sa-vie-une-oeuvre.html)**  2021-07-08 01:55:16
 
@@ -22,17 +28,11 @@ permalink: /mauritian-blogs/
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Vaccinés, et puis quoi ?](https://www.lemauricien.com/opinions/forum/vaccines-et-puis-quoi/433435/)**  2021-07-07 13:00:46
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 14e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/mercredi-de-la-14e-semaine-du-tob.html)**  2021-07-07 04:00:00
-
 [priscimon.com](https://priscimon.com/blog)  
 **[Thoughts of Marcus Antoninus Aurelius](http://feedproxy.google.com/~r/EddyYoung/~3/G2cIq1Ywm_g/)**  2021-07-07 01:00:00
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Fixing the door station DS-KD8003-IME1 of the HIK Vision Video Intercom DS-KIS602](https://yashvinblogs.com/2021/07/06/ds-kd8003-ime1-hik-vision-video-intercom-ds-kis602/)**  2021-07-06 19:02:58
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[Gold Award Winners](https://mars3b8.wordpress.com/2021/07/06/gold-award-winners/)**  2021-07-06 15:32:01
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[CRÉÉE : les 5 valeurs entrepreneuriales de SEDECO !](https://sedecobtob.blogspot.com/2021/07/creee-les-5-valeurs-entrepreneuriales.html)**  2021-07-06 14:11:44
