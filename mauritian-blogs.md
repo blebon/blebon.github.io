@@ -5,7 +5,22 @@ permalink: /mauritian-blogs/
 ---
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2021/07/ce-qui-nexiste-pas-ou-nexiste-pas.html)**  2021-07-07 04:33:41
+**[No title](https://sooriamoorthy.blogspot.com/2021/07/de-chaque-instant-de-sa-vie-une-oeuvre.html)**  2021-07-08 01:55:16
+
+[The Jag!](https://morisk.blogspot.com/)  
+**[Dis Plas Kot Bizin Komisyon Danket](https://morisk.blogspot.com/2021/07/dis-plas-kot-bizin-komisyon-danket.html)**  2021-07-07 22:15:44
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Two Ways Mauritius Can Help With the Israeli-Palestinian Conflict](http://kozelidir.blogspot.com/2021/07/two-ways-mauritius-can-help-with.html)**  2021-07-07 19:52:35
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Wellness Wednesdays At Constance Hotels & Resorts](https://blog.constancehotels.com/wellness-wednesdays-at-constance-hotels-resorts/)**  2021-07-07 17:54:02
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Monogram](https://swanlady-impressions.blogspot.com/2021/07/monogram.html)**  2021-07-07 14:47:51
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Vaccinés, et puis quoi ?](https://www.lemauricien.com/opinions/forum/vaccines-et-puis-quoi/433435/)**  2021-07-07 13:00:46
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mercredi de la 14e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/mercredi-de-la-14e-semaine-du-tob.html)**  2021-07-07 04:00:00
@@ -22,26 +37,17 @@ permalink: /mauritian-blogs/
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[CRÉÉE : les 5 valeurs entrepreneuriales de SEDECO !](https://sedecobtob.blogspot.com/2021/07/creee-les-5-valeurs-entrepreneuriales.html)**  2021-07-06 14:11:44
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[FICTION : Monamoni et la question qui fâche](https://www.lemauricien.com/le-mauricien/fiction-monamoni-et-la-question-qui-fache/433244/)**  2021-07-06 13:00:55
-
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Père Labour : « Prier et penser out of the box »](https://www.dioceseportlouis.org/2021/07/06/pere-labour-prier-et-penser-out-of-the-box/)**  2021-07-06 12:22:04
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Uniqlo jumps into in-house production with new 'made in Tokyo' line](https://zoomdr.blogspot.com/2021/07/uniqlo-jumps-into-in-house-production.html)**  2021-07-06 11:00:43
 
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Birthday Blooms](https://swanlady-impressions.blogspot.com/2021/07/birthday-blooms.html)**  2021-07-06 09:57:11
-
 [Trade Signal By Capital Street Fx](https://fx-trade-signal.blogspot.com/)  
 **[Daily Free Forex Trading Signals By Capital Street Fx – July 05, 2021](https://fx-trade-signal.blogspot.com/2021/07/daily-free-forex-trading-signals-by.html)**  2021-07-05 11:36:31
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Fourth of July at Cory and Arianne’s](https://davidandjennilyn.com/2021/07/04/fourth-of-july-at-cory-and-ariannes/)**  2021-07-05 01:05:00
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Dis Plas Kot Bizin Komisyon Danket](https://morisk.blogspot.com/2021/07/dis-plas-kot-bizin-komisyon-danket.html)**  2021-07-04 05:49:27
 
 [L😀ck](https://teelocked.blogspot.com/)  
 **[Mauritius Lockdown Day 56 - La Tour Koenig to Port Louis](https://teelocked.blogspot.com/2021/07/mauritius-lockdown-day-56-la-tour.html)**  2021-07-03 19:01:48
@@ -72,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Mauritius Riapre Le Frontiere (fase 1 - fase 2)](https://mauritiuslapassionesisente.blogspot.com/2021/06/mauritius-riapre-le-frontiere-1-fase-2.html)**  2021-06-24 18:17:33
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Leave Your Environmental Footprint Behind](https://blog.constancehotels.com/leave-your-environmental-footprint-behind/)**  2021-06-22 15:53:55
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[MIR-SAT1 Special Award](https://msinnott.net/2021/06/20/mir-sat1-special-award/?utm_source=rss&utm_medium=rss&utm_campaign=mir-sat1-special-award)**  2021-06-20 10:19:01
@@ -124,9 +127,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Imitate](https://vintishgokool.blogspot.com/2021/06/mimic.html)**  2021-06-05 14:58:11
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Mauritians Say Goodbye To Their Longest-Serving PM](http://kozelidir.blogspot.com/2021/06/mauritians-say-goodbye-to-their-longest.html)**  2021-06-05 11:04:36
 
 [Golden mind](https://goldenmind23.blogspot.com/)  
 **[Bhakharwadi serial, laughing cute scene](https://goldenmind23.blogspot.com/2021/06/bhakharwadi-serial-laughing-cute-scene.html)**  2021-06-03 15:42:29
