@@ -4,8 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Stars & Streamers Birthday](https://swanlady-impressions.blogspot.com/2021/07/stars-streamers-birthday.html)**  2021-07-08 22:09:41
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Jeudi de la 14e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/jeudi-de-la-14e-semaine-du-tob.html)**  2021-07-08 06:14:43
+**[Vendredi de la 14e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/vendredi-de-la-14e-semaine-du-tob.html)**  2021-07-08 19:40:30
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Latest IMF Staff Report is Another Big Time-waster](http://kozelidir.blogspot.com/2021/07/latest-imf-staff-report-is-another-big.html)**  2021-07-08 14:29:31
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Services offshore : découvrez SEDECO !](https://sedecobtob.blogspot.com/2021/07/services-offshore-decouvrez-sedeco.html)**  2021-07-08 13:57:55
+
+[The Jag!](https://morisk.blogspot.com/)  
+**[Dis Plas Kot Bizin Komisyon Danket](https://morisk.blogspot.com/2021/07/dis-plas-kot-bizin-komisyon-danket.html)**  2021-07-08 13:38:34
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Acte 1 pour un idéal démocratique](https://www.lemauricien.com/le-mauricien/acte-1-pour-un-ideal-democratique/433664/)**  2021-07-08 13:09:51
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[A Platinum Award Winner](https://mars3b8.wordpress.com/2021/07/08/a-platinum-award-winner/)**  2021-07-08 05:53:08
@@ -13,29 +28,14 @@ permalink: /mauritian-blogs/
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2021/07/de-chaque-instant-de-sa-vie-une-oeuvre.html)**  2021-07-08 01:55:16
 
-[The Jag!](https://morisk.blogspot.com/)  
-**[Dis Plas Kot Bizin Komisyon Danket](https://morisk.blogspot.com/2021/07/dis-plas-kot-bizin-komisyon-danket.html)**  2021-07-07 22:15:44
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Two Ways Mauritius Can Help With the Israeli-Palestinian Conflict](http://kozelidir.blogspot.com/2021/07/two-ways-mauritius-can-help-with.html)**  2021-07-07 19:52:35
-
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Wellness Wednesdays At Constance Hotels & Resorts](https://blog.constancehotels.com/wellness-wednesdays-at-constance-hotels-resorts/)**  2021-07-07 17:54:02
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Monogram](https://swanlady-impressions.blogspot.com/2021/07/monogram.html)**  2021-07-07 14:47:51
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Vaccinés, et puis quoi ?](https://www.lemauricien.com/opinions/forum/vaccines-et-puis-quoi/433435/)**  2021-07-07 13:00:46
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Thoughts of Marcus Antoninus Aurelius](http://feedproxy.google.com/~r/EddyYoung/~3/G2cIq1Ywm_g/)**  2021-07-07 01:00:00
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Fixing the door station DS-KD8003-IME1 of the HIK Vision Video Intercom DS-KIS602](https://yashvinblogs.com/2021/07/06/ds-kd8003-ime1-hik-vision-video-intercom-ds-kis602/)**  2021-07-06 19:02:58
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[CRÉÉE : les 5 valeurs entrepreneuriales de SEDECO !](https://sedecobtob.blogspot.com/2021/07/creee-les-5-valeurs-entrepreneuriales.html)**  2021-07-06 14:11:44
 
 [Le Diocèse de Port-Louis](https://www.dioceseportlouis.org)  
 **[Père Labour : « Prier et penser out of the box »](https://www.dioceseportlouis.org/2021/07/06/pere-labour-prier-et-penser-out-of-the-box/)**  2021-07-06 12:22:04
