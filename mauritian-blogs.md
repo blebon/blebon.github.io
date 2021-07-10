@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 14e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/samedi-de-la-14e-semaine-du-tob.html)**  2021-07-09 18:29:57
+**[Samedi de la 14e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/samedi-de-la-14e-semaine-du-tob.html)**  2021-07-10 06:27:03
+
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Full Stop](http://gadatagada.blogspot.com/2021/07/full-stop.html)**  2021-07-10 06:13:30
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LA PERSPECTIVE DU FERMIER – Au nom de la souveraineté alimentaire](https://www.lemauricien.com/le-mauricien/la-perspective-du-fermier-au-nom-de-la-souverainete-alimentaire/433860/)**  2021-07-09 13:00:38
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Shadows and Shell Games: Uncovering an Offshore Business  Empire in Zimbabwe](https://amarbheenick.blogspot.com/2021/07/shadows-and-shell-games-uncovering.html)**  2021-07-02 09:26:16
-
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Graphic butcher's shop](http://gadatagada.blogspot.com/2021/07/graphic-butchers-shop.html)**  2021-07-02 07:15:21
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Custom Oakley. Animals ahead.](https://kabilen.tumblr.com/post/655464187962818560)**  2021-07-01 01:29:21
