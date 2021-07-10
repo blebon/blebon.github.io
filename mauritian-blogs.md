@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Samedi de la 14e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/samedi-de-la-14e-semaine-du-tob.html)**  2021-07-09 18:29:57
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[LA PERSPECTIVE DU FERMIER – Au nom de la souveraineté alimentaire](https://www.lemauricien.com/le-mauricien/la-perspective-du-fermier-au-nom-de-la-souverainete-alimentaire/433860/)**  2021-07-09 13:00:38
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Stars & Streamers Birthday](https://swanlady-impressions.blogspot.com/2021/07/stars-streamers-birthday.html)**  2021-07-08 22:09:41
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 14e semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/vendredi-de-la-14e-semaine-du-tob.html)**  2021-07-08 19:40:30
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Latest IMF Staff Report is Another Big Time-waster](http://kozelidir.blogspot.com/2021/07/latest-imf-staff-report-is-another-big.html)**  2021-07-08 14:29:31
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Dis Plas Kot Bizin Komisyon Danket](https://morisk.blogspot.com/2021/07/dis-plas-kot-bizin-komisyon-danket.html)**  2021-07-08 13:38:34
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Acte 1 pour un idéal démocratique](https://www.lemauricien.com/le-mauricien/acte-1-pour-un-ideal-democratique/433664/)**  2021-07-08 13:09:51
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[A Platinum Award Winner](https://mars3b8.wordpress.com/2021/07/08/a-platinum-award-winner/)**  2021-07-08 05:53:08
