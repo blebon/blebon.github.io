@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
+**[Weird and (dubiously) Wonderful Designs](https://mymauritiangarden.wordpress.com/2021/07/11/weird-and-dubiously-wonderful-designs/)**  2021-07-11 06:04:05
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Rom la napa Bon meme. To boir meme!](https://kabilen.tumblr.com/post/656386529351041024)**  2021-07-11 05:49:34
+
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Full Stop](http://gadatagada.blogspot.com/2021/07/full-stop.html)**  2021-07-10 15:12:18
 
@@ -61,14 +67,8 @@ permalink: /mauritian-blogs/
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Shadows and Shell Games: Uncovering an Offshore Business  Empire in Zimbabwe](https://amarbheenick.blogspot.com/2021/07/shadows-and-shell-games-uncovering.html)**  2021-07-02 09:26:16
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Custom Oakley. Animals ahead.](https://kabilen.tumblr.com/post/655464187962818560)**  2021-07-01 01:29:21
-
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Le temps est devenu fou](https://c-est-reparti.blogspot.com/2021/06/le-temps-est-devenu-fou.html)**  2021-06-28 20:30:16
-
-[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
-**[DIY Lampshades](https://mymauritiangarden.wordpress.com/2021/06/27/diy-lampshades/)**  2021-06-27 03:55:31
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-26 19:25:50
