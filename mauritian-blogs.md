@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Samedi de la 14e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/samedi-de-la-14e-semaine-du-tob.html)**  2021-07-10 06:27:03
-
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Full Stop](http://gadatagada.blogspot.com/2021/07/full-stop.html)**  2021-07-10 06:13:30
+**[Full Stop](http://gadatagada.blogspot.com/2021/07/full-stop.html)**  2021-07-10 15:12:18
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LA PERSPECTIVE DU FERMIER – Au nom de la souveraineté alimentaire](https://www.lemauricien.com/le-mauricien/la-perspective-du-fermier-au-nom-de-la-souverainete-alimentaire/433860/)**  2021-07-09 13:00:38
+**[Diego Maradona, l’ange de l’albiceleste](https://www.lemauricien.com/le-mauricien/diego-maradona-lange-de-lalbiceleste/434051/)**  2021-07-10 12:06:02
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Samedi de la 14e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/samedi-de-la-14e-semaine-du-tob.html)**  2021-07-10 06:27:03
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Stars & Streamers Birthday](https://swanlady-impressions.blogspot.com/2021/07/stars-streamers-birthday.html)**  2021-07-08 22:09:41
