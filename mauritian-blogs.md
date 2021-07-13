@@ -4,14 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[EURO 2020  Final-Vorbereitungen - The Final - Italian by heart....](https://insel-rodrigues.blogspot.com/2021/07/euro-2020-final-vorbereitungen-final.html)**  2021-07-13 04:38:11
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Lundi de la 14e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/lundi-de-la-14e-semaine-du-tob_01563895431.html)**  2021-07-12 04:00:00
+**[Mardi de la 15e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/mardi-de-la-15e-semaine-du-tob.html)**  2021-07-12 19:03:18
+
+[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
+**[Disable "single-click" to open folder in KDE Dolphin](https://sysadmin-journal.com/disable-single-click-to-open-folder-in-kde-dolphin/)**  2021-07-12 16:03:13
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Dis Plas Kot Bizin Komisyon Danket](https://www.lemauricien.com/le-mauricien/dis-plas-kot-bizin-komisyon-danket/434413/)**  2021-07-12 13:47:28
+
+[C'est reparti !](https://c-est-reparti.blogspot.com/)  
+**[Faire des mots-croisés ou conduire, il faut choisir](https://c-est-reparti.blogspot.com/2021/07/faire-des-mots-croises-ou-conduire-il.html)**  2021-07-12 12:49:38
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[It’s not coming home 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇹](https://ritesh2103.wordpress.com/2021/07/12/its-not-coming-home-%f0%9f%8f%b4%f3%a0%81%a7%f3%a0%81%a2%f3%a0%81%a5%f3%a0%81%ae%f3%a0%81%a7%f3%a0%81%bf-%f0%9f%87%ae%f0%9f%87%b9/)**  2021-07-11 23:25:22
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[EURO 2020  Final-Vorbereitungen - The Final - Italian by heart....](https://insel-rodrigues.blogspot.com/2021/07/euro-2020-final-vorbereitungen-final.html)**  2021-07-11 14:34:24
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[Weird and (dubiously) Wonderful Designs](https://mymauritiangarden.wordpress.com/2021/07/11/weird-and-dubiously-wonderful-designs/)**  2021-07-11 06:04:05
@@ -21,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Full Stop](http://gadatagada.blogspot.com/2021/07/full-stop.html)**  2021-07-10 15:12:18
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Diego Maradona, l’ange de l’albiceleste](https://www.lemauricien.com/le-mauricien/diego-maradona-lange-de-lalbiceleste/434051/)**  2021-07-10 12:06:02
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Stars & Streamers Birthday](https://swanlady-impressions.blogspot.com/2021/07/stars-streamers-birthday.html)**  2021-07-08 22:09:41
@@ -69,9 +75,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Shadows and Shell Games: Uncovering an Offshore Business  Empire in Zimbabwe](https://amarbheenick.blogspot.com/2021/07/shadows-and-shell-games-uncovering.html)**  2021-07-02 09:26:16
-
-[C'est reparti !](https://c-est-reparti.blogspot.com/)  
-**[Le temps est devenu fou](https://c-est-reparti.blogspot.com/2021/06/le-temps-est-devenu-fou.html)**  2021-06-28 20:30:16
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauricianité : le cri de détresse](https://tchombo.blogspot.com/2021/06/mauricianite-le-cri-de-detresse.html)**  2021-06-26 19:25:50
@@ -121,9 +124,6 @@ permalink: /mauritian-blogs/
 .
 . 
 #shadowsandlight...](https://adarsh.me/post/653324947332186112)**  2021-06-07 10:47:01
-
-[SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Indian government gives final notice to Twitter to comply with new IT rules](https://sysadmin-journal.com/indian-government-gvies-final-notice-to-twitter-to-comply-with-new-it-rules/)**  2021-06-06 11:19:17
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Imitate](https://vintishgokool.blogspot.com/2021/06/mimic.html)**  2021-06-05 14:58:11
