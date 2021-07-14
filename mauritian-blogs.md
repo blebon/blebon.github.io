@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Covid-19: Zurück auf Los....A new lockdown for La Réunion  - État d'urgence sanitaire à La Réunion....](https://insel-rodrigues.blogspot.com/2021/07/covid-19-zuruck-auf-losa-new-lockdown.html)**  2021-07-14 04:27:28
+**[Covid-19: Zurück auf Los....A new lockdown for La Réunion  - État d'urgence sanitaire à La Réunion....](https://insel-rodrigues.blogspot.com/2021/07/covid-19-zuruck-auf-losa-new-lockdown.html)**  2021-07-14 05:46:11
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[Insert unicode characters in KDE using Ctrl + Shift + U](https://sysadmin-journal.com/insert-unicode-characters-in-kde-using-ctrl-u/)**  2021-07-13 21:58:33
