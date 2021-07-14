@@ -5,19 +5,25 @@ permalink: /mauritian-blogs/
 ---
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[EURO 2020  Final-Vorbereitungen - The Final - Italian by heart....](https://insel-rodrigues.blogspot.com/2021/07/euro-2020-final-vorbereitungen-final.html)**  2021-07-13 04:38:11
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mardi de la 15e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/mardi-de-la-15e-semaine-du-tob.html)**  2021-07-12 19:03:18
+**[Covid-19: Zurück auf Los....A new lockdown for La Réunion  - État d'urgence sanitaire à La Réunion....](https://insel-rodrigues.blogspot.com/2021/07/covid-19-zuruck-auf-losa-new-lockdown.html)**  2021-07-14 04:27:28
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Disable "single-click" to open folder in KDE Dolphin](https://sysadmin-journal.com/disable-single-click-to-open-folder-in-kde-dolphin/)**  2021-07-12 16:03:13
+**[Insert unicode characters in KDE using Ctrl + Shift + U](https://sysadmin-journal.com/insert-unicode-characters-in-kde-using-ctrl-u/)**  2021-07-13 21:58:33
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Dis Plas Kot Bizin Komisyon Danket](https://www.lemauricien.com/le-mauricien/dis-plas-kot-bizin-komisyon-danket/434413/)**  2021-07-12 13:47:28
+[Linux User Group of Mauritius](https://lugm.org)  
+**[Insert unicode characters in KDE using Ctrl + Shift + U](https://sysadmin-journal.com/insert-unicode-characters-in-kde-using-ctrl-u/)**  2021-07-13 21:58:33
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
-**[Faire des mots-croisés ou conduire, il faut choisir](https://c-est-reparti.blogspot.com/2021/07/faire-des-mots-croises-ou-conduire-il.html)**  2021-07-12 12:49:38
+**[Ingratitude](https://c-est-reparti.blogspot.com/2021/07/ingratitude.html)**  2021-07-13 21:32:29
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mercredi de la 15e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/mercredi-de-la-15e-semaine-du-tob.html)**  2021-07-13 18:37:10
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Externalisation offshore : SEDECO, un prestataire de confiance !](https://sedecobtob.blogspot.com/2021/07/externalisation-offshore-sedeco-un.html)**  2021-07-13 14:59:50
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[DILIP KUMAR – THE END OF AN ERA](https://www.lemauricien.com/le-mauricien/dilip-kumar-the-end-of-an-era/434649/)**  2021-07-13 13:00:56
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[It’s not coming home 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇹](https://ritesh2103.wordpress.com/2021/07/12/its-not-coming-home-%f0%9f%8f%b4%f3%a0%81%a7%f3%a0%81%a2%f3%a0%81%a5%f3%a0%81%ae%f3%a0%81%a7%f3%a0%81%bf-%f0%9f%87%ae%f0%9f%87%b9/)**  2021-07-11 23:25:22
@@ -36,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Latest IMF Staff Report is Another Big Time-waster](http://kozelidir.blogspot.com/2021/07/latest-imf-staff-report-is-another-big.html)**  2021-07-08 14:29:31
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Services offshore : découvrez SEDECO !](https://sedecobtob.blogspot.com/2021/07/services-offshore-decouvrez-sedeco.html)**  2021-07-08 13:57:55
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Dis Plas Kot Bizin Komisyon Danket](https://morisk.blogspot.com/2021/07/dis-plas-kot-bizin-komisyon-danket.html)**  2021-07-08 13:38:34
@@ -136,9 +139,6 @@ permalink: /mauritian-blogs/
 
 [The Mauritian Shareaholic](http://www.themauritianshareaholic.com/)  
 **[Scientifically Eliminate Your Headaches/Migraines Away!](http://feedproxy.google.com/~r/blogspot/BNplv/~3/6To0-gHimjU/scientifically-eliminate-headaches.html)**  2021-05-22 03:48:27
-
-[Linux User Group of Mauritius](https://lugm.org)  
-**[LUGM submission on the ICTA consultation paper](https://lugm.org/2021/05/20/lugm-submission-on-the-icta-consultation-paper/)**  2021-05-20 18:54:55
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[Welcome to imathsit.com](https://imathsit.blogspot.com/2017/05/lower-secondary-grade-13-and-below.html)**  2021-05-20 07:27:05
