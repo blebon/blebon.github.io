@@ -4,11 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Covid-19: Zurück auf Los....A new lockdown for La Réunion  - État d'urgence sanitaire à La Réunion....](https://insel-rodrigues.blogspot.com/2021/07/covid-19-zuruck-auf-losa-new-lockdown.html)**  2021-07-14 05:46:11
+[priscimon.com](https://priscimon.com/blog)  
+**[Are Mauritians racist?](http://feedproxy.google.com/~r/EddyYoung/~3/cBvbbKYhk5c/)**  2021-07-14 22:08:51
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Jeudi de la 15e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/jeudi-de-la-15e-semaine-du-tob.html)**  2021-07-14 15:01:41
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
-**[Insert unicode characters in KDE using Ctrl + Shift + U](https://sysadmin-journal.com/insert-unicode-characters-in-kde-using-ctrl-u/)**  2021-07-13 21:58:33
+**[COVID-19 vaccine Sputnik V available in Mauritius](https://sysadmin-journal.com/covid-19-vaccine-sputnik-v-available-in-mauritius/)**  2021-07-14 14:53:58
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Bonne gouvernance et mesures anti-corruption](https://www.lemauricien.com/le-mauricien/bonne-gouvernance-et-mesures-anti-corruption/434894/)**  2021-07-14 13:00:38
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Covid-19: Zurück auf Los....A new lockdown for La Réunion  - État d'urgence sanitaire à La Réunion....](https://insel-rodrigues.blogspot.com/2021/07/covid-19-zuruck-auf-losa-new-lockdown.html)**  2021-07-14 05:46:11
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[Insert unicode characters in KDE using Ctrl + Shift + U](https://sysadmin-journal.com/insert-unicode-characters-in-kde-using-ctrl-u/)**  2021-07-13 21:58:33
@@ -16,14 +25,8 @@ permalink: /mauritian-blogs/
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Ingratitude](https://c-est-reparti.blogspot.com/2021/07/ingratitude.html)**  2021-07-13 21:32:29
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 15e Semaine du TOB](https://josephnguyenmahebourg.blogspot.com/2021/07/mercredi-de-la-15e-semaine-du-tob.html)**  2021-07-13 18:37:10
-
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Externalisation offshore : SEDECO, un prestataire de confiance !](https://sedecobtob.blogspot.com/2021/07/externalisation-offshore-sedeco-un.html)**  2021-07-13 14:59:50
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[DILIP KUMAR – THE END OF AN ERA](https://www.lemauricien.com/le-mauricien/dilip-kumar-the-end-of-an-era/434649/)**  2021-07-13 13:00:56
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[It’s not coming home 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇹](https://ritesh2103.wordpress.com/2021/07/12/its-not-coming-home-%f0%9f%8f%b4%f3%a0%81%a7%f3%a0%81%a2%f3%a0%81%a5%f3%a0%81%ae%f3%a0%81%a7%f3%a0%81%bf-%f0%9f%87%ae%f0%9f%87%b9/)**  2021-07-11 23:25:22
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Wellness Wednesdays At Constance Hotels & Resorts](https://blog.constancehotels.com/wellness-wednesdays-at-constance-hotels-resorts/)**  2021-07-07 17:54:02
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Thoughts of Marcus Antoninus Aurelius](http://feedproxy.google.com/~r/EddyYoung/~3/G2cIq1Ywm_g/)**  2021-07-07 01:00:00
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Fixing the door station DS-KD8003-IME1 of the HIK Vision Video Intercom DS-KIS602](https://yashvinblogs.com/2021/07/06/ds-kd8003-ime1-hik-vision-video-intercom-ds-kis602/)**  2021-07-06 19:02:58
