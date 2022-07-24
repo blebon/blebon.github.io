@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Bruno",
+  "background_color": "#fff",
+  "theme_color": "#111",
+  "start_url": "/",
+  "display": "standalone",
+  "description": "Mauritian Londoner.",
+  "icons": [{
+    "src": "/favicon.png",
+    "sizes":"any",
+    "type": "image/png"
+  }]
+}
