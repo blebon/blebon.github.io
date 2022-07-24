@@ -5,10 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Islamic History: Imam Al-Ghazali: Eminent Islamic Scholar, Philosopher  and Jurist](https://www.lemauricien.com/le-mauricien/islamic-history-imam-al-ghazali-eminent-islamic-scholar-philosopher-and-jurist/504510/)**  2022-07-23 13:30:58
+**[We Need Answers](https://www.lemauricien.com/opinions/forum/we-need-answers/504688/)**  2022-07-24 11:12:05
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[Class B Exam Candidates](https://3b8mars.org/2022/07/23/class-b-exam-candidates/)**  2022-07-23 07:57:41
+**[Educational Outreach](https://3b8mars.org/2022/07/24/educational-outreach/)**  2022-07-24 09:53:04
+
+[priscimon.com](https://priscimon.com/blog)  
+**[Not quite what I expected](https://priscimon.com/blog/2022/07/24/not-quite-what-i-expected/)**  2022-07-24 09:33:17
 
 [turbine.mu](https://turbine.mu)  
 **[Workshop with Celine Planel at Turbine](https://turbine.mu/2022/07/22/workshop-with-celine-planel-at-turbine/)**  2022-07-22 11:31:42
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Where Main Parties Stood When We Voted in November 2019](http://kozelidir.blogspot.com/2022/07/where-main-parties-stood-when-we-voted.html)**  2022-07-19 20:06:06
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Trying film photography again](https://priscimon.com/blog/2022/07/15/trying-film-photography-again/)**  2022-07-15 23:31:21
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Christian Eriksen is a Red Devil](https://ritesh2103.wordpress.com/2022/07/15/christian-eriksen-is-a-red-devil/)**  2022-07-15 17:58:44
