@@ -1,7 +1,7 @@
 ---
 layout: none
 ---
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/6.5.3/workbox-sw.js');
+importScripts('https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js');
 
 const { registerRoute } = workbox.routing;
 const { CacheFirst, NetworkFirst, StaleWhileRevalidate } = workbox.strategies;
@@ -17,9 +17,6 @@ workbox.core.setCacheNameDetails({
 // let Service Worker take control of pages ASAP
 workbox.core.skipWaiting();
 workbox.core.clientsClaim();
-
-// let Workbox handle our precache list
-workbox.precaching.precacheAndRoute(self.__precacheManifest);
 
 // use `NetworkFirst`strategy for home page
 registerRoute(
@@ -44,8 +41,27 @@ registerRoute(
   new StaleWhileRevalidate()
 );
 
+workbox.precaching.precacheAndRoute([
+  {% for post in site.posts limit:10 -%}
+  { url: '{{ post.url }}', revision: '{{ post.date | date: "%Y-%m-%d"}}' },
+  {% endfor -%}
+  { url: '/', revision: '{{ site.time | date: "%Y%m%d%H%M" }}' },
+  { url: '/about', revision: '{{ site.time | date: "%Y%m%d%H%M" }}' },
+  { url: '/mauritian-blogs', revision: '{{ site.time | date: "%Y%m%d%H%M" }}' },
+  { url: '/assets/css/style.css', revision: '{{ site.time | date: "%Y%m%d%H%M" }}' }
+])
+
+registerRoute(
+  ({request}) => request.destination === 'image' ,
+  new CacheFirst({
+    plugins: [
+      new CacheableResponse({statuses: [0, 200]})
+    ],
+  })
+);
+
 // css, images
 registerRoute(
-  /assets/(css|img|icons)/,
+  /assets/(css|img)/,
   new CacheFirst()
 );
