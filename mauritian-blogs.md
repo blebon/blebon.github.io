@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Leavenworth Is Worth The Leave](https://davidandjennilyn.com/2022/07/24/leavenworth-is-worth-the-leave/)**  2022-07-25 01:33:35
+
+[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
+**[❤️ You Have 8 New Matches: Abd, 40 years old from Tiznit, Morocco, and more!](https://shruticulturalgroup.blogspot.com/2022/07/you-have-8-new-matches-abd-40-years-old.html)**  2022-07-24 23:34:10
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[We Need Answers](https://www.lemauricien.com/opinions/forum/we-need-answers/504688/)**  2022-07-24 11:12:05
+**[Questions d’un citoyen au Premier ministre](https://www.lemauricien.com/opinions/forum/questions-dun-citoyen-au-premier-ministre/504697/)**  2022-07-24 12:03:41
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Educational Outreach](https://3b8mars.org/2022/07/24/educational-outreach/)**  2022-07-24 09:53:04
@@ -36,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Trying to exit the matrix?](https://vintishgokool.blogspot.com/2022/07/getting-out-of-matrix.html)**  2022-07-15 11:57:54
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy 13th Birthday Violet](https://davidandjennilyn.com/2022/07/14/happy-13th-birthday-violet/)**  2022-07-15 02:57:00
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Zimbabwe’s Disappearing Gold: The Case of Mazowe and Penhalonga](https://amarbheenick.blogspot.com/2022/07/zimbabwes-disappearing-gold-case-of.html)**  2022-07-14 11:58:27
@@ -84,9 +87,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Nuove Misure Covid-19](https://mauritiuslapassionesisente.blogspot.com/2022/06/nuove-misure-covid-19.html)**  2022-06-28 19:26:51
-
-[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
-**[❤️ You Have 8 New Matches: Deny, 37 years old from Pontianak, Indonesia, and more!](https://shruticulturalgroup.blogspot.com/2022/06/you-have-8-new-matches-deny-37-years.html)**  2022-06-25 22:24:44
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Loch, Victoria](https://littleanantasin.wordpress.com/2022/06/19/loch-victoria/)**  2022-06-19 05:05:12
