@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Mise en perspective: où se trouvent les preuves tangibles de « Data Capture » ?](https://www.lemauricien.com/actualites/mise-en-perspective-ou-se-trouvent-les-preuves-tangibles-de-data-capture/505067/)**  2022-07-26 08:51:58
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[A clumsy restless being](https://vintishgokool.blogspot.com/2022/07/a-restless-being.html)**  2022-07-25 16:55:51
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Publication de Jean Clément Cangy : Un pan essentiel des Etudes Sociales mauriciennes](https://www.lemauricien.com/le-mauricien/publication-de-jean-clement-cangy-un-pan-essentiel-des-etudes-sociales-mauriciennes/504921/)**  2022-07-25 12:45:01
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Leavenworth Is Worth The Leave](https://davidandjennilyn.com/2022/07/24/leavenworth-is-worth-the-leave/)**  2022-07-25 01:33:35
