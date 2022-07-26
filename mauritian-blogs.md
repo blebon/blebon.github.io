@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[A clumsy restless being](https://vintishgokool.blogspot.com/2022/07/a-restless-being.html)**  2022-07-25 16:55:51
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Publication de Jean Clément Cangy : Un pan essentiel des Etudes Sociales mauriciennes](https://www.lemauricien.com/le-mauricien/publication-de-jean-clement-cangy-un-pan-essentiel-des-etudes-sociales-mauriciennes/504921/)**  2022-07-25 12:45:01
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Leavenworth Is Worth The Leave](https://davidandjennilyn.com/2022/07/24/leavenworth-is-worth-the-leave/)**  2022-07-25 01:33:35
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[❤️ You Have 8 New Matches: Abd, 40 years old from Tiznit, Morocco, and more!](https://shruticulturalgroup.blogspot.com/2022/07/you-have-8-new-matches-abd-40-years-old.html)**  2022-07-24 23:34:10
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Questions d’un citoyen au Premier ministre](https://www.lemauricien.com/opinions/forum/questions-dun-citoyen-au-premier-ministre/504697/)**  2022-07-24 12:03:41
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Educational Outreach](https://3b8mars.org/2022/07/24/educational-outreach/)**  2022-07-24 09:53:04
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Christian Eriksen is a Red Devil](https://ritesh2103.wordpress.com/2022/07/15/christian-eriksen-is-a-red-devil/)**  2022-07-15 17:58:44
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Trying to exit the matrix?](https://vintishgokool.blogspot.com/2022/07/getting-out-of-matrix.html)**  2022-07-15 11:57:54
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Zimbabwe’s Disappearing Gold: The Case of Mazowe and Penhalonga](https://amarbheenick.blogspot.com/2022/07/zimbabwes-disappearing-gold-case-of.html)**  2022-07-14 11:58:27
