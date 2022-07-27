@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Signature Constance Dishes To Try At Home](https://blog.constancehotels.com/signature-constance-dishes-to-try-at-home/)**  2022-07-27 08:18:32
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[A restless clumsy being](https://vintishgokool.blogspot.com/2022/07/a-restless-being.html)**  2022-07-27 04:34:53
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Reasons](https://faustianmatters.blogspot.com/2022/07/reasons.html)**  2022-07-20 16:12:05
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[5 Classic Constance Cocktails](https://blog.constancehotels.com/5-classic-constance-cocktails/)**  2022-07-20 09:18:12
 
 [Spiritual in my life](https://spiritualinlife23.blogspot.com/)  
 **[Youtube shorts mere sai](https://spiritualinlife23.blogspot.com/2022/07/youtube-shorts-mere-sai_19.html)**  2022-07-19 20:22:42
