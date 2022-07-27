@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[A restless clumsy being](https://vintishgokool.blogspot.com/2022/07/a-restless-being.html)**  2022-07-27 04:34:53
+
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Technical Analysis Report – 26 July 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/07/technical-analysis-report-26-july-2022.html)**  2022-07-26 14:11:22
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Mise en perspective: où se trouvent les preuves tangibles de « Data Capture » ?](https://www.lemauricien.com/actualites/mise-en-perspective-ou-se-trouvent-les-preuves-tangibles-de-data-capture/505067/)**  2022-07-26 08:51:58
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[A clumsy restless being](https://vintishgokool.blogspot.com/2022/07/a-restless-being.html)**  2022-07-25 16:55:51
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Leavenworth Is Worth The Leave](https://davidandjennilyn.com/2022/07/24/leavenworth-is-worth-the-leave/)**  2022-07-25 01:33:35
@@ -123,9 +126,6 @@ permalink: /mauritian-blogs/
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[A local mirror for openSUSE users in Mauritius 🥳](https://sysadmin-journal.com/local-mirror-for-opensuse-users-in-mauritius/)**  2022-05-04 21:10:34
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[COMMODITY TRADING: GOLD TECHNICAL ANALYSIS, NEWS & TRADE SIGNALS](https://dailytechnicalanalysisforexnews.blogspot.com/2022/04/commodity-trading-gold-technical.html)**  2022-04-21 11:47:57
 
 [A Hitchhiker's Guide to Wherever](https://ashwinad.wordpress.com)  
 **[Winter is Coming… a personal experience of the war in Ukraine](https://ashwinad.wordpress.com/2022/04/11/winter-is-coming-a-personal-experience-of-the-war-in-ukraine/)**  2022-04-11 14:30:25
