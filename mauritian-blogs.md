@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The binary of thought process](https://www.lemauricien.com/le-mauricien/the-binary-of-thought-process/505541/)**  2022-07-28 13:01:58
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Lisandro Martinez completes Old Trafford move](https://ritesh2103.wordpress.com/2022/07/27/lisandro-martinez-completes-old-trafford-move/)**  2022-07-27 15:21:34
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[A restless clumsy being](https://vintishgokool.blogspot.com/2022/07/a-restless-being.html)**  2022-07-27 04:34:53
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mise en perspective: où se trouvent les preuves tangibles de « Data Capture » ?](https://www.lemauricien.com/actualites/mise-en-perspective-ou-se-trouvent-les-preuves-tangibles-de-data-capture/505067/)**  2022-07-26 08:51:58
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Leavenworth](https://davidandjennilyn.com/2022/07/25/leavenworth/)**  2022-07-26 04:00:00
