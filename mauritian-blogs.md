@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Mary S. Young Park](https://davidandjennilyn.com/2022/07/29/mary-s-young-park/)**  2022-07-29 21:04:13
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The binary of thought process](https://www.lemauricien.com/le-mauricien/the-binary-of-thought-process/505541/)**  2022-07-28 13:01:58
+**[Why we need a currency board](https://www.lemauricien.com/le-mauricien/why-we-need-a-currency-board/505694/)**  2022-07-29 13:00:43
+
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 SEMAINE DE LA GASTRONOMIE DURABLE A HERITAGE RESORTS](https://mysweetmauritius.blogspot.com/2022/07/semaine-de-la-gastronomie-durable.html)**  2022-07-29 12:40:40
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Lisandro Martinez completes Old Trafford move](https://ritesh2103.wordpress.com/2022/07/27/lisandro-martinez-completes-old-trafford-move/)**  2022-07-27 15:21:34
@@ -18,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[A restless clumsy being](https://vintishgokool.blogspot.com/2022/07/a-restless-being.html)**  2022-07-27 04:34:53
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Leavenworth](https://davidandjennilyn.com/2022/07/25/leavenworth/)**  2022-07-26 04:00:00
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[❤️ You Have 8 New Matches: Abd, 40 years old from Tiznit, Morocco, and more!](https://shruticulturalgroup.blogspot.com/2022/07/you-have-8-new-matches-abd-40-years-old.html)**  2022-07-24 23:34:10
@@ -66,9 +69,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[3 Sputnik Products Government Should Buy Right Away](https://morisk.blogspot.com/2022/04/3-sputnik-products-government-should.html)**  2022-07-10 14:00:41
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 NAKED FOOD à BLUE BAY](https://mysweetmauritius.blogspot.com/2022/07/naked-food-blue-bay.html)**  2022-07-10 11:53:52
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Do not touch !](http://gadatagada.blogspot.com/2022/07/do-not-touch.html)**  2022-07-08 06:34:42
