@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Champs de Mars – the good old days !](https://www.lemauricien.com/le-mauricien/champs-de-mars-the-good-old-days/505885/)**  2022-07-30 13:00:04
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Mary S. Young Park](https://davidandjennilyn.com/2022/07/29/mary-s-young-park/)**  2022-07-29 21:04:13
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Why we need a currency board](https://www.lemauricien.com/le-mauricien/why-we-need-a-currency-board/505694/)**  2022-07-29 13:00:43
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 SEMAINE DE LA GASTRONOMIE DURABLE A HERITAGE RESORTS](https://mysweetmauritius.blogspot.com/2022/07/semaine-de-la-gastronomie-durable.html)**  2022-07-29 12:40:40
