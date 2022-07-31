@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[imathsit](https://imathsit.blogspot.com/)  
+**[November 2002 Paper 1(part 3)](https://imathsit.blogspot.com/2022/07/november-2002-part-3.html)**  2022-07-31 07:44:22
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Champs de Mars – the good old days !](https://www.lemauricien.com/le-mauricien/champs-de-mars-the-good-old-days/505885/)**  2022-07-30 13:00:04
 
@@ -93,9 +96,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Loch, Victoria](https://littleanantasin.wordpress.com/2022/06/19/loch-victoria/)**  2022-06-19 05:05:12
-
-[imathsit](https://imathsit.blogspot.com/)  
-**[Terms and Conditions](https://imathsit.blogspot.com/2022/06/terms-and-conditions.html)**  2022-06-15 05:53:02
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Professional advice v/s Social media](https://relocationmauritius.wordpress.com/2022/06/14/professional-advice-v-s-social-media/)**  2022-06-14 05:56:52
