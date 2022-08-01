@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Green Mauritius](https://greenmauritius.blogspot.com/)  
+**[Elasmobranches dans les Mascareignes](https://greenmauritius.blogspot.com/2022/07/elasmobranches-dans-les-mascareignes.html)**  2022-08-01 06:22:38
+
 [imathsit](https://imathsit.blogspot.com/)  
 **[November 2002 Paper 1(part 3)](https://imathsit.blogspot.com/2022/07/november-2002-part-3.html)**  2022-07-31 07:44:22
 
@@ -117,9 +120,6 @@ permalink: /mauritian-blogs/
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[AFRINIC restricts attendance to the Annual General Members Meeting (AGMM) even ONLINE 😐](https://sysadmin-journal.com/afrinic-restricts-attendance-to-the-annual-general-members-meeting-even-online/)**  2022-05-31 20:23:43
-
-[Green Mauritius](https://greenmauritius.blogspot.com/)  
-**[Journée de la biodiversité - engagement de la MCB](https://greenmauritius.blogspot.com/2022/05/journee-de-la-biodiversite-engagement.html)**  2022-05-23 17:47:03
 
 [Mariana's Take on Life](https://marianaseriche.blogspot.com/)  
 **[Just me and my God](https://marianaseriche.blogspot.com/2022/05/most-of-my-life-i-thought-that-prayer.html)**  2022-05-16 18:42:04
