@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[imathsit](https://imathsit.blogspot.com/)  
+**[June 2015 Paper 12 Solutions !!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-12-solutions-part-3.html)**  2022-08-02 03:51:39
+
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Elasmobranches dans les Mascareignes](https://greenmauritius.blogspot.com/2022/07/elasmobranches-dans-les-mascareignes.html)**  2022-08-01 06:22:38
-
-[imathsit](https://imathsit.blogspot.com/)  
-**[November 2002 Paper 1(part 3)](https://imathsit.blogspot.com/2022/07/november-2002-part-3.html)**  2022-07-31 07:44:22
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Champs de Mars – the good old days !](https://www.lemauricien.com/le-mauricien/champs-de-mars-the-good-old-days/505885/)**  2022-07-30 13:00:04
