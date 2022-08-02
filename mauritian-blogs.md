@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Contexte multiculturel et employabilité](https://www.lemauricien.com/le-mauricien/contexte-multiculturel-et-employabilite/506337/)**  2022-08-02 10:00:02
+**[Reframing the sino-mauritian ties in the context of emerging africa](https://www.lemauricien.com/le-mauricien/reframing-the-sino-mauritian-ties-in-the-context-of-emerging-africa/506407/)**  2022-08-02 12:30:31
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 12 Solutions !!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-12-solutions-part-3.html)**  2022-08-02 03:51:39
