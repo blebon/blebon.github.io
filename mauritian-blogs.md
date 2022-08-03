@@ -4,17 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Mom’s Birthday at Depoe Bay](https://davidandjennilyn.com/2022/08/02/moms-birthday-at-depoe-bay/)**  2022-08-02 17:35:28
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Local professionals v/s opportunists](https://relocationmauritius.wordpress.com/2022/08/02/local-professionals-v-s-opportunists/)**  2022-08-02 17:02:43
+
+[imathsit](https://imathsit.blogspot.com/)  
+**[June 2015 Paper 12 Solutions !!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-12-solutions-part-3.html)**  2022-08-02 16:12:26
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Reframing the sino-mauritian ties in the context of emerging africa](https://www.lemauricien.com/le-mauricien/reframing-the-sino-mauritian-ties-in-the-context-of-emerging-africa/506407/)**  2022-08-02 12:30:31
 
-[imathsit](https://imathsit.blogspot.com/)  
-**[June 2015 Paper 12 Solutions !!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-12-solutions-part-3.html)**  2022-08-02 03:51:39
-
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Elasmobranches dans les Mascareignes](https://greenmauritius.blogspot.com/2022/07/elasmobranches-dans-les-mascareignes.html)**  2022-08-01 06:22:38
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Mary S. Young Park](https://davidandjennilyn.com/2022/07/29/mary-s-young-park/)**  2022-07-29 21:04:13
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 SEMAINE DE LA GASTRONOMIE DURABLE A HERITAGE RESORTS](https://mysweetmauritius.blogspot.com/2022/07/semaine-de-la-gastronomie-durable.html)**  2022-07-29 12:40:40
@@ -99,9 +102,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Loch, Victoria](https://littleanantasin.wordpress.com/2022/06/19/loch-victoria/)**  2022-06-19 05:05:12
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Professional advice v/s Social media](https://relocationmauritius.wordpress.com/2022/06/14/professional-advice-v-s-social-media/)**  2022-06-14 05:56:52
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Je suis fatiguée](https://c-est-reparti.blogspot.com/2022/06/je-suis-fatiguee.html)**  2022-06-09 20:20:27
