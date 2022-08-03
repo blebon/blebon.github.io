@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[imathsit](https://imathsit.blogspot.com/)  
+**[June 2015 Paper 22 Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-03 11:37:34
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Mom’s Birthday at Depoe Bay](https://davidandjennilyn.com/2022/08/02/moms-birthday-at-depoe-bay/)**  2022-08-02 17:35:28
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Local professionals v/s opportunists](https://relocationmauritius.wordpress.com/2022/08/02/local-professionals-v-s-opportunists/)**  2022-08-02 17:02:43
-
-[imathsit](https://imathsit.blogspot.com/)  
-**[June 2015 Paper 12 Solutions !!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-12-solutions-part-3.html)**  2022-08-02 16:12:26
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Reframing the sino-mauritian ties in the context of emerging africa](https://www.lemauricien.com/le-mauricien/reframing-the-sino-mauritian-ties-in-the-context-of-emerging-africa/506407/)**  2022-08-02 12:30:31
