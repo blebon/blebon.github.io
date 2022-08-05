@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Échiquier politique en effervescence  : En finir avec la chaise musicale  entre Jugnauth et Ramgoolam !](https://www.lemauricien.com/le-mauricien/echiquier-politique-en-effervescence-en-finir-avec-la-chaise-musicale-entre-jugnauth-et-ramgoolam/506773/)**  2022-08-04 13:00:45
+
 [turbine.mu](https://turbine.mu)  
 **[What is Growth Hacking and how can a start-up benefit from it?](https://turbine.mu/2022/08/04/what-is-growth-hacking-and-how-can-a-start-up-benefit-from-it/)**  2022-08-04 10:52:33
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[AADI PADINETTAAM PERUKKU VIZHZAA 2022 : D’un ancien rituel tamoul qui perdure](https://www.lemauricien.com/le-mauricien/aadi-padinettaam-perukku-vizhzaa-2022-dun-ancien-rituel-tamoul-qui-perdure/506492/)**  2022-08-03 13:00:35
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 22 Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-03 11:37:34
