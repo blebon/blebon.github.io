@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Échiquier politique en effervescence  : En finir avec la chaise musicale  entre Jugnauth et Ramgoolam !](https://www.lemauricien.com/le-mauricien/echiquier-politique-en-effervescence-en-finir-avec-la-chaise-musicale-entre-jugnauth-et-ramgoolam/506773/)**  2022-08-04 13:00:45
+**[Comment réussir une manifestation nationale…](https://www.lemauricien.com/le-mauricien/comment-reussir-une-manifestation-nationale/506945/)**  2022-08-05 14:25:27
 
 [turbine.mu](https://turbine.mu)  
 **[What is Growth Hacking and how can a start-up benefit from it?](https://turbine.mu/2022/08/04/what-is-growth-hacking-and-how-can-a-start-up-benefit-from-it/)**  2022-08-04 10:52:33
