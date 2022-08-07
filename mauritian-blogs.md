@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[QO-100 3B9 Activation](https://3b8mars.org/2022/08/07/qo-100-3b9-activation/)**  2022-08-07 11:40:34
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[INDIAN LITERATURE – MIRZA GHALIB: Mughal-India’s Greatest Poet](https://www.lemauricien.com/le-mauricien/indian-literature-mirza-ghalib-mughal-indias-greatest-poet/507109/)**  2022-08-06 12:21:19
 
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[❤️ You Have 8 New Matches: Abd, 40 years old from Tiznit, Morocco, and more!](https://shruticulturalgroup.blogspot.com/2022/07/you-have-8-new-matches-abd-40-years-old.html)**  2022-07-24 23:34:10
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[Educational Outreach](https://3b8mars.org/2022/07/24/educational-outreach/)**  2022-07-24 09:53:04
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Not quite what I expected](https://priscimon.com/blog/2022/07/24/not-quite-what-i-expected/)**  2022-07-24 09:33:17
