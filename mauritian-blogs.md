@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Back to Square One on the Political Chessboard](https://www.lemauricien.com/opinions/forum/back-to-square-one-on-the-political-chessboard/507240/)**  2022-08-08 07:31:17
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money](https://vintishgokool.blogspot.com/2022/08/money.html)**  2022-08-07 19:29:07
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[QO-100 3B9 Activation](https://3b8mars.org/2022/08/07/qo-100-3b9-activation/)**  2022-08-07 11:40:34
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[INDIAN LITERATURE – MIRZA GHALIB: Mughal-India’s Greatest Poet](https://www.lemauricien.com/le-mauricien/indian-literature-mirza-ghalib-mughal-indias-greatest-poet/507109/)**  2022-08-06 12:21:19
 
 [turbine.mu](https://turbine.mu)  
 **[What is Growth Hacking and how can a start-up benefit from it?](https://turbine.mu/2022/08/04/what-is-growth-hacking-and-how-can-a-start-up-benefit-from-it/)**  2022-08-04 10:52:33
