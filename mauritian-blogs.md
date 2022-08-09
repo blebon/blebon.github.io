@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Back to Square One on the Political Chessboard](https://www.lemauricien.com/opinions/forum/back-to-square-one-on-the-political-chessboard/507240/)**  2022-08-08 07:31:17
-
 [No Title](https://vintishgokool.blogspot.com/)  
-**[Money](https://vintishgokool.blogspot.com/2022/08/money.html)**  2022-08-07 19:29:07
+**[Money](https://vintishgokool.blogspot.com/2022/08/money.html)**  2022-08-08 16:27:20
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[De Chagos à Agaléga : qui vivra verra…](https://www.lemauricien.com/le-mauricien/qui-vivra-verra/507315/)**  2022-08-08 13:41:17
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[The honeymoon is over for ETH](https://ritesh2103.wordpress.com/2022/08/07/the-honeymoon-is-over-for-eth/)**  2022-08-07 17:46:17
