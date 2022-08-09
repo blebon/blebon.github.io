@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Slow fashion: saving the planet with style](https://zoomdr.blogspot.com/2022/08/slow-fashion-saving-planet-with-style.html)**  2022-08-09 10:28:45
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money](https://vintishgokool.blogspot.com/2022/08/money.html)**  2022-08-08 16:27:20
 
@@ -81,9 +84,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Do not touch !](http://gadatagada.blogspot.com/2022/07/do-not-touch.html)**  2022-07-08 06:34:42
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[The rotten roots of the IMF and the World Bank](https://zoomdr.blogspot.com/2022/07/how-system-was-rigged.html)**  2022-07-05 09:21:57
 
 [ever peckish](https://everpeckish.com)  
 **[Ever Peckish- from food diary to baking business](https://everpeckish.com/ever-peckish-from-food-diary-to-baking-business/?utm_source=rss&utm_medium=rss&utm_campaign=ever-peckish-from-food-diary-to-baking-business)**  2022-06-30 20:09:24
