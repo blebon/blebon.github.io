@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[IDÉES « Faire la Politique Autrement » :  est-ce de la politique ?](https://www.lemauricien.com/le-mauricien/idees-faire-la-politique-autrement-est-ce-de-la-politique/507492/)**  2022-08-09 14:52:29
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Slow fashion: saving the planet with style](https://zoomdr.blogspot.com/2022/08/slow-fashion-saving-planet-with-style.html)**  2022-08-09 10:28:45
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money](https://vintishgokool.blogspot.com/2022/08/money.html)**  2022-08-08 16:27:20
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[De Chagos à Agaléga : qui vivra verra…](https://www.lemauricien.com/le-mauricien/qui-vivra-verra/507315/)**  2022-08-08 13:41:17
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[The honeymoon is over for ETH](https://ritesh2103.wordpress.com/2022/08/07/the-honeymoon-is-over-for-eth/)**  2022-08-07 17:46:17
