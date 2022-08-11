@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[IDÉES « Faire la Politique Autrement » :  est-ce de la politique ?](https://www.lemauricien.com/le-mauricien/idees-faire-la-politique-autrement-est-ce-de-la-politique/507492/)**  2022-08-09 14:52:29
+**[CONSTAT ET PROPOSITIONS AUX AUTORITÉS — Lettre ouverte : faire revivre la Nightlife mauricienne !](https://www.lemauricien.com/le-mauricien/constat-et-propositions-aux-autorites-lettre-ouverte-faire-revivre-la-nightlife-mauricienne/507598/)**  2022-08-10 13:00:34
 
 [turbine.mu](https://turbine.mu)  
 **[5 Start-Up Mistakes Entrepreneurs should avoid](https://turbine.mu/2022/08/09/5-start-up-mistakes-entrepreneurs-should-avoid/)**  2022-08-09 12:36:51
