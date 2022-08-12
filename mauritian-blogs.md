@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Sorry, but we're are not as smart as we think](https://zoomdr.blogspot.com/2022/08/sorry-but-were-are-not-as-smart-as-we.html)**  2022-08-12 10:35:17
+
+[The Jag!](https://morisk.blogspot.com/)  
+**[Faith is A Hypothesis, That’s Why It’s Tested](https://morisk.blogspot.com/2022/08/faith-is-hypothesis-thats-why-its-tested.html)**  2022-08-12 09:39:22
+
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Important Dates](https://3b8mars.org/2022/08/11/important-dates/)**  2022-08-11 19:13:28
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[5 Start-Up Mistakes Entrepreneurs should avoid](https://turbine.mu/2022/08/09/5-start-up-mistakes-entrepreneurs-should-avoid/)**  2022-08-09 12:36:51
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Slow fashion: saving the planet with style](https://zoomdr.blogspot.com/2022/08/slow-fashion-saving-planet-with-style.html)**  2022-08-09 10:28:45
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money](https://vintishgokool.blogspot.com/2022/08/money.html)**  2022-08-08 16:27:20
@@ -78,9 +81,6 @@ permalink: /mauritian-blogs/
 
 [Carte Abricot Wedding Planner à l'Ile Maurice](https://carteabricotwedding.blogspot.com/)  
 **[MARIE-MICHELE & JORDAN  22 .04. 22](https://carteabricotwedding.blogspot.com/2022/06/mariage-flic-en-flac-22-04-22.html)**  2022-07-11 06:21:20
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[3 Sputnik Products Government Should Buy Right Away](https://morisk.blogspot.com/2022/04/3-sputnik-products-government-should.html)**  2022-07-10 14:00:41
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Do not touch !](http://gadatagada.blogspot.com/2022/07/do-not-touch.html)**  2022-07-08 06:34:42
