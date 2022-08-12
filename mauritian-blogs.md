@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[Important Dates](https://3b8mars.org/2022/08/11/important-dates/)**  2022-08-11 19:13:28
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[CONSTAT ET PROPOSITIONS AUX AUTORITÉS — Lettre ouverte : faire revivre la Nightlife mauricienne !](https://www.lemauricien.com/le-mauricien/constat-et-propositions-aux-autorites-lettre-ouverte-faire-revivre-la-nightlife-mauricienne/507598/)**  2022-08-10 13:00:34
+**[« Raksha Bandhan, a celebration of bondings »*](https://www.lemauricien.com/opinions/forum/raksha-bandhan-a-celebration-of-bondings/507823/)**  2022-08-11 15:55:55
 
 [turbine.mu](https://turbine.mu)  
 **[5 Start-Up Mistakes Entrepreneurs should avoid](https://turbine.mu/2022/08/09/5-start-up-mistakes-entrepreneurs-should-avoid/)**  2022-08-09 12:36:51
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 22 Worked Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-07 16:37:31
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[QO-100 3B9 Activation](https://3b8mars.org/2022/08/07/qo-100-3b9-activation/)**  2022-08-07 11:40:34
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Mom’s Birthday at Depoe Bay](https://davidandjennilyn.com/2022/08/02/moms-birthday-at-depoe-bay/)**  2022-08-02 17:35:28
