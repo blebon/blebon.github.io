@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Faith is A Hypothesis, That’s Why It’s Tested](https://morisk.blogspot.com/2022/08/faith-is-hypothesis-thats-why-its-tested.html)**  2022-08-13 09:57:58
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**["Cynics always say ‘no.’ But saying ‘yes’ begins things. Saying ‘yes’ is how we grow”](https://zoomdr.blogspot.com/2022/08/cynics-always-say-no-but-saying-yes.html)**  2022-08-13 09:06:52
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Ballades en sol majeur : de l’esprit francophone](https://www.lemauricien.com/le-mauricien/ballades-en-sol-majeur-de-lesprit-francophone/507950/)**  2022-08-12 13:16:27
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Updates on parcel imports via online shopping](https://yashvinblogs.com/2022/08/12/online-shopping-google-home-hub/)**  2022-08-12 12:16:16
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Sorry, but we're are not as smart as we think](https://zoomdr.blogspot.com/2022/08/sorry-but-were-are-not-as-smart-as-we.html)**  2022-08-12 10:35:17
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Faith is A Hypothesis, That’s Why It’s Tested](https://morisk.blogspot.com/2022/08/faith-is-hypothesis-thats-why-its-tested.html)**  2022-08-12 09:39:22
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Important Dates](https://3b8mars.org/2022/08/11/important-dates/)**  2022-08-11 19:13:28
