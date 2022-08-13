@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Ballades en sol majeur : de l’esprit francophone](https://www.lemauricien.com/le-mauricien/ballades-en-sol-majeur-de-lesprit-francophone/507950/)**  2022-08-12 13:16:27
+
+[Yashvinblogs](https://yashvinblogs.com)  
+**[Updates on parcel imports via online shopping](https://yashvinblogs.com/2022/08/12/online-shopping-google-home-hub/)**  2022-08-12 12:16:16
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Sorry, but we're are not as smart as we think](https://zoomdr.blogspot.com/2022/08/sorry-but-were-are-not-as-smart-as-we.html)**  2022-08-12 10:35:17
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Important Dates](https://3b8mars.org/2022/08/11/important-dates/)**  2022-08-11 19:13:28
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[« Raksha Bandhan, a celebration of bondings »*](https://www.lemauricien.com/opinions/forum/raksha-bandhan-a-celebration-of-bondings/507823/)**  2022-08-11 15:55:55
 
 [turbine.mu](https://turbine.mu)  
 **[5 Start-Up Mistakes Entrepreneurs should avoid](https://turbine.mu/2022/08/09/5-start-up-mistakes-entrepreneurs-should-avoid/)**  2022-08-09 12:36:51
@@ -129,9 +132,6 @@ permalink: /mauritian-blogs/
 
 [A Hitchhiker's Guide to Wherever](https://ashwinad.wordpress.com)  
 **[Winter is Coming… a personal experience of the war in Ukraine](https://ashwinad.wordpress.com/2022/04/11/winter-is-coming-a-personal-experience-of-the-war-in-ukraine/)**  2022-04-11 14:30:25
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[MauCAS charges when doing a Cash In on myT Money](https://yashvinblogs.com/2022/03/31/cash-in-myt-money-maucas/)**  2022-03-31 16:39:37
 
 [La  Foi Bahaie a PORT LOUIS](https://bahai-portlouis-ile-maurice.blogspot.com/)  
 **[No title](https://bahai-portlouis-ile-maurice.blogspot.com/2007/03/sleepersleeper-wake-up-now-your-lover.html)**  2022-03-25 18:48:13
