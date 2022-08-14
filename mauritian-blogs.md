@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[The doomed United](https://ritesh2103.wordpress.com/2022/08/13/the-doomed-united-2/)**  2022-08-13 19:42:38
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[RELIGIOUS INTOLERANCE](https://www.lemauricien.com/le-mauricien/religious-intolerance/508104/)**  2022-08-13 12:39:46
+
 [The Jag!](https://morisk.blogspot.com/)  
 **[Faith is A Hypothesis, That’s Why It’s Tested](https://morisk.blogspot.com/2022/08/faith-is-hypothesis-thats-why-its-tested.html)**  2022-08-13 09:57:58
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Cynics always say ‘no.’ But saying ‘yes’ begins things. Saying ‘yes’ is how we grow”](https://zoomdr.blogspot.com/2022/08/cynics-always-say-no-but-saying-yes.html)**  2022-08-13 09:06:52
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Ballades en sol majeur : de l’esprit francophone](https://www.lemauricien.com/le-mauricien/ballades-en-sol-majeur-de-lesprit-francophone/507950/)**  2022-08-12 13:16:27
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Updates on parcel imports via online shopping](https://yashvinblogs.com/2022/08/12/online-shopping-google-home-hub/)**  2022-08-12 12:16:16
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money](https://vintishgokool.blogspot.com/2022/08/money.html)**  2022-08-08 16:27:20
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[The honeymoon is over for ETH](https://ritesh2103.wordpress.com/2022/08/07/the-honeymoon-is-over-for-eth/)**  2022-08-07 17:46:17
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 22 Worked Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-07 16:37:31
