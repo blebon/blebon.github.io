@@ -8,7 +8,7 @@ permalink: /mauritian-blogs/
 **[The doomed United](https://ritesh2103.wordpress.com/2022/08/13/the-doomed-united-2/)**  2022-08-13 19:42:38
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[RELIGIOUS INTOLERANCE](https://www.lemauricien.com/le-mauricien/religious-intolerance/508104/)**  2022-08-13 12:39:46
+**[Faith is a Hypothesis, That’s Why It’s Tested](https://www.lemauricien.com/le-mauricien/faith-is-a-hypothesis-thats-why-its-tested/508107/)**  2022-08-13 12:42:20
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Faith is A Hypothesis, That’s Why It’s Tested](https://morisk.blogspot.com/2022/08/faith-is-hypothesis-thats-why-its-tested.html)**  2022-08-13 09:57:58
