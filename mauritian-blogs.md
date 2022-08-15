@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-14 19:30:00
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[The doomed United](https://ritesh2103.wordpress.com/2022/08/13/the-doomed-united-2/)**  2022-08-13 19:42:38
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Faith is a Hypothesis, That’s Why It’s Tested](https://www.lemauricien.com/le-mauricien/faith-is-a-hypothesis-thats-why-its-tested/508107/)**  2022-08-13 12:42:20
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Faith is A Hypothesis, That’s Why It’s Tested](https://morisk.blogspot.com/2022/08/faith-is-hypothesis-thats-why-its-tested.html)**  2022-08-13 09:57:58
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Cynics always say ‘no.’ But saying ‘yes’ begins things. Saying ‘yes’ is how we grow”](https://zoomdr.blogspot.com/2022/08/cynics-always-say-no-but-saying-yes.html)**  2022-08-13 09:06:52
@@ -22,6 +22,9 @@ permalink: /mauritian-blogs/
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Important Dates](https://3b8mars.org/2022/08/11/important-dates/)**  2022-08-11 19:13:28
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Gilbert House Children’s Musuem](https://davidandjennilyn.com/2022/08/10/gilbert-house-childrens-musuem/)**  2022-08-11 01:55:00
+
 [turbine.mu](https://turbine.mu)  
 **[5 Start-Up Mistakes Entrepreneurs should avoid](https://turbine.mu/2022/08/09/5-start-up-mistakes-entrepreneurs-should-avoid/)**  2022-08-09 12:36:51
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 22 Worked Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-07 16:37:31
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Mom’s Birthday at Depoe Bay](https://davidandjennilyn.com/2022/08/02/moms-birthday-at-depoe-bay/)**  2022-08-02 17:35:28
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Local professionals v/s opportunists](https://relocationmauritius.wordpress.com/2022/08/02/local-professionals-v-s-opportunists/)**  2022-08-02 17:02:43
