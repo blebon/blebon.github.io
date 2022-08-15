@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[15 Août. « La Vierge à Midi », un poème de Paul Claudel d’une grande beauté](https://www.lemauricien.com/opinions/forum/15-aout-la-vierge-a-midi-un-poeme-de-paul-claudel-dune-grande-beaute/508336/)**  2022-08-15 11:04:08
+
+[Melancholies](https://faustianmatters.blogspot.com/)  
+**[Sleepwalking](https://faustianmatters.blogspot.com/2022/08/sleepwalking.html)**  2022-08-15 09:18:29
+
 [The Jag!](https://morisk.blogspot.com/)  
 **[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-14 19:30:00
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[The doomed United](https://ritesh2103.wordpress.com/2022/08/13/the-doomed-united-2/)**  2022-08-13 19:42:38
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Faith is a Hypothesis, That’s Why It’s Tested](https://www.lemauricien.com/le-mauricien/faith-is-a-hypothesis-thats-why-its-tested/508107/)**  2022-08-13 12:42:20
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Cynics always say ‘no.’ But saying ‘yes’ begins things. Saying ‘yes’ is how we grow”](https://zoomdr.blogspot.com/2022/08/cynics-always-say-no-but-saying-yes.html)**  2022-08-13 09:06:52
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[The End (almost!)](https://mymauritiangarden.wordpress.com/2022/07/21/the-end-almost/)**  2022-07-21 09:45:04
-
-[Melancholies](https://faustianmatters.blogspot.com/)  
-**[Reasons](https://faustianmatters.blogspot.com/2022/07/reasons.html)**  2022-07-20 16:12:05
 
 [Spiritual in my life](https://spiritualinlife23.blogspot.com/)  
 **[Youtube shorts mere sai](https://spiritualinlife23.blogspot.com/2022/07/youtube-shorts-mere-sai_19.html)**  2022-07-19 20:22:42
