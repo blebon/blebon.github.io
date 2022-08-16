@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-16 02:42:46
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[15 Août. « La Vierge à Midi », un poème de Paul Claudel d’une grande beauté](https://www.lemauricien.com/opinions/forum/15-aout-la-vierge-a-midi-un-poeme-de-paul-claudel-dune-grande-beaute/508336/)**  2022-08-15 11:04:08
+**[To The Right Honourable Narendra Modi, Prime Minister of India](https://www.lemauricien.com/opinions/forum/to-the-right-honourable-narendra-modi-prime-minister-of-india/508378/)**  2022-08-15 19:56:57
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Lucia Falls](https://davidandjennilyn.com/2022/08/15/lucia-falls/)**  2022-08-15 16:00:00
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Sleepwalking](https://faustianmatters.blogspot.com/2022/08/sleepwalking.html)**  2022-08-15 09:18:29
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-14 19:30:00
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[The doomed United](https://ritesh2103.wordpress.com/2022/08/13/the-doomed-united-2/)**  2022-08-13 19:42:38
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Important Dates](https://3b8mars.org/2022/08/11/important-dates/)**  2022-08-11 19:13:28
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Gilbert House Children’s Musuem](https://davidandjennilyn.com/2022/08/10/gilbert-house-childrens-musuem/)**  2022-08-11 01:55:00
 
 [turbine.mu](https://turbine.mu)  
 **[5 Start-Up Mistakes Entrepreneurs should avoid](https://turbine.mu/2022/08/09/5-start-up-mistakes-entrepreneurs-should-avoid/)**  2022-08-09 12:36:51
