@@ -5,10 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [The Jag!](https://morisk.blogspot.com/)  
-**[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-16 02:42:46
+**[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-16 14:15:51
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[To The Right Honourable Narendra Modi, Prime Minister of India](https://www.lemauricien.com/opinions/forum/to-the-right-honourable-narendra-modi-prime-minister-of-india/508378/)**  2022-08-15 19:56:57
+**[Anou koz kas, anou koz partaz !](https://www.lemauricien.com/le-mauricien/anou-koz-kas-anou-koz-partaz/508536/)**  2022-08-16 12:57:11
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Lucia Falls](https://davidandjennilyn.com/2022/08/15/lucia-falls/)**  2022-08-15 16:00:00
