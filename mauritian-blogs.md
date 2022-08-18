@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[ÉCHIQUIER POLITIQUE – Pour une opposition  et une alternative crédible](https://www.lemauricien.com/le-mauricien/echiquier-politique-pour-une-opposition-et-une-alternative-credible/508681/)**  2022-08-17 13:00:20
+
 [The Jag!](https://morisk.blogspot.com/)  
 **[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-16 14:15:51
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou koz kas, anou koz partaz !](https://www.lemauricien.com/le-mauricien/anou-koz-kas-anou-koz-partaz/508536/)**  2022-08-16 12:57:11
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Lucia Falls](https://davidandjennilyn.com/2022/08/15/lucia-falls/)**  2022-08-15 16:00:00
