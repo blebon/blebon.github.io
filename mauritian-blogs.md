@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ÉCHIQUIER POLITIQUE – Pour une opposition  et une alternative crédible](https://www.lemauricien.com/le-mauricien/echiquier-politique-pour-une-opposition-et-une-alternative-credible/508681/)**  2022-08-17 13:00:20
+**[Gentle Elephant Already  Back On the Podium](https://www.lemauricien.com/le-mauricien/gentle-elephant-already-back-on-the-podium/508889/)**  2022-08-18 13:57:50
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-16 14:15:51
