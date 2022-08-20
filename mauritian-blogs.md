@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[An Evening in Port Louis  with Salman Rushdie](https://www.lemauricien.com/le-mauricien/an-evening-in-port-louis-with-salman-rushdie/509048/)**  2022-08-19 13:00:13
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[A Q&A With Our Spirited Sommeliers](https://blog.constancehotels.com/a-qa-with-our-spirited-sommeliers/)**  2022-08-19 12:35:04
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Is it really interesting to invest in Mauritius?](https://relocationmauritius.wordpress.com/2022/08/19/is-it-really-interesting-to-invest-in-mauritius/)**  2022-08-19 12:00:19
+
 [turbine.mu](https://turbine.mu)  
 **[Five Key Factors that lead to Successful Startups￼](https://turbine.mu/2022/08/19/key-factors-leading-to-success/)**  2022-08-19 10:09:42
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Gentle Elephant Already  Back On the Podium](https://www.lemauricien.com/le-mauricien/gentle-elephant-already-back-on-the-podium/508889/)**  2022-08-18 13:57:50
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-16 14:15:51
@@ -37,9 +43,6 @@ permalink: /mauritian-blogs/
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 22 Worked Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-07 16:37:31
 
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Local professionals v/s opportunists](https://relocationmauritius.wordpress.com/2022/08/02/local-professionals-v-s-opportunists/)**  2022-08-02 17:02:43
-
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Elasmobranches dans les Mascareignes](https://greenmauritius.blogspot.com/2022/07/elasmobranches-dans-les-mascareignes.html)**  2022-08-01 06:22:38
 
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[TECHNICAL ANALYSIS REPORT – 27 JULY 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/07/technical-analysis-report-27-july-2022.html)**  2022-07-27 14:20:19
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Signature Constance Dishes To Try At Home](https://blog.constancehotels.com/signature-constance-dishes-to-try-at-home/)**  2022-07-27 08:18:32
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[❤️ You Have 8 New Matches: Abd, 40 years old from Tiznit, Morocco, and more!](https://shruticulturalgroup.blogspot.com/2022/07/you-have-8-new-matches-abd-40-years-old.html)**  2022-07-24 23:34:10
