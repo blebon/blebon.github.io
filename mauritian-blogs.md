@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[An Evening in Port Louis  with Salman Rushdie](https://www.lemauricien.com/le-mauricien/an-evening-in-port-louis-with-salman-rushdie/509048/)**  2022-08-19 13:00:13
+**[La Traite Négrière dans les Mascareignes](https://www.lemauricien.com/le-mauricien/la-traite-negriere-dans-les-mascareignes/509215/)**  2022-08-20 13:02:36
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Q&A With Our Spirited Sommeliers](https://blog.constancehotels.com/a-qa-with-our-spirited-sommeliers/)**  2022-08-19 12:35:04
