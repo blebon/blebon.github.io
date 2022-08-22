@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 UN JOUR AU TELFAIR](https://mysweetmauritius.blogspot.com/2022/08/un-jour-au-telfair.html)**  2022-08-22 08:58:49
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[La Traite Négrière dans les Mascareignes](https://www.lemauricien.com/le-mauricien/la-traite-negriere-dans-les-mascareignes/509215/)**  2022-08-20 13:02:36
 
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Elasmobranches dans les Mascareignes](https://greenmauritius.blogspot.com/2022/07/elasmobranches-dans-les-mascareignes.html)**  2022-08-01 06:22:38
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 SEMAINE DE LA GASTRONOMIE DURABLE A HERITAGE RESORTS](https://mysweetmauritius.blogspot.com/2022/07/semaine-de-la-gastronomie-durable.html)**  2022-07-29 12:40:40
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[TECHNICAL ANALYSIS REPORT – 27 JULY 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/07/technical-analysis-report-27-july-2022.html)**  2022-07-27 14:20:19
