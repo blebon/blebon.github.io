@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Hit and miss](https://priscimon.com/blog/2022/08/22/hit-and-miss/)**  2022-08-22 23:11:27
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils claim their first points](https://ritesh2103.wordpress.com/2022/08/23/red-devils-claim-their-first-points/)**  2022-08-22 22:05:25
+
+[Melancholies](https://faustianmatters.blogspot.com/)  
+**[Smother](https://faustianmatters.blogspot.com/2022/08/smother.html)**  2022-08-22 15:23:52
+
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 UN JOUR AU TELFAIR](https://mysweetmauritius.blogspot.com/2022/08/un-jour-au-telfair.html)**  2022-08-22 08:58:49
 
@@ -24,12 +33,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Lucia Falls](https://davidandjennilyn.com/2022/08/15/lucia-falls/)**  2022-08-15 16:00:00
-
-[Melancholies](https://faustianmatters.blogspot.com/)  
-**[Sleepwalking](https://faustianmatters.blogspot.com/2022/08/sleepwalking.html)**  2022-08-15 09:18:29
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[The doomed United](https://ritesh2103.wordpress.com/2022/08/13/the-doomed-united-2/)**  2022-08-13 19:42:38
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Cynics always say ‘no.’ But saying ‘yes’ begins things. Saying ‘yes’ is how we grow”](https://zoomdr.blogspot.com/2022/08/cynics-always-say-no-but-saying-yes.html)**  2022-08-13 09:06:52
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[❤️ You Have 8 New Matches: Abd, 40 years old from Tiznit, Morocco, and more!](https://shruticulturalgroup.blogspot.com/2022/07/you-have-8-new-matches-abd-40-years-old.html)**  2022-07-24 23:34:10
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Not quite what I expected](https://priscimon.com/blog/2022/07/24/not-quite-what-i-expected/)**  2022-07-24 09:33:17
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[The End (almost!)](https://mymauritiangarden.wordpress.com/2022/07/21/the-end-almost/)**  2022-07-21 09:45:04
