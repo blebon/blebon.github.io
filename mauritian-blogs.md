@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Divine Dishes: Test Your Culinary Skills](https://blog.constancehotels.com/divine-dishes-test-your-culinary-skills/)**  2022-08-23 09:29:59
+
+[The Jag!](https://morisk.blogspot.com/)  
+**[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-23 09:03:12
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Hit and miss](https://priscimon.com/blog/2022/08/22/hit-and-miss/)**  2022-08-22 23:11:27
 
@@ -19,17 +25,11 @@ permalink: /mauritian-blogs/
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[La Traite Négrière dans les Mascareignes](https://www.lemauricien.com/le-mauricien/la-traite-negriere-dans-les-mascareignes/509215/)**  2022-08-20 13:02:36
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[A Q&A With Our Spirited Sommeliers](https://blog.constancehotels.com/a-qa-with-our-spirited-sommeliers/)**  2022-08-19 12:35:04
-
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Is it really interesting to invest in Mauritius?](https://relocationmauritius.wordpress.com/2022/08/19/is-it-really-interesting-to-invest-in-mauritius/)**  2022-08-19 12:00:19
 
 [turbine.mu](https://turbine.mu)  
 **[Five Key Factors that lead to Successful Startups￼](https://turbine.mu/2022/08/19/key-factors-leading-to-success/)**  2022-08-19 10:09:42
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-16 14:15:51
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Lucia Falls](https://davidandjennilyn.com/2022/08/15/lucia-falls/)**  2022-08-15 16:00:00
