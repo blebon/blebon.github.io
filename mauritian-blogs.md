@@ -4,11 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Divine Dishes: Test Your Culinary Skills](https://blog.constancehotels.com/divine-dishes-test-your-culinary-skills/)**  2022-08-23 09:29:59
+[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
+**[❤️ You Have 8 New Matches: Agustin, 43 years old from Buenos Aires, Argentina, and more!](https://shruticulturalgroup.blogspot.com/2022/08/you-have-8-new-matches-agustin-43-years.html)**  2022-08-23 17:34:41
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[An attitude devi?](https://vintishgokool.blogspot.com/2022/08/an-attitude-devi.html)**  2022-08-23 17:27:18
 
 [The Jag!](https://morisk.blogspot.com/)  
-**[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-23 09:03:12
+**[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-23 16:14:56
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The abolitionist William Wilberforce  and the ASS fight slave trade in Mauritius](https://www.lemauricien.com/le-mauricien/the-abolitionist-william-wilberforce-and-the-ass-fight-slave-trade-in-mauritius/509694/)**  2022-08-23 13:00:33
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Divine Dishes: Test Your Culinary Skills](https://blog.constancehotels.com/divine-dishes-test-your-culinary-skills/)**  2022-08-23 09:29:59
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Hit and miss](https://priscimon.com/blog/2022/08/22/hit-and-miss/)**  2022-08-22 23:11:27
@@ -21,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 UN JOUR AU TELFAIR](https://mysweetmauritius.blogspot.com/2022/08/un-jour-au-telfair.html)**  2022-08-22 08:58:49
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[La Traite Négrière dans les Mascareignes](https://www.lemauricien.com/le-mauricien/la-traite-negriere-dans-les-mascareignes/509215/)**  2022-08-20 13:02:36
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Is it really interesting to invest in Mauritius?](https://relocationmauritius.wordpress.com/2022/08/19/is-it-really-interesting-to-invest-in-mauritius/)**  2022-08-19 12:00:19
@@ -43,9 +49,6 @@ permalink: /mauritian-blogs/
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Important Dates](https://3b8mars.org/2022/08/11/important-dates/)**  2022-08-11 19:13:28
 
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Money](https://vintishgokool.blogspot.com/2022/08/money.html)**  2022-08-08 16:27:20
-
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 22 Worked Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-07 16:37:31
 
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[TECHNICAL ANALYSIS REPORT – 27 JULY 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/07/technical-analysis-report-27-july-2022.html)**  2022-07-27 14:20:19
-
-[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
-**[❤️ You Have 8 New Matches: Abd, 40 years old from Tiznit, Morocco, and more!](https://shruticulturalgroup.blogspot.com/2022/07/you-have-8-new-matches-abd-40-years-old.html)**  2022-07-24 23:34:10
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[The End (almost!)](https://mymauritiangarden.wordpress.com/2022/07/21/the-end-almost/)**  2022-07-21 09:45:04
