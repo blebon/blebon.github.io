@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mike Sinnott's World](https://msinnott.net)  
+**[Rodrigues Is. Expedition](https://msinnott.net/2022/08/24/rodrigues-is-expedition/?utm_source=rss&utm_medium=rss&utm_campaign=rodrigues-is-expedition)**  2022-08-24 08:37:46
+
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[❤️ You Have 8 New Matches: Agustin, 43 years old from Buenos Aires, Argentina, and more!](https://shruticulturalgroup.blogspot.com/2022/08/you-have-8-new-matches-agustin-43-years.html)**  2022-08-23 17:34:41
 
@@ -75,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Update from 2022!](https://flicenflac.blogspot.com/2022/07/update-from-2022.html)**  2022-07-13 18:22:43
-
-[Mike Sinnott's World](https://msinnott.net)  
-**[SAFE or Not](https://msinnott.net/2022/07/13/safe-or-not/?utm_source=rss&utm_medium=rss&utm_campaign=safe-or-not)**  2022-07-13 08:28:17
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Soft Blossoms](https://swanlady-impressions.blogspot.com/2022/07/soft-blossoms.html)**  2022-07-11 17:43:27
