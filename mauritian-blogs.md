@@ -7,6 +7,9 @@ permalink: /mauritian-blogs/
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[The African Leadership College: Changing Global Education](https://www.lemauricien.com/le-mauricien/the-african-leadership-college-changing-global-education/509845/)**  2022-08-24 13:40:48
 
+[Veganlovlie](https://veganlovlie.com)  
+**[11 Easy Delicious Savoury Vegan Breakfast Ideas](https://veganlovlie.com/savoury-vegan-breakfast-ideas/)**  2022-08-24 11:18:43
+
 [Mike Sinnott's World](https://msinnott.net)  
 **[Rodrigues Is. Expedition](https://msinnott.net/2022/08/24/rodrigues-is-expedition/?utm_source=rss&utm_medium=rss&utm_campaign=rodrigues-is-expedition)**  2022-08-24 08:37:46
 
@@ -90,9 +93,6 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Ever Peckish- from food diary to baking business](https://everpeckish.com/ever-peckish-from-food-diary-to-baking-business/?utm_source=rss&utm_medium=rss&utm_campaign=ever-peckish-from-food-diary-to-baking-business)**  2022-06-30 20:09:24
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Tangy Sweet Thai Eggplant and Tofu Curry](https://veganlovlie.com/tangy-sweet-thai-eggplant-and-tofu-curry/)**  2022-06-30 07:39:01
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Lack of Veterinarians in Mauritius](https://facultyagriculture.blogspot.com/2022/06/lack-of-veterinarians-in-mauritius.html)**  2022-06-29 13:22:44
