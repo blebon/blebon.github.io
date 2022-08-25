@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The African Leadership College: Changing Global Education](https://www.lemauricien.com/le-mauricien/the-african-leadership-college-changing-global-education/509845/)**  2022-08-24 13:40:48
+
 [Mike Sinnott's World](https://msinnott.net)  
 **[Rodrigues Is. Expedition](https://msinnott.net/2022/08/24/rodrigues-is-expedition/?utm_source=rss&utm_medium=rss&utm_campaign=rodrigues-is-expedition)**  2022-08-24 08:37:46
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-23 16:14:56
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The abolitionist William Wilberforce  and the ASS fight slave trade in Mauritius](https://www.lemauricien.com/le-mauricien/the-abolitionist-william-wilberforce-and-the-ass-fight-slave-trade-in-mauritius/509694/)**  2022-08-23 13:00:33
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Divine Dishes: Test Your Culinary Skills](https://blog.constancehotels.com/divine-dishes-test-your-culinary-skills/)**  2022-08-23 09:29:59
