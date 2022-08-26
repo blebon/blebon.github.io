@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My life](https://myanonymouslife24.blogspot.com/)  
+**[hope](https://myanonymouslife24.blogspot.com/2020/07/hope.html)**  2022-08-26 11:41:36
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[How To Stay Fit and Healthy On Your Island Getaway](https://blog.constancehotels.com/how-to-stay-fit-and-healthy-on-your-island-getaway/)**  2022-08-26 09:17:31
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Flowers in Circles](https://swanlady-impressions.blogspot.com/2022/08/flowers-in-circles.html)**  2022-08-25 18:00:40
 
@@ -24,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-23 16:14:56
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Divine Dishes: Test Your Culinary Skills](https://blog.constancehotels.com/divine-dishes-test-your-culinary-skills/)**  2022-08-23 09:29:59
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Hit and miss](https://priscimon.com/blog/2022/08/22/hit-and-miss/)**  2022-08-22 23:11:27
