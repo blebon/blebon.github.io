@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Flowers in Circles](https://swanlady-impressions.blogspot.com/2022/08/flowers-in-circles.html)**  2022-08-25 18:00:40
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The African Leadership College: Changing Global Education](https://www.lemauricien.com/le-mauricien/the-african-leadership-college-changing-global-education/509845/)**  2022-08-24 13:40:48
+**[OPEN LETTER : We need each other](https://www.lemauricien.com/le-mauricien/open-letter-we-need-each-other/510086/)**  2022-08-25 13:31:04
 
 [Veganlovlie](https://veganlovlie.com)  
 **[11 Easy Delicious Savoury Vegan Breakfast Ideas](https://veganlovlie.com/savoury-vegan-breakfast-ideas/)**  2022-08-24 11:18:43
@@ -81,9 +84,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Update from 2022!](https://flicenflac.blogspot.com/2022/07/update-from-2022.html)**  2022-07-13 18:22:43
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Soft Blossoms](https://swanlady-impressions.blogspot.com/2022/07/soft-blossoms.html)**  2022-07-11 17:43:27
 
 [Carte Abricot Wedding Planner à l'Ile Maurice](https://carteabricotwedding.blogspot.com/)  
 **[MARIE-MICHELE & JORDAN  22 .04. 22](https://carteabricotwedding.blogspot.com/2022/06/mariage-flic-en-flac-22-04-22.html)**  2022-07-11 06:21:20
