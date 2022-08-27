@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[À MI-CHEMIN DU QUINQUENNAT : La guerre du pouvoir a commencé](https://www.lemauricien.com/le-mauricien/a-mi-chemin-du-quinquennat-la-guerre-du-pouvoir-a-commence/510399/)**  2022-08-27 10:31:05
+
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-26 11:56:43
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Flowers in Circles](https://swanlady-impressions.blogspot.com/2022/08/flowers-in-circles.html)**  2022-08-25 18:00:40
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[OPEN LETTER : We need each other](https://www.lemauricien.com/le-mauricien/open-letter-we-need-each-other/510086/)**  2022-08-25 13:31:04
 
 [Veganlovlie](https://veganlovlie.com)  
 **[11 Easy Delicious Savoury Vegan Breakfast Ideas](https://veganlovlie.com/savoury-vegan-breakfast-ideas/)**  2022-08-24 11:18:43
