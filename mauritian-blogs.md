@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [My life](https://myanonymouslife24.blogspot.com/)  
-**[hope](https://myanonymouslife24.blogspot.com/2020/07/hope.html)**  2022-08-26 11:41:36
+**[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-26 11:56:43
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[How To Stay Fit and Healthy On Your Island Getaway](https://blog.constancehotels.com/how-to-stay-fit-and-healthy-on-your-island-getaway/)**  2022-08-26 09:17:31
@@ -40,6 +40,9 @@ permalink: /mauritian-blogs/
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Smother](https://faustianmatters.blogspot.com/2022/08/smother.html)**  2022-08-22 15:23:52
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Bridge Pedal with Bruce and Bubbles](https://davidandjennilyn.com/2022/08/22/bridge-pedal-with-bruce-and-bubbles/)**  2022-08-22 15:06:00
+
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 UN JOUR AU TELFAIR](https://mysweetmauritius.blogspot.com/2022/08/un-jour-au-telfair.html)**  2022-08-22 08:58:49
 
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Five Key Factors that lead to Successful Startups￼](https://turbine.mu/2022/08/19/key-factors-leading-to-success/)**  2022-08-19 10:09:42
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Lucia Falls](https://davidandjennilyn.com/2022/08/15/lucia-falls/)**  2022-08-15 16:00:00
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Cynics always say ‘no.’ But saying ‘yes’ begins things. Saying ‘yes’ is how we grow”](https://zoomdr.blogspot.com/2022/08/cynics-always-say-no-but-saying-yes.html)**  2022-08-13 09:06:52
