@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Visiting Sand Island with the Dunn Family](https://davidandjennilyn.com/2022/08/27/visiting-sand-island-with-the-dunn-family/)**  2022-08-28 01:57:24
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Strict minimum for the Red Devils](https://ritesh2103.wordpress.com/2022/08/27/strict-minimum-for-the-red-devils/)**  2022-08-27 15:40:35
+
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 LE PETIT MENU DU MIDI À LA CLEF DES CHAMPS](https://mysweetmauritius.blogspot.com/2022/08/le-petit-menu-du-midi-la-clef-des-champs.html)**  2022-08-27 14:05:01
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[À MI-CHEMIN DU QUINQUENNAT : La guerre du pouvoir a commencé](https://www.lemauricien.com/le-mauricien/a-mi-chemin-du-quinquennat-la-guerre-du-pouvoir-a-commence/510399/)**  2022-08-27 10:31:05
 
@@ -34,17 +43,8 @@ permalink: /mauritian-blogs/
 [priscimon.com](https://priscimon.com/blog)  
 **[Hit and miss](https://priscimon.com/blog/2022/08/22/hit-and-miss/)**  2022-08-22 23:11:27
 
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils claim their first points](https://ritesh2103.wordpress.com/2022/08/23/red-devils-claim-their-first-points/)**  2022-08-22 22:05:25
-
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Smother](https://faustianmatters.blogspot.com/2022/08/smother.html)**  2022-08-22 15:23:52
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Bridge Pedal with Bruce and Bubbles](https://davidandjennilyn.com/2022/08/22/bridge-pedal-with-bruce-and-bubbles/)**  2022-08-22 15:06:00
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 UN JOUR AU TELFAIR](https://mysweetmauritius.blogspot.com/2022/08/un-jour-au-telfair.html)**  2022-08-22 08:58:49
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Is it really interesting to invest in Mauritius?](https://relocationmauritius.wordpress.com/2022/08/19/is-it-really-interesting-to-invest-in-mauritius/)**  2022-08-19 12:00:19
