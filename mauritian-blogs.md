@@ -5,7 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [David and Jennilyn](https://davidandjennilyn.com)  
-**[Visiting Sand Island with the Dunn Family](https://davidandjennilyn.com/2022/08/27/visiting-sand-island-with-the-dunn-family/)**  2022-08-28 01:57:24
+**[My Second Sabbatical](https://davidandjennilyn.com/2022/08/28/my-second-sabbatical/)**  2022-08-29 05:01:35
+
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[9c3ce5341c659b4694e658b07180e439 (MD5)](https://flicenflac.blogspot.com/2022/08/9c3ce5341c659b4694e658b07180e439-md5.html)**  2022-08-29 04:32:04
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 22e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/08/homelie-pour-le-22e-dimanche-du-toc.html)**  2022-08-28 17:51:10
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Strict minimum for the Red Devils](https://ritesh2103.wordpress.com/2022/08/27/strict-minimum-for-the-red-devils/)**  2022-08-27 15:40:35
@@ -85,9 +91,6 @@ permalink: /mauritian-blogs/
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Fact-checking articles by Journalism students](https://comstudies.wordpress.com/2022/07/14/fact-checking-articles-by-journalism-students/)**  2022-07-14 11:20:55
 
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Update from 2022!](https://flicenflac.blogspot.com/2022/07/update-from-2022.html)**  2022-07-13 18:22:43
-
 [Carte Abricot Wedding Planner à l'Ile Maurice](https://carteabricotwedding.blogspot.com/)  
 **[MARIE-MICHELE & JORDAN  22 .04. 22](https://carteabricotwedding.blogspot.com/2022/06/mariage-flic-en-flac-22-04-22.html)**  2022-07-11 06:21:20
 
@@ -111,9 +114,6 @@ permalink: /mauritian-blogs/
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Je suis fatiguée](https://c-est-reparti.blogspot.com/2022/06/je-suis-fatiguee.html)**  2022-06-09 20:20:27
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 10e Semaine du TOC](https://josephnguyenmahebourg.blogspot.com/2022/06/mercredi-de-la-10e-semaine-du-toc.html)**  2022-06-08 09:27:51
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[I rest my case For or Against the Quattronity  at the foot of the Cross Where the love of Jesus and His Mother Mary is Found](https://lleclezio.blogspot.com/2022/06/i-rest-my-case-for-or-against.html)**  2022-06-07 06:51:08
