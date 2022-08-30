@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My life](https://myanonymouslife24.blogspot.com/)  
+**[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-30 09:08:01
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Vegan Turmeric Lemon Chia Seed Cake](https://veganlovlie.com/vegan-turmeric-lemon-chia-seed-cake/)**  2022-08-30 01:04:24
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LE PETIT MENU DU MIDI À LA CLEF DES CHAMPS](https://mysweetmauritius.blogspot.com/2022/08/le-petit-menu-du-midi-la-clef-des-champs.html)**  2022-08-27 14:05:01
-
-[My life](https://myanonymouslife24.blogspot.com/)  
-**[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-26 11:56:43
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[How To Stay Fit and Healthy On Your Island Getaway](https://blog.constancehotels.com/how-to-stay-fit-and-healthy-on-your-island-getaway/)**  2022-08-26 09:17:31
