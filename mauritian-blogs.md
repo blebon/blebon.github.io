@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[What's in "where are you from?”](https://zoomdr.blogspot.com/2022/08/whats-in-where-are-you-from.html)**  2022-08-31 10:11:24
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
-**[Discussing Electoral Reform With ReA](http://kozelidir.blogspot.com/2022/08/discussing-electoral-reform-with-rea.html)**  2022-08-30 13:11:11
+**[Discussing Electoral Reform With ReA](http://kozelidir.blogspot.com/2022/08/discussing-electoral-reform-with-rea.html)**  2022-08-31 06:44:26
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[HOMMAGES : Merci Corinne d’avoir tant donné à la nation mauricienne](https://www.lemauricien.com/le-mauricien/hommages-merci-corinne-davoir-tant-donne-a-la-nation-mauricienne/510925/)**  2022-08-30 12:08:17
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Five Key Factors that lead to Successful Startups￼](https://turbine.mu/2022/08/19/key-factors-leading-to-success/)**  2022-08-19 10:09:42
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**["Cynics always say ‘no.’ But saying ‘yes’ begins things. Saying ‘yes’ is how we grow”](https://zoomdr.blogspot.com/2022/08/cynics-always-say-no-but-saying-yes.html)**  2022-08-13 09:06:52
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Updates on parcel imports via online shopping](https://yashvinblogs.com/2022/08/12/online-shopping-google-home-hub/)**  2022-08-12 12:16:16
