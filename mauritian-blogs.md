@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Discussing Electoral Reform With ReA](http://kozelidir.blogspot.com/2022/08/discussing-electoral-reform-with-rea.html)**  2022-08-30 13:11:11
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[HOMMAGES : Merci Corinne d’avoir tant donné à la nation mauricienne](https://www.lemauricien.com/le-mauricien/hommages-merci-corinne-davoir-tant-donne-a-la-nation-mauricienne/510925/)**  2022-08-30 12:08:17
+
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-30 09:08:01
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Vegan Turmeric Lemon Chia Seed Cake](https://veganlovlie.com/vegan-turmeric-lemon-chia-seed-cake/)**  2022-08-30 01:04:24
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The abolitionist William Wilberforce and the ASS  commend the abolition of slavery in Mauritius](https://www.lemauricien.com/le-mauricien/the-abolitionist-william-wilberforce-and-the-ass-commend-the-abolition-of-slavery-in-mauritius/510694/)**  2022-08-29 12:48:14
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[My Second Sabbatical](https://davidandjennilyn.com/2022/08/28/my-second-sabbatical/)**  2022-08-29 05:01:35
@@ -81,9 +84,6 @@ permalink: /mauritian-blogs/
 
 [Spiritual in my life](https://spiritualinlife23.blogspot.com/)  
 **[Youtube shorts mere sai](https://spiritualinlife23.blogspot.com/2022/07/youtube-shorts-mere-sai_19.html)**  2022-07-19 20:22:42
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Where Main Parties Stood When We Voted in November 2019](http://kozelidir.blogspot.com/2022/07/where-main-parties-stood-when-we-voted.html)**  2022-07-19 20:06:06
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Zimbabwe’s Disappearing Gold: The Case of Mazowe and Penhalonga](https://amarbheenick.blogspot.com/2022/07/zimbabwes-disappearing-gold-case-of.html)**  2022-07-14 11:58:27
