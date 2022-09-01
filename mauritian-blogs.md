@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Lord Ganesh; a lesson in taming one’s ego](https://www.lemauricien.com/le-mauricien/lord-ganesh-a-lesson-in-taming-ones-ego/511214/)**  2022-09-01 10:45:50
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Antony completes move from Ajax](https://ritesh2103.wordpress.com/2022/09/01/antony-completes-move-from-ajax/)**  2022-09-01 10:34:44
+
 [Veganlovlie](https://veganlovlie.com)  
 **[15 Yummy Vegan Eggplant Recipes (Vegan Aubergine Recipes)](https://veganlovlie.com/vegan-eggplant-recipes-aubergine/)**  2022-09-01 00:37:16
 
 [priscimon.com](https://priscimon.com/blog)  
 **[The FG-20 must go](https://priscimon.com/blog/2022/08/31/the-fg-20-must-go/)**  2022-08-31 19:43:18
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[CÉRÉMONIE RELIGIEUSE ET PROCESSION  Offrandes à Ganesh, Muruga  et Amma à La Chapelle, Paris](https://www.lemauricien.com/le-mauricien/ceremonie-religieuse-et-procession-offrandes-a-ganesh-muruga-et-amma-a-la-chapelle-paris/511099/)**  2022-08-31 13:00:37
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[What's in "where are you from?”](https://zoomdr.blogspot.com/2022/08/whats-in-where-are-you-from.html)**  2022-08-31 10:11:24
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 22e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/08/homelie-pour-le-22e-dimanche-du-toc.html)**  2022-08-28 17:51:10
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Strict minimum for the Red Devils](https://ritesh2103.wordpress.com/2022/08/27/strict-minimum-for-the-red-devils/)**  2022-08-27 15:40:35
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LE PETIT MENU DU MIDI À LA CLEF DES CHAMPS](https://mysweetmauritius.blogspot.com/2022/08/le-petit-menu-du-midi-la-clef-des-champs.html)**  2022-08-27 14:05:01
