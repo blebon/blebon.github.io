@@ -4,20 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[15 Yummy Vegan Eggplant Recipes (Vegan Aubergine Recipes)](https://veganlovlie.com/vegan-eggplant-recipes-aubergine/)**  2022-09-01 00:37:16
+
+[priscimon.com](https://priscimon.com/blog)  
+**[The FG-20 must go](https://priscimon.com/blog/2022/08/31/the-fg-20-must-go/)**  2022-08-31 19:43:18
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[CÉRÉMONIE RELIGIEUSE ET PROCESSION  Offrandes à Ganesh, Muruga  et Amma à La Chapelle, Paris](https://www.lemauricien.com/le-mauricien/ceremonie-religieuse-et-procession-offrandes-a-ganesh-muruga-et-amma-a-la-chapelle-paris/511099/)**  2022-08-31 13:00:37
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[What's in "where are you from?”](https://zoomdr.blogspot.com/2022/08/whats-in-where-are-you-from.html)**  2022-08-31 10:11:24
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Discussing Electoral Reform With ReA](http://kozelidir.blogspot.com/2022/08/discussing-electoral-reform-with-rea.html)**  2022-08-31 06:44:26
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[HOMMAGES : Merci Corinne d’avoir tant donné à la nation mauricienne](https://www.lemauricien.com/le-mauricien/hommages-merci-corinne-davoir-tant-donne-a-la-nation-mauricienne/510925/)**  2022-08-30 12:08:17
-
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-30 09:08:01
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Vegan Turmeric Lemon Chia Seed Cake](https://veganlovlie.com/vegan-turmeric-lemon-chia-seed-cake/)**  2022-08-30 01:04:24
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[My Second Sabbatical](https://davidandjennilyn.com/2022/08/28/my-second-sabbatical/)**  2022-08-29 05:01:35
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-23 16:14:56
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Hit and miss](https://priscimon.com/blog/2022/08/22/hit-and-miss/)**  2022-08-22 23:11:27
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Smother](https://faustianmatters.blogspot.com/2022/08/smother.html)**  2022-08-22 15:23:52
