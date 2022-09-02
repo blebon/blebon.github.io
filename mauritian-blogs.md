@@ -4,20 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Lord Ganesh; a lesson in taming one’s ego](https://www.lemauricien.com/le-mauricien/lord-ganesh-a-lesson-in-taming-ones-ego/511214/)**  2022-09-01 10:45:50
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[Guru ji 🙏](https://flicenflac.blogspot.com/2022/09/guru-ji.html)**  2022-09-02 05:07:39
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Antony completes move from Ajax](https://ritesh2103.wordpress.com/2022/09/01/antony-completes-move-from-ajax/)**  2022-09-01 10:34:44
+**[Red Devils outfox the Foxes](https://ritesh2103.wordpress.com/2022/09/02/red-devils-outfox-the-foxes/)**  2022-09-01 22:09:12
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[We need a more sophisticated idea of what it means to be a citizen](https://zoomdr.blogspot.com/2022/09/we-need-more-sophisticated-idea-of-what.html)**  2022-09-01 13:14:41
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Lord Ganesh; a lesson in taming one’s ego](https://www.lemauricien.com/le-mauricien/lord-ganesh-a-lesson-in-taming-ones-ego/511214/)**  2022-09-01 10:45:50
 
 [Veganlovlie](https://veganlovlie.com)  
 **[15 Yummy Vegan Eggplant Recipes (Vegan Aubergine Recipes)](https://veganlovlie.com/vegan-eggplant-recipes-aubergine/)**  2022-09-01 00:37:16
 
 [priscimon.com](https://priscimon.com/blog)  
 **[The FG-20 must go](https://priscimon.com/blog/2022/08/31/the-fg-20-must-go/)**  2022-08-31 19:43:18
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[What's in "where are you from?”](https://zoomdr.blogspot.com/2022/08/whats-in-where-are-you-from.html)**  2022-08-31 10:11:24
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Discussing Electoral Reform With ReA](http://kozelidir.blogspot.com/2022/08/discussing-electoral-reform-with-rea.html)**  2022-08-31 06:44:26
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[My Second Sabbatical](https://davidandjennilyn.com/2022/08/28/my-second-sabbatical/)**  2022-08-29 05:01:35
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[9c3ce5341c659b4694e658b07180e439 (MD5)](https://flicenflac.blogspot.com/2022/08/9c3ce5341c659b4694e658b07180e439-md5.html)**  2022-08-29 04:32:04
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 22e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/08/homelie-pour-le-22e-dimanche-du-toc.html)**  2022-08-28 17:51:10
