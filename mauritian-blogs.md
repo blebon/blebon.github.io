@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Corinne Forest, « une experte modèle du patrimoine pour tout le continent africain »](https://www.lemauricien.com/opinions/forum/corinne-forest-une-experte-modele-du-patrimoine-pour-tout-le-continent-africain/511407/)**  2022-09-02 13:30:12
+
 [Blog trotteur](https://patoutafeca.blogspot.com/)  
 **[ES6 exemple simple: Async, Await, Fetch, Then](https://patoutafeca.blogspot.com/2022/09/es6-exemple-simple-async-await-fetch.html)**  2022-09-02 07:57:38
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[We need a more sophisticated idea of what it means to be a citizen](https://zoomdr.blogspot.com/2022/09/we-need-more-sophisticated-idea-of-what.html)**  2022-09-01 13:14:41
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Lord Ganesh; a lesson in taming one’s ego](https://www.lemauricien.com/le-mauricien/lord-ganesh-a-lesson-in-taming-ones-ego/511214/)**  2022-09-01 10:45:50
 
 [Veganlovlie](https://veganlovlie.com)  
 **[15 Yummy Vegan Eggplant Recipes (Vegan Aubergine Recipes)](https://veganlovlie.com/vegan-eggplant-recipes-aubergine/)**  2022-09-01 00:37:16
