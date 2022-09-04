@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Corinne Forest, « une experte modèle du patrimoine pour tout le continent africain »](https://www.lemauricien.com/opinions/forum/corinne-forest-une-experte-modele-du-patrimoine-pour-tout-le-continent-africain/511407/)**  2022-09-02 13:30:12
+**[Coeur rouge de Paris](https://www.lemauricien.com/le-mauricien/coeur-rouge-de-paris/511555/)**  2022-09-03 11:55:35
 
 [Blog trotteur](https://patoutafeca.blogspot.com/)  
 **[ES6 exemple simple: Async, Await, Fetch, Then](https://patoutafeca.blogspot.com/2022/09/es6-exemple-simple-async-await-fetch.html)**  2022-09-02 07:57:38
