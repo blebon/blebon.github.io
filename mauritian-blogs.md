@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils gun down Arsenal](https://ritesh2103.wordpress.com/2022/09/04/red-devils-gun-down-arsenal-2/)**  2022-09-04 19:11:43
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Coeur rouge de Paris](https://www.lemauricien.com/le-mauricien/coeur-rouge-de-paris/511555/)**  2022-09-03 11:55:35
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Guru ji 🙏](https://flicenflac.blogspot.com/2022/09/guru-ji.html)**  2022-09-02 05:07:39
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils outfox the Foxes](https://ritesh2103.wordpress.com/2022/09/02/red-devils-outfox-the-foxes/)**  2022-09-01 22:09:12
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[We need a more sophisticated idea of what it means to be a citizen](https://zoomdr.blogspot.com/2022/09/we-need-more-sophisticated-idea-of-what.html)**  2022-09-01 13:14:41
