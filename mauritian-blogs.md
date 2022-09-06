@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[19th CENTURY HISTORY &#124; From Jacotet Bay to Grand Port…](https://www.lemauricien.com/le-mauricien/19th-century-history-from-jacotet-bay-to-grand-port/511849/)**  2022-09-05 13:31:32
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[The ethnic and cultural base of Mauritius](https://relocationmauritius.wordpress.com/2022/09/05/the-ethnic-and-cultural-base-of-mauritius/)**  2022-09-05 12:06:14
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils gun down Arsenal](https://ritesh2103.wordpress.com/2022/09/04/red-devils-gun-down-arsenal-2/)**  2022-09-04 19:11:43
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Coeur rouge de Paris](https://www.lemauricien.com/le-mauricien/coeur-rouge-de-paris/511555/)**  2022-09-03 11:55:35
 
 [Blog trotteur](https://patoutafeca.blogspot.com/)  
 **[ES6 exemple simple: Async, Await, Fetch, Then](https://patoutafeca.blogspot.com/2022/09/es6-exemple-simple-async-await-fetch.html)**  2022-09-02 07:57:38
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Smother](https://faustianmatters.blogspot.com/2022/08/smother.html)**  2022-08-22 15:23:52
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Is it really interesting to invest in Mauritius?](https://relocationmauritius.wordpress.com/2022/08/19/is-it-really-interesting-to-invest-in-mauritius/)**  2022-08-19 12:00:19
 
 [turbine.mu](https://turbine.mu)  
 **[Five Key Factors that lead to Successful Startups￼](https://turbine.mu/2022/08/19/key-factors-leading-to-success/)**  2022-08-19 10:09:42
