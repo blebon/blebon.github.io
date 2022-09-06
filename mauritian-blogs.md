@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Kazuo Inamori: Lessons from one enlightened entrepreneur](https://zoomdr.blogspot.com/2022/09/kazuo-inamori-lessons-from-one.html)**  2022-09-06 10:43:23
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[19th CENTURY HISTORY &#124; From Jacotet Bay to Grand Port…](https://www.lemauricien.com/le-mauricien/19th-century-history-from-jacotet-bay-to-grand-port/511849/)**  2022-09-05 13:31:32
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Guru ji 🙏](https://flicenflac.blogspot.com/2022/09/guru-ji.html)**  2022-09-02 05:07:39
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[We need a more sophisticated idea of what it means to be a citizen](https://zoomdr.blogspot.com/2022/09/we-need-more-sophisticated-idea-of-what.html)**  2022-09-01 13:14:41
 
 [Veganlovlie](https://veganlovlie.com)  
 **[15 Yummy Vegan Eggplant Recipes (Vegan Aubergine Recipes)](https://veganlovlie.com/vegan-eggplant-recipes-aubergine/)**  2022-09-01 00:37:16
