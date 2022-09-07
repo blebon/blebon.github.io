@@ -5,7 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Report By CSFX Experts – 06 September 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/report-by-csfx-experts-06-september-2022.html)**  2022-09-06 15:50:34
+**[Fundamental Analysis – 07 September 2022 &#124; Capital Street fx](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/fundamental-analysis-07-september-2022.html)**  2022-09-07 11:40:00
+
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[2022 RA Exams](https://3b8mars.org/2022/09/07/2022-ra-exams/)**  2022-09-07 08:27:20
+
+[Veganlovlie](https://veganlovlie.com)  
+**[Tandoori Tofu Scramble](https://veganlovlie.com/tandoori-tofu-scramble/)**  2022-09-07 08:10:46
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Kazuo Inamori: Lessons from one enlightened entrepreneur](https://zoomdr.blogspot.com/2022/09/kazuo-inamori-lessons-from-one.html)**  2022-09-06 10:43:23
@@ -24,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Guru ji 🙏](https://flicenflac.blogspot.com/2022/09/guru-ji.html)**  2022-09-02 05:07:39
-
-[Veganlovlie](https://veganlovlie.com)  
-**[15 Yummy Vegan Eggplant Recipes (Vegan Aubergine Recipes)](https://veganlovlie.com/vegan-eggplant-recipes-aubergine/)**  2022-09-01 00:37:16
 
 [priscimon.com](https://priscimon.com/blog)  
 **[The FG-20 must go](https://priscimon.com/blog/2022/08/31/the-fg-20-must-go/)**  2022-08-31 19:43:18
@@ -72,9 +75,6 @@ permalink: /mauritian-blogs/
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Updates on parcel imports via online shopping](https://yashvinblogs.com/2022/08/12/online-shopping-google-home-hub/)**  2022-08-12 12:16:16
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[Important Dates](https://3b8mars.org/2022/08/11/important-dates/)**  2022-08-11 19:13:28
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 22 Worked Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-07 16:37:31
