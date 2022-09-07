@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Report By CSFX Experts – 06 September 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/report-by-csfx-experts-06-september-2022.html)**  2022-09-06 15:50:34
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Kazuo Inamori: Lessons from one enlightened entrepreneur](https://zoomdr.blogspot.com/2022/09/kazuo-inamori-lessons-from-one.html)**  2022-09-06 10:43:23
 
@@ -78,9 +81,6 @@ permalink: /mauritian-blogs/
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Elasmobranches dans les Mascareignes](https://greenmauritius.blogspot.com/2022/07/elasmobranches-dans-les-mascareignes.html)**  2022-08-01 06:22:38
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[TECHNICAL ANALYSIS REPORT – 27 JULY 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/07/technical-analysis-report-27-july-2022.html)**  2022-07-27 14:20:19
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[The End (almost!)](https://mymauritiangarden.wordpress.com/2022/07/21/the-end-almost/)**  2022-07-21 09:45:04
