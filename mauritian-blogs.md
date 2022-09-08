@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
+**[”I am raising a vegan child”…](https://meeraappadoo.wordpress.com/2022/09/08/i-am-raising-a-vegan-child/)**  2022-09-08 11:26:34
+
+[Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
+**[Camunda Chapter: Mauritius – First online meetup](https://lovvy.wordpress.com/2022/09/08/camunda-chapter-mauritius-first-online-meetup/)**  2022-09-08 10:31:26
+
+[Capital Street Fx](https://capital-streetfx.blogspot.com/)  
+**[What Is Fundamental Analysis? – Capital Street Fx](https://capital-streetfx.blogspot.com/2022/09/what-is-fundamental-analysis-capital.html)**  2022-09-08 10:18:27
+
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Le canapé](https://c-est-reparti.blogspot.com/2022/09/le-canape.html)**  2022-09-07 22:05:49
 
@@ -145,9 +154,6 @@ permalink: /mauritian-blogs/
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[#PutinsWar in Ukraine...Fossil Fuel War With The Climate Losing](https://insel-rodrigues.blogspot.com/2022/03/putinswar-in-ukrainefossil-fuel-war.html)**  2022-03-21 11:43:21
 
-[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
-**[Covid 19: Not a big enough wake up call?](https://meeraappadoo.wordpress.com/2022/03/20/covid-19-not-a-big-enough-wake-up-call/)**  2022-03-20 21:50:38
-
 [St James Cathedral, Anglican Diocese of Mauritius / cathédrale st james, diocese anglican de maurice](https://stjamescathedralmau.wordpress.com)  
 **[Lettre pastorale carême 2022](https://stjamescathedralmau.wordpress.com/2022/03/11/lettre-pastorale-careme-2022/)**  2022-03-11 19:12:05
 
@@ -156,9 +162,6 @@ permalink: /mauritian-blogs/
 
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[Salmi: origine et decouverte(s)](https://petitpotagerilemaurice.blogspot.com/2022/02/salmi-origine-et-decouvertes.html)**  2022-02-20 10:18:07
-
-[Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
-**[The Story of Two Birds](https://lovvy.wordpress.com/2022/02/17/the-story-of-two-birds/)**  2022-02-17 17:11:59
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The Power of the Dog, the power to enchant](https://tchombo.blogspot.com/2022/02/the-power-of-dog-power-to-enchant.html)**  2022-02-17 10:39:56
