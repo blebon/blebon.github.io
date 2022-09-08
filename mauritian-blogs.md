@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[C'est reparti !](https://c-est-reparti.blogspot.com/)  
+**[Le canapé](https://c-est-reparti.blogspot.com/2022/09/le-canape.html)**  2022-09-07 22:05:49
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Les bahá’ís persécutés en Iran](https://www.lemauricien.com/le-mauricien/les-bahais-persecutes-en-iran/512199/)**  2022-09-07 13:00:42
+
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Fundamental Analysis – 07 September 2022 &#124; Capital Street fx](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/fundamental-analysis-07-september-2022.html)**  2022-09-07 11:40:00
 
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Kazuo Inamori: Lessons from one enlightened entrepreneur](https://zoomdr.blogspot.com/2022/09/kazuo-inamori-lessons-from-one.html)**  2022-09-06 10:43:23
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[19th CENTURY HISTORY &#124; From Jacotet Bay to Grand Port…](https://www.lemauricien.com/le-mauricien/19th-century-history-from-jacotet-bay-to-grand-port/511849/)**  2022-09-05 13:31:32
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The ethnic and cultural base of Mauritius](https://relocationmauritius.wordpress.com/2022/09/05/the-ethnic-and-cultural-base-of-mauritius/)**  2022-09-05 12:06:14
@@ -114,9 +117,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Loch, Victoria](https://littleanantasin.wordpress.com/2022/06/19/loch-victoria/)**  2022-06-19 05:05:12
-
-[C'est reparti !](https://c-est-reparti.blogspot.com/)  
-**[Je suis fatiguée](https://c-est-reparti.blogspot.com/2022/06/je-suis-fatiguee.html)**  2022-06-09 20:20:27
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[I rest my case For or Against the Quattronity  at the foot of the Cross Where the love of Jesus and His Mother Mary is Found](https://lleclezio.blogspot.com/2022/06/i-rest-my-case-for-or-against.html)**  2022-06-07 06:51:08
