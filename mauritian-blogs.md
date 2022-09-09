@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils slip up in Europa League opener](https://ritesh2103.wordpress.com/2022/09/09/red-devils-slip-up-in-europa-league-opener/)**  2022-09-09 06:53:02
+
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[Petites réponses](https://c-est-reparti.blogspot.com/2022/09/petites-reponses.html)**  2022-09-08 21:56:10
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The ethnic and cultural base of Mauritius](https://relocationmauritius.wordpress.com/2022/09/05/the-ethnic-and-cultural-base-of-mauritius/)**  2022-09-05 12:06:14
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils gun down Arsenal](https://ritesh2103.wordpress.com/2022/09/04/red-devils-gun-down-arsenal-2/)**  2022-09-04 19:11:43
 
 [Blog trotteur](https://patoutafeca.blogspot.com/)  
 **[ES6 exemple simple: Async, Await, Fetch, Then](https://patoutafeca.blogspot.com/2022/09/es6-exemple-simple-async-await-fetch.html)**  2022-09-02 07:57:38
