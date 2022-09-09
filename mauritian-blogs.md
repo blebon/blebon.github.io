@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[C'est reparti !](https://c-est-reparti.blogspot.com/)  
+**[Petites réponses](https://c-est-reparti.blogspot.com/2022/09/petites-reponses.html)**  2022-09-08 21:56:10
+
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[”I am raising a vegan child”…](https://meeraappadoo.wordpress.com/2022/09/08/i-am-raising-a-vegan-child/)**  2022-09-08 11:26:34
 
@@ -13,11 +16,8 @@ permalink: /mauritian-blogs/
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What Is Fundamental Analysis? – Capital Street Fx](https://capital-streetfx.blogspot.com/2022/09/what-is-fundamental-analysis-capital.html)**  2022-09-08 10:18:27
 
-[C'est reparti !](https://c-est-reparti.blogspot.com/)  
-**[Le canapé](https://c-est-reparti.blogspot.com/2022/09/le-canape.html)**  2022-09-07 22:05:49
-
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Les bahá’ís persécutés en Iran](https://www.lemauricien.com/le-mauricien/les-bahais-persecutes-en-iran/512199/)**  2022-09-07 13:00:42
+**[PUBLIC HEALTH – Clampdown on Specialists: The Ministry’s Bloody Mistake](https://www.lemauricien.com/le-mauricien/public-health-clampdown-on-specialists-the-ministrys-bloody-mistake/512335/)**  2022-09-08 07:53:05
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Fundamental Analysis – 07 September 2022 &#124; Capital Street fx](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/fundamental-analysis-07-september-2022.html)**  2022-09-07 11:40:00
