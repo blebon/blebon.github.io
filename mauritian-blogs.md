@@ -4,6 +4,18 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[Vegan Pumpkin Doughnuts](https://veganlovlie.com/vegan-pumpkin-doughnuts/)**  2022-09-10 01:56:43
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Fête du Père Laval (09/09)](https://josephnguyenmahebourg.blogspot.com/2022/09/fete-du-pere-laval-0909.html)**  2022-09-09 20:00:46
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Et si l’Union soviétique existait encore…](https://www.lemauricien.com/le-mauricien/et-si-lunion-sovietique-existait-encore/512610/)**  2022-09-09 13:00:49
+
+[Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
+**[Flea Market Scrabble](http://gadatagada-portfolio.blogspot.com/2022/09/uk.html)**  2022-09-09 12:15:37
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils slip up in Europa League opener](https://ritesh2103.wordpress.com/2022/09/09/red-devils-slip-up-in-europa-league-opener/)**  2022-09-09 06:53:02
 
@@ -19,17 +31,11 @@ permalink: /mauritian-blogs/
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What Is Fundamental Analysis? – Capital Street Fx](https://capital-streetfx.blogspot.com/2022/09/what-is-fundamental-analysis-capital.html)**  2022-09-08 10:18:27
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[PUBLIC HEALTH – Clampdown on Specialists: The Ministry’s Bloody Mistake](https://www.lemauricien.com/le-mauricien/public-health-clampdown-on-specialists-the-ministrys-bloody-mistake/512335/)**  2022-09-08 07:53:05
-
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Fundamental Analysis – 07 September 2022 &#124; Capital Street fx](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/fundamental-analysis-07-september-2022.html)**  2022-09-07 11:40:00
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[2022 RA Exams](https://3b8mars.org/2022/09/07/2022-ra-exams/)**  2022-09-07 08:27:20
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Tandoori Tofu Scramble](https://veganlovlie.com/tandoori-tofu-scramble/)**  2022-09-07 08:10:46
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Kazuo Inamori: Lessons from one enlightened entrepreneur](https://zoomdr.blogspot.com/2022/09/kazuo-inamori-lessons-from-one.html)**  2022-09-06 10:43:23
@@ -54,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[My Second Sabbatical](https://davidandjennilyn.com/2022/08/28/my-second-sabbatical/)**  2022-08-29 05:01:35
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 22e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/08/homelie-pour-le-22e-dimanche-du-toc.html)**  2022-08-28 17:51:10
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LE PETIT MENU DU MIDI À LA CLEF DES CHAMPS](https://mysweetmauritius.blogspot.com/2022/08/le-petit-menu-du-midi-la-clef-des-champs.html)**  2022-08-27 14:05:01
