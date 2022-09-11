@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Bike and Run with Jack and Jake](https://davidandjennilyn.com/2022/09/10/bike-and-run-with-jack-and-jake/)**  2022-09-10 22:36:19
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[LOVE AND HAPPINESS](https://www.lemauricien.com/le-mauricien/love-and-happiness/512780/)**  2022-09-10 13:01:41
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Vegan Pumpkin Doughnuts](https://veganlovlie.com/vegan-pumpkin-doughnuts/)**  2022-09-10 01:56:43
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Fête du Père Laval (09/09)](https://josephnguyenmahebourg.blogspot.com/2022/09/fete-du-pere-laval-0909.html)**  2022-09-09 20:00:46
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Et si l’Union soviétique existait encore…](https://www.lemauricien.com/le-mauricien/et-si-lunion-sovietique-existait-encore/512610/)**  2022-09-09 13:00:49
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[Flea Market Scrabble](http://gadatagada-portfolio.blogspot.com/2022/09/uk.html)**  2022-09-09 12:15:37
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-30 09:08:01
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[My Second Sabbatical](https://davidandjennilyn.com/2022/08/28/my-second-sabbatical/)**  2022-08-29 05:01:35
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LE PETIT MENU DU MIDI À LA CLEF DES CHAMPS](https://mysweetmauritius.blogspot.com/2022/08/le-petit-menu-du-midi-la-clef-des-champs.html)**  2022-08-27 14:05:01
