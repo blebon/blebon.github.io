@@ -4,17 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 24e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/09/homelie-pour-le-24e-dimanche-du-toc.html)**  2022-09-11 07:30:00
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Bike and Run with Jack and Jake](https://davidandjennilyn.com/2022/09/10/bike-and-run-with-jack-and-jake/)**  2022-09-10 22:36:19
+
+[ever peckish](https://everpeckish.com)  
+**[Spiced scrambled eggs with coriander yogurt](https://everpeckish.com/spiced-scrambled-eggs-with-coriander-yogurt/?utm_source=rss&utm_medium=rss&utm_campaign=spiced-scrambled-eggs-with-coriander-yogurt)**  2022-09-10 18:52:19
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LOVE AND HAPPINESS](https://www.lemauricien.com/le-mauricien/love-and-happiness/512780/)**  2022-09-10 13:01:41
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Vegan Pumpkin Doughnuts](https://veganlovlie.com/vegan-pumpkin-doughnuts/)**  2022-09-10 01:56:43
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Fête du Père Laval (09/09)](https://josephnguyenmahebourg.blogspot.com/2022/09/fete-du-pere-laval-0909.html)**  2022-09-09 20:00:46
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[Flea Market Scrabble](http://gadatagada-portfolio.blogspot.com/2022/09/uk.html)**  2022-09-09 12:15:37
@@ -114,9 +117,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Do not touch !](http://gadatagada.blogspot.com/2022/07/do-not-touch.html)**  2022-07-08 06:34:42
-
-[ever peckish](https://everpeckish.com)  
-**[Ever Peckish- from food diary to baking business](https://everpeckish.com/ever-peckish-from-food-diary-to-baking-business/?utm_source=rss&utm_medium=rss&utm_campaign=ever-peckish-from-food-diary-to-baking-business)**  2022-06-30 20:09:24
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Lack of Veterinarians in Mauritius](https://facultyagriculture.blogspot.com/2022/06/lack-of-veterinarians-in-mauritius.html)**  2022-06-29 13:22:44
