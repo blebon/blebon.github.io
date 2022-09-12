@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[CURE WITH LOVE AND CARE](https://www.lemauricien.com/opinions/forum/cure-with-love-and-care/513111/)**  2022-09-12 09:49:39
+
 [Dave Appadoo](https://daveappadoo.com/)  
 **[How to use Hugging Face🤗& Gradio to create simple Machine Learning (ML) projects](https://daveappadoo.com/how-to-use-hugging-face-gradio-to-create-simple-machine-learning-ml-projects/)**  2022-09-11 19:20:43
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Spiced scrambled eggs with coriander yogurt](https://everpeckish.com/spiced-scrambled-eggs-with-coriander-yogurt/?utm_source=rss&utm_medium=rss&utm_campaign=spiced-scrambled-eggs-with-coriander-yogurt)**  2022-09-10 18:52:19
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LOVE AND HAPPINESS](https://www.lemauricien.com/le-mauricien/love-and-happiness/512780/)**  2022-09-10 13:01:41
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Vegan Pumpkin Doughnuts](https://veganlovlie.com/vegan-pumpkin-doughnuts/)**  2022-09-10 01:56:43
