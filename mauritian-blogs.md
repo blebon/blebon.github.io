@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[CURE WITH LOVE AND CARE](https://www.lemauricien.com/opinions/forum/cure-with-love-and-care/513111/)**  2022-09-12 09:49:39
+**[Ce Fou De Malcolm](https://www.lemauricien.com/le-mauricien/ce-fou-de-malcolm/513174/)**  2022-09-12 13:06:47
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[How to use Hugging Face🤗& Gradio to create simple Machine Learning (ML) projects](https://daveappadoo.com/how-to-use-hugging-face-gradio-to-create-simple-machine-learning-ml-projects/)**  2022-09-11 19:20:43
