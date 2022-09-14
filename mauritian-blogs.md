@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Breakfast Buffet at Constance Hotels & Resorts](https://blog.constancehotels.com/breakfast-buffet-at-constance-hotels-resorts/)**  2022-09-14 10:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Apprendre à vivre ensemble,  clé de voûte de l’éducation](https://www.lemauricien.com/le-mauricien/apprendre-a-vivre-ensemble-cle-de-voute-de-leducation/513399/)**  2022-09-13 12:44:17
 
@@ -69,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LE PETIT MENU DU MIDI À LA CLEF DES CHAMPS](https://mysweetmauritius.blogspot.com/2022/08/le-petit-menu-du-midi-la-clef-des-champs.html)**  2022-08-27 14:05:01
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[How To Stay Fit and Healthy On Your Island Getaway](https://blog.constancehotels.com/how-to-stay-fit-and-healthy-on-your-island-getaway/)**  2022-08-26 09:17:31
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Flowers in Circles](https://swanlady-impressions.blogspot.com/2022/08/flowers-in-circles.html)**  2022-08-25 18:00:40
