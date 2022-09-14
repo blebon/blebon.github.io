@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Ce Fou De Malcolm](https://www.lemauricien.com/le-mauricien/ce-fou-de-malcolm/513174/)**  2022-09-12 13:06:47
+**[Apprendre à vivre ensemble,  clé de voûte de l’éducation](https://www.lemauricien.com/le-mauricien/apprendre-a-vivre-ensemble-cle-de-voute-de-leducation/513399/)**  2022-09-13 12:44:17
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[How to use Hugging Face🤗& Gradio to create simple Machine Learning (ML) projects](https://daveappadoo.com/how-to-use-hugging-face-gradio-to-create-simple-machine-learning-ml-projects/)**  2022-09-11 19:20:43
