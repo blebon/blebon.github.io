@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Breakfast Buffet at Constance Hotels & Resorts](https://blog.constancehotels.com/breakfast-buffet-at-constance-hotels-resorts/)**  2022-09-14 10:00:00
+[C'est reparti !](https://c-est-reparti.blogspot.com/)  
+**[La lune qui nous berce](https://c-est-reparti.blogspot.com/2022/09/la-lune-qui-nous-berce.html)**  2022-09-14 20:38:52
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Apprendre à vivre ensemble,  clé de voûte de l’éducation](https://www.lemauricien.com/le-mauricien/apprendre-a-vivre-ensemble-cle-de-voute-de-leducation/513399/)**  2022-09-13 12:44:17
+**[Extended Stream – the Grade 9+ students passing the NCE Exams…](https://www.lemauricien.com/le-mauricien/extended-stream-the-grade-9-students-passing-the-nce-exams/513530/)**  2022-09-14 13:00:47
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Breakfast Buffet at Constance Hotels & Resorts](https://blog.constancehotels.com/breakfast-buffet-at-constance-hotels-resorts/)**  2022-09-14 10:00:00
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[How to use Hugging Face🤗& Gradio to create simple Machine Learning (ML) projects](https://daveappadoo.com/how-to-use-hugging-face-gradio-to-create-simple-machine-learning-ml-projects/)**  2022-09-11 19:20:43
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils slip up in Europa League opener](https://ritesh2103.wordpress.com/2022/09/09/red-devils-slip-up-in-europa-league-opener/)**  2022-09-09 06:53:02
-
-[C'est reparti !](https://c-est-reparti.blogspot.com/)  
-**[Petites réponses](https://c-est-reparti.blogspot.com/2022/09/petites-reponses.html)**  2022-09-08 21:56:10
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[”I am raising a vegan child”…](https://meeraappadoo.wordpress.com/2022/09/08/i-am-raising-a-vegan-child/)**  2022-09-08 11:26:34
