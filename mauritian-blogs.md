@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[MARS Busy Month](https://3b8mars.org/2022/09/15/mars-busy-month/)**  2022-09-15 08:19:07
+
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[La lune qui nous berce](https://c-est-reparti.blogspot.com/2022/09/la-lune-qui-nous-berce.html)**  2022-09-14 20:38:52
 
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Fundamental Analysis – 07 September 2022 &#124; Capital Street fx](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/fundamental-analysis-07-september-2022.html)**  2022-09-07 11:40:00
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[2022 RA Exams](https://3b8mars.org/2022/09/07/2022-ra-exams/)**  2022-09-07 08:27:20
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Kazuo Inamori: Lessons from one enlightened entrepreneur](https://zoomdr.blogspot.com/2022/09/kazuo-inamori-lessons-from-one.html)**  2022-09-06 10:43:23
