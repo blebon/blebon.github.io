@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Sheriff is jailed](https://ritesh2103.wordpress.com/2022/09/15/sheriff-is-jailed/)**  2022-09-15 19:52:11
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The Political Cauldron Overheating about to explode ?](https://www.lemauricien.com/le-mauricien/the-political-cauldron-overheating-about-to-explode/513657/)**  2022-09-15 13:00:19
+
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[MARS Busy Month](https://3b8mars.org/2022/09/15/mars-busy-month/)**  2022-09-15 08:19:07
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[La lune qui nous berce](https://c-est-reparti.blogspot.com/2022/09/la-lune-qui-nous-berce.html)**  2022-09-14 20:38:52
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Extended Stream – the Grade 9+ students passing the NCE Exams…](https://www.lemauricien.com/le-mauricien/extended-stream-the-grade-9-students-passing-the-nce-exams/513530/)**  2022-09-14 13:00:47
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Breakfast Buffet at Constance Hotels & Resorts](https://blog.constancehotels.com/breakfast-buffet-at-constance-hotels-resorts/)**  2022-09-14 10:00:00
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[Flea Market Scrabble](http://gadatagada-portfolio.blogspot.com/2022/09/uk.html)**  2022-09-09 12:15:37
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils slip up in Europa League opener](https://ritesh2103.wordpress.com/2022/09/09/red-devils-slip-up-in-europa-league-opener/)**  2022-09-09 06:53:02
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[”I am raising a vegan child”…](https://meeraappadoo.wordpress.com/2022/09/08/i-am-raising-a-vegan-child/)**  2022-09-08 11:26:34
