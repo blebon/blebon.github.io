@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Lalla Fatma N’Soumer, la résistante kabyle qui défia l’armée coloniale française](https://zoomdr.blogspot.com/2022/09/lalla-fatma-nsoumer-la-resistante.html)**  2022-09-16 10:00:11
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Sheriff is jailed](https://ritesh2103.wordpress.com/2022/09/15/sheriff-is-jailed/)**  2022-09-15 19:52:11
 
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Fundamental Analysis – 07 September 2022 &#124; Capital Street fx](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/fundamental-analysis-07-september-2022.html)**  2022-09-07 11:40:00
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Kazuo Inamori: Lessons from one enlightened entrepreneur](https://zoomdr.blogspot.com/2022/09/kazuo-inamori-lessons-from-one.html)**  2022-09-06 10:43:23
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The ethnic and cultural base of Mauritius](https://relocationmauritius.wordpress.com/2022/09/05/the-ethnic-and-cultural-base-of-mauritius/)**  2022-09-05 12:06:14
