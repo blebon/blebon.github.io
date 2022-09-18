@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[122nd Birth Anniversary of SSR – In his very own words…](https://www.lemauricien.com/le-mauricien/122th-birth-anniversary-of-ssr-in-his-very-own-words/514137/)**  2022-09-17 12:24:46
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Apple Carrot Chutney Recipe](https://veganlovlie.com/apple-carrot-chutney-recipe/)**  2022-09-16 23:15:17
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’impossible révolution mauricienne…](https://www.lemauricien.com/le-mauricien/limpossible-revolution-mauricienne/513772/)**  2022-09-16 13:00:45
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Lalla Fatma N’Soumer, la résistante kabyle qui défia l’armée coloniale française](https://zoomdr.blogspot.com/2022/09/lalla-fatma-nsoumer-la-resistante.html)**  2022-09-16 10:00:11
