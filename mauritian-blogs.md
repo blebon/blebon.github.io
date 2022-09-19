@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[Class A and Class B Examination](https://3b8mars.org/2022/09/18/class-a-and-class-b-examination/)**  2022-09-18 15:30:14
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Vegan Pumpkin Samosas](https://veganlovlie.com/vegan-pumpkin-samosas-recipe/)**  2022-09-18 09:48:38
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Sheriff is jailed](https://ritesh2103.wordpress.com/2022/09/15/sheriff-is-jailed/)**  2022-09-15 19:52:11
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[MARS Busy Month](https://3b8mars.org/2022/09/15/mars-busy-month/)**  2022-09-15 08:19:07
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[La lune qui nous berce](https://c-est-reparti.blogspot.com/2022/09/la-lune-qui-nous-berce.html)**  2022-09-14 20:38:52
