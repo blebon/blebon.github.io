@@ -7,6 +7,9 @@ permalink: /mauritian-blogs/
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 25e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/09/homelie-pour-le-25e-dimanche-du-toc.html)**  2022-09-19 19:05:25
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[HER MAJESTY QUEEN ELIZABETH II](https://www.lemauricien.com/le-mauricien/her-majesty-queen-elizabeth-ii/514791/)**  2022-09-19 13:00:24
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2022/09/19/owning-a-business-in-mauritius/)**  2022-09-19 10:35:06
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Vegan Pumpkin Samosas](https://veganlovlie.com/vegan-pumpkin-samosas-recipe/)**  2022-09-18 09:48:38
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[122nd Birth Anniversary of SSR – In his very own words…](https://www.lemauricien.com/le-mauricien/122th-birth-anniversary-of-ssr-in-his-very-own-words/514137/)**  2022-09-17 12:24:46
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Lalla Fatma N’Soumer, la résistante kabyle qui défia l’armée coloniale française](https://zoomdr.blogspot.com/2022/09/lalla-fatma-nsoumer-la-resistante.html)**  2022-09-16 10:00:11
