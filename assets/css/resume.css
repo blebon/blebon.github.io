@@ -22,6 +22,10 @@ body {
   margin:0;
 }
 
+strong {
+  font-weight: 700;
+}
+
 h1, h2, h3, h4, ul dl dt {
   font-family: 'Times',serif;
 }
