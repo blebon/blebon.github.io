@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Bruno Lebon | CFD Engineer
+title: Resume
 permalink: /resume/
 ---
 
