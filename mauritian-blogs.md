@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
+**[Technical and Fundamental Report on – Forex, Index, Crypto, Commodity – 21 September 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/technical-and-fundamental-report-on.html)**  2022-09-21 10:26:33
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Dusk Till Dawn: What To Do At Sunset](https://blog.constancehotels.com/dusk-till-dawn-what-to-do-when-at-sunset%ef%bf%bc/)**  2022-09-21 09:10:42
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Tourel Tamarin](https://www.lemauricien.com/le-mauricien/tourel-tamarin/514919/)**  2022-09-20 13:46:57
 
@@ -28,9 +34,6 @@ permalink: /mauritian-blogs/
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[La lune qui nous berce](https://c-est-reparti.blogspot.com/2022/09/la-lune-qui-nous-berce.html)**  2022-09-14 20:38:52
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Breakfast Buffet at Constance Hotels & Resorts](https://blog.constancehotels.com/breakfast-buffet-at-constance-hotels-resorts/)**  2022-09-14 10:00:00
-
 [Dave Appadoo](https://daveappadoo.com/)  
 **[How to use Hugging Face🤗& Gradio to create simple Machine Learning (ML) projects](https://daveappadoo.com/how-to-use-hugging-face-gradio-to-create-simple-machine-learning-ml-projects/)**  2022-09-11 19:20:43
 
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What Is Fundamental Analysis? – Capital Street Fx](https://capital-streetfx.blogspot.com/2022/09/what-is-fundamental-analysis-capital.html)**  2022-09-08 10:18:27
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Fundamental Analysis – 07 September 2022 &#124; Capital Street fx](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/fundamental-analysis-07-september-2022.html)**  2022-09-07 11:40:00
 
 [Blog trotteur](https://patoutafeca.blogspot.com/)  
 **[ES6 exemple simple: Async, Await, Fetch, Then](https://patoutafeca.blogspot.com/2022/09/es6-exemple-simple-async-await-fetch.html)**  2022-09-02 07:57:38
