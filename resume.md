@@ -67,8 +67,8 @@ permalink: /resume/
 **Doctor of Philosophy** *Computational Fluid Dynamics* __2008 to 2011__    
 	University of Greenwich, London, United Kingdom
 
-**MSc** *Applied Mathematical Modelling and Scientific Computing* __2008 to 2011__    
+**MSc** *Applied Mathematical Modelling and Scientific Computing* __2006 to 2007__    
 	University of Greenwich, London, United Kingdom
 
-**BSc(Hons)** *Physics with Electronics* __2008 to 2011__    
+**BSc(Hons)** *Physics with Electronics* __2003 to 2006__    
 	University of Mauritius, Mauritius
