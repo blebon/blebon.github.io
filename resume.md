@@ -1,6 +1,7 @@
 ---
 layout: resume
 title: Resume
+permalink: /resume/
 ---
 
 # Bruno Lebon
