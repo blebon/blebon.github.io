@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Resume
+title: Bruno Lebon | CFD Engineer
 permalink: /resume/
 ---
 
@@ -52,15 +52,15 @@ permalink: /resume/
 ### Projects
 
 * **Cavitometer Deconvolve**    
-	<a href=https://pypi.org/project/cavitometer-deconvolve class=not-printed>https://pypi.org/project/cavitometer-deconvolve</a>    
+	[https://pypi.org/project/cavitometer-deconvolve](https://pypi.org/project/cavitometer-deconvolve)    
 	Python library to convert voltages to acoustic pressures. Validated by experiments in collaboration with the National Physical Laboratory (NPL).    
 
 * **acousticStreamingFoam**    
-	<a href=https://github.com/blebon/acousticStreamingFoam class=not-printed>https://github.com/blebon/acousticStreamingFoam</a>    
+	[https://github.com/blebon/acousticStreamingFoam](https://github.com/blebon/acousticStreamingFoam)    
 	OpenFOAM application for modelling acoustic streaming under a sonotrode. Validated with Particle Image Velocimetry experiments.    
 
 * **directChillFoam**    
-	<a href=https://github.com/blebon/directChillFoam class=not-printed>https://github.com/blebon/directChillFoam</a>    
+	[https://github.com/blebon/directChillFoam](https://github.com/blebon/directChillFoam)    
 	OpenFOAM application for modelling direct chill (DC) casting using a continuum mixture theory. Validated with DC casting experiments at BCAST.    
 
 ------
