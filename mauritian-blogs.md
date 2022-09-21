@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Tourel Tamarin](https://www.lemauricien.com/le-mauricien/tourel-tamarin/514919/)**  2022-09-20 13:46:57
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 25e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/09/homelie-pour-le-25e-dimanche-du-toc.html)**  2022-09-19 19:05:25
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[HER MAJESTY QUEEN ELIZABETH II](https://www.lemauricien.com/le-mauricien/her-majesty-queen-elizabeth-ii/514791/)**  2022-09-19 13:00:24
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2022/09/19/owning-a-business-in-mauritius/)**  2022-09-19 10:35:06
@@ -207,8 +207,5 @@ permalink: /mauritian-blogs/
 
 [How do I deal with a PCOS diagnosis?](https://htacha.blogspot.com/)  
 **[Cycle 20](https://htacha.blogspot.com/2021/11/cycle-20.html)**  2021-11-07 09:56:11
-
-[Celeborn](http://blog.atwin.org/)  
-**[Creating a user service on Linux](http://blog.atwin.org/2021/10/creating-user-service-on-linux.html)**  2021-10-20 04:31:13
 
 <div style="height:0;width:0;overflow:hidden;"></div>
