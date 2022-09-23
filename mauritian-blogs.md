@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[When the voice of the living is not enough](https://www.lemauricien.com/le-mauricien/when-the-voice-of-the-living-is-not-enough/515104/)**  2022-09-21 13:01:41
+**[ISM MAURITIUS : Towards the creation of a database on slave trade and slavery](https://www.lemauricien.com/le-mauricien/ism-mauritius-towards-the-creation-of-a-database-on-slave-trade-and-slavery/515423/)**  2022-09-22 13:00:39
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical and Fundamental Report on – Forex, Index, Crypto, Commodity – 21 September 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/technical-and-fundamental-report-on.html)**  2022-09-21 10:26:33
