@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ISM MAURITIUS : Towards the creation of a database on slave trade and slavery](https://www.lemauricien.com/le-mauricien/ism-mauritius-towards-the-creation-of-a-database-on-slave-trade-and-slavery/515423/)**  2022-09-22 13:00:39
+**[La sensibilité de Kavinash Thomoo par l’entremise de ses installations](https://www.lemauricien.com/le-mauricien/la-sensibilite-de-kavinash-thomoo-par-lentremise-de-ses-installations/515623/)**  2022-09-23 13:42:05
+
+[Amar](https://amarbheenick.blogspot.com/)  
+**[The Global Financial Centres Index 32](https://amarbheenick.blogspot.com/2022/09/the-global-financial-centres-index-32.html)**  2022-09-23 13:14:48
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical and Fundamental Report on – Forex, Index, Crypto, Commodity – 21 September 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/technical-and-fundamental-report-on.html)**  2022-09-21 10:26:33
@@ -108,9 +111,6 @@ permalink: /mauritian-blogs/
 
 [Spiritual in my life](https://spiritualinlife23.blogspot.com/)  
 **[Youtube shorts mere sai](https://spiritualinlife23.blogspot.com/2022/07/youtube-shorts-mere-sai_19.html)**  2022-07-19 20:22:42
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Zimbabwe’s Disappearing Gold: The Case of Mazowe and Penhalonga](https://amarbheenick.blogspot.com/2022/07/zimbabwes-disappearing-gold-case-of.html)**  2022-07-14 11:58:27
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Fact-checking articles by Journalism students](https://comstudies.wordpress.com/2022/07/14/fact-checking-articles-by-journalism-students/)**  2022-07-14 11:20:55
