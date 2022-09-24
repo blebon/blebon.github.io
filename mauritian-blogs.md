@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Why Ukraine Conflict Was Predictable](http://kozelidir.blogspot.com/2022/09/why-ukraine-conflict-was-predictable.html)**  2022-09-24 09:39:46
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[La sensibilité de Kavinash Thomoo par l’entremise de ses installations](https://www.lemauricien.com/le-mauricien/la-sensibilite-de-kavinash-thomoo-par-lentremise-de-ses-installations/515623/)**  2022-09-23 13:42:05
 
@@ -66,9 +69,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[The FG-20 must go](https://priscimon.com/blog/2022/08/31/the-fg-20-must-go/)**  2022-08-31 19:43:18
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Discussing Electoral Reform With ReA](http://kozelidir.blogspot.com/2022/08/discussing-electoral-reform-with-rea.html)**  2022-08-31 06:44:26
 
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-30 09:08:01
