@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Inspiration – Jour de Kalashtami au Ganesh Kovil Sangam, un moment en pleine conscience…](https://www.lemauricien.com/le-mauricien/inspiration-jour-de-kalashtami-au-ganesh-kovil-sangam-un-moment-en-pleine-conscience/515850/)**  2022-09-24 13:34:02
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Why Ukraine Conflict Was Predictable](http://kozelidir.blogspot.com/2022/09/why-ukraine-conflict-was-predictable.html)**  2022-09-24 09:39:46
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[La sensibilité de Kavinash Thomoo par l’entremise de ses installations](https://www.lemauricien.com/le-mauricien/la-sensibilite-de-kavinash-thomoo-par-lentremise-de-ses-installations/515623/)**  2022-09-23 13:42:05
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 32](https://amarbheenick.blogspot.com/2022/09/the-global-financial-centres-index-32.html)**  2022-09-23 13:14:48
