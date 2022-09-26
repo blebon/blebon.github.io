@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 26e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/09/homelie-pour-le-26e-dimanche-du-toc.html)**  2022-09-25 18:45:24
+
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 LE CHÂTEAU DE RICHE EN EAU](https://mysweetmauritius.blogspot.com/2022/09/le-chateau-de-riche-en-eau.html)**  2022-09-25 15:06:48
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Inspiration – Jour de Kalashtami au Ganesh Kovil Sangam, un moment en pleine conscience…](https://www.lemauricien.com/le-mauricien/inspiration-jour-de-kalashtami-au-ganesh-kovil-sangam-un-moment-en-pleine-conscience/515850/)**  2022-09-24 13:34:02
 
@@ -18,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Dusk Till Dawn: What To Do At Sunset](https://blog.constancehotels.com/dusk-till-dawn-what-to-do-when-at-sunset%ef%bf%bc/)**  2022-09-21 09:10:42
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 25e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/09/homelie-pour-le-25e-dimanche-du-toc.html)**  2022-09-19 19:05:25
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2022/09/19/owning-a-business-in-mauritius/)**  2022-09-19 10:35:06
@@ -72,9 +75,6 @@ permalink: /mauritian-blogs/
 
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-30 09:08:01
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 LE PETIT MENU DU MIDI À LA CLEF DES CHAMPS](https://mysweetmauritius.blogspot.com/2022/08/le-petit-menu-du-midi-la-clef-des-champs.html)**  2022-08-27 14:05:01
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Flowers in Circles](https://swanlady-impressions.blogspot.com/2022/08/flowers-in-circles.html)**  2022-08-25 18:00:40
