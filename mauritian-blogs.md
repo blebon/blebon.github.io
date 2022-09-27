@@ -10,6 +10,9 @@ permalink: /mauritian-blogs/
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Le système perdure parce que nous sommes gouvernés depuis des décennies par des corrompus"](https://zoomdr.blogspot.com/2022/09/le-systeme-perdure-parce-que-nous.html)**  2022-09-26 11:29:32
 
+[turbine.mu](https://turbine.mu)  
+**[Tips to prepare a Business Pitch to Investors](https://turbine.mu/2022/09/26/pitching-business-idea-to-investors/)**  2022-09-26 08:53:04
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 26e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/09/homelie-pour-le-26e-dimanche-du-toc.html)**  2022-09-25 18:45:24
 
@@ -93,9 +96,6 @@ permalink: /mauritian-blogs/
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Smother](https://faustianmatters.blogspot.com/2022/08/smother.html)**  2022-08-22 15:23:52
-
-[turbine.mu](https://turbine.mu)  
-**[Five Key Factors that lead to Successful Startups￼](https://turbine.mu/2022/08/19/key-factors-leading-to-success/)**  2022-08-19 10:09:42
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Updates on parcel imports via online shopping](https://yashvinblogs.com/2022/08/12/online-shopping-google-home-hub/)**  2022-08-12 12:16:16
