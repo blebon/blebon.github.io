@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Anou Koz Parol – 126 Literatir Kreol Morisien: 200 an lexistans deza](https://www.lemauricien.com/le-mauricien/anou-koz-parol-126-literatir-kreol-morisien-200-an-lexistans-deza/516174/)**  2022-09-26 13:14:32
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Le système perdure parce que nous sommes gouvernés depuis des décennies par des corrompus"](https://zoomdr.blogspot.com/2022/09/le-systeme-perdure-parce-que-nous.html)**  2022-09-26 11:29:32
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LE CHÂTEAU DE RICHE EN EAU](https://mysweetmauritius.blogspot.com/2022/09/le-chateau-de-riche-en-eau.html)**  2022-09-25 15:06:48
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Inspiration – Jour de Kalashtami au Ganesh Kovil Sangam, un moment en pleine conscience…](https://www.lemauricien.com/le-mauricien/inspiration-jour-de-kalashtami-au-ganesh-kovil-sangam-un-moment-en-pleine-conscience/515850/)**  2022-09-24 13:34:02
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Why Ukraine Conflict Was Predictable](http://kozelidir.blogspot.com/2022/09/why-ukraine-conflict-was-predictable.html)**  2022-09-24 09:39:46
