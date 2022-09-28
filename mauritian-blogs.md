@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Picture-Perfect Restaurants Worth The Wait](https://blog.constancehotels.com/picture-perfect-restaurants-worth-the-wait/)**  2022-09-28 08:10:55
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[A coward person](https://vintishgokool.blogspot.com/2022/09/a-coward-person.html)**  2022-09-27 15:33:19
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ASSAD BHUGLAH’s BOOK MAULANA ABDULLAH RASHID NAWAB](https://www.lemauricien.com/le-mauricien/assad-bhuglahs-book-maulana-abdullah-rashid-nawab/516326/)**  2022-09-27 13:00:44
+**[ASSAD BHUGLAH’s BOOK MAULANA ON ABDULLAH RASHID NAWAB](https://www.lemauricien.com/le-mauricien/assad-bhuglahs-book-maulana-abdullah-rashid-nawab/516326/)**  2022-09-27 13:00:44
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Le système perdure parce que nous sommes gouvernés depuis des décennies par des corrompus"](https://zoomdr.blogspot.com/2022/09/le-systeme-perdure-parce-que-nous.html)**  2022-09-26 11:29:32
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical and Fundamental Report on – Forex, Index, Crypto, Commodity – 21 September 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/technical-and-fundamental-report-on.html)**  2022-09-21 10:26:33
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Dusk Till Dawn: What To Do At Sunset](https://blog.constancehotels.com/dusk-till-dawn-what-to-do-when-at-sunset%ef%bf%bc/)**  2022-09-21 09:10:42
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2022/09/19/owning-a-business-in-mauritius/)**  2022-09-19 10:35:06
