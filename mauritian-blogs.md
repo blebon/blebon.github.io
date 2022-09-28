@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[A coward person](https://vintishgokool.blogspot.com/2022/09/a-coward-person.html)**  2022-09-27 15:33:19
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou Koz Parol – 126 Literatir Kreol Morisien: 200 an lexistans deza](https://www.lemauricien.com/le-mauricien/anou-koz-parol-126-literatir-kreol-morisien-200-an-lexistans-deza/516174/)**  2022-09-26 13:14:32
+**[ASSAD BHUGLAH’s BOOK MAULANA ABDULLAH RASHID NAWAB](https://www.lemauricien.com/le-mauricien/assad-bhuglahs-book-maulana-abdullah-rashid-nawab/516326/)**  2022-09-27 13:00:44
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Le système perdure parce que nous sommes gouvernés depuis des décennies par des corrompus"](https://zoomdr.blogspot.com/2022/09/le-systeme-perdure-parce-que-nous.html)**  2022-09-26 11:29:32
@@ -87,9 +90,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[❤️ You Have 8 New Matches: Agustin, 43 years old from Buenos Aires, Argentina, and more!](https://shruticulturalgroup.blogspot.com/2022/08/you-have-8-new-matches-agustin-43-years.html)**  2022-08-23 17:34:41
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[An attitude devi?](https://vintishgokool.blogspot.com/2022/08/an-attitude-devi.html)**  2022-08-23 17:27:18
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-23 16:14:56
