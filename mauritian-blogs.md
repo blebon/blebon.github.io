@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[The Architects of Taste and Pleasure Come Together for a Holiday Season Collection of Coffees, Confections and More to Celebrate the Joy of Gathering and the Art of the Everyday](https://amarbheenick.blogspot.com/2022/09/the-architects-of-taste-and-pleasure.html)**  2022-09-29 10:20:46
+
 [Veganlovlie](https://veganlovlie.com)  
 **[CozyGrip Cast Iron Pan Handle Cover Crochet Pattern](https://veganlovlie.com/cast-iron-pan-handle-cover-crochet-pattern/)**  2022-09-29 01:36:51
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Why Ukraine Conflict Was Predictable](http://kozelidir.blogspot.com/2022/09/why-ukraine-conflict-was-predictable.html)**  2022-09-24 09:39:46
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[The Global Financial Centres Index 32](https://amarbheenick.blogspot.com/2022/09/the-global-financial-centres-index-32.html)**  2022-09-23 13:14:48
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical and Fundamental Report on – Forex, Index, Crypto, Commodity – 21 September 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/technical-and-fundamental-report-on.html)**  2022-09-21 10:26:33
