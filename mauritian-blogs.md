@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[La 6e Région de l’Africa Mundus  est-elle laissée pour compte ?](https://www.lemauricien.com/le-mauricien/la-6e-region-de-lafrica-mundus-est-elle-laissee-pour-compte/516912/)**  2022-09-30 13:13:09
+
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Maspin Barfi](https://nashbakery.blogspot.com/2022/09/maspin-barfi.html)**  2022-09-29 17:14:35
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[End Racism. Build Peace](https://www.lemauricien.com/le-mauricien/end-racism-build-peace/516718/)**  2022-09-29 13:29:38
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Architects of Taste and Pleasure Come Together for a Holiday Season Collection of Coffees, Confections and More to Celebrate the Joy of Gathering and the Art of the Everyday](https://amarbheenick.blogspot.com/2022/09/the-architects-of-taste-and-pleasure.html)**  2022-09-29 10:20:46
