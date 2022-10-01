@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[2022 AGM](https://3b8mars.org/2022/10/01/2022-agm/)**  2022-10-01 08:08:43
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[La 6e Région de l’Africa Mundus  est-elle laissée pour compte ?](https://www.lemauricien.com/le-mauricien/la-6e-region-de-lafrica-mundus-est-elle-laissee-pour-compte/516912/)**  2022-09-30 13:13:09
 
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2022/09/19/owning-a-business-in-mauritius/)**  2022-09-19 10:35:06
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[Class A and Class B Examination](https://3b8mars.org/2022/09/18/class-a-and-class-b-examination/)**  2022-09-18 15:30:14
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Sheriff is jailed](https://ritesh2103.wordpress.com/2022/09/15/sheriff-is-jailed/)**  2022-09-15 19:52:11
