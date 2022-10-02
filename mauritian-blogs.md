@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[2022 AGM](https://3b8mars.org/2022/10/01/2022-agm/)**  2022-10-01 08:08:43
+[Little Anantasin](https://littleanantasin.wordpress.com)  
+**[A Victoria to South Australia Roadtrip](https://littleanantasin.wordpress.com/2022/10/02/a-victoria-to-south-australia-roadtrip/)**  2022-10-02 05:05:05
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[La 6e Région de l’Africa Mundus  est-elle laissée pour compte ?](https://www.lemauricien.com/le-mauricien/la-6e-region-de-lafrica-mundus-est-elle-laissee-pour-compte/516912/)**  2022-09-30 13:13:09
+**[POINT DE VUE : Pour un changement de doctrine dans la morale sexuelle de l’Église catholique](https://www.lemauricien.com/le-mauricien/point-de-vue-pour-un-changement-de-doctrine-dans-la-morale-sexuelle-de-leglise-catholique/517081/)**  2022-10-01 13:02:34
+
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[2022 AGM](https://3b8mars.org/2022/10/01/2022-agm/)**  2022-10-01 08:08:43
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Maspin Barfi](https://nashbakery.blogspot.com/2022/09/maspin-barfi.html)**  2022-09-29 17:14:35
@@ -40,6 +43,9 @@ permalink: /mauritian-blogs/
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Why Ukraine Conflict Was Predictable](http://kozelidir.blogspot.com/2022/09/why-ukraine-conflict-was-predictable.html)**  2022-09-24 09:39:46
 
+[Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
+**[Chalet vibe](http://gadatagada-portfolio.blogspot.com/2022/09/chalet-vibe.html)**  2022-09-23 06:19:51
+
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical and Fundamental Report on – Forex, Index, Crypto, Commodity – 21 September 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/technical-and-fundamental-report-on.html)**  2022-09-21 10:26:33
 
@@ -60,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Spiced scrambled eggs with coriander yogurt](https://everpeckish.com/spiced-scrambled-eggs-with-coriander-yogurt/?utm_source=rss&utm_medium=rss&utm_campaign=spiced-scrambled-eggs-with-coriander-yogurt)**  2022-09-10 18:52:19
-
-[Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
-**[Flea Market Scrabble](http://gadatagada-portfolio.blogspot.com/2022/09/uk.html)**  2022-09-09 12:15:37
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[”I am raising a vegan child”…](https://meeraappadoo.wordpress.com/2022/09/08/i-am-raising-a-vegan-child/)**  2022-09-08 11:26:34
@@ -132,9 +135,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Nuove Misure Covid-19](https://mauritiuslapassionesisente.blogspot.com/2022/06/nuove-misure-covid-19.html)**  2022-06-28 19:26:51
-
-[Little Anantasin](https://littleanantasin.wordpress.com)  
-**[Loch, Victoria](https://littleanantasin.wordpress.com/2022/06/19/loch-victoria/)**  2022-06-19 05:05:12
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[I rest my case For or Against the Quattronity  at the foot of the Cross Where the love of Jesus and His Mother Mary is Found](https://lleclezio.blogspot.com/2022/06/i-rest-my-case-for-or-against.html)**  2022-06-07 06:51:08
