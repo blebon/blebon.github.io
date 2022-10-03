@@ -4,6 +4,18 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[A Lost Kitten](https://flicenflac.blogspot.com/2022/10/a-lost-kitten.html)**  2022-10-03 02:45:19
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Manchester remains blue](https://ritesh2103.wordpress.com/2022/10/02/manchester-remains-blue/)**  2022-10-02 16:12:29
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 27e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-27e-dimanche-du-toc.html)**  2022-10-02 14:50:12
+
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 LES BANYANS DE SAVANNAH](https://mysweetmauritius.blogspot.com/2022/10/les-banyans-de-savannah.html)**  2022-10-02 13:41:15
+
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[A Victoria to South Australia Roadtrip](https://littleanantasin.wordpress.com/2022/10/02/a-victoria-to-south-australia-roadtrip/)**  2022-10-02 05:05:05
 
@@ -34,12 +46,6 @@ permalink: /mauritian-blogs/
 [turbine.mu](https://turbine.mu)  
 **[Tips to prepare a Business Pitch to Investors](https://turbine.mu/2022/09/26/pitching-business-idea-to-investors/)**  2022-09-26 08:53:04
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 26e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/09/homelie-pour-le-26e-dimanche-du-toc.html)**  2022-09-25 18:45:24
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 LE CHÂTEAU DE RICHE EN EAU](https://mysweetmauritius.blogspot.com/2022/09/le-chateau-de-riche-en-eau.html)**  2022-09-25 15:06:48
-
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Why Ukraine Conflict Was Predictable](http://kozelidir.blogspot.com/2022/09/why-ukraine-conflict-was-predictable.html)**  2022-09-24 09:39:46
 
@@ -51,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2022/09/19/owning-a-business-in-mauritius/)**  2022-09-19 10:35:06
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Sheriff is jailed](https://ritesh2103.wordpress.com/2022/09/15/sheriff-is-jailed/)**  2022-09-15 19:52:11
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[La lune qui nous berce](https://c-est-reparti.blogspot.com/2022/09/la-lune-qui-nous-berce.html)**  2022-09-14 20:38:52
@@ -78,9 +81,6 @@ permalink: /mauritian-blogs/
 
 [Blog trotteur](https://patoutafeca.blogspot.com/)  
 **[ES6 exemple simple: Async, Await, Fetch, Then](https://patoutafeca.blogspot.com/2022/09/es6-exemple-simple-async-await-fetch.html)**  2022-09-02 07:57:38
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Guru ji 🙏](https://flicenflac.blogspot.com/2022/09/guru-ji.html)**  2022-09-02 05:07:39
 
 [priscimon.com](https://priscimon.com/blog)  
 **[The FG-20 must go](https://priscimon.com/blog/2022/08/31/the-fg-20-must-go/)**  2022-08-31 19:43:18
