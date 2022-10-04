@@ -4,8 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Guest Elf at Jo's Christmas Kickstart Challenge](https://swanlady-impressions.blogspot.com/2022/10/guest-elf-at-jos-christmas-kickstart.html)**  2022-10-04 10:30:00
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[RÉMINISCENCES : En mémoire de Mikhail Gorbatchev, que j’ai eu l’honneur de rencontrer](https://www.lemauricien.com/le-mauricien/reminiscences-en-memoire-de-mikhail-gorbatchev-que-jai-eu-lhonneur-de-rencontrer/517255/)**  2022-10-03 13:00:09
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[A Lost Kitten](https://flicenflac.blogspot.com/2022/10/a-lost-kitten.html)**  2022-10-03 02:45:19
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Happy 15th Birthday Kadie!](https://davidandjennilyn.com/2022/10/02/happy-15th-birthday-kadie/)**  2022-10-02 21:03:00
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Manchester remains blue](https://ritesh2103.wordpress.com/2022/10/02/manchester-remains-blue/)**  2022-10-02 16:12:29
@@ -18,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[A Victoria to South Australia Roadtrip](https://littleanantasin.wordpress.com/2022/10/02/a-victoria-to-south-australia-roadtrip/)**  2022-10-02 05:05:05
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[POINT DE VUE : Pour un changement de doctrine dans la morale sexuelle de l’Église catholique](https://www.lemauricien.com/le-mauricien/point-de-vue-pour-un-changement-de-doctrine-dans-la-morale-sexuelle-de-leglise-catholique/517081/)**  2022-10-01 13:02:34
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[2022 AGM](https://3b8mars.org/2022/10/01/2022-agm/)**  2022-10-01 08:08:43
@@ -64,9 +70,6 @@ permalink: /mauritian-blogs/
 [Dave Appadoo](https://daveappadoo.com/)  
 **[How to use Hugging Face🤗& Gradio to create simple Machine Learning (ML) projects](https://daveappadoo.com/how-to-use-hugging-face-gradio-to-create-simple-machine-learning-ml-projects/)**  2022-09-11 19:20:43
 
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Bike and Run with Jack and Jake](https://davidandjennilyn.com/2022/09/10/bike-and-run-with-jack-and-jake/)**  2022-09-10 22:36:19
-
 [ever peckish](https://everpeckish.com)  
 **[Spiced scrambled eggs with coriander yogurt](https://everpeckish.com/spiced-scrambled-eggs-with-coriander-yogurt/?utm_source=rss&utm_medium=rss&utm_campaign=spiced-scrambled-eggs-with-coriander-yogurt)**  2022-09-10 18:52:19
 
@@ -87,9 +90,6 @@ permalink: /mauritian-blogs/
 
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-30 09:08:01
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Flowers in Circles](https://swanlady-impressions.blogspot.com/2022/08/flowers-in-circles.html)**  2022-08-25 18:00:40
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Rodrigues Is. Expedition](https://msinnott.net/2022/08/24/rodrigues-is-expedition/?utm_source=rss&utm_medium=rss&utm_campaign=rodrigues-is-expedition)**  2022-08-24 08:37:46
