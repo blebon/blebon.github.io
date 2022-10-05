@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[The Mauritian equation](https://relocationmauritius.wordpress.com/2022/10/05/the-mauritian-equation/)**  2022-10-05 06:44:33
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[KNOW WHO YOU ARE TO FORGE THE WAY AHEAD](https://www.lemauricien.com/le-mauricien/know-who-you-are-to-forge-the-way-ahead/517591/)**  2022-10-05 04:33:34
 
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Technical and Fundamental Report on – Forex, Index, Crypto, Commodity – 21 September 2022](https://dailytechnicalanalysisforexnews.blogspot.com/2022/09/technical-and-fundamental-report-on.html)**  2022-09-21 10:26:33
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2022/09/19/owning-a-business-in-mauritius/)**  2022-09-19 10:35:06
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[La lune qui nous berce](https://c-est-reparti.blogspot.com/2022/09/la-lune-qui-nous-berce.html)**  2022-09-14 20:38:52
