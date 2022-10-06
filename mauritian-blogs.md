@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[The Sentry: Cash Grab &#124; Billion-Dollar Letters of Credit Scam in South Sudan](https://amarbheenick.blogspot.com/2022/10/the-sentry-cash-grab-billion-dollar.html)**  2022-10-05 16:32:41
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The Mauritian equation](https://relocationmauritius.wordpress.com/2022/10/05/the-mauritian-equation/)**  2022-10-05 06:44:33
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Maspin Barfi](https://nashbakery.blogspot.com/2022/09/maspin-barfi.html)**  2022-09-29 17:14:35
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[The Architects of Taste and Pleasure Come Together for a Holiday Season Collection of Coffees, Confections and More to Celebrate the Joy of Gathering and the Art of the Everyday](https://amarbheenick.blogspot.com/2022/09/the-architects-of-taste-and-pleasure.html)**  2022-09-29 10:20:46
 
 [Veganlovlie](https://veganlovlie.com)  
 **[CozyGrip Cast Iron Pan Handle Cover Crochet Pattern](https://veganlovlie.com/cast-iron-pan-handle-cover-crochet-pattern/)**  2022-09-29 01:36:51
