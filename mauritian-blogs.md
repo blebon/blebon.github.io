@@ -7,11 +7,11 @@ permalink: /mauritian-blogs/
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Sentry: Cash Grab &#124; Billion-Dollar Letters of Credit Scam in South Sudan](https://amarbheenick.blogspot.com/2022/10/the-sentry-cash-grab-billion-dollar.html)**  2022-10-05 16:32:41
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Long live Educators!](https://www.lemauricien.com/le-mauricien/long-live-educators/517751/)**  2022-10-05 14:46:32
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The Mauritian equation](https://relocationmauritius.wordpress.com/2022/10/05/the-mauritian-equation/)**  2022-10-05 06:44:33
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[KNOW WHO YOU ARE TO FORGE THE WAY AHEAD](https://www.lemauricien.com/le-mauricien/know-who-you-are-to-forge-the-way-ahead/517591/)**  2022-10-05 04:33:34
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Guest Elf at Jo's Christmas Kickstart Challenge](https://swanlady-impressions.blogspot.com/2022/10/guest-elf-at-jos-christmas-kickstart.html)**  2022-10-04 18:47:46
