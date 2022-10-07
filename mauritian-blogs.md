@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Amar](https://amarbheenick.blogspot.com/)  
-**[The Sentry: Cash Grab &#124; Billion-Dollar Letters of Credit Scam in South Sudan](https://amarbheenick.blogspot.com/2022/10/the-sentry-cash-grab-billion-dollar.html)**  2022-10-05 16:32:41
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Super subs to the rescue](https://ritesh2103.wordpress.com/2022/10/06/super-subs-to-the-rescue/)**  2022-10-06 19:52:34
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Long live Educators!](https://www.lemauricien.com/le-mauricien/long-live-educators/517751/)**  2022-10-05 14:46:32
+**[L’Institut français de Maurice :  Ô centre de mes rivages…](https://www.lemauricien.com/le-mauricien/linstitut-francais-de-maurice-o-centre-de-mes-rivages/517878/)**  2022-10-06 13:00:48
+
+[Amar](https://amarbheenick.blogspot.com/)  
+**[The Sentry: Cash Grab &#124; Billion-Dollar Letters of Credit Scam in South Sudan](https://amarbheenick.blogspot.com/2022/10/the-sentry-cash-grab-billion-dollar.html)**  2022-10-05 16:32:41
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The Mauritian equation](https://relocationmauritius.wordpress.com/2022/10/05/the-mauritian-equation/)**  2022-10-05 06:44:33
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 15th Birthday Kadie!](https://davidandjennilyn.com/2022/10/02/happy-15th-birthday-kadie/)**  2022-10-02 21:03:00
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Manchester remains blue](https://ritesh2103.wordpress.com/2022/10/02/manchester-remains-blue/)**  2022-10-02 16:12:29
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 27e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-27e-dimanche-du-toc.html)**  2022-10-02 14:50:12
