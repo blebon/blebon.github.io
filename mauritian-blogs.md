@@ -208,7 +208,4 @@ permalink: /mauritian-blogs/
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[TK18//18 +3](https://kabilen.tumblr.com/post/668342650957676544)**  2021-11-20 04:07:00
 
-[How do I deal with a PCOS diagnosis?](https://htacha.blogspot.com/)  
-**[Cycle 20](https://htacha.blogspot.com/2021/11/cycle-20.html)**  2021-11-07 09:56:11
-
 <div style="height:0;width:0;overflow:hidden;"></div>
