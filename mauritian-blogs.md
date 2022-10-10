@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[ASSOCIATION FOR POPULATION AND DEVELOPMENT](https://apdmauritius.blogspot.com/)  
+**[No title](https://apdmauritius.blogspot.com/2022/10/program-men-as-caring-partners-was.html)**  2022-10-10 10:08:59
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[CR 700](https://ritesh2103.wordpress.com/2022/10/10/cr-700/)**  2022-10-09 21:05:39
 
