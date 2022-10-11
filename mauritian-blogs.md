@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[Promotion Video](https://3b8mars.org/2022/10/11/promotion-video/)**  2022-10-11 05:12:52
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[THE ROAD TO DISCOVERY  (THE WAY I SEE IT)](https://www.lemauricien.com/le-mauricien/the-road-to-discovery-the-way-i-see-it/518616/)**  2022-10-10 15:59:41
+
 [ASSOCIATION FOR POPULATION AND DEVELOPMENT](https://apdmauritius.blogspot.com/)  
 **[No title](https://apdmauritius.blogspot.com/2022/10/program-men-as-caring-partners-was.html)**  2022-10-10 10:08:59
 
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 28e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-28e-dimanche-du-toc.html)**  2022-10-09 12:01:40
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LOVE AND SACRIFICE](https://www.lemauricien.com/le-mauricien/love-and-sacrifice/518215/)**  2022-10-08 11:13:37
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Sentry: Cash Grab &#124; Billion-Dollar Letters of Credit Scam in South Sudan](https://amarbheenick.blogspot.com/2022/10/the-sentry-cash-grab-billion-dollar.html)**  2022-10-05 16:32:41
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[A Victoria to South Australia Roadtrip](https://littleanantasin.wordpress.com/2022/10/02/a-victoria-to-south-australia-roadtrip/)**  2022-10-02 05:05:05
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[2022 AGM](https://3b8mars.org/2022/10/01/2022-agm/)**  2022-10-01 08:08:43
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Maspin Barfi](https://nashbakery.blogspot.com/2022/09/maspin-barfi.html)**  2022-09-29 17:14:35
