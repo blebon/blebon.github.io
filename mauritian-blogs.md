@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[THE SUPERSTAR TURNS EIGHTY](https://www.lemauricien.com/le-mauricien/the-superstar-turns-eighty/518769/)**  2022-10-11 13:00:24
+
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Promotion Video](https://3b8mars.org/2022/10/11/promotion-video/)**  2022-10-11 05:12:52
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[THE ROAD TO DISCOVERY  (THE WAY I SEE IT)](https://www.lemauricien.com/le-mauricien/the-road-to-discovery-the-way-i-see-it/518616/)**  2022-10-10 15:59:41
 
 [ASSOCIATION FOR POPULATION AND DEVELOPMENT](https://apdmauritius.blogspot.com/)  
 **[No title](https://apdmauritius.blogspot.com/2022/10/program-men-as-caring-partners-was.html)**  2022-10-10 10:08:59
