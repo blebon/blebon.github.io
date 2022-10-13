@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Planning Your Honeymoon: Top 10 Tips](https://blog.constancehotels.com/planning-your-honeymoon-top-10-tips/)**  2022-10-12 18:04:45
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[THE SUPERSTAR TURNS EIGHTY](https://www.lemauricien.com/le-mauricien/the-superstar-turns-eighty/518769/)**  2022-10-11 13:00:24
+**[ANOU KOZ PAROL 128 : 20 BANANIN LOTONOMI RODRIG PĀRKOUR KREOL RODRIGE KOUMAN ENN LANG OTONOM](https://www.lemauricien.com/le-mauricien/anou-koz-parol-128-20-bananin-lotonomi-rodrig-parkour-kreol-rodrige-kouman-enn-lang-otonom/518925/)**  2022-10-12 13:00:38
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Promotion Video](https://3b8mars.org/2022/10/11/promotion-video/)**  2022-10-11 05:12:52
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[CozyGrip Cast Iron Pan Handle Cover Crochet Pattern](https://veganlovlie.com/cast-iron-pan-handle-cover-crochet-pattern/)**  2022-09-29 01:36:51
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Picture-Perfect Restaurants Worth The Wait](https://blog.constancehotels.com/picture-perfect-restaurants-worth-the-wait/)**  2022-09-28 08:10:55
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[A coward person](https://vintishgokool.blogspot.com/2022/09/a-coward-person.html)**  2022-09-27 15:33:19
