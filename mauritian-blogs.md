@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Planning Your Honeymoon: Top 10 Tips](https://blog.constancehotels.com/planning-your-honeymoon-top-10-tips/)**  2022-10-12 18:04:45
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[3B8M 2022 Activation](https://3b8mars.org/2022/10/13/3b8m-2022-activation/)**  2022-10-13 14:21:34
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ANOU KOZ PAROL 128 : 20 BANANIN LOTONOMI RODRIG PĀRKOUR KREOL RODRIGE KOUMAN ENN LANG OTONOM](https://www.lemauricien.com/le-mauricien/anou-koz-parol-128-20-bananin-lotonomi-rodrig-parkour-kreol-rodrige-kouman-enn-lang-otonom/518925/)**  2022-10-12 13:00:38
+**[Singapour et Maurice allouent 12%  de leur budget à l’Éducation, mais …](https://www.lemauricien.com/le-mauricien/singapour-et-maurice-allouent-12-de-leur-budget-a-leducation-mais/519145/)**  2022-10-13 13:16:18
 
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[Promotion Video](https://3b8mars.org/2022/10/11/promotion-video/)**  2022-10-11 05:12:52
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Planning Your Honeymoon: Top 10 Tips](https://blog.constancehotels.com/planning-your-honeymoon-top-10-tips/)**  2022-10-12 18:04:45
 
 [ASSOCIATION FOR POPULATION AND DEVELOPMENT](https://apdmauritius.blogspot.com/)  
 **[No title](https://apdmauritius.blogspot.com/2022/10/program-men-as-caring-partners-was.html)**  2022-10-10 10:08:59
