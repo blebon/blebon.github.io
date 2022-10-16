@@ -16,6 +16,9 @@ permalink: /mauritian-blogs/
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Planning Your Honeymoon: Top 10 Tips](https://blog.constancehotels.com/planning-your-honeymoon-top-10-tips/)**  2022-10-12 18:04:45
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Big B At 80](http://kozelidir.blogspot.com/2022/10/big-b-at-80.html)**  2022-10-11 09:54:25
+
 [ASSOCIATION FOR POPULATION AND DEVELOPMENT](https://apdmauritius.blogspot.com/)  
 **[No title](https://apdmauritius.blogspot.com/2022/10/program-men-as-caring-partners-was.html)**  2022-10-10 10:08:59
 
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Tips to prepare a Business Pitch to Investors](https://turbine.mu/2022/09/26/pitching-business-idea-to-investors/)**  2022-09-26 08:53:04
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Why Ukraine Conflict Was Predictable](http://kozelidir.blogspot.com/2022/09/why-ukraine-conflict-was-predictable.html)**  2022-09-24 09:39:46
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[Chalet vibe](http://gadatagada-portfolio.blogspot.com/2022/09/chalet-vibe.html)**  2022-09-23 06:19:51
