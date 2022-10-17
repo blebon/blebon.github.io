@@ -4,6 +4,18 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Hello Sunshine](https://swanlady-impressions.blogspot.com/2022/10/hello-sunshine.html)**  2022-10-16 19:32:31
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 29e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-29e-dimanche-du-toc.html)**  2022-10-16 18:49:28
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils fire blanks](https://ritesh2103.wordpress.com/2022/10/16/red-devils-fire-blanks/)**  2022-10-16 17:45:26
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Marvel  at OMSI](https://davidandjennilyn.com/2022/10/16/marvel-at-omsi/)**  2022-10-16 15:12:00
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Papi, 12 September 2022](https://priscimon.com/blog/2022/10/15/papi-12-september-2022/)**  2022-10-15 19:45:14
 
@@ -22,15 +34,6 @@ permalink: /mauritian-blogs/
 [ASSOCIATION FOR POPULATION AND DEVELOPMENT](https://apdmauritius.blogspot.com/)  
 **[No title](https://apdmauritius.blogspot.com/2022/10/program-men-as-caring-partners-was.html)**  2022-10-10 10:08:59
 
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[CR 700](https://ritesh2103.wordpress.com/2022/10/10/cr-700/)**  2022-10-09 21:05:39
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Watercolour Hydrangeas](https://swanlady-impressions.blogspot.com/2022/10/watercolour-hydrangeas.html)**  2022-10-09 20:30:19
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 28e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-28e-dimanche-du-toc.html)**  2022-10-09 12:01:40
-
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Sentry: Cash Grab &#124; Billion-Dollar Letters of Credit Scam in South Sudan](https://amarbheenick.blogspot.com/2022/10/the-sentry-cash-grab-billion-dollar.html)**  2022-10-05 16:32:41
 
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[A Lost Kitten](https://flicenflac.blogspot.com/2022/10/a-lost-kitten.html)**  2022-10-03 02:45:19
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy 15th Birthday Kadie!](https://davidandjennilyn.com/2022/10/02/happy-15th-birthday-kadie/)**  2022-10-02 21:03:00
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LES BANYANS DE SAVANNAH](https://mysweetmauritius.blogspot.com/2022/10/les-banyans-de-savannah.html)**  2022-10-02 13:41:15
