@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Embossing Folders and Watercolour](https://swanlady-impressions.blogspot.com/2022/10/embossing-folders-and-watercolour.html)**  2022-10-17 09:40:20
+**[Jo's Christmas Kickstart Challenge Reminder](https://swanlady-impressions.blogspot.com/2022/10/jos-christmas-kickstart-challenge.html)**  2022-10-17 16:23:41
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[EXPOSITION À PARIS JUSQU’AU 6 NOVEMBRE](https://www.lemauricien.com/le-mauricien/exposition-a-paris-jusquau-6-novembre/519779/)**  2022-10-17 13:48:49
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 29e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-29e-dimanche-du-toc.html)**  2022-10-16 18:49:28
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Papi, 12 September 2022](https://priscimon.com/blog/2022/10/15/papi-12-september-2022/)**  2022-10-15 19:45:14
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Amenn to plim](https://www.lemauricien.com/le-mauricien/amenn-to-plim/519289/)**  2022-10-14 13:29:31
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[3B8M 2022 Activation](https://3b8mars.org/2022/10/13/3b8m-2022-activation/)**  2022-10-13 14:21:34
