@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[À propos de la violence chez certains jeunes. Quelles réponses éducatives possibles ?](https://www.lemauricien.com/le-mauricien/a-propos-de-la-violence-chez-certains-jeunes-quelles-reponses-educatives-possibles/520005/)**  2022-10-18 13:18:01
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Jo's Christmas Kickstart Challenge Reminder](https://swanlady-impressions.blogspot.com/2022/10/jos-christmas-kickstart-challenge.html)**  2022-10-17 16:23:41
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[EXPOSITION À PARIS JUSQU’AU 6 NOVEMBRE](https://www.lemauricien.com/le-mauricien/exposition-a-paris-jusquau-6-novembre/519779/)**  2022-10-17 13:48:49
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 29e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-29e-dimanche-du-toc.html)**  2022-10-16 18:49:28
