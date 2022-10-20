@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Magical Proposal Locations at Constance Hotels & Resorts](https://blog.constancehotels.com/magical-proposals-locations-at-constance-hotels-resorts/)**  2022-10-19 13:42:14
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[À propos de la violence chez certains jeunes. Quelles réponses éducatives possibles ?](https://www.lemauricien.com/le-mauricien/a-propos-de-la-violence-chez-certains-jeunes-quelles-reponses-educatives-possibles/520005/)**  2022-10-18 13:18:01
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[3B8M 2022 Activation](https://3b8mars.org/2022/10/13/3b8m-2022-activation/)**  2022-10-13 14:21:34
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Planning Your Honeymoon: Top 10 Tips](https://blog.constancehotels.com/planning-your-honeymoon-top-10-tips/)**  2022-10-12 18:04:45
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Big B At 80](http://kozelidir.blogspot.com/2022/10/big-b-at-80.html)**  2022-10-11 09:54:25
