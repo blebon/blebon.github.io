@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[How Nomads Shaped Centuries of Civilization](https://zoomdr.blogspot.com/2022/10/how-nomads-shaped-centuries-of.html)**  2022-10-20 10:27:21
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Magical Proposal Locations at Constance Hotels & Resorts](https://blog.constancehotels.com/magical-proposals-locations-at-constance-hotels-resorts/)**  2022-10-19 13:42:14
 
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[A coward person](https://vintishgokool.blogspot.com/2022/09/a-coward-person.html)**  2022-09-27 15:33:19
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**["Le système perdure parce que nous sommes gouvernés depuis des décennies par des corrompus"](https://zoomdr.blogspot.com/2022/09/le-systeme-perdure-parce-que-nous.html)**  2022-09-26 11:29:32
 
 [turbine.mu](https://turbine.mu)  
 **[Tips to prepare a Business Pitch to Investors](https://turbine.mu/2022/09/26/pitching-business-idea-to-investors/)**  2022-09-26 08:53:04
