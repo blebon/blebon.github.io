@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Bold Background](https://swanlady-impressions.blogspot.com/2022/10/bold-background.html)**  2022-10-21 09:57:42
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Get in, but with careful steps !](https://relocationmauritius.wordpress.com/2022/10/21/get-in-but-with-careful-steps/)**  2022-10-21 05:33:38
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Stencilled Blossoms & Diamond Frames](https://swanlady-impressions.blogspot.com/2022/10/stencilled-blossoms-diamond-frames.html)**  2022-10-20 17:32:18
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Food Production/Security Preparedness plan – Do we have one?](https://www.lemauricien.com/le-mauricien/food-production-security-preparedness-plan-do-we-have-one-2/520343/)**  2022-10-20 13:11:04
