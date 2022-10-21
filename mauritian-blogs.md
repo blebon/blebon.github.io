@@ -4,23 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Get in, but with careful steps !](https://relocationmauritius.wordpress.com/2022/10/21/get-in-but-with-careful-steps/)**  2022-10-21 05:33:38
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Stencilled Blossoms & Diamond Frames](https://swanlady-impressions.blogspot.com/2022/10/stencilled-blossoms-diamond-frames.html)**  2022-10-20 17:32:18
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Food Production/Security Preparedness plan – Do we have one?](https://www.lemauricien.com/le-mauricien/food-production-security-preparedness-plan-do-we-have-one-2/520343/)**  2022-10-20 13:11:04
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils down Spurs](https://ritesh2103.wordpress.com/2022/10/20/red-devils-down-spurs/)**  2022-10-20 12:03:32
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How Nomads Shaped Centuries of Civilization](https://zoomdr.blogspot.com/2022/10/how-nomads-shaped-centuries-of.html)**  2022-10-20 10:27:21
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Magical Proposal Locations at Constance Hotels & Resorts](https://blog.constancehotels.com/magical-proposals-locations-at-constance-hotels-resorts/)**  2022-10-19 13:42:14
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[À propos de la violence chez certains jeunes. Quelles réponses éducatives possibles ?](https://www.lemauricien.com/le-mauricien/a-propos-de-la-violence-chez-certains-jeunes-quelles-reponses-educatives-possibles/520005/)**  2022-10-18 13:18:01
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Jo's Christmas Kickstart Challenge Reminder](https://swanlady-impressions.blogspot.com/2022/10/jos-christmas-kickstart-challenge.html)**  2022-10-17 16:23:41
-
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 29e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-29e-dimanche-du-toc.html)**  2022-10-16 18:49:28
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils fire blanks](https://ritesh2103.wordpress.com/2022/10/16/red-devils-fire-blanks/)**  2022-10-16 17:45:26
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Marvel  at OMSI](https://davidandjennilyn.com/2022/10/16/marvel-at-omsi/)**  2022-10-16 15:12:00
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Sentry: Cash Grab &#124; Billion-Dollar Letters of Credit Scam in South Sudan](https://amarbheenick.blogspot.com/2022/10/the-sentry-cash-grab-billion-dollar.html)**  2022-10-05 16:32:41
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[The Mauritian equation](https://relocationmauritius.wordpress.com/2022/10/05/the-mauritian-equation/)**  2022-10-05 06:44:33
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[A Lost Kitten](https://flicenflac.blogspot.com/2022/10/a-lost-kitten.html)**  2022-10-03 02:45:19
