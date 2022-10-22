@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Qu’adviendra-t-il de la monarchie britannique?](https://www.lemauricien.com/le-mauricien/quadviendra-t-il-de-la-monarchie-britannique/520565/)**  2022-10-21 19:05:03
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Bold Background](https://swanlady-impressions.blogspot.com/2022/10/bold-background.html)**  2022-10-21 09:57:42
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Get in, but with careful steps !](https://relocationmauritius.wordpress.com/2022/10/21/get-in-but-with-careful-steps/)**  2022-10-21 05:33:38
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Food Production/Security Preparedness plan – Do we have one?](https://www.lemauricien.com/le-mauricien/food-production-security-preparedness-plan-do-we-have-one-2/520343/)**  2022-10-20 13:11:04
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils down Spurs](https://ritesh2103.wordpress.com/2022/10/20/red-devils-down-spurs/)**  2022-10-20 12:03:32
@@ -207,8 +207,5 @@ permalink: /mauritian-blogs/
 
 [My Voice](https://jeevashi.blogspot.com/)  
 **[Elle l'amitié... 💖💖💖](https://jeevashi.blogspot.com/2021/11/elle-lamitie.html)**  2021-11-24 09:39:39
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[TK18//18 +3](https://kabilen.tumblr.com/post/668342650957676544)**  2021-11-20 04:07:00
 
 <div style="height:0;width:0;overflow:hidden;"></div>
