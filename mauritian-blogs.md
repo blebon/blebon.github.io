@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Qu’adviendra-t-il de la monarchie britannique?](https://www.lemauricien.com/le-mauricien/quadviendra-t-il-de-la-monarchie-britannique/520565/)**  2022-10-21 19:05:03
+**[HOPE LTD – #Pans to prosin – notre projet  sous le signe de l’espoir !](https://www.lemauricien.com/le-mauricien/hope-ltd-pans-to-prosin-notre-projet-sous-le-signe-de-lespoir/520658/)**  2022-10-22 10:19:14
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Bold Background](https://swanlady-impressions.blogspot.com/2022/10/bold-background.html)**  2022-10-21 09:57:42
