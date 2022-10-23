@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Casemiro saves the day](https://ritesh2103.wordpress.com/2022/10/22/casemiro-saves-the-day/)**  2022-10-22 19:49:02
+
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 L'ATELIER D'OCEANO PEARLS](https://mysweetmauritius.blogspot.com/2022/10/latelier-doceano-pearls.html)**  2022-10-22 13:49:34
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[HOPE LTD – #Pans to prosin – notre projet  sous le signe de l’espoir !](https://www.lemauricien.com/le-mauricien/hope-ltd-pans-to-prosin-notre-projet-sous-le-signe-de-lespoir/520658/)**  2022-10-22 10:19:14
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Get in, but with careful steps !](https://relocationmauritius.wordpress.com/2022/10/21/get-in-but-with-careful-steps/)**  2022-10-21 05:33:38
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils down Spurs](https://ritesh2103.wordpress.com/2022/10/20/red-devils-down-spurs/)**  2022-10-20 12:03:32
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How Nomads Shaped Centuries of Civilization](https://zoomdr.blogspot.com/2022/10/how-nomads-shaped-centuries-of.html)**  2022-10-20 10:27:21
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[A Lost Kitten](https://flicenflac.blogspot.com/2022/10/a-lost-kitten.html)**  2022-10-03 02:45:19
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 LES BANYANS DE SAVANNAH](https://mysweetmauritius.blogspot.com/2022/10/les-banyans-de-savannah.html)**  2022-10-02 13:41:15
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[A Victoria to South Australia Roadtrip](https://littleanantasin.wordpress.com/2022/10/02/a-victoria-to-south-australia-roadtrip/)**  2022-10-02 05:05:05
