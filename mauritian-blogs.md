@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[Radio Telescope Project](https://3b8mars.org/2022/10/23/radio-telescope-project/)**  2022-10-23 07:54:33
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Casemiro saves the day](https://ritesh2103.wordpress.com/2022/10/22/casemiro-saves-the-day/)**  2022-10-22 19:49:02
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Papi, 12 September 2022](https://priscimon.com/blog/2022/10/15/papi-12-september-2022/)**  2022-10-15 19:45:14
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[3B8M 2022 Activation](https://3b8mars.org/2022/10/13/3b8m-2022-activation/)**  2022-10-13 14:21:34
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Big B At 80](http://kozelidir.blogspot.com/2022/10/big-b-at-80.html)**  2022-10-11 09:54:25
