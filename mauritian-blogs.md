@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Cozy Time](https://swanlady-impressions.blogspot.com/2022/10/cozy-time.html)**  2022-10-23 20:10:10
+
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Radio Telescope Project](https://3b8mars.org/2022/10/23/radio-telescope-project/)**  2022-10-23 07:54:33
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[HOPE LTD – #Pans to prosin – notre projet  sous le signe de l’espoir !](https://www.lemauricien.com/le-mauricien/hope-ltd-pans-to-prosin-notre-projet-sous-le-signe-de-lespoir/520658/)**  2022-10-22 10:19:14
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Bold Background](https://swanlady-impressions.blogspot.com/2022/10/bold-background.html)**  2022-10-21 09:57:42
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Get in, but with careful steps !](https://relocationmauritius.wordpress.com/2022/10/21/get-in-but-with-careful-steps/)**  2022-10-21 05:33:38
