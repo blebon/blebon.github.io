@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 30e Diamche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-30e-dimanche-dutemps.html)**  2022-10-24 19:43:26
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Cozy Time](https://swanlady-impressions.blogspot.com/2022/10/cozy-time.html)**  2022-10-23 20:10:10
+**[Christmas Cheer ... and mixing up Stamp Sets](https://swanlady-impressions.blogspot.com/2022/10/christmas-cheer-and-mixing-up-stamp-sets.html)**  2022-10-24 16:54:06
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Radio Telescope Project](https://3b8mars.org/2022/10/23/radio-telescope-project/)**  2022-10-23 07:54:33
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Magical Proposal Locations at Constance Hotels & Resorts](https://blog.constancehotels.com/magical-proposals-locations-at-constance-hotels-resorts/)**  2022-10-19 13:42:14
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 29e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-29e-dimanche-du-toc.html)**  2022-10-16 18:49:28
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Marvel  at OMSI](https://davidandjennilyn.com/2022/10/16/marvel-at-omsi/)**  2022-10-16 15:12:00
