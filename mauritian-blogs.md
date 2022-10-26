@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 30e Diamche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-30e-dimanche-dutemps.html)**  2022-10-24 19:43:26
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Autumn Leave Portraits](https://davidandjennilyn.com/2022/10/25/autumn-leave-portraits/)**  2022-10-26 01:03:51
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Christmas Cheer ... and mixing up Stamp Sets](https://swanlady-impressions.blogspot.com/2022/10/christmas-cheer-and-mixing-up-stamp-sets.html)**  2022-10-24 16:54:06
+**[Wedding Wishes](https://swanlady-impressions.blogspot.com/2022/10/wedding-wishes.html)**  2022-10-25 20:47:31
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[“Forbidden Freedom”:  A Profile of Vagrant Children and Young Boys in British Mauritius  Between 1864 and 1903](https://www.lemauricien.com/le-mauricien/forbidden-freedom-a-profile-of-vagrant-children-and-young-boys-in-british-mauritius-between-1864-and-1903/521155/)**  2022-10-25 13:53:53
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 30e Diamche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-30e-dimanche-dutemps.html)**  2022-10-24 19:43:26
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Radio Telescope Project](https://3b8mars.org/2022/10/23/radio-telescope-project/)**  2022-10-23 07:54:33
@@ -19,9 +25,6 @@ permalink: /mauritian-blogs/
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 L'ATELIER D'OCEANO PEARLS](https://mysweetmauritius.blogspot.com/2022/10/latelier-doceano-pearls.html)**  2022-10-22 13:49:34
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[HOPE LTD – #Pans to prosin – notre projet  sous le signe de l’espoir !](https://www.lemauricien.com/le-mauricien/hope-ltd-pans-to-prosin-notre-projet-sous-le-signe-de-lespoir/520658/)**  2022-10-22 10:19:14
-
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Get in, but with careful steps !](https://relocationmauritius.wordpress.com/2022/10/21/get-in-but-with-careful-steps/)**  2022-10-21 05:33:38
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Magical Proposal Locations at Constance Hotels & Resorts](https://blog.constancehotels.com/magical-proposals-locations-at-constance-hotels-resorts/)**  2022-10-19 13:42:14
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Marvel  at OMSI](https://davidandjennilyn.com/2022/10/16/marvel-at-omsi/)**  2022-10-16 15:12:00
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Papi, 12 September 2022](https://priscimon.com/blog/2022/10/15/papi-12-september-2022/)**  2022-10-15 19:45:14
