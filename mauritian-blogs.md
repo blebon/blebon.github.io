@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[The Perfect Night’s Sleep at Constance Hotels & Resorts](https://blog.constancehotels.com/the-perfect-nights-sleep-at-constance-hotels-resorts/)**  2022-10-26 11:15:00
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Autumn Leave Portraits](https://davidandjennilyn.com/2022/10/25/autumn-leave-portraits/)**  2022-10-26 01:03:51
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How Nomads Shaped Centuries of Civilization](https://zoomdr.blogspot.com/2022/10/how-nomads-shaped-centuries-of.html)**  2022-10-20 10:27:21
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Magical Proposal Locations at Constance Hotels & Resorts](https://blog.constancehotels.com/magical-proposals-locations-at-constance-hotels-resorts/)**  2022-10-19 13:42:14
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Papi, 12 September 2022](https://priscimon.com/blog/2022/10/15/papi-12-september-2022/)**  2022-10-15 19:45:14
@@ -204,8 +204,5 @@ permalink: /mauritian-blogs/
 
 [Forex News &#124; Market News &#124; Market Update &#124; Capital Street Fx](https://fxforexnews1.blogspot.com/)  
 **[Today Trading Idea on Citigroup Inc – 25 November 2021](https://fxforexnews1.blogspot.com/2021/11/today-trading-idea-on-citigroup-inc-25.html)**  2021-11-25 12:18:14
-
-[My Voice](https://jeevashi.blogspot.com/)  
-**[Elle l'amitié... 💖💖💖](https://jeevashi.blogspot.com/2021/11/elle-lamitie.html)**  2021-11-24 09:39:39
 
 <div style="height:0;width:0;overflow:hidden;"></div>
