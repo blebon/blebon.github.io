@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Islamic History – Ghaus-E-Azam : Sayyedina Sheikh  Abdul Qadir Jeelani (R.A.),](https://www.lemauricien.com/le-mauricien/islamic-history-ghaus-e-azam-sayyedina-sheikh-abdul-qadir-jeelani-r-a/521299/)**  2022-10-26 13:00:52
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Perfect Night’s Sleep at Constance Hotels & Resorts](https://blog.constancehotels.com/the-perfect-nights-sleep-at-constance-hotels-resorts/)**  2022-10-26 11:15:00
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Wedding Wishes](https://swanlady-impressions.blogspot.com/2022/10/wedding-wishes.html)**  2022-10-25 20:47:31
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[“Forbidden Freedom”:  A Profile of Vagrant Children and Young Boys in British Mauritius  Between 1864 and 1903](https://www.lemauricien.com/le-mauricien/forbidden-freedom-a-profile-of-vagrant-children-and-young-boys-in-british-mauritius-between-1864-and-1903/521155/)**  2022-10-25 13:53:53
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 30e Diamche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-30e-dimanche-dutemps.html)**  2022-10-24 19:43:26
