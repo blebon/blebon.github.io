@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Islamic History – Ghaus-E-Azam : Sayyedina Sheikh  Abdul Qadir Jeelani (R.A.),](https://www.lemauricien.com/le-mauricien/islamic-history-ghaus-e-azam-sayyedina-sheikh-abdul-qadir-jeelani-r-a/521299/)**  2022-10-26 13:00:52
+**[Quelle leçon tirer de l’accession de Rishi Sunak à 10 Downing Street ?](https://www.lemauricien.com/le-mauricien/quelle-lecon-tirer-de-laccession-de-rishi-sunak-a-10-downing-street/521385/)**  2022-10-27 13:00:55
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Perfect Night’s Sleep at Constance Hotels & Resorts](https://blog.constancehotels.com/the-perfect-nights-sleep-at-constance-hotels-resorts/)**  2022-10-26 11:15:00
@@ -201,8 +201,5 @@ permalink: /mauritian-blogs/
 
 [Zen Mauritius](https://zenmauritius.wordpress.com)  
 **[HOW CAN FAILURES SHAPE ONE’S LIFE?](https://zenmauritius.wordpress.com/2021/12/18/how-can-failures-shape-ones-life/)**  2021-12-18 06:04:53
-
-[Forex News &#124; Market News &#124; Market Update &#124; Capital Street Fx](https://fxforexnews1.blogspot.com/)  
-**[Today Trading Idea on Citigroup Inc – 25 November 2021](https://fxforexnews1.blogspot.com/2021/11/today-trading-idea-on-citigroup-inc-25.html)**  2021-11-25 12:18:14
 
 <div style="height:0;width:0;overflow:hidden;"></div>
