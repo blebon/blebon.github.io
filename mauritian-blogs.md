@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Quelle leçon tirer de l’accession de Rishi Sunak à 10 Downing Street ?](https://www.lemauricien.com/le-mauricien/quelle-lecon-tirer-de-laccession-de-rishi-sunak-a-10-downing-street/521385/)**  2022-10-27 13:00:55
+**[LETTRE AU PM : le peuple souffre !](https://www.lemauricien.com/le-mauricien/lettre-au-pm-le-peuple-souffre/521636/)**  2022-10-28 14:36:54
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Perfect Night’s Sleep at Constance Hotels & Resorts](https://blog.constancehotels.com/the-perfect-nights-sleep-at-constance-hotels-resorts/)**  2022-10-26 11:15:00
