@@ -34,11 +34,11 @@ permalink: /mauritian-blogs/
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How Nomads Shaped Centuries of Civilization](https://zoomdr.blogspot.com/2022/10/how-nomads-shaped-centuries-of.html)**  2022-10-20 10:27:21
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Why Recall Elections Are Seriously Overdue in Mauritius](http://kozelidir.blogspot.com/2022/10/why-recall-elections-are-seriously.html)**  2022-10-20 07:35:44
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Papi, 12 September 2022](https://priscimon.com/blog/2022/10/15/papi-12-september-2022/)**  2022-10-15 19:45:14
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Big B At 80](http://kozelidir.blogspot.com/2022/10/big-b-at-80.html)**  2022-10-11 09:54:25
 
 [ASSOCIATION FOR POPULATION AND DEVELOPMENT](https://apdmauritius.blogspot.com/)  
 **[No title](https://apdmauritius.blogspot.com/2022/10/program-men-as-caring-partners-was.html)**  2022-10-10 10:08:59
