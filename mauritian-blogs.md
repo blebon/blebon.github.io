@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The potential of Agalega or a pearl in a new string!](https://www.lemauricien.com/le-mauricien/the-potential-of-agalega-or-a-pearl-in-a-new-string/522130/)**  2022-10-31 08:00:39
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[De Gea the unlikely hero](https://ritesh2103.wordpress.com/2022/10/30/de-gea-the-unlikely-hero/)**  2022-10-30 18:33:52
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LA MAISON COLONIALE DE FERNEY RÉNOVÉE](https://mysweetmauritius.blogspot.com/2022/10/la-maison-coloniale-de-ferney-renovee.html)**  2022-10-30 12:33:32
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LETTRE AU PM : le peuple souffre !](https://www.lemauricien.com/le-mauricien/lettre-au-pm-le-peuple-souffre/521636/)**  2022-10-28 14:36:54
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Perfect Night’s Sleep at Constance Hotels & Resorts](https://blog.constancehotels.com/the-perfect-nights-sleep-at-constance-hotels-resorts/)**  2022-10-26 11:15:00
