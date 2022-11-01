@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The potential of Agalega or a pearl in a new string!](https://www.lemauricien.com/le-mauricien/the-potential-of-agalega-or-a-pearl-in-a-new-string/522130/)**  2022-10-31 08:00:39
+**[History and Heritage of Antoinette-Phooliyar and 2nd November Immigrants (1770-1834-2022)](https://www.lemauricien.com/le-mauricien/history-and-heritage-of-antoinette-phooliyar-and-2nd-november-immigrants-1770-1834-2022/522165/)**  2022-10-31 19:52:59
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 31e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-31e-dimanche-du-toc.html)**  2022-10-31 13:24:52
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[De Gea the unlikely hero](https://ritesh2103.wordpress.com/2022/10/30/de-gea-the-unlikely-hero/)**  2022-10-30 18:33:52
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Wedding Wishes](https://swanlady-impressions.blogspot.com/2022/10/wedding-wishes.html)**  2022-10-25 20:47:31
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 30e Diamche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-30e-dimanche-dutemps.html)**  2022-10-24 19:43:26
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Radio Telescope Project](https://3b8mars.org/2022/10/23/radio-telescope-project/)**  2022-10-23 07:54:33
