@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[History and Heritage of Antoinette-Phooliyar and 2nd November Immigrants (1770-1834-2022)](https://www.lemauricien.com/le-mauricien/history-and-heritage-of-antoinette-phooliyar-and-2nd-november-immigrants-1770-1834-2022/522165/)**  2022-10-31 19:52:59
-
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 31e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/10/homelie-pour-le-31e-dimanche-du-toc.html)**  2022-10-31 13:24:52
+**[Homélie pour la fête de la Toussaint](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-la-fete-de-la-toussaint.html)**  2022-11-01 17:42:56
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[WILLIAM GOLDING:  THE MAN AND HIS BOOKS](https://www.lemauricien.com/le-mauricien/william-golding-the-man-and-his-books/522327/)**  2022-11-01 11:55:03
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[De Gea the unlikely hero](https://ritesh2103.wordpress.com/2022/10/30/de-gea-the-unlikely-hero/)**  2022-10-30 18:33:52
