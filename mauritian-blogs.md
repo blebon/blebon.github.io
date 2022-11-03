@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la fête de la Toussaint](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-la-fete-de-la-toussaint.html)**  2022-11-01 17:42:56
+**[Homélie pour la Commémoration des défunts](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-la-commemoration-des.html)**  2022-11-02 16:25:09
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[WILLIAM GOLDING:  THE MAN AND HIS BOOKS](https://www.lemauricien.com/le-mauricien/william-golding-the-man-and-his-books/522327/)**  2022-11-01 11:55:03
