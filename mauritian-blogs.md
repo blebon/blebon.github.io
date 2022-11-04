@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[WHY NOT SIMPLY DECRIMINALISE?](https://www.lemauricien.com/actualites/why-not-simply-decriminalise/522745/)**  2022-11-04 07:05:43
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Fun Tags](https://swanlady-impressions.blogspot.com/2022/11/fun-tags.html)**  2022-11-03 15:42:16
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Un Toit pour Toi (Ansam li ankor posib)](https://www.lemauricien.com/le-mauricien/un-toit-pour-toi-ansam-li-ankor-posib/522572/)**  2022-11-03 12:01:54
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour la Commémoration des défunts](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-la-commemoration-des.html)**  2022-11-02 16:25:09
