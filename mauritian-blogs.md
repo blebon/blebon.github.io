@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la Commémoration des défunts](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-la-commemoration-des.html)**  2022-11-02 16:25:09
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Fun Tags](https://swanlady-impressions.blogspot.com/2022/11/fun-tags.html)**  2022-11-03 15:42:16
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[WILLIAM GOLDING:  THE MAN AND HIS BOOKS](https://www.lemauricien.com/le-mauricien/william-golding-the-man-and-his-books/522327/)**  2022-11-01 11:55:03
+**[Un Toit pour Toi (Ansam li ankor posib)](https://www.lemauricien.com/le-mauricien/un-toit-pour-toi-ansam-li-ankor-posib/522572/)**  2022-11-03 12:01:54
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour la Commémoration des défunts](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-la-commemoration-des.html)**  2022-11-02 16:25:09
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[De Gea the unlikely hero](https://ritesh2103.wordpress.com/2022/10/30/de-gea-the-unlikely-hero/)**  2022-10-30 18:33:52
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Autumn Leave Portraits](https://davidandjennilyn.com/2022/10/25/autumn-leave-portraits/)**  2022-10-26 01:03:51
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Wedding Wishes](https://swanlady-impressions.blogspot.com/2022/10/wedding-wishes.html)**  2022-10-25 20:47:31
 
 [Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
 **[Radio Telescope Project](https://3b8mars.org/2022/10/23/radio-telescope-project/)**  2022-10-23 07:54:33
