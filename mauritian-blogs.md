@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[WHY NOT SIMPLY DECRIMINALISE?](https://www.lemauricien.com/actualites/why-not-simply-decriminalise/522745/)**  2022-11-04 07:05:43
+**[Vivre comme un hobbit:  la science et la magie de la fabrication du pain](https://www.lemauricien.com/le-mauricien/vivre-comme-un-hobbit-la-science-et-la-magie-de-la-fabrication-du-pain/522705/)**  2022-11-04 12:00:59
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Fun Tags](https://swanlady-impressions.blogspot.com/2022/11/fun-tags.html)**  2022-11-03 15:42:16
