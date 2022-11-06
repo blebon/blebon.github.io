@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 32e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-le-32e-dimanche-du-toc.html)**  2022-11-05 18:00:48
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Vivre comme un hobbit:  la science et la magie de la fabrication du pain](https://www.lemauricien.com/le-mauricien/vivre-comme-un-hobbit-la-science-et-la-magie-de-la-fabrication-du-pain/522705/)**  2022-11-04 12:00:59
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Fun Tags](https://swanlady-impressions.blogspot.com/2022/11/fun-tags.html)**  2022-11-03 15:42:16
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la Commémoration des défunts](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-la-commemoration-des.html)**  2022-11-02 16:25:09
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[De Gea the unlikely hero](https://ritesh2103.wordpress.com/2022/10/30/de-gea-the-unlikely-hero/)**  2022-10-30 18:33:52
