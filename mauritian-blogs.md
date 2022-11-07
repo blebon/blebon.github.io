@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[UoM-Communication Studies](https://comstudies.wordpress.com)  
+**[UoM FSSH students selected as finalists for the African Fact-Checking Awards 2022](https://comstudies.wordpress.com/2022/11/07/uom-fssh-students-selected-as-finalists-for-the-african-fact-checking-awards-2022/)**  2022-11-07 06:57:13
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Villains destroy toothless Red Devils](https://ritesh2103.wordpress.com/2022/11/06/villains-destroy-toothless-red-devils/)**  2022-11-06 17:14:16
 
@@ -120,9 +123,6 @@ permalink: /mauritian-blogs/
 
 [Spiritual in my life](https://spiritualinlife23.blogspot.com/)  
 **[Youtube shorts mere sai](https://spiritualinlife23.blogspot.com/2022/07/youtube-shorts-mere-sai_19.html)**  2022-07-19 20:22:42
-
-[UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[Fact-checking articles by Journalism students](https://comstudies.wordpress.com/2022/07/14/fact-checking-articles-by-journalism-students/)**  2022-07-14 11:20:55
 
 [Carte Abricot Wedding Planner à l'Ile Maurice](https://carteabricotwedding.blogspot.com/)  
 **[MARIE-MICHELE & JORDAN  22 .04. 22](https://carteabricotwedding.blogspot.com/2022/06/mariage-flic-en-flac-22-04-22.html)**  2022-07-11 06:21:20
