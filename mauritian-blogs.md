@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Villains destroy toothless Red Devils](https://ritesh2103.wordpress.com/2022/11/06/villains-destroy-toothless-red-devils/)**  2022-11-06 17:14:16
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Surconsommation :  comment aller au-delà du militantisme ?](https://zoomdr.blogspot.com/2022/11/surconsommation-comment-aller-au-dela.html)**  2022-11-06 13:13:36
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 32e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-le-32e-dimanche-du-toc.html)**  2022-11-05 18:00:48
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Fun Tags](https://swanlady-impressions.blogspot.com/2022/11/fun-tags.html)**  2022-11-03 15:42:16
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[De Gea the unlikely hero](https://ritesh2103.wordpress.com/2022/10/30/de-gea-the-unlikely-hero/)**  2022-10-30 18:33:52
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LA MAISON COLONIALE DE FERNEY RÉNOVÉE](https://mysweetmauritius.blogspot.com/2022/10/la-maison-coloniale-de-ferney-renovee.html)**  2022-10-30 12:33:32
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Get in, but with careful steps !](https://relocationmauritius.wordpress.com/2022/10/21/get-in-but-with-careful-steps/)**  2022-10-21 05:33:38
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[How Nomads Shaped Centuries of Civilization](https://zoomdr.blogspot.com/2022/10/how-nomads-shaped-centuries-of.html)**  2022-10-20 10:27:21
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Why Recall Elections Are Seriously Overdue in Mauritius](http://kozelidir.blogspot.com/2022/10/why-recall-elections-are-seriously.html)**  2022-10-20 07:35:44
