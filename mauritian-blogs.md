@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
+**[New Callsigns](https://3b8mars.org/2022/11/07/new-callsigns/)**  2022-11-07 16:03:58
+
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UoM FSSH students selected as finalists for the African Fact-Checking Awards 2022](https://comstudies.wordpress.com/2022/11/07/uom-fssh-students-selected-as-finalists-for-the-african-fact-checking-awards-2022/)**  2022-11-07 06:57:13
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Autumn Leave Portraits](https://davidandjennilyn.com/2022/10/25/autumn-leave-portraits/)**  2022-10-26 01:03:51
-
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[Radio Telescope Project](https://3b8mars.org/2022/10/23/radio-telescope-project/)**  2022-10-23 07:54:33
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Get in, but with careful steps !](https://relocationmauritius.wordpress.com/2022/10/21/get-in-but-with-careful-steps/)**  2022-10-21 05:33:38
