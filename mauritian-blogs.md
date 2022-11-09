@@ -4,8 +4,8 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Mauritius Amateur Radio Society](https://mars3b8.wordpress.com/)  
-**[New Callsigns](https://3b8mars.org/2022/11/07/new-callsigns/)**  2022-11-07 16:03:58
+[An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
+**[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UoM FSSH students selected as finalists for the African Fact-Checking Awards 2022](https://comstudies.wordpress.com/2022/11/07/uom-fssh-students-selected-as-finalists-for-the-african-fact-checking-awards-2022/)**  2022-11-07 06:57:13
