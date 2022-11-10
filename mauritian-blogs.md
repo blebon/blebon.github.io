@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Égalité homme et femme :  pour un vrai changement !](https://www.lemauricien.com/le-mauricien/egalite-homme-et-femme-pour-un-vrai-changement/523537/)**  2022-11-09 12:00:44
+**[Anou Koz Parol-130:  Konstitision Moris an Kreol: ver enn validasion teknik ek popiler](https://www.lemauricien.com/le-mauricien/anou-koz-parol-130-konstitision-moris-an-kreol-ver-enn-validasion-teknik-ek-popiler/523721/)**  2022-11-10 10:52:12
 
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
