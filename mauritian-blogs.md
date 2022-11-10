@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Égalité homme et femme :  pour un vrai changement !](https://www.lemauricien.com/le-mauricien/egalite-homme-et-femme-pour-un-vrai-changement/523537/)**  2022-11-09 12:00:44
+
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 32e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-le-32e-dimanche-du-toc.html)**  2022-11-05 18:00:48
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Vivre comme un hobbit:  la science et la magie de la fabrication du pain](https://www.lemauricien.com/le-mauricien/vivre-comme-un-hobbit-la-science-et-la-magie-de-la-fabrication-du-pain/522705/)**  2022-11-04 12:00:59
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Fun Tags](https://swanlady-impressions.blogspot.com/2022/11/fun-tags.html)**  2022-11-03 15:42:16
