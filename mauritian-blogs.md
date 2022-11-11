@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[#Knowvember at Constance Hotels & Resorts](https://blog.constancehotels.com/knowvember-at-constance-hotels-resorts/)**  2022-11-11 07:32:00
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[The Sports Industry](https://relocationmauritius.wordpress.com/2022/11/11/the-sports-industry/)**  2022-11-11 06:35:25
+
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UoM FSSH Journalism students win the top two prizes in the student category for the African Fact-Checking Awards 2022](https://comstudies.wordpress.com/2022/11/11/uom-fssh-journalism-students-win-the-top-two-prizes-in-the-student-category-for-the-african-fact-checking-awards-2022/)**  2022-11-11 04:27:48
 
@@ -28,14 +34,8 @@ permalink: /mauritian-blogs/
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Fun Tags](https://swanlady-impressions.blogspot.com/2022/11/fun-tags.html)**  2022-11-03 15:42:16
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[The Perfect Night’s Sleep at Constance Hotels & Resorts](https://blog.constancehotels.com/the-perfect-nights-sleep-at-constance-hotels-resorts/)**  2022-10-26 11:15:00
-
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Autumn Leave Portraits](https://davidandjennilyn.com/2022/10/25/autumn-leave-portraits/)**  2022-10-26 01:03:51
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Get in, but with careful steps !](https://relocationmauritius.wordpress.com/2022/10/21/get-in-but-with-careful-steps/)**  2022-10-21 05:33:38
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Why Recall Elections Are Seriously Overdue in Mauritius](http://kozelidir.blogspot.com/2022/10/why-recall-elections-are-seriously.html)**  2022-10-20 07:35:44
