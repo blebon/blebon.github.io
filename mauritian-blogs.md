@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[UoM-Communication Studies](https://comstudies.wordpress.com)  
+**[UoM FSSH Journalism students win the top two prizes in the student category for the African Fact-Checking Awards 2022](https://comstudies.wordpress.com/2022/11/11/uom-fssh-journalism-students-win-the-top-two-prizes-in-the-student-category-for-the-african-fact-checking-awards-2022/)**  2022-11-11 04:27:48
+
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 L'EPOUSTOUFLANTE REPRODUCTION DES CORAUX](https://mysweetmauritius.blogspot.com/2022/11/lepoustouflante-reproduction-des-coraux.html)**  2022-11-10 17:36:36
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Anou Koz Parol-130:  Konstitision Moris an Kreol: ver enn validasion teknik ek popiler](https://www.lemauricien.com/le-mauricien/anou-koz-parol-130-konstitision-moris-an-kreol-ver-enn-validasion-teknik-ek-popiler/523721/)**  2022-11-10 10:52:12
 
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
-
-[UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[UoM FSSH students selected as finalists for the African Fact-Checking Awards 2022](https://comstudies.wordpress.com/2022/11/07/uom-fssh-students-selected-as-finalists-for-the-african-fact-checking-awards-2022/)**  2022-11-07 06:57:13
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Villains destroy toothless Red Devils](https://ritesh2103.wordpress.com/2022/11/06/villains-destroy-toothless-red-devils/)**  2022-11-06 17:14:16
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Fun Tags](https://swanlady-impressions.blogspot.com/2022/11/fun-tags.html)**  2022-11-03 15:42:16
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 LA MAISON COLONIALE DE FERNEY RÉNOVÉE](https://mysweetmauritius.blogspot.com/2022/10/la-maison-coloniale-de-ferney-renovee.html)**  2022-10-30 12:33:32
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Perfect Night’s Sleep at Constance Hotels & Resorts](https://blog.constancehotels.com/the-perfect-nights-sleep-at-constance-hotels-resorts/)**  2022-10-26 11:15:00
