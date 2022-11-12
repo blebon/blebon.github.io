@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[En vrac](https://www.lemauricien.com/le-mauricien/en-vrac/523835/)**  2022-11-11 12:03:03
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[#Knowvember at Constance Hotels & Resorts](https://blog.constancehotels.com/knowvember-at-constance-hotels-resorts/)**  2022-11-11 07:32:00
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 L'EPOUSTOUFLANTE REPRODUCTION DES CORAUX](https://mysweetmauritius.blogspot.com/2022/11/lepoustouflante-reproduction-des-coraux.html)**  2022-11-10 17:36:36
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou Koz Parol-130:  Konstitision Moris an Kreol: ver enn validasion teknik ek popiler](https://www.lemauricien.com/le-mauricien/anou-koz-parol-130-konstitision-moris-an-kreol-ver-enn-validasion-teknik-ek-popiler/523721/)**  2022-11-10 10:52:12
 
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
