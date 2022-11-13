@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Star shape](http://gadatagada.blogspot.com/2022/11/star-shape.html)**  2022-11-13 06:51:18
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[En vrac](https://www.lemauricien.com/le-mauricien/en-vrac/523835/)**  2022-11-11 12:03:03
 
@@ -126,9 +129,6 @@ permalink: /mauritian-blogs/
 
 [Carte Abricot Wedding Planner à l'Ile Maurice](https://carteabricotwedding.blogspot.com/)  
 **[MARIE-MICHELE & JORDAN  22 .04. 22](https://carteabricotwedding.blogspot.com/2022/06/mariage-flic-en-flac-22-04-22.html)**  2022-07-11 06:21:20
-
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Do not touch !](http://gadatagada.blogspot.com/2022/07/do-not-touch.html)**  2022-07-08 06:34:42
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Lack of Veterinarians in Mauritius](https://facultyagriculture.blogspot.com/2022/06/lack-of-veterinarians-in-mauritius.html)**  2022-06-29 13:22:44
