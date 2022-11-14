@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Un jardin au charme d'antan](http://gadatagada.blogspot.com/2022/11/un-jardin-au-charme-dantan.html)**  2022-11-14 10:16:26
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Garnacho saves the Red Devils](https://ritesh2103.wordpress.com/2022/11/13/garnacho-saves-the-red-devils/)**  2022-11-13 18:48:36
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Quick and easy cupcakes](https://nashbakery.blogspot.com/2022/11/quick-and-easy-cupcakes.html)**  2022-11-13 14:20:11
-
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Star shape](http://gadatagada.blogspot.com/2022/11/star-shape.html)**  2022-11-13 06:51:18
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[En vrac](https://www.lemauricien.com/le-mauricien/en-vrac/523835/)**  2022-11-11 12:03:03
