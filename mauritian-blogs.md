@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[À qui profite une pandémie ?](https://www.lemauricien.com/le-mauricien/a-qui-profite-une-pandemie/524202/)**  2022-11-15 14:00:13
+
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Our New Clients Get Up to 25 extra bonus on top of 650%.](https://dailytechnicalanalysisforexnews.blogspot.com/2022/11/our-new-clients-get-up-to-25-extra.html)**  2022-11-14 12:33:46
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Quick and easy cupcakes](https://nashbakery.blogspot.com/2022/11/quick-and-easy-cupcakes.html)**  2022-11-13 14:20:11
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[En vrac](https://www.lemauricien.com/le-mauricien/en-vrac/523835/)**  2022-11-11 12:03:03
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[#Knowvember at Constance Hotels & Resorts](https://blog.constancehotels.com/knowvember-at-constance-hotels-resorts/)**  2022-11-11 07:32:00
