@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Vivre avec une monnaie  indésirable….](https://tchombo.blogspot.com/2022/11/vivre-avec-une-monnaie-indesirable.html)**  2022-11-16 08:34:49
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[À qui profite une pandémie ?](https://www.lemauricien.com/le-mauricien/a-qui-profite-une-pandemie/524202/)**  2022-11-15 14:00:13
 
@@ -174,9 +177,6 @@ permalink: /mauritian-blogs/
 
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[Salmi: origine et decouverte(s)](https://petitpotagerilemaurice.blogspot.com/2022/02/salmi-origine-et-decouvertes.html)**  2022-02-20 10:18:07
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The Power of the Dog, the power to enchant](https://tchombo.blogspot.com/2022/02/the-power-of-dog-power-to-enchant.html)**  2022-02-17 10:39:56
 
 [The Eagle's Lodge](http://ashfaqblog.blogspot.com/)  
 **[Blogging or Vlogging ?](http://ashfaqblog.blogspot.com/2019/11/blogging-or-vlogging.html)**  2022-02-17 07:28:35
