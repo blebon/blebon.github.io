@@ -4,17 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-17 16:36:09
-
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Living with a (super) soft  currency is far from wonderful](https://www.lemauricien.com/le-mauricien/living-with-a-super-soft-currency-is-far-from-wonderful/524572/)**  2022-11-17 12:00:56
+**[Perspective d’un jeune Mauricien à la COP27 d’Égypte](https://www.lemauricien.com/actualites/perspective-dun-jeune-mauricien-a-la-cop27-degypte/524797/)**  2022-11-18 10:55:22
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[The Perfect Romantic Getaway At Constance Hotels & Resorts](https://blog.constancehotels.com/the-perfect-romantic-getaway-at-constance-hotels-resorts/)**  2022-11-18 10:33:39
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-18 05:54:57
+
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Riche en Eau](http://gadatagada.blogspot.com/2022/11/riche-en-eau.html)**  2022-11-18 05:45:13
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Our New Clients Get Up to 25 extra bonus on top of 650%.](https://dailytechnicalanalysisforexnews.blogspot.com/2022/11/our-new-clients-get-up-to-25-extra.html)**  2022-11-14 12:33:46
-
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Un jardin au charme d'antan](http://gadatagada.blogspot.com/2022/11/un-jardin-au-charme-dantan.html)**  2022-11-14 10:16:26
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Garnacho saves the Red Devils](https://ritesh2103.wordpress.com/2022/11/13/garnacho-saves-the-red-devils/)**  2022-11-13 18:48:36
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Quick and easy cupcakes](https://nashbakery.blogspot.com/2022/11/quick-and-easy-cupcakes.html)**  2022-11-13 14:20:11
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[#Knowvember at Constance Hotels & Resorts](https://blog.constancehotels.com/knowvember-at-constance-hotels-resorts/)**  2022-11-11 07:32:00
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The Sports Industry](https://relocationmauritius.wordpress.com/2022/11/11/the-sports-industry/)**  2022-11-11 06:35:25
