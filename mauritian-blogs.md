@@ -5,10 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[Vivre avec une monnaie  indésirable….](https://tchombo.blogspot.com/2022/11/vivre-avec-une-monnaie-indesirable.html)**  2022-11-17 03:29:09
+**[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-17 16:36:09
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[INSPIRATION – Oyez, oyez ! La terre nous interpelle…](https://www.lemauricien.com/le-mauricien/inspiration-oyez-oyez-la-terre-nous-interpelle/524496/)**  2022-11-16 12:00:37
+**[Living with a (super) soft  currency is far from wonderful](https://www.lemauricien.com/le-mauricien/living-with-a-super-soft-currency-is-far-from-wonderful/524572/)**  2022-11-17 12:00:56
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Our New Clients Get Up to 25 extra bonus on top of 650%.](https://dailytechnicalanalysisforexnews.blogspot.com/2022/11/our-new-clients-get-up-to-25-extra.html)**  2022-11-14 12:33:46
