@@ -5,16 +5,16 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Perspective d’un jeune Mauricien à la COP27 d’Égypte](https://www.lemauricien.com/actualites/perspective-dun-jeune-mauricien-a-la-cop27-degypte/524797/)**  2022-11-18 10:55:22
+**[ALBUM DE SENSIBILISATION – Transmission VIH mère-enfant : Plaidoyer pour une approche holistique des grossesses](https://www.lemauricien.com/le-mauricien/album-de-sensibilisation-transmission-vih-mere-enfant-plaidoyer-pour-une-approche-holistique-des-grossesses/524969/)**  2022-11-19 11:43:32
+
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[La Maison 1794](http://gadatagada.blogspot.com/2022/11/la-maison-1794.html)**  2022-11-19 08:47:54
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Perfect Romantic Getaway At Constance Hotels & Resorts](https://blog.constancehotels.com/the-perfect-romantic-getaway-at-constance-hotels-resorts/)**  2022-11-18 10:33:39
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-18 05:54:57
-
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Riche en Eau](http://gadatagada.blogspot.com/2022/11/riche-en-eau.html)**  2022-11-18 05:45:13
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Our New Clients Get Up to 25 extra bonus on top of 650%.](https://dailytechnicalanalysisforexnews.blogspot.com/2022/11/our-new-clients-get-up-to-25-extra.html)**  2022-11-14 12:33:46
@@ -198,8 +198,5 @@ permalink: /mauritian-blogs/
 
 [Huisvlyt](https://huisvlyt.blogspot.com/)  
 **[Back to Basics](https://huisvlyt.blogspot.com/2022/01/back-to-basics.html)**  2022-01-04 18:02:03
-
-[Zen Mauritius](https://zenmauritius.wordpress.com)  
-**[HOW CAN FAILURES SHAPE ONE’S LIFE?](https://zenmauritius.wordpress.com/2021/12/18/how-can-failures-shape-ones-life/)**  2021-12-18 06:04:53
 
 <div style="height:0;width:0;overflow:hidden;"></div>
