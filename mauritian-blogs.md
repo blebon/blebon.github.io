@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 34e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-le-34e-dimanche-du-toc.html)**  2022-11-20 05:30:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[ALBUM DE SENSIBILISATION – Transmission VIH mère-enfant : Plaidoyer pour une approche holistique des grossesses](https://www.lemauricien.com/le-mauricien/album-de-sensibilisation-transmission-vih-mere-enfant-plaidoyer-pour-une-approche-holistique-des-grossesses/524969/)**  2022-11-19 11:43:32
 
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Surconsommation :  comment aller au-delà du militantisme ?](https://zoomdr.blogspot.com/2022/11/surconsommation-comment-aller-au-dela.html)**  2022-11-06 13:13:36
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 32e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-le-32e-dimanche-du-toc.html)**  2022-11-05 18:00:48
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Fun Tags](https://swanlady-impressions.blogspot.com/2022/11/fun-tags.html)**  2022-11-03 15:42:16
