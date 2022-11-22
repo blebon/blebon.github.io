@@ -17,8 +17,11 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: blebon
-    github:  blebon
+    mastodon:
+      - username: blebon
+        instance: mastodon.social
+    github: blebon
+    twitter:  blebon
 
     # GitLab instances
     # gitlab:
