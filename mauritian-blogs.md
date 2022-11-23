@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[CR7 leaves Old Trafford with immediate effect](https://ritesh2103.wordpress.com/2022/11/22/cr7-leaves-old-trafford-with-immediate-effect/)**  2022-11-22 18:15:00
+
+[priscimon.com](https://priscimon.com/blog)  
+**[Cité Vallijee views](https://priscimon.com/blog/2022/11/22/cite-vallijee-views/)**  2022-11-22 14:46:02
+
 [DesignHub](https://theolivertwistblog.blogspot.com/)  
 **[No title](https://theolivertwistblog.blogspot.com/2022/11/blog-post_21.html)**  2022-11-21 19:01:49
 
@@ -24,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Our New Clients Get Up to 25 extra bonus on top of 650%.](https://dailytechnicalanalysisforexnews.blogspot.com/2022/11/our-new-clients-get-up-to-25-extra.html)**  2022-11-14 12:33:46
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Garnacho saves the Red Devils](https://ritesh2103.wordpress.com/2022/11/13/garnacho-saves-the-red-devils/)**  2022-11-13 18:48:36
 
 [ASSOCIATION FOR POPULATION AND DEVELOPMENT](https://apdmauritius.blogspot.com/)  
 **[MEN AS CARING PARTNERS](https://apdmauritius.blogspot.com/2022/11/men-as-caring-partners.html)**  2022-11-13 15:26:52
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Why Recall Elections Are Seriously Overdue in Mauritius](http://kozelidir.blogspot.com/2022/10/why-recall-elections-are-seriously.html)**  2022-10-20 07:35:44
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Papi, 12 September 2022](https://priscimon.com/blog/2022/10/15/papi-12-september-2022/)**  2022-10-15 19:45:14
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Sentry: Cash Grab &#124; Billion-Dollar Letters of Credit Scam in South Sudan](https://amarbheenick.blogspot.com/2022/10/the-sentry-cash-grab-billion-dollar.html)**  2022-10-05 16:32:41
