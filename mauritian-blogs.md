@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[The Benefits of a Couples Vacation](https://blog.constancehotels.com/the-benefits-of-a-couples-vacation/)**  2022-11-23 09:03:42
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Ho! Ho! Ho!](https://swanlady-impressions.blogspot.com/2022/11/ho-ho-ho.html)**  2022-11-23 08:01:38
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[CR7 leaves Old Trafford with immediate effect](https://ritesh2103.wordpress.com/2022/11/22/cr7-leaves-old-trafford-with-immediate-effect/)**  2022-11-22 18:15:00
 
@@ -21,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[La Maison 1794](http://gadatagada.blogspot.com/2022/11/la-maison-1794.html)**  2022-11-19 08:47:54
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[The Perfect Romantic Getaway At Constance Hotels & Resorts](https://blog.constancehotels.com/the-perfect-romantic-getaway-at-constance-hotels-resorts/)**  2022-11-18 10:33:39
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-18 05:54:57
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Surconsommation :  comment aller au-delà du militantisme ?](https://zoomdr.blogspot.com/2022/11/surconsommation-comment-aller-au-dela.html)**  2022-11-06 13:13:36
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Fun Tags](https://swanlady-impressions.blogspot.com/2022/11/fun-tags.html)**  2022-11-03 15:42:16
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Autumn Leave Portraits](https://davidandjennilyn.com/2022/10/25/autumn-leave-portraits/)**  2022-10-26 01:03:51
