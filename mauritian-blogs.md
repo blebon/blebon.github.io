@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[FLASHBACK &#124; 2009 : Oil Prices Should Come Down Immediately by 25%](https://www.lemauricien.com/le-mauricien/flashback-2009-oil-prices-should-come-down-immediately-by-25/525585/)**  2022-11-23 13:50:01
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Benefits of a Couples Vacation](https://blog.constancehotels.com/the-benefits-of-a-couples-vacation/)**  2022-11-23 09:03:42
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [DesignHub](https://theolivertwistblog.blogspot.com/)  
 **[No title](https://theolivertwistblog.blogspot.com/2022/11/blog-post_21.html)**  2022-11-21 19:01:49
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou koz parol 131:  Gro-plan lor Revi « Rechèch Etid Kreyòl »,  enn revi siantifik internasional an Kreol lor Kreol](https://www.lemauricien.com/le-mauricien/anou-koz-parol-131-gro-plan-lor-revi-rechech-etid-kreyol-enn-revi-siantifik-internasional-an-kreol-lor-kreol/525223/)**  2022-11-21 12:00:58
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 34e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-le-34e-dimanche-du-toc.html)**  2022-11-20 05:30:00
