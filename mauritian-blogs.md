@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[FLASHBACK &#124; 2009 : Oil Prices Should Come Down Immediately by 25%](https://www.lemauricien.com/le-mauricien/flashback-2009-oil-prices-should-come-down-immediately-by-25/525585/)**  2022-11-23 13:50:01
+**[COP27 : quand crise climatique rime avec colonialisme…](https://www.lemauricien.com/le-mauricien/cop27-quand-crise-climatique-rime-avec-colonialisme/525886/)**  2022-11-24 07:03:01
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Benefits of a Couples Vacation](https://blog.constancehotels.com/the-benefits-of-a-couples-vacation/)**  2022-11-23 09:03:42
