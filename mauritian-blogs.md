@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[COP27 : quand crise climatique rime avec colonialisme…](https://www.lemauricien.com/le-mauricien/cop27-quand-crise-climatique-rime-avec-colonialisme/525886/)**  2022-11-24 07:03:01
+**[Rotary Club of Rose Belle takes tree-planting  campaign to its locality health tracks](https://www.lemauricien.com/le-mauricien/rotary-club-of-rose-belle-takes-tree-planting-campaign-to-its-locality-health-tracks/525917/)**  2022-11-25 12:01:26
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Benefits of a Couples Vacation](https://blog.constancehotels.com/the-benefits-of-a-couples-vacation/)**  2022-11-23 09:03:42
