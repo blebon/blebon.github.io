@@ -31,6 +31,9 @@ permalink: /mauritian-blogs/
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-18 05:54:57
 
+[Celeborn](http://blog.atwin.org/)  
+**[Tmux : Create multiple windows to ssh to several servers](http://blog.atwin.org/2022/11/tmux-create-multiple-windows-to-ssh-to.html)**  2022-11-16 23:59:00
+
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Our New Clients Get Up to 25 extra bonus on top of 650%.](https://dailytechnicalanalysisforexnews.blogspot.com/2022/11/our-new-clients-get-up-to-25-extra.html)**  2022-11-14 12:33:46
 
