@@ -4,14 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Green Mauritius](https://greenmauritius.blogspot.com/)  
+**[FoodWise - le combat efficace contre le gaspillage alimentaire](https://greenmauritius.blogspot.com/2022/11/foodwise-le-combat-efficace-contre-le.html)**  2022-11-28 05:21:15
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 1er Dimanche de l'Avent A](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-le-1er-dimanche-de-lavent-a.html)**  2022-11-27 17:49:13
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Candy Cane Circles](https://swanlady-impressions.blogspot.com/2022/11/candy-cane-circles.html)**  2022-11-27 14:35:20
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Rotary Club of Rose Belle takes tree-planting  campaign to its locality health tracks](https://www.lemauricien.com/le-mauricien/rotary-club-of-rose-belle-takes-tree-planting-campaign-to-its-locality-health-tracks/525917/)**  2022-11-25 12:01:26
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Thanksgiving Fog](https://davidandjennilyn.com/2022/11/24/thanksgiving-fog/)**  2022-11-24 18:28:19
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Benefits of a Couples Vacation](https://blog.constancehotels.com/the-benefits-of-a-couples-vacation/)**  2022-11-23 09:03:42
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Ho! Ho! Ho!](https://swanlady-impressions.blogspot.com/2022/11/ho-ho-ho.html)**  2022-11-23 08:01:38
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[CR7 leaves Old Trafford with immediate effect](https://ritesh2103.wordpress.com/2022/11/22/cr7-leaves-old-trafford-with-immediate-effect/)**  2022-11-22 18:15:00
@@ -21,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [DesignHub](https://theolivertwistblog.blogspot.com/)  
 **[No title](https://theolivertwistblog.blogspot.com/2022/11/blog-post_21.html)**  2022-11-21 19:01:49
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 34e Dimanche du TOC](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-le-34e-dimanche-du-toc.html)**  2022-11-20 05:30:00
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[La Maison 1794](http://gadatagada.blogspot.com/2022/11/la-maison-1794.html)**  2022-11-19 08:47:54
@@ -57,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Surconsommation :  comment aller au-delà du militantisme ?](https://zoomdr.blogspot.com/2022/11/surconsommation-comment-aller-au-dela.html)**  2022-11-06 13:13:36
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Autumn Leave Portraits](https://davidandjennilyn.com/2022/10/25/autumn-leave-portraits/)**  2022-10-26 01:03:51
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Why Recall Elections Are Seriously Overdue in Mauritius](http://kozelidir.blogspot.com/2022/10/why-recall-elections-are-seriously.html)**  2022-10-20 07:35:44
@@ -126,9 +129,6 @@ permalink: /mauritian-blogs/
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 22 Worked Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-07 16:37:31
-
-[Green Mauritius](https://greenmauritius.blogspot.com/)  
-**[Elasmobranches dans les Mascareignes](https://greenmauritius.blogspot.com/2022/07/elasmobranches-dans-les-mascareignes.html)**  2022-08-01 06:22:38
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[The End (almost!)](https://mymauritiangarden.wordpress.com/2022/07/21/the-end-almost/)**  2022-07-21 09:45:04
