@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-29 10:36:25
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Les Indésirables.  « Silence ! On tourne. »](https://www.lemauricien.com/le-mauricien/les-indesirables-silence-on-tourne/526305/)**  2022-11-28 12:00:59
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[La Maison 1794](http://gadatagada.blogspot.com/2022/11/la-maison-1794.html)**  2022-11-19 08:47:54
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-18 05:54:57
 
 [Celeborn](http://blog.atwin.org/)  
 **[Tmux : Create multiple windows to ssh to several servers](http://blog.atwin.org/2022/11/tmux-create-multiple-windows-to-ssh-to.html)**  2022-11-16 23:59:00
