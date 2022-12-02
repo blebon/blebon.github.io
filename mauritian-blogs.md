@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Nishal Joyram’s Hunger Strike – A Symbol of the Common Man Stepping Up](https://www.lemauricien.com/le-mauricien/nishal-joyrams-hunger-strike-a-symbol-of-the-common-man-stepping-up/526821/)**  2022-12-01 06:02:42
+**[LYCÉE PROFESSIONNEL : apprendre un métier et obtenir un bac professionnel](https://www.lemauricien.com/le-mauricien/lycee-professionnel-apprendre-un-metier-et-obtenir-un-bac-professionnel/526915/)**  2022-12-01 13:27:33
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-29 10:36:25
