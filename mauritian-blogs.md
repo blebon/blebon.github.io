@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[The quest for a robot with a sense of touch](https://zoomdr.blogspot.com/2022/12/the-quest-for-robot-with-sense-of-touch.html)**  2022-12-02 09:19:16
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[ADVENTURE RELATED ECOTOURISM ACTIVITIES (ARETA)](https://relocationmauritius.wordpress.com/2022/12/02/adventure-related-ecotourism-activities-areta/)**  2022-12-02 08:42:31
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LYCÉE PROFESSIONNEL : apprendre un métier et obtenir un bac professionnel](https://www.lemauricien.com/le-mauricien/lycee-professionnel-apprendre-un-metier-et-obtenir-un-bac-professionnel/526915/)**  2022-12-01 13:27:33
 
@@ -49,9 +55,6 @@ permalink: /mauritian-blogs/
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Quick and easy cupcakes](https://nashbakery.blogspot.com/2022/11/quick-and-easy-cupcakes.html)**  2022-11-13 14:20:11
 
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[The Sports Industry](https://relocationmauritius.wordpress.com/2022/11/11/the-sports-industry/)**  2022-11-11 06:35:25
-
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UoM FSSH Journalism students win the top two prizes in the student category for the African Fact-Checking Awards 2022](https://comstudies.wordpress.com/2022/11/11/uom-fssh-journalism-students-win-the-top-two-prizes-in-the-student-category-for-the-african-fact-checking-awards-2022/)**  2022-11-11 04:27:48
 
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Surconsommation :  comment aller au-delà du militantisme ?](https://zoomdr.blogspot.com/2022/11/surconsommation-comment-aller-au-dela.html)**  2022-11-06 13:13:36
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Why Recall Elections Are Seriously Overdue in Mauritius](http://kozelidir.blogspot.com/2022/10/why-recall-elections-are-seriously.html)**  2022-10-20 07:35:44
