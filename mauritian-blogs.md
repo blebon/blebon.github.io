@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[An english attitude](https://vintishgokool.blogspot.com/2022/12/an-english-attitude.html)**  2022-12-03 04:28:30
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[The quest for a robot with a sense of touch](https://zoomdr.blogspot.com/2022/12/the-quest-for-robot-with-sense-of-touch.html)**  2022-12-02 09:19:16
 
@@ -78,9 +81,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[CozyGrip Cast Iron Pan Handle Cover Crochet Pattern](https://veganlovlie.com/cast-iron-pan-handle-cover-crochet-pattern/)**  2022-09-29 01:36:51
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[A coward person](https://vintishgokool.blogspot.com/2022/09/a-coward-person.html)**  2022-09-27 15:33:19
 
 [turbine.mu](https://turbine.mu)  
 **[Tips to prepare a Business Pitch to Investors](https://turbine.mu/2022/09/26/pitching-business-idea-to-investors/)**  2022-09-26 08:53:04
