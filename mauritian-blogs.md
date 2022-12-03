@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[PRIX PATRICK-SANEDHIP : Vibrant hommage à Patrick Athaw](https://www.lemauricien.com/le-mauricien/prix-patrick-sanedhip-vibrant-hommage-a-patrick-athaw/527242/)**  2022-12-03 11:03:31
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[An english attitude](https://vintishgokool.blogspot.com/2022/12/an-english-attitude.html)**  2022-12-03 04:28:30
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[ADVENTURE RELATED ECOTOURISM ACTIVITIES (ARETA)](https://relocationmauritius.wordpress.com/2022/12/02/adventure-related-ecotourism-activities-areta/)**  2022-12-02 08:42:31
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LYCÉE PROFESSIONNEL : apprendre un métier et obtenir un bac professionnel](https://www.lemauricien.com/le-mauricien/lycee-professionnel-apprendre-un-metier-et-obtenir-un-bac-professionnel/526915/)**  2022-12-01 13:27:33
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-29 10:36:25
