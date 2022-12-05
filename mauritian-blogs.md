@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Yashvinblogs](https://yashvinblogs.com)  
+**[Online MVL/Declaration Payment – Unreliable Governmental Service](https://yashvinblogs.com/2022/12/05/online-mvl-payment-nta/)**  2022-12-05 05:28:21
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[PRIX PATRICK-SANEDHIP : Vibrant hommage à Patrick Athaw](https://www.lemauricien.com/le-mauricien/prix-patrick-sanedhip-vibrant-hommage-a-patrick-athaw/527242/)**  2022-12-03 11:03:31
 
@@ -15,6 +18,9 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[ADVENTURE RELATED ECOTOURISM ACTIVITIES (ARETA)](https://relocationmauritius.wordpress.com/2022/12/02/adventure-related-ecotourism-activities-areta/)**  2022-12-02 08:42:31
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Who Served As Labour Party General Secretary the Longest?](http://kozelidir.blogspot.com/2022/11/who-served-as-labour-party-general.html)**  2022-11-30 09:16:54
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-29 10:36:25
@@ -66,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Why Recall Elections Are Seriously Overdue in Mauritius](http://kozelidir.blogspot.com/2022/10/why-recall-elections-are-seriously.html)**  2022-10-20 07:35:44
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Sentry: Cash Grab &#124; Billion-Dollar Letters of Credit Scam in South Sudan](https://amarbheenick.blogspot.com/2022/10/the-sentry-cash-grab-billion-dollar.html)**  2022-10-05 16:32:41
@@ -123,9 +126,6 @@ permalink: /mauritian-blogs/
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Smother](https://faustianmatters.blogspot.com/2022/08/smother.html)**  2022-08-22 15:23:52
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[Updates on parcel imports via online shopping](https://yashvinblogs.com/2022/08/12/online-shopping-google-home-hub/)**  2022-08-12 12:16:16
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 22 Worked Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-07 16:37:31
