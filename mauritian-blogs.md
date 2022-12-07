@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[“GRÂCES” D’UMAR TIMOL : Au-delà des apparences](https://www.lemauricien.com/le-mauricien/graces-dumar-timol-au-dela-des-apparences/527535/)**  2022-12-05 12:13:19
+**[OVERCOMING HANDICAPS : The healing power of creative writing](https://www.lemauricien.com/le-mauricien/overcoming-handicaps-the-healing-power-of-creative-writing/527723/)**  2022-12-06 12:00:18
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Online MVL/Declaration Payment – Unreliable Governmental Service](https://yashvinblogs.com/2022/12/05/online-mvl-payment-nta/)**  2022-12-05 05:28:21
@@ -201,8 +201,5 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[The Cornman and The Hen](https://nayarweb.com/blog/2022/the-cornman-and-the-hen/)**  2022-02-01 19:56:36
-
-[Huisvlyt](https://huisvlyt.blogspot.com/)  
-**[Back to Basics](https://huisvlyt.blogspot.com/2022/01/back-to-basics.html)**  2022-01-04 18:02:03
 
 <div style="height:0;width:0;overflow:hidden;"></div>
