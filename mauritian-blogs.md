@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[Cheesecake végétalien au pain d’épices cuit au four &#124; Recette sans noix et sans gluten](https://veganlovlie.com/cheesecake-vegetalien-au-pain-depices/)**  2022-12-07 19:34:50
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[OVERCOMING HANDICAPS : The healing power of creative writing](https://www.lemauricien.com/le-mauricien/overcoming-handicaps-the-healing-power-of-creative-writing/527723/)**  2022-12-06 12:00:18
+**[The Good Shop, une mission et des vies](https://www.lemauricien.com/le-mauricien/the-good-shop-une-mission-et-des-vies/527881/)**  2022-12-07 12:03:37
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Online MVL/Declaration Payment – Unreliable Governmental Service](https://yashvinblogs.com/2022/12/05/online-mvl-payment-nta/)**  2022-12-05 05:28:21
@@ -81,9 +84,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[A Victoria to South Australia Roadtrip](https://littleanantasin.wordpress.com/2022/10/02/a-victoria-to-south-australia-roadtrip/)**  2022-10-02 05:05:05
-
-[Veganlovlie](https://veganlovlie.com)  
-**[CozyGrip Cast Iron Pan Handle Cover Crochet Pattern](https://veganlovlie.com/cast-iron-pan-handle-cover-crochet-pattern/)**  2022-09-29 01:36:51
 
 [turbine.mu](https://turbine.mu)  
 **[Tips to prepare a Business Pitch to Investors](https://turbine.mu/2022/09/26/pitching-business-idea-to-investors/)**  2022-09-26 08:53:04
