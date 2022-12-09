@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Veganlovlie](https://veganlovlie.com)  
-**[Cheesecake végétalien au pain d’épices cuit au four &#124; Recette sans noix et sans gluten](https://veganlovlie.com/cheesecake-vegetalien-au-pain-depices/)**  2022-12-07 19:34:50
+[The Jag!](https://morisk.blogspot.com/)  
+**[General Secretaries of the Labour Party](https://morisk.blogspot.com/2022/12/general-secretaries-of-labour-party.html)**  2022-12-08 19:53:37
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour la solenité de la Conception de la Vierge Marie](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-la-solenite-de-la.html)**  2022-12-08 18:35:51
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Good Shop, une mission et des vies](https://www.lemauricien.com/le-mauricien/the-good-shop-une-mission-et-des-vies/527881/)**  2022-12-07 12:03:37
+**[Sharm El Sheik  (COP 27)](https://www.lemauricien.com/le-mauricien/sharm-el-sheik-cop-27/528079/)**  2022-12-08 11:54:09
+
+[Veganlovlie](https://veganlovlie.com)  
+**[Cheesecake végétalien au pain d’épices cuit au four &#124; Recette sans noix et sans gluten](https://veganlovlie.com/cheesecake-vegetalien-au-pain-depices/)**  2022-12-07 19:34:50
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Online MVL/Declaration Payment – Unreliable Governmental Service](https://yashvinblogs.com/2022/12/05/online-mvl-payment-nta/)**  2022-12-05 05:28:21
@@ -30,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[FoodWise - le combat efficace contre le gaspillage alimentaire](https://greenmauritius.blogspot.com/2022/11/foodwise-le-combat-efficace-contre-le.html)**  2022-11-28 05:21:15
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 1er Dimanche de l'Avent A](https://josephnguyenmahebourg.blogspot.com/2022/11/homelie-pour-le-1er-dimanche-de-lavent-a.html)**  2022-11-27 17:49:13
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Candy Cane Circles](https://swanlady-impressions.blogspot.com/2022/11/candy-cane-circles.html)**  2022-11-27 14:35:20
@@ -120,9 +123,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[❤️ You Have 8 New Matches: Agustin, 43 years old from Buenos Aires, Argentina, and more!](https://shruticulturalgroup.blogspot.com/2022/08/you-have-8-new-matches-agustin-43-years.html)**  2022-08-23 17:34:41
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Gentle Elephant Already Back On the Podium](https://morisk.blogspot.com/2022/08/gentle-elephant-already-back-on-podium.html)**  2022-08-23 16:14:56
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Smother](https://faustianmatters.blogspot.com/2022/08/smother.html)**  2022-08-22 15:23:52
