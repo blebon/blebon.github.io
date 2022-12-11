@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[À Jacquemine, à ton sourire taquin et bienveillant](https://www.lemauricien.com/le-mauricien/a-jacquemine-a-ton-sourire-taquin-et-bienveillant/528414/)**  2022-12-10 07:27:08
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[My Brother from Another Mother](https://flicenflac.blogspot.com/2022/12/my-brother-from-another-mother.html)**  2022-12-10 23:06:53
+
+[Mera Blog](https://nayarweb.com/blog)  
+**[Speaking at DevCon 2022 Mauritius](https://nayarweb.com/blog/2022/speaking-at-devcon-2022-mauritius/)**  2022-12-10 14:08:01
 
 [The Jag!](https://morisk.blogspot.com/)  
-**[General Secretaries of the Labour Party](https://morisk.blogspot.com/2022/12/general-secretaries-of-labour-party.html)**  2022-12-08 19:53:37
+**[General Secretaries of the Labour Party](https://morisk.blogspot.com/2022/12/general-secretaries-of-labour-party.html)**  2022-12-10 12:03:49
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[À Jacquemine, à ton sourire taquin et bienveillant](https://www.lemauricien.com/le-mauricien/a-jacquemine-a-ton-sourire-taquin-et-bienveillant/528414/)**  2022-12-10 07:27:08
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour la solenité de la Conception de la Vierge Marie](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-la-solenite-de-la.html)**  2022-12-08 18:35:51
@@ -81,9 +87,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Sentry: Cash Grab &#124; Billion-Dollar Letters of Credit Scam in South Sudan](https://amarbheenick.blogspot.com/2022/10/the-sentry-cash-grab-billion-dollar.html)**  2022-10-05 16:32:41
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[A Lost Kitten](https://flicenflac.blogspot.com/2022/10/a-lost-kitten.html)**  2022-10-03 02:45:19
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[A Victoria to South Australia Roadtrip](https://littleanantasin.wordpress.com/2022/10/02/a-victoria-to-south-australia-roadtrip/)**  2022-10-02 05:05:05
@@ -198,8 +201,5 @@ permalink: /mauritian-blogs/
 
 [Katia M](https://katiam.blog)  
 **[Seychelles Top Beaches](https://katiam.blog/2022/02/03/seychelles-top-beaches/)**  2022-02-03 08:31:00
-
-[Mera Blog](https://nayarweb.com/blog)  
-**[The Cornman and The Hen](https://nayarweb.com/blog/2022/the-cornman-and-the-hen/)**  2022-02-01 19:56:36
 
 <div style="height:0;width:0;overflow:hidden;"></div>
