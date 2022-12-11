@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Nespresso, pioneer of premium single-serve coffee, unveils new range of home compostable coffee capsules](https://amarbheenick.blogspot.com/2022/11/nespresso-pioneer-of-premium-single.html)**  2022-12-11 09:47:36
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[My Brother from Another Mother](https://flicenflac.blogspot.com/2022/12/my-brother-from-another-mother.html)**  2022-12-10 23:06:53
 
@@ -84,9 +87,6 @@ permalink: /mauritian-blogs/
 
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[The Sentry: Cash Grab &#124; Billion-Dollar Letters of Credit Scam in South Sudan](https://amarbheenick.blogspot.com/2022/10/the-sentry-cash-grab-billion-dollar.html)**  2022-10-05 16:32:41
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[A Victoria to South Australia Roadtrip](https://littleanantasin.wordpress.com/2022/10/02/a-victoria-to-south-australia-roadtrip/)**  2022-10-02 05:05:05
