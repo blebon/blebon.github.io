@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 3e Dimanche de l'Avent](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-le-3e-dimanche-de-lavent.html)**  2022-12-11 13:17:45
+
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Nespresso, pioneer of premium single-serve coffee, unveils new range of home compostable coffee capsules](https://amarbheenick.blogspot.com/2022/11/nespresso-pioneer-of-premium-single.html)**  2022-12-11 09:47:36
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[À Jacquemine, à ton sourire taquin et bienveillant](https://www.lemauricien.com/le-mauricien/a-jacquemine-a-ton-sourire-taquin-et-bienveillant/528414/)**  2022-12-10 07:27:08
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la solenité de la Conception de la Vierge Marie](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-la-solenite-de-la.html)**  2022-12-08 18:35:51
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Cheesecake végétalien au pain d’épices cuit au four &#124; Recette sans noix et sans gluten](https://veganlovlie.com/cheesecake-vegetalien-au-pain-depices/)**  2022-12-07 19:34:50
