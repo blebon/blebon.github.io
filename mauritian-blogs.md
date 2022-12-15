@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Quand TikTok relance la lecture chez les jeunes](https://www.lemauricien.com/actualites/quand-tiktok-relance-la-lecture-chez-les-jeunes/529158/)**  2022-12-15 04:02:04
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Benjamin and Jennifer’s Wedding at Constance Moofushi](https://blog.constancehotels.com/benjamin-and-jennifers-wedding-at-constance-moofushi/)**  2022-12-14 00:06:00
 
 [priscimon.com](https://priscimon.com/blog)  
 **[A great week-end it was](https://priscimon.com/blog/2022/12/13/a-great-week-end-it-was/)**  2022-12-13 19:30:37
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[MORCEAUX CHOISIS](https://www.lemauricien.com/le-mauricien/morceaux-choisis/528829/)**  2022-12-13 12:00:52
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 3e Dimanche de l'Avent](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-le-3e-dimanche-de-lavent.html)**  2022-12-11 13:17:45
