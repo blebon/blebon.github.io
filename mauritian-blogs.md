@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Quand TikTok relance la lecture chez les jeunes](https://www.lemauricien.com/actualites/quand-tiktok-relance-la-lecture-chez-les-jeunes/529158/)**  2022-12-15 04:02:04
+**[Sustainability, Housing and Land reforms in Mauritius](https://www.lemauricien.com/le-mauricien/sustainability-housing-and-land-reforms-in-mauritius/529270/)**  2022-12-15 13:58:06
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Benjamin and Jennifer’s Wedding at Constance Moofushi](https://blog.constancehotels.com/benjamin-and-jennifers-wedding-at-constance-moofushi/)**  2022-12-14 00:06:00
