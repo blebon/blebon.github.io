@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Sustainability, Housing and Land reforms in Mauritius](https://www.lemauricien.com/le-mauricien/sustainability-housing-and-land-reforms-in-mauritius/529270/)**  2022-12-15 13:58:06
+**[EN CETTE ANNÉE 2022 QUI S’ACHÈVE : La guerre en Ukraine a établi  un nouvel ordre mondial](https://www.lemauricien.com/le-mauricien/en-cette-annee-2022-qui-sacheve-la-guerre-en-ukraine-a-etabli-un-nouvel-ordre-mondial/529468/)**  2022-12-16 12:00:01
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Benjamin and Jennifer’s Wedding at Constance Moofushi](https://blog.constancehotels.com/benjamin-and-jennifers-wedding-at-constance-moofushi/)**  2022-12-14 00:06:00
