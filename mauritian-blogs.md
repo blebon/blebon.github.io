@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[Gluten Free Coconut Cookies](https://veganlovlie.com/gluten-free-coconut-cookies/)**  2022-12-18 20:32:11
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Messi and Argentina on top of the world 🐐 🇦🇷](https://ritesh2103.wordpress.com/2022/12/18/messi-and-argentina-on-top-of-the-world-%f0%9f%90%90-%f0%9f%87%a6%f0%9f%87%b7/)**  2022-12-18 18:55:32
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 4e Dimanche de l'Avent](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-le-4e-dimanche-de-lavent.html)**  2022-12-18 17:29:55
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Vieillissement de la population : surenchère politique ou politique clairement définie ?](https://www.lemauricien.com/le-mauricien/vieillissement-de-la-population-surenchere-politique-ou-politique-clairement-definie/529654/)**  2022-12-17 09:57:29
 
@@ -12,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[A great week-end it was](https://priscimon.com/blog/2022/12/13/a-great-week-end-it-was/)**  2022-12-13 19:30:37
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 3e Dimanche de l'Avent](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-le-3e-dimanche-de-lavent.html)**  2022-12-11 13:17:45
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 11th Birthday Bruce!](https://davidandjennilyn.com/2022/12/11/happy-11th-birthday-bruce/)**  2022-12-11 11:01:00
@@ -30,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[General Secretaries of the Labour Party](https://morisk.blogspot.com/2022/12/general-secretaries-of-labour-party.html)**  2022-12-10 12:03:49
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Cheesecake végétalien au pain d’épices cuit au four &#124; Recette sans noix et sans gluten](https://veganlovlie.com/cheesecake-vegetalien-au-pain-depices/)**  2022-12-07 19:34:50
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Online MVL/Declaration Payment – Unreliable Governmental Service](https://yashvinblogs.com/2022/12/05/online-mvl-payment-nta/)**  2022-12-05 05:28:21
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Candy Cane Circles](https://swanlady-impressions.blogspot.com/2022/11/candy-cane-circles.html)**  2022-11-27 14:35:20
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[CR7 leaves Old Trafford with immediate effect](https://ritesh2103.wordpress.com/2022/11/22/cr7-leaves-old-trafford-with-immediate-effect/)**  2022-11-22 18:15:00
 
 [DesignHub](https://theolivertwistblog.blogspot.com/)  
 **[No title](https://theolivertwistblog.blogspot.com/2022/11/blog-post_21.html)**  2022-11-21 19:01:49
