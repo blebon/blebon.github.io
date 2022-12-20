@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Messieurs-dames du gouvernement, il est plus que temps de vous réveiller !](https://www.lemauricien.com/le-mauricien/messieurs-dames-du-gouvernement-il-est-plus-que-temps-de-vous-reveiller/530044/)**  2022-12-19 12:42:34
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Gluten Free Coconut Cookies](https://veganlovlie.com/gluten-free-coconut-cookies/)**  2022-12-18 20:32:11
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 4e Dimanche de l'Avent](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-le-4e-dimanche-de-lavent.html)**  2022-12-18 17:29:55
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Vieillissement de la population : surenchère politique ou politique clairement définie ?](https://www.lemauricien.com/le-mauricien/vieillissement-de-la-population-surenchere-politique-ou-politique-clairement-definie/529654/)**  2022-12-17 09:57:29
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Benjamin and Jennifer’s Wedding at Constance Moofushi](https://blog.constancehotels.com/benjamin-and-jennifers-wedding-at-constance-moofushi/)**  2022-12-14 00:06:00
