@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Messieurs-dames du gouvernement, il est plus que temps de vous réveiller !](https://www.lemauricien.com/le-mauricien/messieurs-dames-du-gouvernement-il-est-plus-que-temps-de-vous-reveiller/530044/)**  2022-12-19 12:42:34
+**[BOOK REVIEW – ‘Empireland’ is a must-read for a  better grasp of colonialism’s legacy](https://www.lemauricien.com/le-mauricien/book-review-empireland-is-a-must-read-for-a-better-grasp-of-colonialisms-legacy/530230/)**  2022-12-21 04:39:35
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Gluten Free Coconut Cookies](https://veganlovlie.com/gluten-free-coconut-cookies/)**  2022-12-18 20:32:11
