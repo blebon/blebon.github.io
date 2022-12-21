@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Top 5 Recommended Excursions at Constance Tsarabanjina](https://blog.constancehotels.com/top-5-recommended-excursions-at-constance-tsarabanjina/)**  2022-12-21 11:08:39
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[BOOK REVIEW – ‘Empireland’ is a must-read for a  better grasp of colonialism’s legacy](https://www.lemauricien.com/le-mauricien/book-review-empireland-is-a-must-read-for-a-better-grasp-of-colonialisms-legacy/530230/)**  2022-12-21 04:39:35
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 4e Dimanche de l'Avent](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-le-4e-dimanche-de-lavent.html)**  2022-12-18 17:29:55
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Benjamin and Jennifer’s Wedding at Constance Moofushi](https://blog.constancehotels.com/benjamin-and-jennifers-wedding-at-constance-moofushi/)**  2022-12-14 00:06:00
 
 [priscimon.com](https://priscimon.com/blog)  
 **[A great week-end it was](https://priscimon.com/blog/2022/12/13/a-great-week-end-it-was/)**  2022-12-13 19:30:37
