@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Top 5 Recommended Excursions at Constance Tsarabanjina](https://blog.constancehotels.com/top-5-recommended-excursions-at-constance-tsarabanjina/)**  2022-12-21 11:08:39
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Book Club Christmas](https://swanlady-impressions.blogspot.com/2022/12/book-club-christmas.html)**  2022-12-21 15:54:01
+
+[Yashvinblogs](https://yashvinblogs.com)  
+**[Using Google’s Assistant to run your smart home in Mauritius…](https://yashvinblogs.com/2022/12/21/google-assistant-mauritius/)**  2022-12-21 15:36:45
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[BOOK REVIEW – ‘Empireland’ is a must-read for a  better grasp of colonialism’s legacy](https://www.lemauricien.com/le-mauricien/book-review-empireland-is-a-must-read-for-a-better-grasp-of-colonialisms-legacy/530230/)**  2022-12-21 04:39:35
+**[Flashback &#124; 2018 : PM Sounds Death Knell for URA](https://www.lemauricien.com/le-mauricien/flashback-2018-pm-sounds-death-knell-for-ura/530306/)**  2022-12-21 12:14:17
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Top 5 Recommended Excursions at Constance Tsarabanjina](https://blog.constancehotels.com/top-5-recommended-excursions-at-constance-tsarabanjina/)**  2022-12-21 11:08:39
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Gluten Free Coconut Cookies](https://veganlovlie.com/gluten-free-coconut-cookies/)**  2022-12-18 20:32:11
@@ -37,9 +43,6 @@ permalink: /mauritian-blogs/
 [The Jag!](https://morisk.blogspot.com/)  
 **[General Secretaries of the Labour Party](https://morisk.blogspot.com/2022/12/general-secretaries-of-labour-party.html)**  2022-12-10 12:03:49
 
-[Yashvinblogs](https://yashvinblogs.com)  
-**[Online MVL/Declaration Payment – Unreliable Governmental Service](https://yashvinblogs.com/2022/12/05/online-mvl-payment-nta/)**  2022-12-05 05:28:21
-
 [No Title](https://vintishgokool.blogspot.com/)  
 **[An english attitude](https://vintishgokool.blogspot.com/2022/12/an-english-attitude.html)**  2022-12-03 04:28:30
 
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[FoodWise - le combat efficace contre le gaspillage alimentaire](https://greenmauritius.blogspot.com/2022/11/foodwise-le-combat-efficace-contre-le.html)**  2022-11-28 05:21:15
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Candy Cane Circles](https://swanlady-impressions.blogspot.com/2022/11/candy-cane-circles.html)**  2022-11-27 14:35:20
 
 [DesignHub](https://theolivertwistblog.blogspot.com/)  
 **[No title](https://theolivertwistblog.blogspot.com/2022/11/blog-post_21.html)**  2022-11-21 19:01:49
