@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Yashvinblogs](https://yashvinblogs.com)  
+**[Upgrading to iPhone 14](https://yashvinblogs.com/2022/12/23/upgrading-to-iphone-14/)**  2022-12-23 11:39:55
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[2023: Decadence, growth, conflict and what else?](https://www.lemauricien.com/le-mauricien/2023-decadence-growth-conflict-and-what-else/530446/)**  2022-12-22 11:35:07
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Book Club Christmas](https://swanlady-impressions.blogspot.com/2022/12/book-club-christmas.html)**  2022-12-21 15:54:01
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[Using Google’s Assistant to run your smart home in Mauritius…](https://yashvinblogs.com/2022/12/21/google-assistant-mauritius/)**  2022-12-21 15:36:45
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Top 5 Recommended Excursions at Constance Tsarabanjina](https://blog.constancehotels.com/top-5-recommended-excursions-at-constance-tsarabanjina/)**  2022-12-21 11:08:39
