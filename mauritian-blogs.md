@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[CONTE DE NOËL – « Papa, maman c’est pour bientôt, il faut veiller »](https://www.lemauricien.com/le-mauricien/conte-de-noel-papa-maman-cest-pour-bientot-il-faut-veiller/530753/)**  2022-12-24 11:36:56
+
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Toutes voiles dehors](http://gadatagada.blogspot.com/2022/12/toutes-voiles-dehors.html)**  2022-12-24 04:26:42
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 VANILLA CAFÉ à Rivière Noire](https://mysweetmauritius.blogspot.com/2022/12/vanilla-cafe-riviere-noire.html)**  2022-12-23 13:40:26
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Noël, Dieu présent dans un nouveau-né](https://www.lemauricien.com/le-mauricien/noel-dieu-present-dans-un-nouveau-ne/530556/)**  2022-12-23 12:00:41
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Upgrading to iPhone 14](https://yashvinblogs.com/2022/12/23/upgrading-to-iphone-14/)**  2022-12-23 11:39:55
