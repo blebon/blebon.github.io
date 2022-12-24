@@ -4,11 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Yashvinblogs](https://yashvinblogs.com)  
-**[Upgrading to iPhone 14](https://yashvinblogs.com/2022/12/23/upgrading-to-iphone-14/)**  2022-12-23 11:39:55
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Toutes voiles dehors](http://gadatagada.blogspot.com/2022/12/toutes-voiles-dehors.html)**  2022-12-24 04:26:42
+
+[Ask the Baker](https://nashbakery.blogspot.com/)  
+**[Chocolate Cake with Cream Cheese Swirl](https://nashbakery.blogspot.com/2022/12/chocolate-cake-with-cream-cheese-swirl.html)**  2022-12-23 15:03:16
+
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 VANILLA CAFÉ à Rivière Noire](https://mysweetmauritius.blogspot.com/2022/12/vanilla-cafe-riviere-noire.html)**  2022-12-23 13:40:26
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[2023: Decadence, growth, conflict and what else?](https://www.lemauricien.com/le-mauricien/2023-decadence-growth-conflict-and-what-else/530446/)**  2022-12-22 11:35:07
+**[Noël, Dieu présent dans un nouveau-né](https://www.lemauricien.com/le-mauricien/noel-dieu-present-dans-un-nouveau-ne/530556/)**  2022-12-23 12:00:41
+
+[Yashvinblogs](https://yashvinblogs.com)  
+**[Upgrading to iPhone 14](https://yashvinblogs.com/2022/12/23/upgrading-to-iphone-14/)**  2022-12-23 11:39:55
 
 [La  Foi Bahaie a PORT LOUIS](https://bahai-portlouis-ile-maurice.blogspot.com/)  
 **[a sunday morning](https://bahai-portlouis-ile-maurice.blogspot.com/2008/09/sunday-morning.html)**  2022-12-22 06:21:40
@@ -67,9 +76,6 @@ permalink: /mauritian-blogs/
 [DesignHub](https://theolivertwistblog.blogspot.com/)  
 **[No title](https://theolivertwistblog.blogspot.com/2022/11/blog-post_21.html)**  2022-11-21 19:01:49
 
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[La Maison 1794](http://gadatagada.blogspot.com/2022/11/la-maison-1794.html)**  2022-11-19 08:47:54
-
 [Celeborn](http://blog.atwin.org/)  
 **[Tmux : Create multiple windows to ssh to several servers](http://blog.atwin.org/2022/11/tmux-create-multiple-windows-to-ssh-to.html)**  2022-11-16 23:59:00
 
@@ -79,14 +85,8 @@ permalink: /mauritian-blogs/
 [ASSOCIATION FOR POPULATION AND DEVELOPMENT](https://apdmauritius.blogspot.com/)  
 **[MEN AS CARING PARTNERS](https://apdmauritius.blogspot.com/2022/11/men-as-caring-partners.html)**  2022-11-13 15:26:52
 
-[Ask the Baker](https://nashbakery.blogspot.com/)  
-**[Quick and easy cupcakes](https://nashbakery.blogspot.com/2022/11/quick-and-easy-cupcakes.html)**  2022-11-13 14:20:11
-
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UoM FSSH Journalism students win the top two prizes in the student category for the African Fact-Checking Awards 2022](https://comstudies.wordpress.com/2022/11/11/uom-fssh-journalism-students-win-the-top-two-prizes-in-the-student-category-for-the-african-fact-checking-awards-2022/)**  2022-11-11 04:27:48
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 L'EPOUSTOUFLANTE REPRODUCTION DES CORAUX](https://mysweetmauritius.blogspot.com/2022/11/lepoustouflante-reproduction-des-coraux.html)**  2022-11-10 17:36:36
 
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
