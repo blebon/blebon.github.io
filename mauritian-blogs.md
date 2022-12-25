@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Merry Christmas 2022 🎅](https://ritesh2103.wordpress.com/2022/12/25/merry-christmas-2022-%f0%9f%8e%85/)**  2022-12-25 02:30:10
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Christmas Tree Wishes](https://swanlady-impressions.blogspot.com/2022/12/christmas-tree-wishes.html)**  2022-12-24 20:58:08
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[CONTE DE NOËL – « Papa, maman c’est pour bientôt, il faut veiller »](https://www.lemauricien.com/le-mauricien/conte-de-noel-papa-maman-cest-pour-bientot-il-faut-veiller/530753/)**  2022-12-24 11:36:56
 
@@ -22,17 +28,11 @@ permalink: /mauritian-blogs/
 [La  Foi Bahaie a PORT LOUIS](https://bahai-portlouis-ile-maurice.blogspot.com/)  
 **[a sunday morning](https://bahai-portlouis-ile-maurice.blogspot.com/2008/09/sunday-morning.html)**  2022-12-22 06:21:40
 
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Book Club Christmas](https://swanlady-impressions.blogspot.com/2022/12/book-club-christmas.html)**  2022-12-21 15:54:01
-
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Top 5 Recommended Excursions at Constance Tsarabanjina](https://blog.constancehotels.com/top-5-recommended-excursions-at-constance-tsarabanjina/)**  2022-12-21 11:08:39
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Gluten Free Coconut Cookies](https://veganlovlie.com/gluten-free-coconut-cookies/)**  2022-12-18 20:32:11
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Messi and Argentina on top of the world 🐐 🇦🇷](https://ritesh2103.wordpress.com/2022/12/18/messi-and-argentina-on-top-of-the-world-%f0%9f%90%90-%f0%9f%87%a6%f0%9f%87%b7/)**  2022-12-18 18:55:32
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 4e Dimanche de l'Avent](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-le-4e-dimanche-de-lavent.html)**  2022-12-18 17:29:55
