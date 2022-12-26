@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Chassé-croisé](http://gadatagada.blogspot.com/2022/12/chasse-croise.html)**  2022-12-26 04:30:51
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour la messe du jour de Noel](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-la-messe-du-jour-de-noel.html)**  2022-12-25 18:24:06
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Merry Christmas 2022 🎅](https://ritesh2103.wordpress.com/2022/12/25/merry-christmas-2022-%f0%9f%8e%85/)**  2022-12-25 02:30:10
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[CONTE DE NOËL – « Papa, maman c’est pour bientôt, il faut veiller »](https://www.lemauricien.com/le-mauricien/conte-de-noel-papa-maman-cest-pour-bientot-il-faut-veiller/530753/)**  2022-12-24 11:36:56
-
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Toutes voiles dehors](http://gadatagada.blogspot.com/2022/12/toutes-voiles-dehors.html)**  2022-12-24 04:26:42
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Chocolate Cake with Cream Cheese Swirl](https://nashbakery.blogspot.com/2022/12/chocolate-cake-with-cream-cheese-swirl.html)**  2022-12-23 15:03:16
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Gluten Free Coconut Cookies](https://veganlovlie.com/gluten-free-coconut-cookies/)**  2022-12-18 20:32:11
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 4e Dimanche de l'Avent](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-le-4e-dimanche-de-lavent.html)**  2022-12-18 17:29:55
 
 [priscimon.com](https://priscimon.com/blog)  
 **[A great week-end it was](https://priscimon.com/blog/2022/12/13/a-great-week-end-it-was/)**  2022-12-13 19:30:37
