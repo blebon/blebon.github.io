@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[La crise après la bise](https://www.lemauricien.com/le-mauricien/la-crise-apres-la-bise/531032/)**  2022-12-26 12:31:31
+
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Chassé-croisé](http://gadatagada.blogspot.com/2022/12/chasse-croise.html)**  2022-12-26 04:30:51
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Merry Christmas, Peanuts-Style!](https://davidandjennilyn.com/2022/12/25/merry-christmas-peanuts-style/)**  2022-12-26 04:04:00
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour la messe du jour de Noel](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-la-messe-du-jour-de-noel.html)**  2022-12-25 18:24:06
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Christmas Tree Wishes](https://swanlady-impressions.blogspot.com/2022/12/christmas-tree-wishes.html)**  2022-12-24 20:58:08
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[CONTE DE NOËL – « Papa, maman c’est pour bientôt, il faut veiller »](https://www.lemauricien.com/le-mauricien/conte-de-noel-papa-maman-cest-pour-bientot-il-faut-veiller/530753/)**  2022-12-24 11:36:56
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Chocolate Cake with Cream Cheese Swirl](https://nashbakery.blogspot.com/2022/12/chocolate-cake-with-cream-cheese-swirl.html)**  2022-12-23 15:03:16
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[A great week-end it was](https://priscimon.com/blog/2022/12/13/a-great-week-end-it-was/)**  2022-12-13 19:30:37
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy 11th Birthday Bruce!](https://davidandjennilyn.com/2022/12/11/happy-11th-birthday-bruce/)**  2022-12-11 11:01:00
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Nespresso, pioneer of premium single-serve coffee, unveils new range of home compostable coffee capsules](https://amarbheenick.blogspot.com/2022/11/nespresso-pioneer-of-premium-single.html)**  2022-12-11 09:47:36
