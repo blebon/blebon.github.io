@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[La crise après la bise](https://www.lemauricien.com/le-mauricien/la-crise-apres-la-bise/531032/)**  2022-12-26 12:31:31
+**[The railways offered a variety of services](https://www.lemauricien.com/le-mauricien/the-railways-offered-a-variety-of-services/531222/)**  2022-12-27 12:00:25
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Chassé-croisé](http://gadatagada.blogspot.com/2022/12/chasse-croise.html)**  2022-12-26 04:30:51
