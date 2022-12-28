@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[What to do at Constance Prince Maurice](https://blog.constancehotels.com/what-to-do-at-constance-prince-maurice/)**  2022-12-28 10:35:32
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[The railways offered a variety of services](https://www.lemauricien.com/le-mauricien/the-railways-offered-a-variety-of-services/531222/)**  2022-12-27 12:00:25
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [La  Foi Bahaie a PORT LOUIS](https://bahai-portlouis-ile-maurice.blogspot.com/)  
 **[a sunday morning](https://bahai-portlouis-ile-maurice.blogspot.com/2008/09/sunday-morning.html)**  2022-12-22 06:21:40
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Top 5 Recommended Excursions at Constance Tsarabanjina](https://blog.constancehotels.com/top-5-recommended-excursions-at-constance-tsarabanjina/)**  2022-12-21 11:08:39
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Gluten Free Coconut Cookies](https://veganlovlie.com/gluten-free-coconut-cookies/)**  2022-12-18 20:32:11
