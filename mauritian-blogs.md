@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[What to do at Constance Prince Maurice](https://blog.constancehotels.com/what-to-do-at-constance-prince-maurice/)**  2022-12-28 10:35:32
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Powerhouse Ranking Needs Some Updating](http://kozelidir.blogspot.com/2022/12/powerhouse-ranking-needs-some-updating.html)**  2022-12-28 18:15:39
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The railways offered a variety of services](https://www.lemauricien.com/le-mauricien/the-railways-offered-a-variety-of-services/531222/)**  2022-12-27 12:00:25
+**[La créolisation du monde – L’équipe de France de football est l’exemple  de cette voie, n’en déplaise aux ignares !](https://www.lemauricien.com/le-mauricien/la-creolisation-du-monde-lequipe-de-france-de-football-est-lexemple-de-cette-voie-nen-deplaise-aux-ignares/531359/)**  2022-12-28 11:55:58
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[What to do at Constance Prince Maurice](https://blog.constancehotels.com/what-to-do-at-constance-prince-maurice/)**  2022-12-28 10:35:32
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Chassé-croisé](http://gadatagada.blogspot.com/2022/12/chasse-croise.html)**  2022-12-26 04:30:51
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[ADVENTURE RELATED ECOTOURISM ACTIVITIES (ARETA)](https://relocationmauritius.wordpress.com/2022/12/02/adventure-related-ecotourism-activities-areta/)**  2022-12-02 08:42:31
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Who Served As Labour Party General Secretary the Longest?](http://kozelidir.blogspot.com/2022/11/who-served-as-labour-party-general.html)**  2022-11-30 09:16:54
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-29 10:36:25
