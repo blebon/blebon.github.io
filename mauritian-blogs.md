@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[CORONAVIRUS (SARS CoV- 2), COVID 19 : Trois ans après : « Ensemble, au centre… »](https://www.lemauricien.com/le-mauricien/coronavirus-sars-cov-2-covid-19-trois-ans-apres-ensemble-au-centre/531570/)**  2022-12-29 12:00:35
+**[Un objet aussi a une vie](https://www.lemauricien.com/le-mauricien/un-objet-aussi-a-une-vie/531752/)**  2022-12-30 11:12:55
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Powerhouse Ranking Needs Some Updating](http://kozelidir.blogspot.com/2022/12/powerhouse-ranking-needs-some-updating.html)**  2022-12-28 18:15:39
