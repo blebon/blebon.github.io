@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 ORIGIN ECO CHALET à Rodrigues](https://mysweetmauritius.blogspot.com/2022/12/origin-eco-chalet-rodrigues.html)**  2022-12-30 17:33:31
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Un objet aussi a une vie](https://www.lemauricien.com/le-mauricien/un-objet-aussi-a-une-vie/531752/)**  2022-12-30 11:12:55
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Chocolate Cake with Cream Cheese Swirl](https://nashbakery.blogspot.com/2022/12/chocolate-cake-with-cream-cheese-swirl.html)**  2022-12-23 15:03:16
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 VANILLA CAFÉ à Rivière Noire](https://mysweetmauritius.blogspot.com/2022/12/vanilla-cafe-riviere-noire.html)**  2022-12-23 13:40:26
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Upgrading to iPhone 14](https://yashvinblogs.com/2022/12/23/upgrading-to-iphone-14/)**  2022-12-23 11:39:55
