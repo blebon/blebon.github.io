@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Flashback – Thursday, April 7, 2011 – Kuma Pu Regle Problem Dilo](https://www.lemauricien.com/le-mauricien/flashback-thursday-april-7-2011-kuma-pu-regle-problem-dilo/531926/)**  2022-12-31 10:53:00
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Lessons from Vienna: a housing success story 100 years in the making](https://zoomdr.blogspot.com/2022/12/lessons-from-vienna-housing-success.html)**  2022-12-31 09:11:38
+
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 ORIGIN ECO CHALET à Rodrigues](https://mysweetmauritius.blogspot.com/2022/12/origin-eco-chalet-rodrigues.html)**  2022-12-30 17:33:31
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Un objet aussi a une vie](https://www.lemauricien.com/le-mauricien/un-objet-aussi-a-une-vie/531752/)**  2022-12-30 11:12:55
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Powerhouse Ranking Needs Some Updating](http://kozelidir.blogspot.com/2022/12/powerhouse-ranking-needs-some-updating.html)**  2022-12-28 18:15:39
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[An english attitude](https://vintishgokool.blogspot.com/2022/12/an-english-attitude.html)**  2022-12-03 04:28:30
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[The quest for a robot with a sense of touch](https://zoomdr.blogspot.com/2022/12/the-quest-for-robot-with-sense-of-touch.html)**  2022-12-02 09:19:16
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[ADVENTURE RELATED ECOTOURISM ACTIVITIES (ARETA)](https://relocationmauritius.wordpress.com/2022/12/02/adventure-related-ecotourism-activities-areta/)**  2022-12-02 08:42:31
