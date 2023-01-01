@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Happy New Year 2023](https://ritesh2103.wordpress.com/2023/01/01/happy-new-year-2023/)**  2023-01-01 02:00:04
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Flashback – Thursday, April 7, 2011 – Kuma Pu Regle Problem Dilo](https://www.lemauricien.com/le-mauricien/flashback-thursday-april-7-2011-kuma-pu-regle-problem-dilo/531926/)**  2022-12-31 10:53:00
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour la messe du jour de Noel](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-la-messe-du-jour-de-noel.html)**  2022-12-25 18:24:06
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Merry Christmas 2022 🎅](https://ritesh2103.wordpress.com/2022/12/25/merry-christmas-2022-%f0%9f%8e%85/)**  2022-12-25 02:30:10
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Christmas Tree Wishes](https://swanlady-impressions.blogspot.com/2022/12/christmas-tree-wishes.html)**  2022-12-24 20:58:08
