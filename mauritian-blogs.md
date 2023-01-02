@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Happy New Year 2023](https://priscimon.com/blog/2023/01/02/happy-new-year-2023/)**  2023-01-02 07:36:31
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour la fête de St Marie, Mère de Dieu](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-la-fete-de-st-marie-mere.html)**  2023-01-02 05:48:14
+
 [Medicine Hack](http://www.medicinehack.com/)  
 **[BPAP - Bilevel Positive Airway Pressure Ventilation](http://www.medicinehack.com/2020/04/bpap-bilevel-positive-airway-pressure.html)**  2023-01-01 16:23:01
 
@@ -31,9 +37,6 @@ permalink: /mauritian-blogs/
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Merry Christmas, Peanuts-Style!](https://davidandjennilyn.com/2022/12/25/merry-christmas-peanuts-style/)**  2022-12-26 04:04:00
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la messe du jour de Noel](https://josephnguyenmahebourg.blogspot.com/2022/12/homelie-pour-la-messe-du-jour-de-noel.html)**  2022-12-25 18:24:06
-
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Christmas Tree Wishes](https://swanlady-impressions.blogspot.com/2022/12/christmas-tree-wishes.html)**  2022-12-24 20:58:08
 
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Gluten Free Coconut Cookies](https://veganlovlie.com/gluten-free-coconut-cookies/)**  2022-12-18 20:32:11
-
-[priscimon.com](https://priscimon.com/blog)  
-**[A great week-end it was](https://priscimon.com/blog/2022/12/13/a-great-week-end-it-was/)**  2022-12-13 19:30:37
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Nespresso, pioneer of premium single-serve coffee, unveils new range of home compostable coffee capsules](https://amarbheenick.blogspot.com/2022/11/nespresso-pioneer-of-premium-single.html)**  2022-12-11 09:47:36
