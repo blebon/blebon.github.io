@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Little Anantasin](https://littleanantasin.wordpress.com)  
+**[Turning 40 in Singapore and Thailand 2022](https://littleanantasin.wordpress.com/2023/01/04/turning-40-in-singapore-and-thailand-2022/)**  2023-01-04 23:54:36
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Happy New Year 2023](https://priscimon.com/blog/2023/01/02/happy-new-year-2023/)**  2023-01-02 07:36:31
 
@@ -93,9 +96,6 @@ permalink: /mauritian-blogs/
 
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
-
-[Little Anantasin](https://littleanantasin.wordpress.com)  
-**[A Victoria to South Australia Roadtrip](https://littleanantasin.wordpress.com/2022/10/02/a-victoria-to-south-australia-roadtrip/)**  2022-10-02 05:05:05
 
 [turbine.mu](https://turbine.mu)  
 **[Tips to prepare a Business Pitch to Investors](https://turbine.mu/2022/09/26/pitching-business-idea-to-investors/)**  2022-09-26 08:53:04
