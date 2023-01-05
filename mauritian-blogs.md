@@ -202,7 +202,4 @@ permalink: /mauritian-blogs/
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[AWS] Update or create a DNS CNAME record for the file system](https://savourthemomentattechie.blogspot.com/2022/02/aws-update-or-create-dns-cname-record.html)**  2022-02-06 23:24:15
 
-[Katia M](https://katiam.blog)  
-**[Seychelles Top Beaches](https://katiam.blog/2022/02/03/seychelles-top-beaches/)**  2022-02-03 08:31:00
-
 <div style="height:0;width:0;overflow:hidden;"></div>
