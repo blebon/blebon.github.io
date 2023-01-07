@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Et si 2023 faisait bouger les lignes…](https://www.lemauricien.com/le-mauricien/et-si-2023-faisait-bouger-les-lignes/532829/)**  2023-01-07 10:43:00
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Bain Boeuf](https://priscimon.com/blog/2023/01/06/bain-boeuf/)**  2023-01-06 18:55:05
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[CHRONIQUE : La mer retrouvée](https://www.lemauricien.com/le-mauricien/chronique-la-mer-retrouvee/532675/)**  2023-01-06 12:00:55
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Building a fireplace for christmas](https://yashvinblogs.com/2023/01/05/fireplace-for-christmas/)**  2023-01-05 10:58:29
