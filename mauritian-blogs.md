@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
+**[[Reminder] You have Web & App Activity turned on](https://shruticulturalgroup.blogspot.com/2023/01/reminder-you-have-web-app-activity.html)**  2023-01-07 20:26:01
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Et si 2023 faisait bouger les lignes…](https://www.lemauricien.com/le-mauricien/et-si-2023-faisait-bouger-les-lignes/532829/)**  2023-01-07 10:43:00
+**[Prerogative of mercy… In the interest  of transparency and accountability](https://www.lemauricien.com/le-mauricien/prerogative-of-mercy-in-the-interest-of-transparency-and-accountability/532842/)**  2023-01-07 12:30:19
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Bain Boeuf](https://priscimon.com/blog/2023/01/06/bain-boeuf/)**  2023-01-06 18:55:05
@@ -129,9 +132,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Rodrigues Is. Expedition](https://msinnott.net/2022/08/24/rodrigues-is-expedition/?utm_source=rss&utm_medium=rss&utm_campaign=rodrigues-is-expedition)**  2022-08-24 08:37:46
-
-[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
-**[❤️ You Have 8 New Matches: Agustin, 43 years old from Buenos Aires, Argentina, and more!](https://shruticulturalgroup.blogspot.com/2022/08/you-have-8-new-matches-agustin-43-years.html)**  2022-08-23 17:34:41
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Smother](https://faustianmatters.blogspot.com/2022/08/smother.html)**  2022-08-22 15:23:52
