@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Rosie Remembered](https://davidandjennilyn.com/2023/01/08/rosie-remembered/)**  2023-01-08 19:00:08
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le fête de l'Epiphanie](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-le-fete-de-lepiphanie.html)**  2023-01-08 18:21:34
+
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[[Reminder] You have Web & App Activity turned on](https://shruticulturalgroup.blogspot.com/2023/01/reminder-you-have-web-app-activity.html)**  2023-01-07 20:26:01
 
@@ -18,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Turning 40 in Singapore and Thailand 2022](https://littleanantasin.wordpress.com/2023/01/04/turning-40-in-singapore-and-thailand-2022/)**  2023-01-04 23:54:36
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la fête de St Marie, Mère de Dieu](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-la-fete-de-st-marie-mere.html)**  2023-01-02 05:48:14
 
 [Medicine Hack](http://www.medicinehack.com/)  
 **[BPAP - Bilevel Positive Airway Pressure Ventilation](http://www.medicinehack.com/2020/04/bpap-bilevel-positive-airway-pressure.html)**  2023-01-01 16:23:01
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Chassé-croisé](http://gadatagada.blogspot.com/2022/12/chasse-croise.html)**  2022-12-26 04:30:51
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Merry Christmas, Peanuts-Style!](https://davidandjennilyn.com/2022/12/25/merry-christmas-peanuts-style/)**  2022-12-26 04:04:00
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Christmas Tree Wishes](https://swanlady-impressions.blogspot.com/2022/12/christmas-tree-wishes.html)**  2022-12-24 20:58:08
@@ -198,8 +198,5 @@ permalink: /mauritian-blogs/
 
 [Memories of the past..](https://pandanours.blogspot.com/)  
 **[My mental health](https://pandanours.blogspot.com/2022/02/my-mental-health.html)**  2022-02-09 20:56:50
-
-[Savour the moment](https://savourthemomentattechie.blogspot.com/)  
-**[[AWS] Update or create a DNS CNAME record for the file system](https://savourthemomentattechie.blogspot.com/2022/02/aws-update-or-create-dns-cname-record.html)**  2022-02-06 23:24:15
 
 <div style="height:0;width:0;overflow:hidden;"></div>
