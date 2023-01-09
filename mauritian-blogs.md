@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Flashback &#124; 2011  –  Kuma Pu Regle Problem Dilo](https://www.lemauricien.com/le-mauricien/flashback-2011-kuma-pu-regle-problem-dilo/533161/)**  2023-01-09 10:49:06
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Rosie Remembered](https://davidandjennilyn.com/2023/01/08/rosie-remembered/)**  2023-01-08 19:00:08
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[[Reminder] You have Web & App Activity turned on](https://shruticulturalgroup.blogspot.com/2023/01/reminder-you-have-web-app-activity.html)**  2023-01-07 20:26:01
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Prerogative of mercy… In the interest  of transparency and accountability](https://www.lemauricien.com/le-mauricien/prerogative-of-mercy-in-the-interest-of-transparency-and-accountability/532842/)**  2023-01-07 12:30:19
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Bain Boeuf](https://priscimon.com/blog/2023/01/06/bain-boeuf/)**  2023-01-06 18:55:05
