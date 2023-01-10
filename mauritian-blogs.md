@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Penalty Shootout – Victory without Glory  (Victoire sans Gloire)](https://www.lemauricien.com/le-mauricien/the-penalty-shootout-victory-without-glory-victoire-sans-gloire/533167/)**  2023-01-09 12:00:49
+**[Lettre ouverte de Nishal Joyram – Que dirons-nous à nos enfants? Quel héritage laisserons-nous ?](https://www.lemauricien.com/opinions/forum/que-dirons-nous-a-nos-enfants-quel-heritage-laisserons-nous-a-nos-petits-enfants/533281/)**  2023-01-10 07:50:25
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Rosie Remembered](https://davidandjennilyn.com/2023/01/08/rosie-remembered/)**  2023-01-08 19:00:08
