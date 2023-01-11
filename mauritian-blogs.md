@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Your Guide to a Wellness Vacation at Constance Hotels & Resorts](https://blog.constancehotels.com/your-guide-to-a-wellness-vacation-at-constance-hotels-resorts/)**  2023-01-11 08:55:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[2ND US-Africa Leaders Summit 2022 – Biden Pivots USA Back to Africa](https://www.lemauricien.com/le-mauricien/2nd-us-africa-leaders-summit-2022-biden-pivots-usa-back-to-africa/533337/)**  2023-01-10 11:41:59
 
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Powerhouse Ranking Needs Some Updating](http://kozelidir.blogspot.com/2022/12/powerhouse-ranking-needs-some-updating.html)**  2022-12-28 18:15:39
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[What to do at Constance Prince Maurice](https://blog.constancehotels.com/what-to-do-at-constance-prince-maurice/)**  2022-12-28 10:35:32
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Chassé-croisé](http://gadatagada.blogspot.com/2022/12/chasse-croise.html)**  2022-12-26 04:30:51
