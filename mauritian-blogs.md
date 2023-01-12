@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Your Guide to a Wellness Vacation at Constance Hotels & Resorts](https://blog.constancehotels.com/your-guide-to-a-wellness-vacation-at-constance-hotels-resorts/)**  2023-01-11 08:55:00
+[priscimon.com](https://priscimon.com/blog)  
+**[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[2ND US-Africa Leaders Summit 2022 – Biden Pivots USA Back to Africa](https://www.lemauricien.com/le-mauricien/2nd-us-africa-leaders-summit-2022-biden-pivots-usa-back-to-africa/533337/)**  2023-01-10 11:41:59
+**[LALIT Open Letter on Chagos and Diego Garcia warns Human Rights Watch of Trap set by isolated UK state apparatus](https://www.lemauricien.com/opinions/forum/lalit-open-letter-on-chagos-and-diego-garcia-warns-human-rights-watch-of-trap-set-by-isolated-uk-state-apparatus/533510/)**  2023-01-11 14:56:02
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Your Guide to a Wellness Vacation at Constance Hotels & Resorts](https://blog.constancehotels.com/your-guide-to-a-wellness-vacation-at-constance-hotels-resorts/)**  2023-01-11 08:55:00
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Rosie Remembered](https://davidandjennilyn.com/2023/01/08/rosie-remembered/)**  2023-01-08 19:00:08
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[[Reminder] You have Web & App Activity turned on](https://shruticulturalgroup.blogspot.com/2023/01/reminder-you-have-web-app-activity.html)**  2023-01-07 20:26:01
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Bain Boeuf](https://priscimon.com/blog/2023/01/06/bain-boeuf/)**  2023-01-06 18:55:05
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Building a fireplace for christmas](https://yashvinblogs.com/2023/01/05/fireplace-for-christmas/)**  2023-01-05 10:58:29
@@ -195,8 +195,5 @@ permalink: /mauritian-blogs/
 
 [Trade Signal By Capital Street Fx](https://fx-trade-signal.blogspot.com/)  
 **[Free Trading Signals for 14 February 2022](https://fx-trade-signal.blogspot.com/2022/02/free-trading-signals-for-14-february.html)**  2022-02-14 09:37:24
-
-[Memories of the past..](https://pandanours.blogspot.com/)  
-**[My mental health](https://pandanours.blogspot.com/2022/02/my-mental-health.html)**  2022-02-09 20:56:50
 
 <div style="height:0;width:0;overflow:hidden;"></div>
