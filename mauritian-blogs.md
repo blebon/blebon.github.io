@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Feminicide is basically a hate crime](https://www.lemauricien.com/le-mauricien/feminicide-is-basically-a-hate-crime/533659/)**  2023-01-12 12:00:48
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LALIT Open Letter on Chagos and Diego Garcia warns Human Rights Watch of Trap set by isolated UK state apparatus](https://www.lemauricien.com/opinions/forum/lalit-open-letter-on-chagos-and-diego-garcia-warns-human-rights-watch-of-trap-set-by-isolated-uk-state-apparatus/533510/)**  2023-01-11 14:56:02
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Your Guide to a Wellness Vacation at Constance Hotels & Resorts](https://blog.constancehotels.com/your-guide-to-a-wellness-vacation-at-constance-hotels-resorts/)**  2023-01-11 08:55:00
