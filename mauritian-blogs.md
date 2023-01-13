@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Feminicide is basically a hate crime](https://www.lemauricien.com/le-mauricien/feminicide-is-basically-a-hate-crime/533659/)**  2023-01-12 12:00:48
+**[Quelques mots d’introduction – Outil essentiel d’information, de partage, de vivre-ensemble et de liberté…](https://www.lemauricien.com/le-mauricien/quelques-mots-dintroduction-outil-essentiel-dinformation-de-partage-de-vivre-ensemble-et-de-liberte/533751/)**  2023-01-13 06:42:42
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
