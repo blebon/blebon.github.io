@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-14 20:04:54
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[A diabolical Manchester derby](https://ritesh2103.wordpress.com/2023/01/14/a-diabolical-manchester-derby/)**  2023-01-14 17:11:43
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Quelques mots d’introduction – Outil essentiel d’information, de partage, de vivre-ensemble et de liberté…](https://www.lemauricien.com/le-mauricien/quelques-mots-dintroduction-outil-essentiel-dinformation-de-partage-de-vivre-ensemble-et-de-liberte/533751/)**  2023-01-13 06:42:42
+**[Bonheur, Prospérité!](https://www.lemauricien.com/le-mauricien/bonheur-prosperite/533978/)**  2023-01-14 12:00:40
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
@@ -30,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Medicine Hack](http://www.medicinehack.com/)  
 **[BPAP - Bilevel Positive Airway Pressure Ventilation](http://www.medicinehack.com/2020/04/bpap-bilevel-positive-airway-pressure.html)**  2023-01-01 16:23:01
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Happy New Year 2023](https://ritesh2103.wordpress.com/2023/01/01/happy-new-year-2023/)**  2023-01-01 02:00:04
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Lessons from Vienna: a housing success story 100 years in the making](https://zoomdr.blogspot.com/2022/12/lessons-from-vienna-housing-success.html)**  2022-12-31 09:11:38
@@ -75,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[ADVENTURE RELATED ECOTOURISM ACTIVITIES (ARETA)](https://relocationmauritius.wordpress.com/2022/12/02/adventure-related-ecotourism-activities-areta/)**  2022-12-02 08:42:31
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Living with with a (super) soft currency is far from wonderful](https://tchombo.blogspot.com/2022/11/living-with-with-super-soft-currency-is.html)**  2022-11-29 10:36:25
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[FoodWise - le combat efficace contre le gaspillage alimentaire](https://greenmauritius.blogspot.com/2022/11/foodwise-le-combat-efficace-contre-le.html)**  2022-11-28 05:21:15
