@@ -193,7 +193,4 @@ permalink: /mauritian-blogs/
 [The Eagle's Lodge](http://ashfaqblog.blogspot.com/)  
 **[Blogging or Vlogging ?](http://ashfaqblog.blogspot.com/2019/11/blogging-or-vlogging.html)**  2022-02-17 07:28:35
 
-[Trade Signal By Capital Street Fx](https://fx-trade-signal.blogspot.com/)  
-**[Free Trading Signals for 14 February 2022](https://fx-trade-signal.blogspot.com/2022/02/free-trading-signals-for-14-february.html)**  2022-02-14 09:37:24
-
 <div style="height:0;width:0;overflow:hidden;"></div>
