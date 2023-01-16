@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-14 20:04:54
+**[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-15 17:19:22
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 2e Dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-le-2e-dimanche-du-toa.html)**  2023-01-15 14:16:54
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[A diabolical Manchester derby](https://ritesh2103.wordpress.com/2023/01/14/a-diabolical-manchester-derby/)**  2023-01-14 17:11:43
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Rosie Remembered](https://davidandjennilyn.com/2023/01/08/rosie-remembered/)**  2023-01-08 19:00:08
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le fête de l'Epiphanie](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-le-fete-de-lepiphanie.html)**  2023-01-08 18:21:34
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[[Reminder] You have Web & App Activity turned on](https://shruticulturalgroup.blogspot.com/2023/01/reminder-you-have-web-app-activity.html)**  2023-01-07 20:26:01
