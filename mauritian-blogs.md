@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[PENSEURS DU SUD, N0.7 – Walter Mignolo : Désobéir à la Pensée](https://www.lemauricien.com/le-mauricien/penseurs-du-sud-n0-7-walter-mignolo-desobeir-a-la-pensee/534332/)**  2023-01-16 12:00:54
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-15 17:19:22
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[A diabolical Manchester derby](https://ritesh2103.wordpress.com/2023/01/14/a-diabolical-manchester-derby/)**  2023-01-14 17:11:43
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Bonheur, Prospérité!](https://www.lemauricien.com/le-mauricien/bonheur-prosperite/533978/)**  2023-01-14 12:00:40
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
