@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Treatments inspired by the Indian Ocean #UnwindAtConstance](https://blog.constancehotels.com/treatments-inspired-by-the-indian-ocean-unwindatconstance/)**  2023-01-18 09:50:26
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[2023 – Interesting year !](https://relocationmauritius.wordpress.com/2023/01/18/2023-interesting-year/)**  2023-01-18 05:16:25
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Losean liniver](https://www.lemauricien.com/le-mauricien/losean-liniver/534565/)**  2023-01-17 12:50:47
 
@@ -18,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Your Guide to a Wellness Vacation at Constance Hotels & Resorts](https://blog.constancehotels.com/your-guide-to-a-wellness-vacation-at-constance-hotels-resorts/)**  2023-01-11 08:55:00
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Rosie Remembered](https://davidandjennilyn.com/2023/01/08/rosie-remembered/)**  2023-01-08 19:00:08
@@ -75,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[An english attitude](https://vintishgokool.blogspot.com/2022/12/an-english-attitude.html)**  2022-12-03 04:28:30
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[ADVENTURE RELATED ECOTOURISM ACTIVITIES (ARETA)](https://relocationmauritius.wordpress.com/2022/12/02/adventure-related-ecotourism-activities-areta/)**  2022-12-02 08:42:31
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[FoodWise - le combat efficace contre le gaspillage alimentaire](https://greenmauritius.blogspot.com/2022/11/foodwise-le-combat-efficace-contre-le.html)**  2022-11-28 05:21:15
