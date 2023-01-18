@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[PENSEURS DU SUD, N0.7 – Walter Mignolo : Désobéir à la Pensée](https://www.lemauricien.com/le-mauricien/penseurs-du-sud-n0-7-walter-mignolo-desobeir-a-la-pensee/534332/)**  2023-01-16 12:00:54
+**[Losean liniver](https://www.lemauricien.com/le-mauricien/losean-liniver/534565/)**  2023-01-17 12:50:47
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-15 17:19:22
