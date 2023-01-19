@@ -190,7 +190,4 @@ permalink: /mauritian-blogs/
 [Potagers en liberté à l'île Maurice!](https://petitpotagerilemaurice.blogspot.com/)  
 **[Salmi: origine et decouverte(s)](https://petitpotagerilemaurice.blogspot.com/2022/02/salmi-origine-et-decouvertes.html)**  2022-02-20 10:18:07
 
-[The Eagle's Lodge](http://ashfaqblog.blogspot.com/)  
-**[Blogging or Vlogging ?](http://ashfaqblog.blogspot.com/2019/11/blogging-or-vlogging.html)**  2022-02-17 07:28:35
-
 <div style="height:0;width:0;overflow:hidden;"></div>
