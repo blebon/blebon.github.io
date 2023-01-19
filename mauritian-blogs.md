@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Nespresso and Chiara Ferragni embark on a journey of discovery, inspired by Italy’s love for coffee](https://amarbheenick.blogspot.com/2023/01/nespresso-and-chiara-ferragni-embark-on.html)**  2023-01-18 17:08:25
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[1 million de touristes, et alors ?](https://www.lemauricien.com/le-mauricien/1-million-de-touristes-et-alors/534701/)**  2023-01-18 12:02:19
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Treatments inspired by the Indian Ocean #UnwindAtConstance](https://blog.constancehotels.com/treatments-inspired-by-the-indian-ocean-unwindatconstance/)**  2023-01-18 09:50:26
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[2023 – Interesting year !](https://relocationmauritius.wordpress.com/2023/01/18/2023-interesting-year/)**  2023-01-18 05:16:25
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Losean liniver](https://www.lemauricien.com/le-mauricien/losean-liniver/534565/)**  2023-01-17 12:50:47
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-15 17:19:22
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Gluten Free Coconut Cookies](https://veganlovlie.com/gluten-free-coconut-cookies/)**  2022-12-18 20:32:11
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Nespresso, pioneer of premium single-serve coffee, unveils new range of home compostable coffee capsules](https://amarbheenick.blogspot.com/2022/11/nespresso-pioneer-of-premium-single.html)**  2022-12-11 09:47:36
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[My Brother from Another Mother](https://flicenflac.blogspot.com/2022/12/my-brother-from-another-mother.html)**  2022-12-10 23:06:53
