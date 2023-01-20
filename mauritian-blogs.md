@@ -4,20 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Nespresso and Chiara Ferragni embark on a journey of discovery, inspired by Italy’s love for coffee](https://amarbheenick.blogspot.com/2023/01/nespresso-and-chiara-ferragni-embark-on.html)**  2023-01-18 17:08:25
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-19 18:44:42
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[1 million de touristes, et alors ?](https://www.lemauricien.com/le-mauricien/1-million-de-touristes-et-alors/534701/)**  2023-01-18 12:02:19
+**[Vengrasamy Rungasamy, un Mauricien hors pair](https://www.lemauricien.com/le-mauricien/vengrasamy-rungasamy-un-mauricien-hors-pair/534912/)**  2023-01-19 12:57:39
+
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Nespresso and Chiara Ferragni embark on a journey of discovery, inspired by Italy’s love for coffee](https://amarbheenick.blogspot.com/2023/01/nespresso-and-chiara-ferragni-embark-on.html)**  2023-01-18 17:08:25
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Treatments inspired by the Indian Ocean #UnwindAtConstance](https://blog.constancehotels.com/treatments-inspired-by-the-indian-ocean-unwindatconstance/)**  2023-01-18 09:50:26
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[2023 – Interesting year !](https://relocationmauritius.wordpress.com/2023/01/18/2023-interesting-year/)**  2023-01-18 05:16:25
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-15 17:19:22
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 2e Dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-le-2e-dimanche-du-toa.html)**  2023-01-15 14:16:54
