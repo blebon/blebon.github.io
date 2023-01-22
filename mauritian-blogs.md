@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[My 44th Birthday Weekend](https://davidandjennilyn.com/2023/01/21/my-44th-birthday-weekend/)**  2023-01-22 00:29:18
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[We feel so good !](https://www.lemauricien.com/le-mauricien/we-feel-so-good/535175/)**  2023-01-21 06:02:46
+**[New Year, Same Old Bullsh*t](https://www.lemauricien.com/le-mauricien/new-year-same-old-bullsht/535303/)**  2023-01-21 12:03:01
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-19 18:44:42
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Rosie Remembered](https://davidandjennilyn.com/2023/01/08/rosie-remembered/)**  2023-01-08 19:00:08
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[[Reminder] You have Web & App Activity turned on](https://shruticulturalgroup.blogspot.com/2023/01/reminder-you-have-web-app-activity.html)**  2023-01-07 20:26:01
