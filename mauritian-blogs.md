@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils activate decline mode](https://ritesh2103.wordpress.com/2023/01/22/red-devils-activate-decline-mode/)**  2023-01-22 18:50:20
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[My 44th Birthday Weekend](https://davidandjennilyn.com/2023/01/21/my-44th-birthday-weekend/)**  2023-01-22 00:29:18
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 2e Dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-le-2e-dimanche-du-toa.html)**  2023-01-15 14:16:54
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[A diabolical Manchester derby](https://ritesh2103.wordpress.com/2023/01/14/a-diabolical-manchester-derby/)**  2023-01-14 17:11:43
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
