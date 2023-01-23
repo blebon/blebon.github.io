@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 3e dimanche du TOA et Fête du Printemps](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-le-3e-dimanche-du-toa-et.html)**  2023-01-23 07:48:22
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils activate decline mode](https://ritesh2103.wordpress.com/2023/01/22/red-devils-activate-decline-mode/)**  2023-01-22 18:50:20
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[2023 – Interesting year !](https://relocationmauritius.wordpress.com/2023/01/18/2023-interesting-year/)**  2023-01-18 05:16:25
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 2e Dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-le-2e-dimanche-du-toa.html)**  2023-01-15 14:16:54
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
