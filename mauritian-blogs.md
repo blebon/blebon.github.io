@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[La dernière tentation de Yudishtira, ou sa libération](https://www.lemauricien.com/le-mauricien/la-derniere-tentation-de-yudishtira-ou-sa-liberation/535709/)**  2023-01-23 12:26:26
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 3e dimanche du TOA et Fête du Printemps](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-le-3e-dimanche-du-toa-et.html)**  2023-01-23 07:48:22
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[My 44th Birthday Weekend](https://davidandjennilyn.com/2023/01/21/my-44th-birthday-weekend/)**  2023-01-22 00:29:18
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[New Year, Same Old Bullsh*t](https://www.lemauricien.com/le-mauricien/new-year-same-old-bullsht/535303/)**  2023-01-21 12:03:01
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-19 18:44:42
@@ -66,9 +69,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Gluten Free Coconut Cookies](https://veganlovlie.com/gluten-free-coconut-cookies/)**  2022-12-18 20:32:11
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[My Brother from Another Mother](https://flicenflac.blogspot.com/2022/12/my-brother-from-another-mother.html)**  2022-12-10 23:06:53
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Speaking at DevCon 2022 Mauritius](https://nayarweb.com/blog/2022/speaking-at-devcon-2022-mauritius/)**  2022-12-10 14:08:01
