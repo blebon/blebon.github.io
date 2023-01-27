@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Trois naturalistes, trois hommes d’exception, trois destins](https://www.lemauricien.com/le-mauricien/trois-naturalistes-trois-hommes-dexception-trois-destins/536073/)**  2023-01-25 12:00:26
+**[Changement Climatique : La grande hypocrisie des géants pétroliers](https://www.lemauricien.com/le-mauricien/changement-climatique-la-grande-hypocrisie-des-geants-petroliers/536399/)**  2023-01-26 12:01:14
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
