@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Talking to the Wellness Holiday Experts at Constance Hotels & Resorts](https://blog.constancehotels.com/talking-to-the-wellness-holiday-experts-at-constance-hotels-resorts/)**  2023-01-27 08:55:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Changement Climatique : La grande hypocrisie des géants pétroliers](https://www.lemauricien.com/le-mauricien/changement-climatique-la-grande-hypocrisie-des-geants-petroliers/536399/)**  2023-01-26 12:01:14
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Nespresso and Chiara Ferragni embark on a journey of discovery, inspired by Italy’s love for coffee](https://amarbheenick.blogspot.com/2023/01/nespresso-and-chiara-ferragni-embark-on.html)**  2023-01-18 17:08:25
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Treatments inspired by the Indian Ocean #UnwindAtConstance](https://blog.constancehotels.com/treatments-inspired-by-the-indian-ocean-unwindatconstance/)**  2023-01-18 09:50:26
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[2023 – Interesting year !](https://relocationmauritius.wordpress.com/2023/01/18/2023-interesting-year/)**  2023-01-18 05:16:25
