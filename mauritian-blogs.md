@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour la messe d'ouverture de l'année catéchétique](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-la-messe-douverture-de.html)**  2023-01-29 16:04:55
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Anou Koz Parol-135  – Kod-Nwar: 300 an apre](https://www.lemauricien.com/le-mauricien/anou-koz-parol-135-kod-nwar-300-an-apre/536771/)**  2023-01-28 09:29:51
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 3e dimanche du TOA et Fête du Printemps](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-le-3e-dimanche-du-toa-et.html)**  2023-01-23 07:48:22
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils activate decline mode](https://ritesh2103.wordpress.com/2023/01/22/red-devils-activate-decline-mode/)**  2023-01-22 18:50:20
