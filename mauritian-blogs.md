@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la messe d'ouverture de l'année catéchétique](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-la-messe-douverture-de.html)**  2023-01-29 16:04:55
+[Green Mauritius](https://greenmauritius.blogspot.com/)  
+**[De bonnes nouvelles ces derniers mois](https://greenmauritius.blogspot.com/2023/01/de-bonnes-nouvelles-ces-derniers-mois.html)**  2023-01-30 10:11:43
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou Koz Parol-135  – Kod-Nwar: 300 an apre](https://www.lemauricien.com/le-mauricien/anou-koz-parol-135-kod-nwar-300-an-apre/536771/)**  2023-01-28 09:29:51
+**[RAFAL’s Forum “Roadmap for a Better Mauritius”](https://www.lemauricien.com/le-mauricien/rafals-forum-roadmap-for-a-better-mauritius/537073/)**  2023-01-30 09:28:43
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour la messe d'ouverture de l'année catéchétique](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-la-messe-douverture-de.html)**  2023-01-29 16:04:55
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Geography is (almost) everything](https://zoomdr.blogspot.com/2023/01/geography-is-almost-everything.html)**  2023-01-28 05:28:36
@@ -78,9 +81,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[An english attitude](https://vintishgokool.blogspot.com/2022/12/an-english-attitude.html)**  2022-12-03 04:28:30
-
-[Green Mauritius](https://greenmauritius.blogspot.com/)  
-**[FoodWise - le combat efficace contre le gaspillage alimentaire](https://greenmauritius.blogspot.com/2022/11/foodwise-le-combat-efficace-contre-le.html)**  2022-11-28 05:21:15
 
 [DesignHub](https://theolivertwistblog.blogspot.com/)  
 **[No title](https://theolivertwistblog.blogspot.com/2022/11/blog-post_21.html)**  2022-11-21 19:01:49
@@ -183,8 +183,5 @@ permalink: /mauritian-blogs/
 
 [St James Cathedral, Anglican Diocese of Mauritius / cathédrale st james, diocese anglican de maurice](https://stjamescathedralmau.wordpress.com)  
 **[Lettre pastorale carême 2022](https://stjamescathedralmau.wordpress.com/2022/03/11/lettre-pastorale-careme-2022/)**  2022-03-11 19:12:05
-
-[Reflection Corner](https://tachah.blogspot.com/)  
-**[Unapologetic](https://tachah.blogspot.com/2022/02/unapologetic.html)**  2022-02-28 10:29:09
 
 <div style="height:0;width:0;overflow:hidden;"></div>
