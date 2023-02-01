@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Inondations : les comprendre pour mieux les appréhender](https://www.lemauricien.com/le-mauricien/inondations-les-comprendre-pour-mieux-les-apprehender/537151/)**  2023-01-30 13:14:05
+**[Designing for Flood Risk](https://www.lemauricien.com/le-mauricien/designing-for-flood-risk/537234/)**  2023-01-31 12:00:40
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[De bonnes nouvelles ces derniers mois](https://greenmauritius.blogspot.com/2023/01/de-bonnes-nouvelles-ces-derniers-mois.html)**  2023-01-30 10:11:43
