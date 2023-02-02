@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Color Hues : Sage & Coral](https://swanlady-impressions.blogspot.com/2023/02/color-hues-sage-coral.html)**  2023-02-01 14:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Designing for Flood Risk](https://www.lemauricien.com/le-mauricien/designing-for-flood-risk/537234/)**  2023-01-31 12:00:40
 
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Chassé-croisé](http://gadatagada.blogspot.com/2022/12/chasse-croise.html)**  2022-12-26 04:30:51
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Christmas Tree Wishes](https://swanlady-impressions.blogspot.com/2022/12/christmas-tree-wishes.html)**  2022-12-24 20:58:08
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Chocolate Cake with Cream Cheese Swirl](https://nashbakery.blogspot.com/2022/12/chocolate-cake-with-cream-cheese-swirl.html)**  2022-12-23 15:03:16
