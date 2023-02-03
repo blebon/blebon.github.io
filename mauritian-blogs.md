@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[FT: Is it ever worth parking money in a tax haven?](https://amarbheenick.blogspot.com/2023/02/ft-is-it-ever-worth-parking-money-in.html)**  2023-02-03 08:54:17
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Misconceptions about smoking](https://www.lemauricien.com/le-mauricien/misconceptions-about-smoking/537632/)**  2023-02-02 12:00:42
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-19 18:44:42
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Nespresso and Chiara Ferragni embark on a journey of discovery, inspired by Italy’s love for coffee](https://amarbheenick.blogspot.com/2023/01/nespresso-and-chiara-ferragni-embark-on.html)**  2023-01-18 17:08:25
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[2023 – Interesting year !](https://relocationmauritius.wordpress.com/2023/01/18/2023-interesting-year/)**  2023-01-18 05:16:25
