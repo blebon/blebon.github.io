@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Mauritius: Launch of an AI Powered Due Diligence Platform](https://amarbheenick.blogspot.com/2023/02/mauritius-launch-of-ai-powered-due.html)**  2023-02-04 10:02:52
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[INDIAN HISTORY &#124; EMPEROR ASHOKA, THE GREAT – The Warrior King Who Abandoned Violence to become a Devotee of Peace and Love](https://www.lemauricien.com/le-mauricien/indian-history-emperor-ashoka-the-great-the-warrior-king-who-abandoned-violence-to-become-a-devotee-of-peace-and-love/537759/)**  2023-02-03 13:03:41
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[FT: Is it ever worth parking money in a tax haven?](https://amarbheenick.blogspot.com/2023/02/ft-is-it-ever-worth-parking-money-in.html)**  2023-02-03 08:54:17
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Color Hues : Sage & Coral](https://swanlady-impressions.blogspot.com/2023/02/color-hues-sage-coral.html)**  2023-02-01 14:00:00
