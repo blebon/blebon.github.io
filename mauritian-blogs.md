@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils on a thread](https://ritesh2103.wordpress.com/2023/02/04/red-devils-on-a-thread/)**  2023-02-04 17:42:54
+
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Mauritius: Launch of an AI Powered Due Diligence Platform](https://amarbheenick.blogspot.com/2023/02/mauritius-launch-of-ai-powered-due.html)**  2023-02-04 10:02:52
 
@@ -22,14 +25,14 @@ permalink: /mauritian-blogs/
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Geography is (almost) everything](https://zoomdr.blogspot.com/2023/01/geography-is-almost-everything.html)**  2023-01-28 05:28:36
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Gas Chambers Not Essential For Holocaust](http://kozelidir.blogspot.com/2023/01/gas-chambers-not-essential-for-holocaust.html)**  2023-01-27 20:31:52
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Talking to the Wellness Holiday Experts at Constance Hotels & Resorts](https://blog.constancehotels.com/talking-to-the-wellness-holiday-experts-at-constance-hotels-resorts/)**  2023-01-27 08:55:00
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils activate decline mode](https://ritesh2103.wordpress.com/2023/01/22/red-devils-activate-decline-mode/)**  2023-01-22 18:50:20
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[My 44th Birthday Weekend](https://davidandjennilyn.com/2023/01/21/my-44th-birthday-weekend/)**  2023-01-22 00:29:18
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 ORIGIN ECO CHALET à Rodrigues](https://mysweetmauritius.blogspot.com/2022/12/origin-eco-chalet-rodrigues.html)**  2022-12-30 17:33:31
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Powerhouse Ranking Needs Some Updating](http://kozelidir.blogspot.com/2022/12/powerhouse-ranking-needs-some-updating.html)**  2022-12-28 18:15:39
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Chassé-croisé](http://gadatagada.blogspot.com/2022/12/chasse-croise.html)**  2022-12-26 04:30:51
