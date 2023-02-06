@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Color Hues : Sage & Coral](https://swanlady-impressions.blogspot.com/2023/02/color-hues-sage-coral.html)**  2023-02-05 12:40:49
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils on a thread](https://ritesh2103.wordpress.com/2023/02/04/red-devils-on-a-thread/)**  2023-02-04 17:42:54
 
@@ -13,8 +16,8 @@ permalink: /mauritian-blogs/
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[INDIAN HISTORY &#124; EMPEROR ASHOKA, THE GREAT – The Warrior King Who Abandoned Violence to become a Devotee of Peace and Love](https://www.lemauricien.com/le-mauricien/indian-history-emperor-ashoka-the-great-the-warrior-king-who-abandoned-violence-to-become-a-devotee-of-peace-and-love/537759/)**  2023-02-03 13:03:41
 
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Color Hues : Sage & Coral](https://swanlady-impressions.blogspot.com/2023/02/color-hues-sage-coral.html)**  2023-02-01 14:00:00
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Blazing into 2023](https://davidandjennilyn.com/2023/01/31/blazing-into-2023/)**  2023-02-01 04:35:27
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[De bonnes nouvelles ces derniers mois](https://greenmauritius.blogspot.com/2023/01/de-bonnes-nouvelles-ces-derniers-mois.html)**  2023-01-30 10:11:43
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[My 44th Birthday Weekend](https://davidandjennilyn.com/2023/01/21/my-44th-birthday-weekend/)**  2023-01-22 00:29:18
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-19 18:44:42
