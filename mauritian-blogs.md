@@ -131,7 +131,7 @@ permalink: /mauritian-blogs/
 **[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-30 09:08:01
 
 [Mike Sinnott's World](https://msinnott.net)  
-**[Rodrigues Is. Expedition](https://msinnott.net/2022/08/24/rodrigues-is-expedition/?utm_source=rss&utm_medium=rss&utm_campaign=rodrigues-is-expedition)**  2022-08-24 08:37:46
+**[Rodrigues Is. Expedition](https://msinnott.net/2022/08/24/rodrigues-is-expedition/)**  2022-08-24 08:37:46
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Smother](https://faustianmatters.blogspot.com/2022/08/smother.html)**  2022-08-22 15:23:52
