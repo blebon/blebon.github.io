@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Traitement humiliant de la part des autorités françaises](https://www.lemauricien.com/opinions/forum/traitement-humiliant-de-la-part-des-autorites-francaises/538156/)**  2023-02-06 15:14:08
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Color Hues : Sage & Coral](https://swanlady-impressions.blogspot.com/2023/02/color-hues-sage-coral.html)**  2023-02-05 12:40:49
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Mauritius: Launch of an AI Powered Due Diligence Platform](https://amarbheenick.blogspot.com/2023/02/mauritius-launch-of-ai-powered-due.html)**  2023-02-04 10:02:52
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[INDIAN HISTORY &#124; EMPEROR ASHOKA, THE GREAT – The Warrior King Who Abandoned Violence to become a Devotee of Peace and Love](https://www.lemauricien.com/le-mauricien/indian-history-emperor-ashoka-the-great-the-warrior-king-who-abandoned-violence-to-become-a-devotee-of-peace-and-love/537759/)**  2023-02-03 13:03:41
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Blazing into 2023](https://davidandjennilyn.com/2023/01/31/blazing-into-2023/)**  2023-02-01 04:35:27
