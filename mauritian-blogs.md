@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Constance Love Stories: Sabrina and Chris at Constance Ephelia](https://blog.constancehotels.com/constance-love-stories-sabrina-and-chris-at-constance-ephelia/)**  2023-02-08 11:08:15
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 5e Dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-5e-dimanche-du-toa.html)**  2023-02-08 04:11:39
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Gas Chambers Not Essential For Holocaust](http://kozelidir.blogspot.com/2023/01/gas-chambers-not-essential-for-holocaust.html)**  2023-01-27 20:31:52
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Talking to the Wellness Holiday Experts at Constance Hotels & Resorts](https://blog.constancehotels.com/talking-to-the-wellness-holiday-experts-at-constance-hotels-resorts/)**  2023-01-27 08:55:00
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
