@@ -4,8 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 5e Dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-5e-dimanche-du-toa.html)**  2023-02-08 04:11:39
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[The show](https://vintishgokool.blogspot.com/2023/02/the-show.html)**  2023-02-07 18:37:41
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-02-07 16:22:41
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Traitement humiliant de la part des autorités françaises](https://www.lemauricien.com/opinions/forum/traitement-humiliant-de-la-part-des-autorites-francaises/538156/)**  2023-02-06 15:14:08
+**[Mauritian Culture: Overcoming The Tradition of Restraint](https://www.lemauricien.com/le-mauricien/mauritian-culture-overcoming-the-tradition-of-restraint/538298/)**  2023-02-07 12:00:41
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Color Hues : Sage & Coral](https://swanlady-impressions.blogspot.com/2023/02/color-hues-sage-coral.html)**  2023-02-05 12:40:49
@@ -22,9 +31,6 @@ permalink: /mauritian-blogs/
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[De bonnes nouvelles ces derniers mois](https://greenmauritius.blogspot.com/2023/01/de-bonnes-nouvelles-ces-derniers-mois.html)**  2023-01-30 10:11:43
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour la messe d'ouverture de l'année catéchétique](https://josephnguyenmahebourg.blogspot.com/2023/01/homelie-pour-la-messe-douverture-de.html)**  2023-01-29 16:04:55
-
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Geography is (almost) everything](https://zoomdr.blogspot.com/2023/01/geography-is-almost-everything.html)**  2023-01-28 05:28:36
 
@@ -36,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-01-19 18:44:42
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[2023 – Interesting year !](https://relocationmauritius.wordpress.com/2023/01/18/2023-interesting-year/)**  2023-01-18 05:16:25
@@ -78,9 +81,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[General Secretaries of the Labour Party](https://morisk.blogspot.com/2022/12/general-secretaries-of-labour-party.html)**  2022-12-10 12:03:49
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[An english attitude](https://vintishgokool.blogspot.com/2022/12/an-english-attitude.html)**  2022-12-03 04:28:30
 
 [DesignHub](https://theolivertwistblog.blogspot.com/)  
 **[No title](https://theolivertwistblog.blogspot.com/2022/11/blog-post_21.html)**  2022-11-21 19:01:49
