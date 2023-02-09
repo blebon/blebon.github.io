@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Artist Flower](https://swanlady-impressions.blogspot.com/2023/02/artist-flower.html)**  2023-02-09 09:45:05
+
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Mauritius: FSC  issues FAQs on Moneylending Licence](https://amarbheenick.blogspot.com/2023/02/mauritius-fsc-issues-faqs-on.html)**  2023-02-08 14:45:06
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-02-07 16:22:41
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Color Hues : Sage & Coral](https://swanlady-impressions.blogspot.com/2023/02/color-hues-sage-coral.html)**  2023-02-05 12:40:49
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils on a thread](https://ritesh2103.wordpress.com/2023/02/04/red-devils-on-a-thread/)**  2023-02-04 17:42:54
