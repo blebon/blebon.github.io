@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Mauritius: FSC  issues FAQs on Moneylending Licence](https://amarbheenick.blogspot.com/2023/02/mauritius-fsc-issues-faqs-on.html)**  2023-02-08 14:45:06
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Questions to the Vice Prime-Minister, Ministry of Local Government and Disaster Risk Management … and Chair of the National Council for Disaster Risk Reduction and Management (DRRM)](https://www.lemauricien.com/le-mauricien/questions-to-the-vice-prime-minister-ministry-of-local-government-and-disaster-risk-management-and-chair-of-the-national-council-for-disaster-risk-reduction-and-management-drrm/538468/)**  2023-02-08 12:00:05
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Constance Love Stories: Sabrina and Chris at Constance Ephelia](https://blog.constancehotels.com/constance-love-stories-sabrina-and-chris-at-constance-ephelia/)**  2023-02-08 11:08:15
 
@@ -16,17 +22,11 @@ permalink: /mauritian-blogs/
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-02-07 16:22:41
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mauritian Culture: Overcoming The Tradition of Restraint](https://www.lemauricien.com/le-mauricien/mauritian-culture-overcoming-the-tradition-of-restraint/538298/)**  2023-02-07 12:00:41
-
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Color Hues : Sage & Coral](https://swanlady-impressions.blogspot.com/2023/02/color-hues-sage-coral.html)**  2023-02-05 12:40:49
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils on a thread](https://ritesh2103.wordpress.com/2023/02/04/red-devils-on-a-thread/)**  2023-02-04 17:42:54
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Mauritius: Launch of an AI Powered Due Diligence Platform](https://amarbheenick.blogspot.com/2023/02/mauritius-launch-of-ai-powered-due.html)**  2023-02-04 10:02:52
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Blazing into 2023](https://davidandjennilyn.com/2023/01/31/blazing-into-2023/)**  2023-02-01 04:35:27
