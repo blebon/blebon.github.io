@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Quand la pluie cinglait les carreaux](https://www.lemauricien.com/le-mauricien/quand-la-pluie-cinglait-les-carreaux/538618/)**  2023-02-09 12:56:18
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Artist Flower](https://swanlady-impressions.blogspot.com/2023/02/artist-flower.html)**  2023-02-09 09:45:05
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Mauritius: FSC  issues FAQs on Moneylending Licence](https://amarbheenick.blogspot.com/2023/02/mauritius-fsc-issues-faqs-on.html)**  2023-02-08 14:45:06
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Questions to the Vice Prime-Minister, Ministry of Local Government and Disaster Risk Management … and Chair of the National Council for Disaster Risk Reduction and Management (DRRM)](https://www.lemauricien.com/le-mauricien/questions-to-the-vice-prime-minister-ministry-of-local-government-and-disaster-risk-management-and-chair-of-the-national-council-for-disaster-risk-reduction-and-management-drrm/538468/)**  2023-02-08 12:00:05
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Constance Love Stories: Sabrina and Chris at Constance Ephelia](https://blog.constancehotels.com/constance-love-stories-sabrina-and-chris-at-constance-ephelia/)**  2023-02-08 11:08:15
