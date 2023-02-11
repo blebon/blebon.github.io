@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Quand la pluie cinglait les carreaux](https://www.lemauricien.com/le-mauricien/quand-la-pluie-cinglait-les-carreaux/538618/)**  2023-02-09 12:56:18
+**[Absence de pluie ou absence d’eau?](https://www.lemauricien.com/le-mauricien/absence-de-pluie-ou-absence-deau/538819/)**  2023-02-10 11:44:58
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Artist Flower](https://swanlady-impressions.blogspot.com/2023/02/artist-flower.html)**  2023-02-09 09:45:05
@@ -180,8 +180,5 @@ permalink: /mauritian-blogs/
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[#PutinsWar in Ukraine...Fossil Fuel War With The Climate Losing](https://insel-rodrigues.blogspot.com/2022/03/putinswar-in-ukrainefossil-fuel-war.html)**  2022-03-21 11:43:21
-
-[St James Cathedral, Anglican Diocese of Mauritius / cathédrale st james, diocese anglican de maurice](https://stjamescathedralmau.wordpress.com)  
-**[Lettre pastorale carême 2022](https://stjamescathedralmau.wordpress.com/2022/03/11/lettre-pastorale-careme-2022/)**  2022-03-11 19:12:05
 
 <div style="height:0;width:0;overflow:hidden;"></div>
