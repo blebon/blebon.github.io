@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Artist Flower](https://swanlady-impressions.blogspot.com/2023/02/artist-flower.html)**  2023-02-13 06:01:56
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils stun Leeds United](https://ritesh2103.wordpress.com/2023/02/12/red-devils-stun-leeds-united/)**  2023-02-12 17:00:54
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LITERESI BILENG/BILINGUAL LITERACY : APRANN MORISIEN EK ANGLE ANMEMTAN](https://www.lemauricien.com/le-mauricien/literesi-bileng-bilingual-literacy-aprann-morisien-ek-angle-anmemtan/538965/)**  2023-02-11 12:00:48
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Artist Flower](https://swanlady-impressions.blogspot.com/2023/02/artist-flower.html)**  2023-02-09 09:45:05
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Mauritius: FSC  issues FAQs on Moneylending Licence](https://amarbheenick.blogspot.com/2023/02/mauritius-fsc-issues-faqs-on.html)**  2023-02-08 14:45:06
