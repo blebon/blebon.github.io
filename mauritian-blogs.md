@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils stun Leeds United](https://ritesh2103.wordpress.com/2023/02/12/red-devils-stun-leeds-united/)**  2023-02-12 17:00:54
+
+[Green Mauritius](https://greenmauritius.blogspot.com/)  
+**[Foodwise et 2022](https://greenmauritius.blogspot.com/2023/02/foodwise-et-2022.html)**  2023-02-12 14:33:57
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 6e dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-6e-dimanche-du-toa.html)**  2023-02-12 13:03:19
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LITERESI BILENG/BILINGUAL LITERACY : APRANN MORISIEN EK ANGLE ANMEMTAN](https://www.lemauricien.com/le-mauricien/literesi-bileng-bilingual-literacy-aprann-morisien-ek-angle-anmemtan/538965/)**  2023-02-11 12:00:48
 
@@ -16,23 +25,14 @@ permalink: /mauritian-blogs/
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Constance Love Stories: Sabrina and Chris at Constance Ephelia](https://blog.constancehotels.com/constance-love-stories-sabrina-and-chris-at-constance-ephelia/)**  2023-02-08 11:08:15
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 5e Dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-5e-dimanche-du-toa.html)**  2023-02-08 04:11:39
-
 [No Title](https://vintishgokool.blogspot.com/)  
 **[The show](https://vintishgokool.blogspot.com/2023/02/the-show.html)**  2023-02-07 18:37:41
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-02-07 16:22:41
 
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils on a thread](https://ritesh2103.wordpress.com/2023/02/04/red-devils-on-a-thread/)**  2023-02-04 17:42:54
-
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Blazing into 2023](https://davidandjennilyn.com/2023/01/31/blazing-into-2023/)**  2023-02-01 04:35:27
-
-[Green Mauritius](https://greenmauritius.blogspot.com/)  
-**[De bonnes nouvelles ces derniers mois](https://greenmauritius.blogspot.com/2023/01/de-bonnes-nouvelles-ces-derniers-mois.html)**  2023-01-30 10:11:43
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Geography is (almost) everything](https://zoomdr.blogspot.com/2023/01/geography-is-almost-everything.html)**  2023-01-28 05:28:36
