@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anfin St-Valantin](https://www.lemauricien.com/actualites/anfin-st-valantin/539610/)**  2023-02-14 11:00:01
+**[Open letter To the Prime Minister Pravind Kumar Jugnauth – Request for an urgent meeting regarding Air Mauritius Ltd](https://www.lemauricien.com/le-mauricien/open-letter-to-the-prime-minister-pravind-kumar-jugnauth-request-for-an-urgent-meeting-regarding-air-mauritius-ltd/539598/)**  2023-02-14 12:00:36
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Rainbow Colours](https://swanlady-impressions.blogspot.com/2023/02/rainbow-colours.html)**  2023-02-14 09:15:02
