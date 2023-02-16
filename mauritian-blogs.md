@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Open letter To the Prime Minister Pravind Kumar Jugnauth – Request for an urgent meeting regarding Air Mauritius Ltd](https://www.lemauricien.com/le-mauricien/open-letter-to-the-prime-minister-pravind-kumar-jugnauth-request-for-an-urgent-meeting-regarding-air-mauritius-ltd/539598/)**  2023-02-14 12:00:36
-
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Rainbow Colours](https://swanlady-impressions.blogspot.com/2023/02/rainbow-colours.html)**  2023-02-14 09:15:02
+**[Calming Bouquet](https://swanlady-impressions.blogspot.com/2023/02/calming-bouquet.html)**  2023-02-15 19:00:45
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[The Perfect Date Night: The Best Bar in the Indian Ocean](https://blog.constancehotels.com/the-perfect-date-night-the-best-bar-in-the-indian-ocean/)**  2023-02-15 12:14:27
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[PENSEURS DU SUD, N0.8 – Avec René Noyau (1912-1984), la théorie de  l’indépendance prit naissance à Cité Martial](https://www.lemauricien.com/le-mauricien/penseurs-du-sud-n0-8-avec-rene-noyau-1912-1984-la-theorie-de-lindependance-prit-naissance-a-cite-martial/539727/)**  2023-02-15 12:00:34
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils stun Leeds United](https://ritesh2103.wordpress.com/2023/02/12/red-devils-stun-leeds-united/)**  2023-02-12 17:00:54
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Mauritius: FSC  issues FAQs on Moneylending Licence](https://amarbheenick.blogspot.com/2023/02/mauritius-fsc-issues-faqs-on.html)**  2023-02-08 14:45:06
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Constance Love Stories: Sabrina and Chris at Constance Ephelia](https://blog.constancehotels.com/constance-love-stories-sabrina-and-chris-at-constance-ephelia/)**  2023-02-08 11:08:15
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[The show](https://vintishgokool.blogspot.com/2023/02/the-show.html)**  2023-02-07 18:37:41
