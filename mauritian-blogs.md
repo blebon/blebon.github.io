@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Il Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/il-ciclone-freddy.html)**  2023-02-18 12:18:45
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[MISE EN PERSPECTIVE – Requête d’extradition et entraide judiciaire : comprendre les rapports France-Maurice](https://www.lemauricien.com/le-mauricien/mise-en-perspective-requete-dextradition-et-entraide-judiciaire-comprendre-les-rapports-france-maurice/540230/)**  2023-02-17 12:00:14
 
@@ -153,9 +156,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Centre de contact : SEDECO vous propose diverses prestations](https://sedecobtob.blogspot.com/2022/06/centre-de-contact-sedeco-vous-propose.html)**  2022-06-28 20:25:06
-
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Nuove Misure Covid-19](https://mauritiuslapassionesisente.blogspot.com/2022/06/nuove-misure-covid-19.html)**  2022-06-28 19:26:51
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[I rest my case For or Against the Quattronity  at the foot of the Cross Where the love of Jesus and His Mother Mary is Found](https://lleclezio.blogspot.com/2022/06/i-rest-my-case-for-or-against.html)**  2022-06-07 06:51:08
