@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 7e Dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-7e-dimanche-du-toa.html)**  2023-02-19 19:19:13
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils outfox the Foxes](https://ritesh2103.wordpress.com/2023/02/19/red-devils-outfox-the-foxes-2/)**  2023-02-19 17:44:48
+
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Il Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/il-ciclone-freddy.html)**  2023-02-18 12:18:45
 
@@ -19,14 +25,8 @@ permalink: /mauritian-blogs/
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Perfect Date Night: The Best Bar in the Indian Ocean](https://blog.constancehotels.com/the-perfect-date-night-the-best-bar-in-the-indian-ocean/)**  2023-02-15 12:14:27
 
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils stun Leeds United](https://ritesh2103.wordpress.com/2023/02/12/red-devils-stun-leeds-united/)**  2023-02-12 17:00:54
-
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Foodwise et 2022](https://greenmauritius.blogspot.com/2023/02/foodwise-et-2022.html)**  2023-02-12 14:33:57
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 6e dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-6e-dimanche-du-toa.html)**  2023-02-12 13:03:19
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Mauritius: FSC  issues FAQs on Moneylending Licence](https://amarbheenick.blogspot.com/2023/02/mauritius-fsc-issues-faqs-on.html)**  2023-02-08 14:45:06
