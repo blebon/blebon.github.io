@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Aggiornamento, Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/freddy-passera-da-grand-baie-alle-17.html)**  2023-02-20 11:51:39
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 7e Dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-7e-dimanche-du-toa.html)**  2023-02-19 19:19:13
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils outfox the Foxes](https://ritesh2103.wordpress.com/2023/02/19/red-devils-outfox-the-foxes-2/)**  2023-02-19 17:44:48
-
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Il Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/il-ciclone-freddy.html)**  2023-02-18 12:18:45
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[MISE EN PERSPECTIVE – Requête d’extradition et entraide judiciaire : comprendre les rapports France-Maurice](https://www.lemauricien.com/le-mauricien/mise-en-perspective-requete-dextradition-et-entraide-judiciaire-comprendre-les-rapports-france-maurice/540230/)**  2023-02-17 12:00:14
@@ -177,8 +177,5 @@ permalink: /mauritian-blogs/
 
 [A Hitchhiker's Guide to Wherever](https://ashwinad.wordpress.com)  
 **[Winter is Coming… a personal experience of the war in Ukraine](https://ashwinad.wordpress.com/2022/04/11/winter-is-coming-a-personal-experience-of-the-war-in-ukraine/)**  2022-04-11 14:30:25
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[#PutinsWar in Ukraine...Fossil Fuel War With The Climate Losing](https://insel-rodrigues.blogspot.com/2022/03/putinswar-in-ukrainefossil-fuel-war.html)**  2022-03-21 11:43:21
 
 <div style="height:0;width:0;overflow:hidden;"></div>
