@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Constance Love Stories: Harry and Megan at Constance Belle Mare Plage](https://blog.constancehotels.com/constance-love-stories-harry-and-megan-at-constance-belle-mare-plage/)**  2023-02-22 09:06:50
+
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Sentry: Bribery, Money Laundering Red Flags in Massive Oil Deal in South Sudan](https://amarbheenick.blogspot.com/2023/02/the-sentry-bribery-money-laundering-red.html)**  2023-02-22 02:01:10
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Calming Bouquet](https://swanlady-impressions.blogspot.com/2023/02/calming-bouquet.html)**  2023-02-15 19:00:45
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[The Perfect Date Night: The Best Bar in the Indian Ocean](https://blog.constancehotels.com/the-perfect-date-night-the-best-bar-in-the-indian-ocean/)**  2023-02-15 12:14:27
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Foodwise et 2022](https://greenmauritius.blogspot.com/2023/02/foodwise-et-2022.html)**  2023-02-12 14:33:57
