@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[The Sentry: Bribery, Money Laundering Red Flags in Massive Oil Deal in South Sudan](https://amarbheenick.blogspot.com/2023/02/the-sentry-bribery-money-laundering-red.html)**  2023-02-22 02:01:10
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[AKP 136 – Anou dekouver ansam Diksioner Kreol Rodrige](https://www.lemauricien.com/le-mauricien/akp-136-anou-dekouver-ansam-diksioner-kreol-rodrige/541032/)**  2023-02-21 12:00:08
+
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Aggiornamento, Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/freddy-passera-da-grand-baie-alle-17.html)**  2023-02-20 11:51:39
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils outfox the Foxes](https://ritesh2103.wordpress.com/2023/02/19/red-devils-outfox-the-foxes-2/)**  2023-02-19 17:44:48
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[MISE EN PERSPECTIVE – Requête d’extradition et entraide judiciaire : comprendre les rapports France-Maurice](https://www.lemauricien.com/le-mauricien/mise-en-perspective-requete-dextradition-et-entraide-judiciaire-comprendre-les-rapports-france-maurice/540230/)**  2023-02-17 12:00:14
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Ton Tieke Kot Mexico?](http://kozelidir.blogspot.com/2023/02/ton-tieke-kot-mexico.html)**  2023-02-16 13:22:13
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Foodwise et 2022](https://greenmauritius.blogspot.com/2023/02/foodwise-et-2022.html)**  2023-02-12 14:33:57
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Mauritius: FSC  issues FAQs on Moneylending Licence](https://amarbheenick.blogspot.com/2023/02/mauritius-fsc-issues-faqs-on.html)**  2023-02-08 14:45:06
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[The show](https://vintishgokool.blogspot.com/2023/02/the-show.html)**  2023-02-07 18:37:41
