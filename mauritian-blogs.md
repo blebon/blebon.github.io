@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le Mercredi des Cendres](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-mercredi-des-cendres.html)**  2023-02-23 10:37:09
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Famille spirituelle](https://www.lemauricien.com/le-mauricien/famille-spirituelle/541259/)**  2023-02-22 12:30:31
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Aggiornamento, Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/freddy-passera-da-grand-baie-alle-17.html)**  2023-02-20 11:51:39
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 7e Dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-7e-dimanche-du-toa.html)**  2023-02-19 19:19:13
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils outfox the Foxes](https://ritesh2103.wordpress.com/2023/02/19/red-devils-outfox-the-foxes-2/)**  2023-02-19 17:44:48
