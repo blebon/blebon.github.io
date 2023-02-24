@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[LOVE AND OBSESSION](https://www.lemauricien.com/le-mauricien/love-and-obsession/541579/)**  2023-02-24 06:32:31
+
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[This is a chicken](https://meeraappadoo.wordpress.com/2023/02/24/this-is-a-chicken/)**  2023-02-24 04:41:49
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius – Solid Waste Management strategy](https://relocationmauritius.wordpress.com/2023/02/23/mauritius-solid-waste-management-strategy/)**  2023-02-23 15:04:49
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’amour est un état de poème](https://www.lemauricien.com/le-mauricien/lamour-est-un-etat-de-poeme/541440/)**  2023-02-23 12:00:37
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le Mercredi des Cendres](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-mercredi-des-cendres.html)**  2023-02-23 10:37:09
