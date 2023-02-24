@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le Mercredi des Cendres](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-mercredi-des-cendres.html)**  2023-02-23 10:37:09
+[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
+**[This is a chicken](https://meeraappadoo.wordpress.com/2023/02/24/this-is-a-chicken/)**  2023-02-24 04:41:49
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Mauritius – Solid Waste Management strategy](https://relocationmauritius.wordpress.com/2023/02/23/mauritius-solid-waste-management-strategy/)**  2023-02-23 15:04:49
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Famille spirituelle](https://www.lemauricien.com/le-mauricien/famille-spirituelle/541259/)**  2023-02-22 12:30:31
+**[L’amour est un état de poème](https://www.lemauricien.com/le-mauricien/lamour-est-un-etat-de-poeme/541440/)**  2023-02-23 12:00:37
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le Mercredi des Cendres](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-mercredi-des-cendres.html)**  2023-02-23 10:37:09
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Constance Love Stories: Harry and Megan at Constance Belle Mare Plage](https://blog.constancehotels.com/constance-love-stories-harry-and-megan-at-constance-belle-mare-plage/)**  2023-02-22 09:06:50
@@ -45,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[2023 – Interesting year !](https://relocationmauritius.wordpress.com/2023/01/18/2023-interesting-year/)**  2023-01-18 05:16:25
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
@@ -117,9 +120,6 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Spiced scrambled eggs with coriander yogurt](https://everpeckish.com/spiced-scrambled-eggs-with-coriander-yogurt/?utm_source=rss&utm_medium=rss&utm_campaign=spiced-scrambled-eggs-with-coriander-yogurt)**  2022-09-10 18:52:19
-
-[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
-**[”I am raising a vegan child”…](https://meeraappadoo.wordpress.com/2022/09/08/i-am-raising-a-vegan-child/)**  2022-09-08 11:26:34
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Camunda Chapter: Mauritius – First online meetup](https://lovvy.wordpress.com/2022/09/08/camunda-chapter-mauritius-first-online-meetup/)**  2022-09-08 10:31:26
