@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[PENSEURS DU SUD, N0.9 – Avec René Noyau (1912-1984), la théorie de l’indépendance prit naissance à Cité Martial (2e Partie & Fin)](https://www.lemauricien.com/le-mauricien/penseurs-du-sud-n0-9-avec-rene-noyau-1912-1984-la-theorie-de-lindependance-prit-naissance-a-cite-martial-2e-partie-fin/541908/)**  2023-02-25 11:08:05
+
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Aggiornamento, Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/freddy-passera-da-grand-baie-alle-17.html)**  2023-02-24 16:42:36
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[THE TIP OF THE ICEBERG](https://www.lemauricien.com/le-mauricien/the-tip-of-the-iceberg/541695/)**  2023-02-24 12:00:27
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[This is a chicken](https://meeraappadoo.wordpress.com/2023/02/24/this-is-a-chicken/)**  2023-02-24 04:41:49
