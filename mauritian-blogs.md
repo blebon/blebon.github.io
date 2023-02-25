@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Aggiornamento, Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/freddy-passera-da-grand-baie-alle-17.html)**  2023-02-24 16:42:36
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LOVE AND OBSESSION](https://www.lemauricien.com/le-mauricien/love-and-obsession/541579/)**  2023-02-24 06:32:31
+**[THE TIP OF THE ICEBERG](https://www.lemauricien.com/le-mauricien/the-tip-of-the-iceberg/541695/)**  2023-02-24 12:00:27
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[This is a chicken](https://meeraappadoo.wordpress.com/2023/02/24/this-is-a-chicken/)**  2023-02-24 04:41:49
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Sentry: Bribery, Money Laundering Red Flags in Massive Oil Deal in South Sudan](https://amarbheenick.blogspot.com/2023/02/the-sentry-bribery-money-laundering-red.html)**  2023-02-22 02:01:10
-
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Aggiornamento, Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/freddy-passera-da-grand-baie-alle-17.html)**  2023-02-20 11:51:39
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils outfox the Foxes](https://ritesh2103.wordpress.com/2023/02/19/red-devils-outfox-the-foxes-2/)**  2023-02-19 17:44:48
