@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Chris and Emily’s Wedding](https://davidandjennilyn.com/2023/02/25/chris-and-emilys-wedding/)**  2023-02-25 21:59:20
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[PENSEURS DU SUD, N0.9 – Avec René Noyau (1912-1984), la théorie de l’indépendance prit naissance à Cité Martial (2e Partie & Fin)](https://www.lemauricien.com/le-mauricien/penseurs-du-sud-n0-9-avec-rene-noyau-1912-1984-la-theorie-de-lindependance-prit-naissance-a-cite-martial-2e-partie-fin/541908/)**  2023-02-25 11:08:05
 
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-02-07 16:22:41
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Blazing into 2023](https://davidandjennilyn.com/2023/01/31/blazing-into-2023/)**  2023-02-01 04:35:27
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Geography is (almost) everything](https://zoomdr.blogspot.com/2023/01/geography-is-almost-everything.html)**  2023-01-28 05:28:36
