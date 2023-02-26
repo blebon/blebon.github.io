@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 1er Dimanche de Carême A](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-1er-dimanche-de-careme-a.html)**  2023-02-26 11:05:24
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Chris and Emily’s Wedding](https://davidandjennilyn.com/2023/02/25/chris-and-emilys-wedding/)**  2023-02-25 21:59:20
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius – Solid Waste Management strategy](https://relocationmauritius.wordpress.com/2023/02/23/mauritius-solid-waste-management-strategy/)**  2023-02-23 15:04:49
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le Mercredi des Cendres](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-mercredi-des-cendres.html)**  2023-02-23 10:37:09
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Constance Love Stories: Harry and Megan at Constance Belle Mare Plage](https://blog.constancehotels.com/constance-love-stories-harry-and-megan-at-constance-belle-mare-plage/)**  2023-02-22 09:06:50
