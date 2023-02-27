@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 1er Dimanche de Carême A](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-1er-dimanche-de-careme-a.html)**  2023-02-26 11:05:24
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Ten Hag delivers first silverware](https://ritesh2103.wordpress.com/2023/02/26/ten-hag-delivers-first-silverware/)**  2023-02-26 19:43:28
 
 [David and Jennilyn](https://davidandjennilyn.com)  
-**[Chris and Emily’s Wedding](https://davidandjennilyn.com/2023/02/25/chris-and-emilys-wedding/)**  2023-02-25 21:59:20
+**[San Francisco](https://davidandjennilyn.com/2023/02/26/san-francisco/)**  2023-02-26 15:00:00
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 1er Dimanche de Carême A](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-1er-dimanche-de-careme-a.html)**  2023-02-26 11:05:24
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[PENSEURS DU SUD, N0.9 – Avec René Noyau (1912-1984), la théorie de l’indépendance prit naissance à Cité Martial (2e Partie & Fin)](https://www.lemauricien.com/le-mauricien/penseurs-du-sud-n0-9-avec-rene-noyau-1912-1984-la-theorie-de-lindependance-prit-naissance-a-cite-martial-2e-partie-fin/541908/)**  2023-02-25 11:08:05
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Sentry: Bribery, Money Laundering Red Flags in Massive Oil Deal in South Sudan](https://amarbheenick.blogspot.com/2023/02/the-sentry-bribery-money-laundering-red.html)**  2023-02-22 02:01:10
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils outfox the Foxes](https://ritesh2103.wordpress.com/2023/02/19/red-devils-outfox-the-foxes-2/)**  2023-02-19 17:44:48
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Ton Tieke Kot Mexico?](http://kozelidir.blogspot.com/2023/02/ton-tieke-kot-mexico.html)**  2023-02-16 13:22:13
