@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[More Than Just a Friend...](https://flicenflac.blogspot.com/2023/03/more-than-just-friend.html)**  2023-03-01 10:49:48
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Birthdays Are Not What They Used To Be](http://kozelidir.blogspot.com/2023/02/birthdays-are-not-what-they-used-to-be.html)**  2023-02-28 17:14:23
 
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Geography is (almost) everything](https://zoomdr.blogspot.com/2023/01/geography-is-almost-everything.html)**  2023-01-28 05:28:36
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
