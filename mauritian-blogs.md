@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Monterey Bay Aquarium](https://davidandjennilyn.com/2023/02/27/monterey-bay-aquarium/)**  2023-02-27 15:00:00
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Birthdays Are Not What They Used To Be](http://kozelidir.blogspot.com/2023/02/birthdays-are-not-what-they-used-to-be.html)**  2023-02-28 17:14:23
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Madhubala: Versatile Actress with a Dazzling Beauty](https://www.lemauricien.com/le-mauricien/madhubala-versatile-actress-with-a-dazzling-beauty/542190/)**  2023-02-27 12:00:00
+**[CHALLENGES AND PROMISING SIGNS : NAVIGATING THE GREEN TRANSITION](https://www.lemauricien.com/le-mauricien/challenges-and-promising-signs-navigating-the-green-transition/542421/)**  2023-02-28 12:34:26
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Monterey Bay Aquarium](https://davidandjennilyn.com/2023/02/27/monterey-bay-aquarium/)**  2023-02-27 15:00:00
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Ten Hag delivers first silverware](https://ritesh2103.wordpress.com/2023/02/26/ten-hag-delivers-first-silverware/)**  2023-02-26 19:43:28
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Sentry: Bribery, Money Laundering Red Flags in Massive Oil Deal in South Sudan](https://amarbheenick.blogspot.com/2023/02/the-sentry-bribery-money-laundering-red.html)**  2023-02-22 02:01:10
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Ton Tieke Kot Mexico?](http://kozelidir.blogspot.com/2023/02/ton-tieke-kot-mexico.html)**  2023-02-16 13:22:13
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Calming Bouquet](https://swanlady-impressions.blogspot.com/2023/02/calming-bouquet.html)**  2023-02-15 19:00:45
