@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[turbine.mu](https://turbine.mu)  
+**[Entrepreneurship and Intrapreneurship: What’s the difference?](https://turbine.mu/2023/03/02/difference-between-entrepreneurship-intrapreneurship/)**  2023-03-02 07:23:28
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Poem for International Women’s Day](https://www.lemauricien.com/le-mauricien/poem-for-international-womens-day/542572/)**  2023-03-01 12:01:33
 
@@ -105,9 +108,6 @@ permalink: /mauritian-blogs/
 
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
-
-[turbine.mu](https://turbine.mu)  
-**[Tips to prepare a Business Pitch to Investors](https://turbine.mu/2022/09/26/pitching-business-idea-to-investors/)**  2022-09-26 08:53:04
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[Chalet vibe](http://gadatagada-portfolio.blogspot.com/2022/09/chalet-vibe.html)**  2022-09-23 06:19:51
