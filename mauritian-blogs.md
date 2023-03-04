@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[VIOLENCE EN MILIEU SCOLAIRE : Et si les mesures correctives avaient été prises…](https://www.lemauricien.com/le-mauricien/violence-en-milieu-scolaire-et-si-les-mesures-correctives-avaient-ete-prises/542792/)**  2023-03-02 12:00:19
+**[La guerre en Ukraine, quel positionnement pour la paix ?](https://www.lemauricien.com/le-mauricien/542955/542955/)**  2023-03-03 12:00:59
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[More Than Just a Friend...](https://flicenflac.blogspot.com/2023/03/more-than-just-friend.html)**  2023-03-01 11:39:10
