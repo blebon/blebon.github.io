@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils torn apart at Anfield](https://ritesh2103.wordpress.com/2023/03/05/red-devils-torn-apart-at-anfield/)**  2023-03-05 18:53:49
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 2e Dimanche du Carême](https://josephnguyenmahebourg.blogspot.com/2023/03/homelie-pour-le-2e-dimanche-du-careme.html)**  2023-03-05 14:55:58
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Think Nursing: A Plea to the Mauritian Healthcare Community](https://www.lemauricien.com/le-mauricien/think-nursing-a-plea-to-the-mauritian-healthcare-community/543087/)**  2023-03-04 12:01:58
 
@@ -15,12 +21,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Monterey Bay Aquarium](https://davidandjennilyn.com/2023/02/27/monterey-bay-aquarium/)**  2023-02-27 15:00:00
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Ten Hag delivers first silverware](https://ritesh2103.wordpress.com/2023/02/26/ten-hag-delivers-first-silverware/)**  2023-02-26 19:43:28
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 1er Dimanche de Carême A](https://josephnguyenmahebourg.blogspot.com/2023/02/homelie-pour-le-1er-dimanche-de-careme-a.html)**  2023-02-26 11:05:24
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Aggiornamento, Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/freddy-passera-da-grand-baie-alle-17.html)**  2023-02-24 16:42:36
