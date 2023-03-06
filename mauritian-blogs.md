@@ -13,6 +13,9 @@ permalink: /mauritian-blogs/
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Think Nursing: A Plea to the Mauritian Healthcare Community](https://www.lemauricien.com/le-mauricien/think-nursing-a-plea-to-the-mauritian-healthcare-community/543087/)**  2023-03-04 12:01:58
 
+[turbine.mu](https://turbine.mu)  
+**[Entrepreneurship and Intrapreneurship: What’s the difference?](https://turbine.mu/2023/03/02/difference-between-entrepreneurship-intrapreneurship/)**  2023-03-02 07:23:28
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[More Than Just a Friend...](https://flicenflac.blogspot.com/2023/03/more-than-just-friend.html)**  2023-03-01 11:39:10
 
@@ -105,9 +108,6 @@ permalink: /mauritian-blogs/
 
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
-
-[turbine.mu](https://turbine.mu)  
-**[Tips to prepare a Business Pitch to Investors](https://turbine.mu/2022/09/26/pitching-business-idea-to-investors/)**  2022-09-26 08:53:04
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[Chalet vibe](http://gadatagada-portfolio.blogspot.com/2022/09/chalet-vibe.html)**  2022-09-23 06:19:51
