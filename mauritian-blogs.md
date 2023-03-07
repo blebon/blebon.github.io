@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Biscuit « létan lontan »](http://gadatagada.blogspot.com/2023/03/biscuit-letan-lontan.html)**  2023-03-07 10:41:41
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[HISTOIRE DE L’IMMIGRATION INDIENNE À MAURICE : INVESTISSEURS  / COMMERÇANTS  ET ENGAGÉS AGRICOLES AU XIXe SIÈCLE](https://www.lemauricien.com/le-mauricien/histoire-de-limmigration-indienne-a-maurice-investisseurs-commercants-et-engages-agricoles-au-xixe-siecle/543341/)**  2023-03-06 12:00:37
 
@@ -72,9 +75,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 ORIGIN ECO CHALET à Rodrigues](https://mysweetmauritius.blogspot.com/2022/12/origin-eco-chalet-rodrigues.html)**  2022-12-30 17:33:31
-
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Chassé-croisé](http://gadatagada.blogspot.com/2022/12/chasse-croise.html)**  2022-12-26 04:30:51
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Chocolate Cake with Cream Cheese Swirl](https://nashbakery.blogspot.com/2022/12/chocolate-cake-with-cream-cheese-swirl.html)**  2022-12-23 15:03:16
