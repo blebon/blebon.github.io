@@ -4,20 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[HISTOIRE DE L’IMMIGRATION INDIENNE À MAURICE : INVESTISSEURS  / COMMERÇANTS  ET ENGAGÉS AGRICOLES AU XIXe SIÈCLE](https://www.lemauricien.com/le-mauricien/histoire-de-limmigration-indienne-a-maurice-investisseurs-commercants-et-engages-agricoles-au-xixe-siecle/543341/)**  2023-03-06 12:00:37
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils torn apart at Anfield](https://ritesh2103.wordpress.com/2023/03/05/red-devils-torn-apart-at-anfield/)**  2023-03-05 18:53:49
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 2e Dimanche du Carême](https://josephnguyenmahebourg.blogspot.com/2023/03/homelie-pour-le-2e-dimanche-du-careme.html)**  2023-03-05 14:55:58
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Think Nursing: A Plea to the Mauritian Healthcare Community](https://www.lemauricien.com/le-mauricien/think-nursing-a-plea-to-the-mauritian-healthcare-community/543087/)**  2023-03-04 12:01:58
-
 [turbine.mu](https://turbine.mu)  
 **[Entrepreneurship and Intrapreneurship: What’s the difference?](https://turbine.mu/2023/03/02/difference-between-entrepreneurship-intrapreneurship/)**  2023-03-02 07:23:28
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[More Than Just a Friend...](https://flicenflac.blogspot.com/2023/03/more-than-just-friend.html)**  2023-03-01 11:39:10
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Birthdays Are Not What They Used To Be](http://kozelidir.blogspot.com/2023/02/birthdays-are-not-what-they-used-to-be.html)**  2023-02-28 17:14:23
@@ -54,6 +51,9 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Geography is (almost) everything](https://zoomdr.blogspot.com/2023/01/geography-is-almost-everything.html)**  2023-01-28 05:28:36
+
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
