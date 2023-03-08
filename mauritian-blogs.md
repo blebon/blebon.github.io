@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Biscuit « létan lontan »](http://gadatagada.blogspot.com/2023/03/biscuit-letan-lontan.html)**  2023-03-07 10:41:41
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Strengthening food control and phytosanitary capacities and governance’ in collaboration with the Food and Agriculture Organization of the United Nations (FAO).](https://facultyagriculture.blogspot.com/2023/03/strengthening-food-control-and.html)**  2023-03-07 13:21:30
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[HISTOIRE DE L’IMMIGRATION INDIENNE À MAURICE : INVESTISSEURS  / COMMERÇANTS  ET ENGAGÉS AGRICOLES AU XIXe SIÈCLE](https://www.lemauricien.com/le-mauricien/histoire-de-limmigration-indienne-a-maurice-investisseurs-commercants-et-engages-agricoles-au-xixe-siecle/543341/)**  2023-03-06 12:00:37
+**[Les femmes, grandes absentes du monde numérique](https://www.lemauricien.com/le-mauricien/les-femmes-grandes-absentes-du-monde-numerique/543556/)**  2023-03-07 12:00:52
+
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Biscuit « létan lontan »](http://gadatagada.blogspot.com/2023/03/biscuit-letan-lontan.html)**  2023-03-07 10:41:41
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils torn apart at Anfield](https://ritesh2103.wordpress.com/2023/03/05/red-devils-torn-apart-at-anfield/)**  2023-03-05 18:53:49
@@ -150,9 +153,6 @@ permalink: /mauritian-blogs/
 
 [Carte Abricot Wedding Planner à l'Ile Maurice](https://carteabricotwedding.blogspot.com/)  
 **[MARIE-MICHELE & JORDAN  22 .04. 22](https://carteabricotwedding.blogspot.com/2022/06/mariage-flic-en-flac-22-04-22.html)**  2022-07-11 06:21:20
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Lack of Veterinarians in Mauritius](https://facultyagriculture.blogspot.com/2022/06/lack-of-veterinarians-in-mauritius.html)**  2022-06-29 13:22:44
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Centre de contact : SEDECO vous propose diverses prestations](https://sedecobtob.blogspot.com/2022/06/centre-de-contact-sedeco-vous-propose.html)**  2022-06-28 20:25:06
