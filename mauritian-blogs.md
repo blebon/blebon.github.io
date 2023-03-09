@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Wangari Muta Maathai  – Une vie pour l’environnement,  la cause des femmes et la démocratie](https://www.lemauricien.com/le-mauricien/wangari-muta-maathai-une-vie-pour-lenvironnement-la-cause-des-femmes-et-la-democratie/543759/)**  2023-03-08 12:00:48
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Strengthening food control and phytosanitary capacities and governance’ in collaboration with the Food and Agriculture Organization of the United Nations (FAO).](https://facultyagriculture.blogspot.com/2023/03/strengthening-food-control-and.html)**  2023-03-07 13:21:30
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Les femmes, grandes absentes du monde numérique](https://www.lemauricien.com/le-mauricien/les-femmes-grandes-absentes-du-monde-numerique/543556/)**  2023-03-07 12:00:52
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Biscuit « létan lontan »](http://gadatagada.blogspot.com/2023/03/biscuit-letan-lontan.html)**  2023-03-07 10:41:41
