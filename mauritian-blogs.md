@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Global Freedom Declines for 17th Consecutive Year, but May Be Approaching a Turning Point](https://amarbheenick.blogspot.com/2023/03/global-freedom-declines-for-17th.html)**  2023-03-09 15:47:30
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Wangari Muta Maathai  – Une vie pour l’environnement,  la cause des femmes et la démocratie](https://www.lemauricien.com/le-mauricien/wangari-muta-maathai-une-vie-pour-lenvironnement-la-cause-des-femmes-et-la-democratie/543759/)**  2023-03-08 12:00:48
+**[Navigating the Educational Arena in Complex Times](https://www.lemauricien.com/le-mauricien/navigating-the-educational-arena-in-complex-times/543930/)**  2023-03-09 12:00:31
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Strengthening food control and phytosanitary capacities and governance’ in collaboration with the Food and Agriculture Organization of the United Nations (FAO).](https://facultyagriculture.blogspot.com/2023/03/strengthening-food-control-and.html)**  2023-03-07 13:21:30
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Constance Love Stories: Harry and Megan at Constance Belle Mare Plage](https://blog.constancehotels.com/constance-love-stories-harry-and-megan-at-constance-belle-mare-plage/)**  2023-02-22 09:06:50
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[The Sentry: Bribery, Money Laundering Red Flags in Massive Oil Deal in South Sudan](https://amarbheenick.blogspot.com/2023/02/the-sentry-bribery-money-laundering-red.html)**  2023-02-22 02:01:10
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Calming Bouquet](https://swanlady-impressions.blogspot.com/2023/02/calming-bouquet.html)**  2023-02-15 19:00:45
