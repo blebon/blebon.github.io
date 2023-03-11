@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Strengthening food control and phytosanitary capacities and governance’ in collaboration with the Food and Agriculture Organization of the United Nations (FAO).](https://facultyagriculture.blogspot.com/2023/03/strengthening-food-control-and.html)**  2023-03-11 08:28:36
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Chairs de lune](https://www.lemauricien.com/le-mauricien/chairs-de-lune/544104/)**  2023-03-10 12:10:46
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Global Freedom Declines for 17th Consecutive Year, but May Be Approaching a Turning Point](https://amarbheenick.blogspot.com/2023/03/global-freedom-declines-for-17th.html)**  2023-03-09 15:47:30
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Strengthening food control and phytosanitary capacities and governance’ in collaboration with the Food and Agriculture Organization of the United Nations (FAO).](https://facultyagriculture.blogspot.com/2023/03/strengthening-food-control-and.html)**  2023-03-07 13:21:30
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils torn apart at Anfield](https://ritesh2103.wordpress.com/2023/03/05/red-devils-torn-apart-at-anfield/)**  2023-03-05 18:53:49
