@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Chairs de lune](https://www.lemauricien.com/le-mauricien/chairs-de-lune/544104/)**  2023-03-10 12:10:46
+
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **["Pied lafouche"](http://gadatagada.blogspot.com/2023/03/pied-lafouche.html)**  2023-03-10 06:41:18
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Global Freedom Declines for 17th Consecutive Year, but May Be Approaching a Turning Point](https://amarbheenick.blogspot.com/2023/03/global-freedom-declines-for-17th.html)**  2023-03-09 15:47:30
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Navigating the Educational Arena in Complex Times](https://www.lemauricien.com/le-mauricien/navigating-the-educational-arena-in-complex-times/543930/)**  2023-03-09 12:00:31
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Strengthening food control and phytosanitary capacities and governance’ in collaboration with the Food and Agriculture Organization of the United Nations (FAO).](https://facultyagriculture.blogspot.com/2023/03/strengthening-food-control-and.html)**  2023-03-07 13:21:30
