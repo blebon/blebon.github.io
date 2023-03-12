@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Happy Independence Day Mauritius](https://ritesh2103.wordpress.com/2023/03/12/happy-independence-day-mauritius-2/)**  2023-03-12 07:12:43
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Célébrons Maurice !](https://www.lemauricien.com/le-mauricien/celebrons-maurice/544302/)**  2023-03-11 12:04:54
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Global Freedom Declines for 17th Consecutive Year, but May Be Approaching a Turning Point](https://amarbheenick.blogspot.com/2023/03/global-freedom-declines-for-17th.html)**  2023-03-09 15:47:30
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils torn apart at Anfield](https://ritesh2103.wordpress.com/2023/03/05/red-devils-torn-apart-at-anfield/)**  2023-03-05 18:53:49
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 2e Dimanche du Carême](https://josephnguyenmahebourg.blogspot.com/2023/03/homelie-pour-le-2e-dimanche-du-careme.html)**  2023-03-05 14:55:58
