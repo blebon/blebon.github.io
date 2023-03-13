@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Happy Independence Day Mauritius](https://ritesh2103.wordpress.com/2023/03/12/happy-independence-day-mauritius-2/)**  2023-03-12 07:12:43
+**[Red Devils drop points again](https://ritesh2103.wordpress.com/2023/03/12/red-devils-drop-points-again/)**  2023-03-12 16:56:48
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Célébrons Maurice !](https://www.lemauricien.com/le-mauricien/celebrons-maurice/544302/)**  2023-03-11 12:04:54
