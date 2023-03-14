@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Religions et croyances : Sainte Marie Madeleine, la Combattante d’aujourd’hui](https://www.lemauricien.com/le-mauricien/religions-et-croyances-sainte-marie-madeleine-la-combattante-daujourdhui/544638/)**  2023-03-13 12:22:46
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils drop points again](https://ritesh2103.wordpress.com/2023/03/12/red-devils-drop-points-again/)**  2023-03-12 16:56:48
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Célébrons Maurice !](https://www.lemauricien.com/le-mauricien/celebrons-maurice/544302/)**  2023-03-11 12:04:54
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Strengthening food control and phytosanitary capacities and governance’ in collaboration with the Food and Agriculture Organization of the United Nations (FAO).](https://facultyagriculture.blogspot.com/2023/03/strengthening-food-control-and.html)**  2023-03-11 08:28:36
@@ -174,8 +174,5 @@ permalink: /mauritian-blogs/
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[A local mirror for openSUSE users in Mauritius 🥳](https://sysadmin-journal.com/local-mirror-for-opensuse-users-in-mauritius/)**  2022-05-04 21:10:34
-
-[A Hitchhiker's Guide to Wherever](https://ashwinad.wordpress.com)  
-**[Winter is Coming… a personal experience of the war in Ukraine](https://ashwinad.wordpress.com/2022/04/11/winter-is-coming-a-personal-experience-of-the-war-in-ukraine/)**  2022-04-11 14:30:25
 
 <div style="height:0;width:0;overflow:hidden;"></div>
