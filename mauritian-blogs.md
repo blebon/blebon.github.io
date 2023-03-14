@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Religions et croyances : Sainte Marie Madeleine, la Combattante d’aujourd’hui](https://www.lemauricien.com/le-mauricien/religions-et-croyances-sainte-marie-madeleine-la-combattante-daujourdhui/544638/)**  2023-03-13 12:22:46
+**[Unity in Diversity : A Desirable Objective](https://www.lemauricien.com/le-mauricien/unity-in-diversity-a-desirable-objective/544692/)**  2023-03-14 06:18:06
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils drop points again](https://ritesh2103.wordpress.com/2023/03/12/red-devils-drop-points-again/)**  2023-03-12 16:56:48
