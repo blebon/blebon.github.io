@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[An Award-Winning Dessert By Chef Stephane Labastide](https://blog.constancehotels.com/an-award-winning-dessert-by-chef-stephane-labastide/)**  2023-03-15 09:57:26
+
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[Relative Poverty(2017) : Is government’s concern beneficial?](https://comstudies.wordpress.com/2023/03/14/relativhttps-comstudies-wordpress-com-p7156e-poverty-in-2017-is-it-still-an-alarming-issue-despite-the-governments-initiatives/)**  2023-03-14 19:41:16
+**[Moins d’enfants, qu’en est-il pour la République de Maurice?](https://comstudies.wordpress.com/2023/03/15/moins-denfants-quen-est-il-pour-la-republique-de-maurice/)**  2023-03-15 08:58:40
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Mastering Distractions: My ADD Journey](https://www.lemauricien.com/le-mauricien/mastering-distractions-my-add-journey/544744/)**  2023-03-14 12:00:50
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius – Solid Waste Management strategy](https://relocationmauritius.wordpress.com/2023/02/23/mauritius-solid-waste-management-strategy/)**  2023-02-23 15:04:49
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Constance Love Stories: Harry and Megan at Constance Belle Mare Plage](https://blog.constancehotels.com/constance-love-stories-harry-and-megan-at-constance-belle-mare-plage/)**  2023-02-22 09:06:50
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Calming Bouquet](https://swanlady-impressions.blogspot.com/2023/02/calming-bouquet.html)**  2023-02-15 19:00:45
