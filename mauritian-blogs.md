@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[UoM-Communication Studies](https://comstudies.wordpress.com)  
+**[Relative Poverty(2017) : Is government’s concern beneficial?](https://comstudies.wordpress.com/2023/03/14/relativhttps-comstudies-wordpress-com-p7156e-poverty-in-2017-is-it-still-an-alarming-issue-despite-the-governments-initiatives/)**  2023-03-14 19:41:16
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Unity in Diversity : A Desirable Objective](https://www.lemauricien.com/le-mauricien/unity-in-diversity-a-desirable-objective/544692/)**  2023-03-14 06:18:06
+**[Mastering Distractions: My ADD Journey](https://www.lemauricien.com/le-mauricien/mastering-distractions-my-add-journey/544744/)**  2023-03-14 12:00:50
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils drop points again](https://ritesh2103.wordpress.com/2023/03/12/red-devils-drop-points-again/)**  2023-03-12 16:56:48
@@ -105,9 +108,6 @@ permalink: /mauritian-blogs/
 
 [ASSOCIATION FOR POPULATION AND DEVELOPMENT](https://apdmauritius.blogspot.com/)  
 **[MEN AS CARING PARTNERS](https://apdmauritius.blogspot.com/2022/11/men-as-caring-partners.html)**  2022-11-13 15:26:52
-
-[UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[UoM FSSH Journalism students win the top two prizes in the student category for the African Fact-Checking Awards 2022](https://comstudies.wordpress.com/2022/11/11/uom-fssh-journalism-students-win-the-top-two-prizes-in-the-student-category-for-the-african-fact-checking-awards-2022/)**  2022-11-11 04:27:48
 
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
