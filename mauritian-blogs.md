@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[An Award-Winning Dessert By Chef Stephane Labastide](https://blog.constancehotels.com/an-award-winning-dessert-by-chef-stephane-labastide/)**  2023-03-15 09:57:26
-
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[Moins d’enfants, qu’en est-il pour la République de Maurice?](https://comstudies.wordpress.com/2023/03/15/moins-denfants-quen-est-il-pour-la-republique-de-maurice/)**  2023-03-15 08:58:40
+**[Correlationship between diabetes and fast food such as McDonalds and KFC in the 5 countries with the highest average of type 2 diabetes. Other risk factors contributing to the high average of diabetics in Mauritius.](https://comstudies.wordpress.com/2023/03/15/correlationship-between-diabetes-and-fast-food-such-as-mcdonalds-and-kfc-in-the-5-countries-with-the-highest-average-of-type-2-diabetes-other-risk-factors-contributing-to-the-high-average-of-diabetic/)**  2023-03-15 21:05:39
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mastering Distractions: My ADD Journey](https://www.lemauricien.com/le-mauricien/mastering-distractions-my-add-journey/544744/)**  2023-03-14 12:00:50
+**[Obituary of Mulu Gujadhur](https://www.lemauricien.com/le-mauricien/obituary-of-mulu-gujadhur/544912/)**  2023-03-15 12:03:39
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[An Award-Winning Dessert By Chef Stephane Labastide](https://blog.constancehotels.com/an-award-winning-dessert-by-chef-stephane-labastide/)**  2023-03-15 09:57:26
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils drop points again](https://ritesh2103.wordpress.com/2023/03/12/red-devils-drop-points-again/)**  2023-03-12 16:56:48
