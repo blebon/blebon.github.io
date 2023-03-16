@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[Correlationship between diabetes and fast food such as McDonalds and KFC in the 5 countries with the highest average of type 2 diabetes. Other risk factors contributing to the high average of diabetics in Mauritius.](https://comstudies.wordpress.com/2023/03/15/correlationship-between-diabetes-and-fast-food-such-as-mcdonalds-and-kfc-in-the-5-countries-with-the-highest-average-of-type-2-diabetes-other-risk-factors-contributing-to-the-high-average-of-diabetic/)**  2023-03-15 21:05:39
+**[Despite Government efforts, Youth Unemployment is still on the rise in Mauritius.](https://comstudies.wordpress.com/2023/03/16/despite-government-efforts-youth-unemployment-is-still-on-the-rise-in-mauritius/)**  2023-03-16 09:59:51
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Obituary of Mulu Gujadhur](https://www.lemauricien.com/le-mauricien/obituary-of-mulu-gujadhur/544912/)**  2023-03-15 12:03:39
