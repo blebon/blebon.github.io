@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[Despite Government efforts, Youth Unemployment is still on the rise in Mauritius.](https://comstudies.wordpress.com/2023/03/16/despite-government-efforts-youth-unemployment-is-still-on-the-rise-in-mauritius/)**  2023-03-16 09:59:51
+[Melancholies](https://faustianmatters.blogspot.com/)  
+**[Interest](https://faustianmatters.blogspot.com/2023/03/interest.html)**  2023-03-17 23:41:27
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Kinds of beings](https://vintishgokool.blogspot.com/2023/03/kinds-of-beings.html)**  2023-03-17 12:57:05
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Obituary of Mulu Gujadhur](https://www.lemauricien.com/le-mauricien/obituary-of-mulu-gujadhur/544912/)**  2023-03-15 12:03:39
+**[Rasism dan bann lekol elit : Problem la boukou pli profon](https://www.lemauricien.com/le-mauricien/rasism-dan-bann-lekol-elit-problem-la-boukou-pli-profon/545227/)**  2023-03-17 12:31:11
+
+[UoM-Communication Studies](https://comstudies.wordpress.com)  
+**[Despite Government efforts, Youth Unemployment is still on the rise in Mauritius.](https://comstudies.wordpress.com/2023/03/16/despite-government-efforts-youth-unemployment-is-still-on-the-rise-in-mauritius/)**  2023-03-16 09:59:51
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[An Award-Winning Dessert By Chef Stephane Labastide](https://blog.constancehotels.com/an-award-winning-dessert-by-chef-stephane-labastide/)**  2023-03-15 09:57:26
@@ -51,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Foodwise et 2022](https://greenmauritius.blogspot.com/2023/02/foodwise-et-2022.html)**  2023-02-12 14:33:57
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[The show](https://vintishgokool.blogspot.com/2023/02/the-show.html)**  2023-02-07 18:37:41
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-02-07 16:22:41
@@ -138,9 +141,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Rodrigues Is. Expedition](https://msinnott.net/2022/08/24/rodrigues-is-expedition/)**  2022-08-24 08:37:46
-
-[Melancholies](https://faustianmatters.blogspot.com/)  
-**[Smother](https://faustianmatters.blogspot.com/2022/08/smother.html)**  2022-08-22 15:23:52
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 22 Worked Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-07 16:37:31
