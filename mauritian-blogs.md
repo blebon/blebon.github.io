@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[An Orwellian National Youth Parliament](https://www.lemauricien.com/le-mauricien/an-orwellian-national-youth-parliament/545406/)**  2023-03-18 10:41:45
+
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Interest](https://faustianmatters.blogspot.com/2023/03/interest.html)**  2023-03-17 23:41:27
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Kinds of beings](https://vintishgokool.blogspot.com/2023/03/kinds-of-beings.html)**  2023-03-17 12:57:05
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Rasism dan bann lekol elit : Problem la boukou pli profon](https://www.lemauricien.com/le-mauricien/rasism-dan-bann-lekol-elit-problem-la-boukou-pli-profon/545227/)**  2023-03-17 12:31:11
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Despite Government efforts, Youth Unemployment is still on the rise in Mauritius.](https://comstudies.wordpress.com/2023/03/16/despite-government-efforts-youth-unemployment-is-still-on-the-rise-in-mauritius/)**  2023-03-16 09:59:51
