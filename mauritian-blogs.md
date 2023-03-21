@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Les Assises de l'Agriculture, themed Pathways to a Sustainable Food System for a Healthier Tomorrow](https://facultyagriculture.blogspot.com/2023/03/les-assises-de-lagriculture-themed.html)**  2023-03-20 16:26:25
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[An Orwellian National Youth Parliament](https://www.lemauricien.com/le-mauricien/an-orwellian-national-youth-parliament/545406/)**  2023-03-18 10:41:45
+**[The influence of Zodiac](https://www.lemauricien.com/le-mauricien/the-influence-of-zodiac-dr-pavi-ramhota/545754/)**  2023-03-20 12:40:41
+
+[Yashvinblogs](https://yashvinblogs.com)  
+**[myuniversalshop.com : promising but shitty experience right now](https://yashvinblogs.com/2023/03/20/myuniversalshop-com/)**  2023-03-20 11:34:56
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Interest](https://faustianmatters.blogspot.com/2023/03/interest.html)**  2023-03-17 23:41:27
@@ -21,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils drop points again](https://ritesh2103.wordpress.com/2023/03/12/red-devils-drop-points-again/)**  2023-03-12 16:56:48
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Strengthening food control and phytosanitary capacities and governance’ in collaboration with the Food and Agriculture Organization of the United Nations (FAO).](https://facultyagriculture.blogspot.com/2023/03/strengthening-food-control-and.html)**  2023-03-11 08:28:36
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **["Pied lafouche"](http://gadatagada.blogspot.com/2023/03/pied-lafouche.html)**  2023-03-10 06:41:18
@@ -72,9 +75,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[[Reminder] You have Web & App Activity turned on](https://shruticulturalgroup.blogspot.com/2023/01/reminder-you-have-web-app-activity.html)**  2023-01-07 20:26:01
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[Building a fireplace for christmas](https://yashvinblogs.com/2023/01/05/fireplace-for-christmas/)**  2023-01-05 10:58:29
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Turning 40 in Singapore and Thailand 2022](https://littleanantasin.wordpress.com/2023/01/04/turning-40-in-singapore-and-thailand-2022/)**  2023-01-04 23:54:36
