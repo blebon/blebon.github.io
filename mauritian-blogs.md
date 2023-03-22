@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[#ConstanceCreates Recipes to Try at Home](https://blog.constancehotels.com/constancecreates-recipes-to-try-at-home/)**  2023-03-22 09:17:05
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[From SVB to the BBC: why did no one see the crisis coming?](https://zoomdr.blogspot.com/2023/03/from-svb-to-bbc-why-did-no-one-see.html)**  2023-03-22 08:37:09
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Wishing you a beautiful Gudhi Padwa and Ugadi](https://www.lemauricien.com/le-mauricien/wishing-you-a-beautiful-gudhi-padwa-and-ugadi/545952/)**  2023-03-21 12:00:12
 
@@ -24,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Despite Government efforts, Youth Unemployment is still on the rise in Mauritius.](https://comstudies.wordpress.com/2023/03/16/despite-government-efforts-youth-unemployment-is-still-on-the-rise-in-mauritius/)**  2023-03-16 09:59:51
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[An Award-Winning Dessert By Chef Stephane Labastide](https://blog.constancehotels.com/an-award-winning-dessert-by-chef-stephane-labastide/)**  2023-03-15 09:57:26
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils drop points again](https://ritesh2103.wordpress.com/2023/03/12/red-devils-drop-points-again/)**  2023-03-12 16:56:48
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-02-07 16:22:41
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Geography is (almost) everything](https://zoomdr.blogspot.com/2023/01/geography-is-almost-everything.html)**  2023-01-28 05:28:36
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
