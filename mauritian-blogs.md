@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Wishing you a beautiful Gudhi Padwa and Ugadi](https://www.lemauricien.com/le-mauricien/wishing-you-a-beautiful-gudhi-padwa-and-ugadi/545952/)**  2023-03-21 12:00:12
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The Mauritian labor market – a puzzle](https://relocationmauritius.wordpress.com/2023/03/21/the-mauritian-labor-market-a-puzzle/)**  2023-03-21 10:10:33
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Les Assises de l'Agriculture, themed Pathways to a Sustainable Food System for a Healthier Tomorrow](https://facultyagriculture.blogspot.com/2023/03/les-assises-de-lagriculture-themed.html)**  2023-03-20 16:26:25
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The influence of Zodiac](https://www.lemauricien.com/le-mauricien/the-influence-of-zodiac-dr-pavi-ramhota/545754/)**  2023-03-20 12:40:41
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[myuniversalshop.com : promising but shitty experience right now](https://yashvinblogs.com/2023/03/20/myuniversalshop-com/)**  2023-03-20 11:34:56
