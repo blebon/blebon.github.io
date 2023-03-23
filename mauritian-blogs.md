@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Yashvinblogs](https://yashvinblogs.com)  
+**[38th birthday and 10 years of daily selfies…](https://yashvinblogs.com/2023/03/22/happy-birthday-2023/)**  2023-03-22 16:44:24
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[#ConstanceCreates Recipes to Try at Home](https://blog.constancehotels.com/constancecreates-recipes-to-try-at-home/)**  2023-03-22 09:17:05
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Les Assises de l'Agriculture, themed Pathways to a Sustainable Food System for a Healthier Tomorrow](https://facultyagriculture.blogspot.com/2023/03/les-assises-de-lagriculture-themed.html)**  2023-03-20 16:26:25
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[myuniversalshop.com : promising but shitty experience right now](https://yashvinblogs.com/2023/03/20/myuniversalshop-com/)**  2023-03-20 11:34:56
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Interest](https://faustianmatters.blogspot.com/2023/03/interest.html)**  2023-03-17 23:41:27
