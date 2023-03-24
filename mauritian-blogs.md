@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Ramadan : A Month Blessed like no other for Muslims around the World](https://www.lemauricien.com/le-mauricien/ramadan-a-month-blessed-like-no-other-for-muslims-around-the-world/546207/)**  2023-03-23 12:54:55
+
 [Yashvinblogs](https://yashvinblogs.com)  
 **[38th birthday and 10 years of daily selfies…](https://yashvinblogs.com/2023/03/22/happy-birthday-2023/)**  2023-03-22 16:44:24
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[From SVB to the BBC: why did no one see the crisis coming?](https://zoomdr.blogspot.com/2023/03/from-svb-to-bbc-why-did-no-one-see.html)**  2023-03-22 08:37:09
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Wishing you a beautiful Gudhi Padwa and Ugadi](https://www.lemauricien.com/le-mauricien/wishing-you-a-beautiful-gudhi-padwa-and-ugadi/545952/)**  2023-03-21 12:00:12
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The Mauritian labor market – a puzzle](https://relocationmauritius.wordpress.com/2023/03/21/the-mauritian-labor-market-a-puzzle/)**  2023-03-21 10:10:33
