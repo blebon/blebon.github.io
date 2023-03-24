@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[The Global Financial Centres Index 33 (GFCI)](https://amarbheenick.blogspot.com/2023/03/the-global-financial-centres-index-33.html)**  2023-03-24 09:16:18
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Ramadan : A Month Blessed like no other for Muslims around the World](https://www.lemauricien.com/le-mauricien/ramadan-a-month-blessed-like-no-other-for-muslims-around-the-world/546207/)**  2023-03-23 12:54:55
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **["Pied lafouche"](http://gadatagada.blogspot.com/2023/03/pied-lafouche.html)**  2023-03-10 06:41:18
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Global Freedom Declines for 17th Consecutive Year, but May Be Approaching a Turning Point](https://amarbheenick.blogspot.com/2023/03/global-freedom-declines-for-17th.html)**  2023-03-09 15:47:30
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 2e Dimanche du Carême](https://josephnguyenmahebourg.blogspot.com/2023/03/homelie-pour-le-2e-dimanche-du-careme.html)**  2023-03-05 14:55:58
