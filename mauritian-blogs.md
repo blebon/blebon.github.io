@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Le Créole est l’anticipation du monde qui est déjà là et du monde qui vient](https://www.lemauricien.com/le-mauricien/le-creole-est-lanticipation-du-monde-qui-est-deja-la-et-du-monde-qui-vient/546317/)**  2023-03-24 12:00:59
+
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 33 (GFCI)](https://amarbheenick.blogspot.com/2023/03/the-global-financial-centres-index-33.html)**  2023-03-24 09:16:18
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Ramadan : A Month Blessed like no other for Muslims around the World](https://www.lemauricien.com/le-mauricien/ramadan-a-month-blessed-like-no-other-for-muslims-around-the-world/546207/)**  2023-03-23 12:54:55
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[38th birthday and 10 years of daily selfies…](https://yashvinblogs.com/2023/03/22/happy-birthday-2023/)**  2023-03-22 16:44:24
