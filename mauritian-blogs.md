@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[How the food machine is destroying our health and our planet](https://zoomdr.blogspot.com/2023/03/how-food-machine-is-destroying-our.html)**  2023-03-28 08:10:08
+
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Friends](https://faustianmatters.blogspot.com/2023/03/friends.html)**  2023-03-27 19:32:29
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[#ConstanceCreates Recipes to Try at Home](https://blog.constancehotels.com/constancecreates-recipes-to-try-at-home/)**  2023-03-22 09:17:05
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[From SVB to the BBC: why did no one see the crisis coming?](https://zoomdr.blogspot.com/2023/03/from-svb-to-bbc-why-did-no-one-see.html)**  2023-03-22 08:37:09
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The Mauritian labor market – a puzzle](https://relocationmauritius.wordpress.com/2023/03/21/the-mauritian-labor-market-a-puzzle/)**  2023-03-21 10:10:33
