@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Melancholies](https://faustianmatters.blogspot.com/)  
+**[Friends](https://faustianmatters.blogspot.com/2023/03/friends.html)**  2023-03-27 19:32:29
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[IN SEARCH OF OUR ANCESTORS – The Builders of Ile de France: The Genesis of the Tamil South Indian Migration to Ile de France, c.1728-1806](https://www.lemauricien.com/le-mauricien/in-search-of-our-ancestors-the-builders-of-ile-de-france-the-genesis-of-the-tamil-south-indian-migration-to-ile-de-france-c-1728-1806/546554/)**  2023-03-25 12:00:11
+**[In the Name of Allah, Ever Gracious, Ever Merciful – RAMADAN : A gift in bliss and misfortune](https://www.lemauricien.com/le-mauricien/in-the-name-of-allah-ever-gracious-ever-merciful-ramadan-a-gift-in-bliss-and-misfortune/546909/)**  2023-03-27 13:01:52
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 33 (GFCI)](https://amarbheenick.blogspot.com/2023/03/the-global-financial-centres-index-33.html)**  2023-03-24 09:16:18
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Les Assises de l'Agriculture, themed Pathways to a Sustainable Food System for a Healthier Tomorrow](https://facultyagriculture.blogspot.com/2023/03/les-assises-de-lagriculture-themed.html)**  2023-03-20 16:26:25
-
-[Melancholies](https://faustianmatters.blogspot.com/)  
-**[Interest](https://faustianmatters.blogspot.com/2023/03/interest.html)**  2023-03-17 23:41:27
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Kinds of beings](https://vintishgokool.blogspot.com/2023/03/kinds-of-beings.html)**  2023-03-17 12:57:05
