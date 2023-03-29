@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Malagasy Cuisine: A Guide To What To Eat At Constance Tsarabanjina](https://blog.constancehotels.com/malagasy-cuisine-a-guide-to-what-to-eat-at-constance-tsarabanjina/)**  2023-03-29 09:03:02
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[ANOU KOZ PAROL 137 : Spesial Zourne Internasional Teat ek Omaz Henri Favory](https://www.lemauricien.com/le-mauricien/anou-koz-parol-137-spesial-zourne-internasional-teat-ek-omaz-henri-favory/547058/)**  2023-03-28 13:00:28
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[38th birthday and 10 years of daily selfies…](https://yashvinblogs.com/2023/03/22/happy-birthday-2023/)**  2023-03-22 16:44:24
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[#ConstanceCreates Recipes to Try at Home](https://blog.constancehotels.com/constancecreates-recipes-to-try-at-home/)**  2023-03-22 09:17:05
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The Mauritian labor market – a puzzle](https://relocationmauritius.wordpress.com/2023/03/21/the-mauritian-labor-market-a-puzzle/)**  2023-03-21 10:10:33
