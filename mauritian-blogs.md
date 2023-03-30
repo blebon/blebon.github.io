@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Inspiration](https://www.lemauricien.com/le-mauricien/inspiration/547260/)**  2023-03-29 14:39:08
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Malagasy Cuisine: A Guide To What To Eat At Constance Tsarabanjina](https://blog.constancehotels.com/malagasy-cuisine-a-guide-to-what-to-eat-at-constance-tsarabanjina/)**  2023-03-29 09:03:02
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ANOU KOZ PAROL 137 : Spesial Zourne Internasional Teat ek Omaz Henri Favory](https://www.lemauricien.com/le-mauricien/anou-koz-parol-137-spesial-zourne-internasional-teat-ek-omaz-henri-favory/547058/)**  2023-03-28 13:00:28
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How the food machine is destroying our health and our planet](https://zoomdr.blogspot.com/2023/03/how-food-machine-is-destroying-our.html)**  2023-03-28 08:10:08
