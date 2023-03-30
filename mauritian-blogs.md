@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Meet One of the Most Important Political Partnerships in Mauritian History](http://kozelidir.blogspot.com/2023/03/meet-one-of-most-important-political.html)**  2023-03-30 10:15:12
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Inspiration](https://www.lemauricien.com/le-mauricien/inspiration/547260/)**  2023-03-29 14:39:08
 
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Entrepreneurship and Intrapreneurship: What’s the difference?](https://turbine.mu/2023/03/02/difference-between-entrepreneurship-intrapreneurship/)**  2023-03-02 07:23:28
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Birthdays Are Not What They Used To Be](http://kozelidir.blogspot.com/2023/02/birthdays-are-not-what-they-used-to-be.html)**  2023-02-28 17:14:23
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Monterey Bay Aquarium](https://davidandjennilyn.com/2023/02/27/monterey-bay-aquarium/)**  2023-02-27 15:00:00
