@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Intercollege Film Competition – 6ème Édition  Best Film Public Vote 1st Prize : Dunputh Lallah SSS](https://www.lemauricien.com/le-mauricien/intercollege-film-competition-6eme-edition-best-film-public-vote-1st-prize-dunputh-lallah-sss/547390/)**  2023-03-30 13:55:26
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet One of the Most Important Political Partnerships in Mauritian History](http://kozelidir.blogspot.com/2023/03/meet-one-of-most-important-political.html)**  2023-03-30 10:15:12
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Inspiration](https://www.lemauricien.com/le-mauricien/inspiration/547260/)**  2023-03-29 14:39:08
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Malagasy Cuisine: A Guide To What To Eat At Constance Tsarabanjina](https://blog.constancehotels.com/malagasy-cuisine-a-guide-to-what-to-eat-at-constance-tsarabanjina/)**  2023-03-29 09:03:02
