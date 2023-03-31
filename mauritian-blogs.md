@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Intercollege Film Competition – 6ème Édition  Best Film Public Vote 1st Prize : Dunputh Lallah SSS](https://www.lemauricien.com/le-mauricien/intercollege-film-competition-6eme-edition-best-film-public-vote-1st-prize-dunputh-lallah-sss/547390/)**  2023-03-30 13:55:26
+**[A new phenomenon : Permanent Storms. The case of cyclone FREDDY.](https://www.lemauricien.com/opinions/forum/a-new-phenomenon-permanent-storms-the-case-of-cyclone-freddy/547492/)**  2023-03-31 10:30:42
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet One of the Most Important Political Partnerships in Mauritian History](http://kozelidir.blogspot.com/2023/03/meet-one-of-most-important-political.html)**  2023-03-30 10:15:12
