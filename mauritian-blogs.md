@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[A new phenomenon : Permanent Storms. The case of cyclone FREDDY.](https://www.lemauricien.com/opinions/forum/a-new-phenomenon-permanent-storms-the-case-of-cyclone-freddy/547492/)**  2023-03-31 10:30:42
+**[We Stand By Jasmine Toulouse](https://www.lemauricien.com/le-mauricien/we-stand-by-jasmine-toulouse/547559/)**  2023-03-31 13:57:32
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet One of the Most Important Political Partnerships in Mauritian History](http://kozelidir.blogspot.com/2023/03/meet-one-of-most-important-political.html)**  2023-03-30 10:15:12
