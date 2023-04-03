@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Magpies get their revenge](https://ritesh2103.wordpress.com/2023/04/02/magpies-get-their-revenge/)**  2023-04-02 18:55:32
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le dimanche des Rameaux - A](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-dimanche-des-rameaux-a.html)**  2023-04-02 17:10:37
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[We Stand By Jasmine Toulouse](https://www.lemauricien.com/le-mauricien/we-stand-by-jasmine-toulouse/547559/)**  2023-03-31 13:57:32
 
@@ -37,14 +43,8 @@ permalink: /mauritian-blogs/
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Despite Government efforts, Youth Unemployment is still on the rise in Mauritius.](https://comstudies.wordpress.com/2023/03/16/despite-government-efforts-youth-unemployment-is-still-on-the-rise-in-mauritius/)**  2023-03-16 09:59:51
 
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils drop points again](https://ritesh2103.wordpress.com/2023/03/12/red-devils-drop-points-again/)**  2023-03-12 16:56:48
-
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **["Pied lafouche"](http://gadatagada.blogspot.com/2023/03/pied-lafouche.html)**  2023-03-10 06:41:18
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le 2e Dimanche du Carême](https://josephnguyenmahebourg.blogspot.com/2023/03/homelie-pour-le-2e-dimanche-du-careme.html)**  2023-03-05 14:55:58
 
 [turbine.mu](https://turbine.mu)  
 **[Entrepreneurship and Intrapreneurship: What’s the difference?](https://turbine.mu/2023/03/02/difference-between-entrepreneurship-intrapreneurship/)**  2023-03-02 07:23:28
