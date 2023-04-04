@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Que reste-t-il de notre amour…  pour le français?](https://www.lemauricien.com/le-mauricien/que-reste-t-il-de-notre-amour-pour-le-francais/547960/)**  2023-04-03 13:00:22
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Magpies get their revenge](https://ritesh2103.wordpress.com/2023/04/02/magpies-get-their-revenge/)**  2023-04-02 18:55:32
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le dimanche des Rameaux - A](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-dimanche-des-rameaux-a.html)**  2023-04-02 17:10:37
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[We Stand By Jasmine Toulouse](https://www.lemauricien.com/le-mauricien/we-stand-by-jasmine-toulouse/547559/)**  2023-03-31 13:57:32
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet One of the Most Important Political Partnerships in Mauritian History](http://kozelidir.blogspot.com/2023/03/meet-one-of-most-important-political.html)**  2023-03-30 10:15:12
