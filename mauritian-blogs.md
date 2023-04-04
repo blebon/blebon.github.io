@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Green Mauritius](https://greenmauritius.blogspot.com/)  
+**[Mauritius Plastic Challenge](https://greenmauritius.blogspot.com/2023/04/mauritius-plastic-challenge.html)**  2023-04-04 07:15:32
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Que reste-t-il de notre amour…  pour le français?](https://www.lemauricien.com/le-mauricien/que-reste-t-il-de-notre-amour-pour-le-francais/547960/)**  2023-04-03 13:00:22
 
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Calming Bouquet](https://swanlady-impressions.blogspot.com/2023/02/calming-bouquet.html)**  2023-02-15 19:00:45
-
-[Green Mauritius](https://greenmauritius.blogspot.com/)  
-**[Foodwise et 2022](https://greenmauritius.blogspot.com/2023/02/foodwise-et-2022.html)**  2023-02-12 14:33:57
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-02-07 16:22:41
