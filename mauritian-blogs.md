@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Melancholies](https://faustianmatters.blogspot.com/)  
+**[Passion](https://faustianmatters.blogspot.com/2023/04/passion.html)**  2023-04-05 09:34:22
+
+[turbine.mu](https://turbine.mu)  
+**[Meet with Mimi Kalinda- Bank one x Turbine](https://turbine.mu/2023/04/05/meet-with-mimi-kalinda-bank-one-x-turbine/)**  2023-04-05 06:04:25
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Anou koz kas : Anou koz Cost of Living](https://www.lemauricien.com/le-mauricien/anou-koz-cost-of-living/548145/)**  2023-04-04 13:00:54
 
@@ -25,9 +31,6 @@ permalink: /mauritian-blogs/
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How the food machine is destroying our health and our planet](https://zoomdr.blogspot.com/2023/03/how-food-machine-is-destroying-our.html)**  2023-03-28 08:10:08
 
-[Melancholies](https://faustianmatters.blogspot.com/)  
-**[Friends](https://faustianmatters.blogspot.com/2023/03/friends.html)**  2023-03-27 19:32:29
-
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 33 (GFCI)](https://amarbheenick.blogspot.com/2023/03/the-global-financial-centres-index-33.html)**  2023-03-24 09:16:18
 
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **["Pied lafouche"](http://gadatagada.blogspot.com/2023/03/pied-lafouche.html)**  2023-03-10 06:41:18
-
-[turbine.mu](https://turbine.mu)  
-**[Entrepreneurship and Intrapreneurship: What’s the difference?](https://turbine.mu/2023/03/02/difference-between-entrepreneurship-intrapreneurship/)**  2023-03-02 07:23:28
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Monterey Bay Aquarium](https://davidandjennilyn.com/2023/02/27/monterey-bay-aquarium/)**  2023-02-27 15:00:00
