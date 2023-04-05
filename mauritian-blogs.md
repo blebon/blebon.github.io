@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Anou koz kas : Anou koz Cost of Living](https://www.lemauricien.com/le-mauricien/anou-koz-cost-of-living/548145/)**  2023-04-04 13:00:54
+
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Mauritius Plastic Challenge](https://greenmauritius.blogspot.com/2023/04/mauritius-plastic-challenge.html)**  2023-04-04 07:15:32
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Que reste-t-il de notre amour…  pour le français?](https://www.lemauricien.com/le-mauricien/que-reste-t-il-de-notre-amour-pour-le-francais/547960/)**  2023-04-03 13:00:22
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Magpies get their revenge](https://ritesh2103.wordpress.com/2023/04/02/magpies-get-their-revenge/)**  2023-04-02 18:55:32
