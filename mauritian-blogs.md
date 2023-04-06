@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[220e ANNIVERSAIRE DE SA MORT : Toussaint Louverture, l’initiateur  de la première République noire](https://www.lemauricien.com/le-mauricien/220e-anniversaire-de-sa-mort-toussaint-louverture-linitiateur-de-la-premiere-republique-noire/548357/)**  2023-04-05 13:00:50
+**[Lord Hanuman: The Epitome of True Friendship and Devotion](https://www.lemauricien.com/opinions/forum/lord-hanuman-the-epitome-of-true-friendship-and-devotion/548477/)**  2023-04-06 07:07:18
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Passion](https://faustianmatters.blogspot.com/2023/04/passion.html)**  2023-04-05 09:34:22
