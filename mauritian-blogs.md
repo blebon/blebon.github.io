@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[220e ANNIVERSAIRE DE SA MORT : Toussaint Louverture, l’initiateur  de la première République noire](https://www.lemauricien.com/le-mauricien/220e-anniversaire-de-sa-mort-toussaint-louverture-linitiateur-de-la-premiere-republique-noire/548357/)**  2023-04-05 13:00:50
+
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Passion](https://faustianmatters.blogspot.com/2023/04/passion.html)**  2023-04-05 09:34:22
 
 [turbine.mu](https://turbine.mu)  
 **[Meet with Mimi Kalinda- Bank one x Turbine](https://turbine.mu/2023/04/05/meet-with-mimi-kalinda-bank-one-x-turbine/)**  2023-04-05 06:04:25
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou koz kas : Anou koz Cost of Living](https://www.lemauricien.com/le-mauricien/anou-koz-cost-of-living/548145/)**  2023-04-04 13:00:54
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Mauritius Plastic Challenge](https://greenmauritius.blogspot.com/2023/04/mauritius-plastic-challenge.html)**  2023-04-04 07:15:32
@@ -171,8 +171,5 @@ permalink: /mauritian-blogs/
 
 [Mariana's Take on Life](https://marianaseriche.blogspot.com/)  
 **[Just me and my God](https://marianaseriche.blogspot.com/2022/05/most-of-my-life-i-thought-that-prayer.html)**  2022-05-16 18:42:04
-
-[Linux User Group of Mauritius](https://lugm.org)  
-**[A local mirror for openSUSE users in Mauritius 🥳](https://sysadmin-journal.com/local-mirror-for-opensuse-users-in-mauritius/)**  2022-05-04 21:10:34
 
 <div style="height:0;width:0;overflow:hidden;"></div>
