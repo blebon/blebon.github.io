@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[SELECTED POEMS](https://www.lemauricien.com/le-mauricien/selected-poems/548572/)**  2023-04-06 13:00:52
+**[RELIGION ET CROYANCES &#124; En ce Vendredi Saint – Une histoire de Pâques  … de Georges-André Koenig](https://www.lemauricien.com/le-mauricien/religion-et-croyances-en-ce-vendredi-saint-une-histoire-de-paques-de-georges-andre-koenig/548692/)**  2023-04-07 13:00:44
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Passion](https://faustianmatters.blogspot.com/2023/04/passion.html)**  2023-04-05 09:34:22
