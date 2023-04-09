@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Our Upgraded LEGO Nook](https://davidandjennilyn.com/2023/04/08/our-upgraded-lego-nook/)**  2023-04-09 01:08:40
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils back on track](https://ritesh2103.wordpress.com/2023/04/08/red-devils-back-on-track/)**  2023-04-08 15:00:31
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[RELIGION ET CROYANCES &#124; En ce Vendredi Saint – Une histoire de Pâques  … de Georges-André Koenig](https://www.lemauricien.com/le-mauricien/religion-et-croyances-en-ce-vendredi-saint-une-histoire-de-paques-de-georges-andre-koenig/548692/)**  2023-04-07 13:00:44
+**[Anou Koz Parol -13 – Serge Lebrasse: enn zean Sega Morisien finn kit nou](https://www.lemauricien.com/le-mauricien/anou-koz-parol-13-serge-lebrasse-enn-zean-sega-morisien-finn-kit-nou/548885/)**  2023-04-08 13:00:05
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Passion](https://faustianmatters.blogspot.com/2023/04/passion.html)**  2023-04-05 09:34:22
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Mauritius Plastic Challenge](https://greenmauritius.blogspot.com/2023/04/mauritius-plastic-challenge.html)**  2023-04-04 07:15:32
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Magpies get their revenge](https://ritesh2103.wordpress.com/2023/04/02/magpies-get-their-revenge/)**  2023-04-02 18:55:32
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le dimanche des Rameaux - A](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-dimanche-des-rameaux-a.html)**  2023-04-02 17:10:37
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **["Pied lafouche"](http://gadatagada.blogspot.com/2023/03/pied-lafouche.html)**  2023-03-10 06:41:18
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Monterey Bay Aquarium](https://davidandjennilyn.com/2023/02/27/monterey-bay-aquarium/)**  2023-02-27 15:00:00
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Aggiornamento, Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/freddy-passera-da-grand-baie-alle-17.html)**  2023-02-24 16:42:36
