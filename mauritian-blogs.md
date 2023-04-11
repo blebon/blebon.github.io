@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Green Mauritius](https://greenmauritius.blogspot.com/)  
+**[Arbres contre piles](https://greenmauritius.blogspot.com/2023/04/arbres-contre-piles.html)**  2023-04-11 10:55:25
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Nou Lideal or the Wish for Utopia?](https://www.lemauricien.com/le-mauricien/nou-lideal-or-the-wish-for-utopia/549199/)**  2023-04-10 13:19:22
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Meet with Mimi Kalinda- Bank one x Turbine](https://turbine.mu/2023/04/05/meet-with-mimi-kalinda-bank-one-x-turbine/)**  2023-04-05 06:04:25
-
-[Green Mauritius](https://greenmauritius.blogspot.com/)  
-**[Mauritius Plastic Challenge](https://greenmauritius.blogspot.com/2023/04/mauritius-plastic-challenge.html)**  2023-04-04 07:15:32
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le dimanche des Rameaux - A](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-dimanche-des-rameaux-a.html)**  2023-04-02 17:10:37
