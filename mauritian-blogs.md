@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Le cardinal Piat a joué une musique  mauricienne sur les paroles de l’Évangile](https://www.lemauricien.com/le-mauricien/le-cardinal-piat-a-joue-une-musique-mauricienne-sur-les-paroles-de-levangile/549404/)**  2023-04-11 13:00:50
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Politically yours.](https://relocationmauritius.wordpress.com/2023/04/11/politically-yours/)**  2023-04-11 11:04:40
+
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Arbres contre piles](https://greenmauritius.blogspot.com/2023/04/arbres-contre-piles.html)**  2023-04-11 10:55:25
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Nou Lideal or the Wish for Utopia?](https://www.lemauricien.com/le-mauricien/nou-lideal-or-the-wish-for-utopia/549199/)**  2023-04-10 13:19:22
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Our Upgraded LEGO Nook](https://davidandjennilyn.com/2023/04/08/our-upgraded-lego-nook/)**  2023-04-09 01:08:40
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[38th birthday and 10 years of daily selfies…](https://yashvinblogs.com/2023/03/22/happy-birthday-2023/)**  2023-03-22 16:44:24
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[The Mauritian labor market – a puzzle](https://relocationmauritius.wordpress.com/2023/03/21/the-mauritian-labor-market-a-puzzle/)**  2023-03-21 10:10:33
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Les Assises de l'Agriculture, themed Pathways to a Sustainable Food System for a Healthier Tomorrow](https://facultyagriculture.blogspot.com/2023/03/les-assises-de-lagriculture-themed.html)**  2023-03-20 16:26:25
