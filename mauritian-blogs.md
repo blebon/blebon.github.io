@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Green Mauritius](https://greenmauritius.blogspot.com/)  
+**[Un arbre en danger dans l'école Noé Némorin de Trou aux Biches](https://greenmauritius.blogspot.com/2023/04/un-arbre-en-danger-dans-lecole-noe.html)**  2023-04-12 17:54:37
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Le cardinal Piat a joué une musique  mauricienne sur les paroles de l’Évangile](https://www.lemauricien.com/le-mauricien/le-cardinal-piat-a-joue-une-musique-mauricienne-sur-les-paroles-de-levangile/549404/)**  2023-04-11 13:00:50
+**[NOUVEL AN TAMOUL  Varusha Pirappu jour férié ?](https://www.lemauricien.com/le-mauricien/nouvel-an-tamoul-varusha-pirappu-jour-ferie/549580/)**  2023-04-12 13:00:26
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Politically yours.](https://relocationmauritius.wordpress.com/2023/04/11/politically-yours/)**  2023-04-11 11:04:40
-
-[Green Mauritius](https://greenmauritius.blogspot.com/)  
-**[Arbres contre piles](https://greenmauritius.blogspot.com/2023/04/arbres-contre-piles.html)**  2023-04-11 10:55:25
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Our Upgraded LEGO Nook](https://davidandjennilyn.com/2023/04/08/our-upgraded-lego-nook/)**  2023-04-09 01:08:40
