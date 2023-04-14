@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Fraude à la fertilité ! Une réalité décapante !](https://www.lemauricien.com/le-mauricien/fraude-a-la-fertilite-une-realite-decapante/549759/)**  2023-04-13 13:00:27
+
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Un arbre en danger dans l'école Noé Némorin de Trou aux Biches](https://greenmauritius.blogspot.com/2023/04/un-arbre-en-danger-dans-lecole-noe.html)**  2023-04-12 17:54:37
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[NOUVEL AN TAMOUL  Varusha Pirappu jour férié ?](https://www.lemauricien.com/le-mauricien/nouvel-an-tamoul-varusha-pirappu-jour-ferie/549580/)**  2023-04-12 13:00:26
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Politically yours.](https://relocationmauritius.wordpress.com/2023/04/11/politically-yours/)**  2023-04-11 11:04:40
