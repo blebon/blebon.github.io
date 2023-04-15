@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Fraude à la fertilité ! Une réalité décapante !](https://www.lemauricien.com/le-mauricien/fraude-a-la-fertilite-une-realite-decapante/549759/)**  2023-04-13 13:00:27
+**[BEL ESPRIT D’OUVERTURE… Le Ramadan : le Mois du Moi](https://www.lemauricien.com/le-mauricien/bel-esprit-douverture-le-ramadan-le-mois-du-moi/549962/)**  2023-04-14 13:00:55
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Un arbre en danger dans l'école Noé Némorin de Trou aux Biches](https://greenmauritius.blogspot.com/2023/04/un-arbre-en-danger-dans-lecole-noe.html)**  2023-04-12 17:54:37
