@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[BEL ESPRIT D’OUVERTURE… Le Ramadan : le Mois du Moi](https://www.lemauricien.com/le-mauricien/bel-esprit-douverture-le-ramadan-le-mois-du-moi/549962/)**  2023-04-14 13:00:55
+**[Human rulership* – The Final Episodes…?](https://www.lemauricien.com/le-mauricien/human-rulership-the-final-episodes/550165/)**  2023-04-15 13:02:23
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Un arbre en danger dans l'école Noé Némorin de Trou aux Biches](https://greenmauritius.blogspot.com/2023/04/un-arbre-en-danger-dans-lecole-noe.html)**  2023-04-12 17:54:37
