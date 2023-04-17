@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils climb up to third spot](https://ritesh2103.wordpress.com/2023/04/16/red-devils-climb-up-to-third-spot/)**  2023-04-16 18:53:09
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Human rulership* – The Final Episodes…?](https://www.lemauricien.com/le-mauricien/human-rulership-the-final-episodes/550165/)**  2023-04-15 13:02:23
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Our Upgraded LEGO Nook](https://davidandjennilyn.com/2023/04/08/our-upgraded-lego-nook/)**  2023-04-09 01:08:40
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils back on track](https://ritesh2103.wordpress.com/2023/04/08/red-devils-back-on-track/)**  2023-04-08 15:00:31
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Passion](https://faustianmatters.blogspot.com/2023/04/passion.html)**  2023-04-05 09:34:22
