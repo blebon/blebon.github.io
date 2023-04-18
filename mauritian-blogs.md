@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The Multi-Tasking Merchants of  Mauritius: A Pound of Venison](https://www.lemauricien.com/le-mauricien/the-multi-tasking-merchants-of-mauritius-a-pound-of-venison/550417/)**  2023-04-17 13:44:57
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils climb up to third spot](https://ritesh2103.wordpress.com/2023/04/16/red-devils-climb-up-to-third-spot/)**  2023-04-16 18:53:09
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Human rulership* – The Final Episodes…?](https://www.lemauricien.com/le-mauricien/human-rulership-the-final-episodes/550165/)**  2023-04-15 13:02:23
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Un arbre en danger dans l'école Noé Némorin de Trou aux Biches](https://greenmauritius.blogspot.com/2023/04/un-arbre-en-danger-dans-lecole-noe.html)**  2023-04-12 17:54:37
@@ -168,8 +168,5 @@ permalink: /mauritian-blogs/
 
 [SYSADMIN JOURNAL](https://sysadmin-journal.com/)  
 **[AFRINIC restricts attendance to the Annual General Members Meeting (AGMM) even ONLINE 😐](https://sysadmin-journal.com/afrinic-restricts-attendance-to-the-annual-general-members-meeting-even-online/)**  2022-05-31 20:23:43
-
-[Mariana's Take on Life](https://marianaseriche.blogspot.com/)  
-**[Just me and my God](https://marianaseriche.blogspot.com/2022/05/most-of-my-life-i-thought-that-prayer.html)**  2022-05-16 18:42:04
 
 <div style="height:0;width:0;overflow:hidden;"></div>
