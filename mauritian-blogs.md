@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Robert Waldinger, psychiatrist: ‘Happiness depends on what we’re lacking’](https://zoomdr.blogspot.com/2023/04/robert-waldinger-psychiatrist-happiness.html)**  2023-04-18 18:37:47
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Multi-Tasking Merchants of  Mauritius: A Pound of Venison](https://www.lemauricien.com/le-mauricien/the-multi-tasking-merchants-of-mauritius-a-pound-of-venison/550417/)**  2023-04-17 13:44:57
+**[BRIDGING THE CLIMATE JUSTICE GAP: A COLLECTIVE  RESPONSIBILITY FOR A SUSTAINABLE FUTURE](https://www.lemauricien.com/le-mauricien/bridging-the-climate-justice-gap-a-collective-responsibility-for-a-sustainable-future/550507/)**  2023-04-18 13:00:43
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils climb up to third spot](https://ritesh2103.wordpress.com/2023/04/16/red-devils-climb-up-to-third-spot/)**  2023-04-16 18:53:09
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Malagasy Cuisine: A Guide To What To Eat At Constance Tsarabanjina](https://blog.constancehotels.com/malagasy-cuisine-a-guide-to-what-to-eat-at-constance-tsarabanjina/)**  2023-03-29 09:03:02
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[How the food machine is destroying our health and our planet](https://zoomdr.blogspot.com/2023/03/how-food-machine-is-destroying-our.html)**  2023-03-28 08:10:08
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 33 (GFCI)](https://amarbheenick.blogspot.com/2023/03/the-global-financial-centres-index-33.html)**  2023-03-24 09:16:18
