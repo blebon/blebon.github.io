@@ -5,10 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Robert Waldinger, psychiatrist: ‘Happiness depends on what we’re lacking’](https://zoomdr.blogspot.com/2023/04/robert-waldinger-psychiatrist-happiness.html)**  2023-04-18 18:37:47
+**[Robert Waldinger, psychiatrist: ‘Happiness depends on what we’re lacking’](https://zoomdr.blogspot.com/2023/04/robert-waldinger-psychiatrist-happiness.html)**  2023-04-19 16:21:01
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[BRIDGING THE CLIMATE JUSTICE GAP: A COLLECTIVE  RESPONSIBILITY FOR A SUSTAINABLE FUTURE](https://www.lemauricien.com/le-mauricien/bridging-the-climate-justice-gap-a-collective-responsibility-for-a-sustainable-future/550507/)**  2023-04-18 13:00:43
+**[Le cerf malade, fable de la Fontaine](https://www.lemauricien.com/le-mauricien/le-cerf-malade-fable-de-la-fontaine/550729/)**  2023-04-19 13:00:20
+
+[Mike Sinnott's World](https://msinnott.net)  
+**[Artificial intelligence (AI)](https://msinnott.net/2023/04/19/artificial-intelligence-ai/)**  2023-04-19 08:06:47
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils climb up to third spot](https://ritesh2103.wordpress.com/2023/04/16/red-devils-climb-up-to-third-spot/)**  2023-04-16 18:53:09
@@ -138,9 +141,6 @@ permalink: /mauritian-blogs/
 
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-30 09:08:01
-
-[Mike Sinnott's World](https://msinnott.net)  
-**[Rodrigues Is. Expedition](https://msinnott.net/2022/08/24/rodrigues-is-expedition/)**  2022-08-24 08:37:46
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 22 Worked Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-07 16:37:31
