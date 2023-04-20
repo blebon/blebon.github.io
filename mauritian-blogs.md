@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Unleashing Creativity in the Paradise of Seychelles: Rabi Alieva’s Journey](https://blog.constancehotels.com/unleashing-creativity-in-the-paradise-of-seychelles-rabi-alievas-journey/)**  2023-04-20 11:11:32
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Robert Waldinger, psychiatrist: ‘Happiness depends on what we’re lacking’](https://zoomdr.blogspot.com/2023/04/robert-waldinger-psychiatrist-happiness.html)**  2023-04-19 16:21:01
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet One of the Most Important Political Partnerships in Mauritian History](http://kozelidir.blogspot.com/2023/03/meet-one-of-most-important-political.html)**  2023-03-30 10:15:12
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Malagasy Cuisine: A Guide To What To Eat At Constance Tsarabanjina](https://blog.constancehotels.com/malagasy-cuisine-a-guide-to-what-to-eat-at-constance-tsarabanjina/)**  2023-03-29 09:03:02
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 33 (GFCI)](https://amarbheenick.blogspot.com/2023/03/the-global-financial-centres-index-33.html)**  2023-03-24 09:16:18
