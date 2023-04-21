@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Europa League adventure ends in disaster](https://ritesh2103.wordpress.com/2023/04/21/europa-league-adventure-ends-in-disaster/)**  2023-04-21 06:59:05
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[RÉFLEXION SUR LA CONSTITUTION : De l’antiparlementarisme](https://www.lemauricien.com/le-mauricien/reflexion-sur-la-constitution-de-lantiparlementarisme/550969/)**  2023-04-20 14:04:00
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Artificial intelligence (AI)](https://msinnott.net/2023/04/19/artificial-intelligence-ai/)**  2023-04-19 08:06:47
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils climb up to third spot](https://ritesh2103.wordpress.com/2023/04/16/red-devils-climb-up-to-third-spot/)**  2023-04-16 18:53:09
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Un arbre en danger dans l'école Noé Némorin de Trou aux Biches](https://greenmauritius.blogspot.com/2023/04/un-arbre-en-danger-dans-lecole-noe.html)**  2023-04-12 17:54:37
