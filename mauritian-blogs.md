@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[RÉFLEXION SUR LA CONSTITUTION : De l’antiparlementarisme](https://www.lemauricien.com/le-mauricien/reflexion-sur-la-constitution-de-lantiparlementarisme/550969/)**  2023-04-20 14:04:00
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Unleashing Creativity in the Paradise of Seychelles: Rabi Alieva’s Journey](https://blog.constancehotels.com/unleashing-creativity-in-the-paradise-of-seychelles-rabi-alievas-journey/)**  2023-04-20 11:11:32
 
+[ever peckish](https://everpeckish.com)  
+**[Ostrich sausage plaits](https://everpeckish.com/ostrich-sausage-plaits/?utm_source=rss&utm_medium=rss&utm_campaign=ostrich-sausage-plaits)**  2023-04-19 19:00:20
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Robert Waldinger, psychiatrist: ‘Happiness depends on what we’re lacking’](https://zoomdr.blogspot.com/2023/04/robert-waldinger-psychiatrist-happiness.html)**  2023-04-19 16:21:01
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Le cerf malade, fable de la Fontaine](https://www.lemauricien.com/le-mauricien/le-cerf-malade-fable-de-la-fontaine/550729/)**  2023-04-19 13:00:20
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Artificial intelligence (AI)](https://msinnott.net/2023/04/19/artificial-intelligence-ai/)**  2023-04-19 08:06:47
@@ -126,9 +129,6 @@ permalink: /mauritian-blogs/
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[How to use Hugging Face🤗& Gradio to create simple Machine Learning (ML) projects](https://daveappadoo.com/how-to-use-hugging-face-gradio-to-create-simple-machine-learning-ml-projects/)**  2022-09-11 19:20:43
-
-[ever peckish](https://everpeckish.com)  
-**[Spiced scrambled eggs with coriander yogurt](https://everpeckish.com/spiced-scrambled-eggs-with-coriander-yogurt/?utm_source=rss&utm_medium=rss&utm_campaign=spiced-scrambled-eggs-with-coriander-yogurt)**  2022-09-10 18:52:19
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Camunda Chapter: Mauritius – First online meetup](https://lovvy.wordpress.com/2022/09/08/camunda-chapter-mauritius-first-online-meetup/)**  2022-09-08 10:31:26
