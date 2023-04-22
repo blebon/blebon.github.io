@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[In the Name of Allah, Ever Gracious, Ever Merciful : EID-UL-FITR IN THE REMEMBRANCE OF THE LORD AND HIS CREATIONS](https://www.lemauricien.com/le-mauricien/in-the-name-of-allah-ever-gracious-ever-merciful-eid-ul-fitr-in-the-remembrance-of-the-lord-and-his-creations/551295/)**  2023-04-21 13:49:41
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Europa League adventure ends in disaster](https://ritesh2103.wordpress.com/2023/04/21/europa-league-adventure-ends-in-disaster/)**  2023-04-21 06:59:05
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[RÉFLEXION SUR LA CONSTITUTION : De l’antiparlementarisme](https://www.lemauricien.com/le-mauricien/reflexion-sur-la-constitution-de-lantiparlementarisme/550969/)**  2023-04-20 14:04:00
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Unleashing Creativity in the Paradise of Seychelles: Rabi Alieva’s Journey](https://blog.constancehotels.com/unleashing-creativity-in-the-paradise-of-seychelles-rabi-alievas-journey/)**  2023-04-20 11:11:32
