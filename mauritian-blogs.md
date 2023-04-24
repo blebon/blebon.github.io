@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Manchester derby for FA Cup final](https://ritesh2103.wordpress.com/2023/04/23/manchester-derby-for-fa-cup-final/)**  2023-04-23 19:50:45
+
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie pour le 3e Dimanche du temps de Pâques](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-3e-dimanche-du-temps-de.html)**  2023-04-23 14:25:31
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[In the Name of Allah, Ever Gracious, Ever Merciful : EID-UL-FITR IN THE REMEMBRANCE OF THE LORD AND HIS CREATIONS](https://www.lemauricien.com/le-mauricien/in-the-name-of-allah-ever-gracious-ever-merciful-eid-ul-fitr-in-the-remembrance-of-the-lord-and-his-creations/551295/)**  2023-04-21 13:49:41
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Europa League adventure ends in disaster](https://ritesh2103.wordpress.com/2023/04/21/europa-league-adventure-ends-in-disaster/)**  2023-04-21 06:59:05
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Unleashing Creativity in the Paradise of Seychelles: Rabi Alieva’s Journey](https://blog.constancehotels.com/unleashing-creativity-in-the-paradise-of-seychelles-rabi-alievas-journey/)**  2023-04-20 11:11:32
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Meet with Mimi Kalinda- Bank one x Turbine](https://turbine.mu/2023/04/05/meet-with-mimi-kalinda-bank-one-x-turbine/)**  2023-04-05 06:04:25
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie pour le dimanche des Rameaux - A](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-dimanche-des-rameaux-a.html)**  2023-04-02 17:10:37
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet One of the Most Important Political Partnerships in Mauritian History](http://kozelidir.blogspot.com/2023/03/meet-one-of-most-important-political.html)**  2023-03-30 10:15:12
