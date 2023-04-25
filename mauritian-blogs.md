@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Marvel United](https://davidandjennilyn.com/2023/04/24/marvel-united/)**  2023-04-25 01:09:26
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Customer,  you’re being fleeced!](https://www.lemauricien.com/le-mauricien/customer-youre-being-fleeced/552448/)**  2023-04-24 13:21:31
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Manchester derby for FA Cup final](https://ritesh2103.wordpress.com/2023/04/23/manchester-derby-for-fa-cup-final/)**  2023-04-23 19:50:45
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 3e Dimanche du temps de Pâques](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-3e-dimanche-du-temps-de.html)**  2023-04-23 14:25:31
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[In the Name of Allah, Ever Gracious, Ever Merciful : EID-UL-FITR IN THE REMEMBRANCE OF THE LORD AND HIS CREATIONS](https://www.lemauricien.com/le-mauricien/in-the-name-of-allah-ever-gracious-ever-merciful-eid-ul-fitr-in-the-remembrance-of-the-lord-and-his-creations/551295/)**  2023-04-21 13:49:41
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Unleashing Creativity in the Paradise of Seychelles: Rabi Alieva’s Journey](https://blog.constancehotels.com/unleashing-creativity-in-the-paradise-of-seychelles-rabi-alievas-journey/)**  2023-04-20 11:11:32
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Politically yours.](https://relocationmauritius.wordpress.com/2023/04/11/politically-yours/)**  2023-04-11 11:04:40
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Our Upgraded LEGO Nook](https://davidandjennilyn.com/2023/04/08/our-upgraded-lego-nook/)**  2023-04-09 01:08:40
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Passion](https://faustianmatters.blogspot.com/2023/04/passion.html)**  2023-04-05 09:34:22
