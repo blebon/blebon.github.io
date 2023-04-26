@@ -5,16 +5,19 @@ permalink: /mauritian-blogs/
 ---
 
 [David and Jennilyn](https://davidandjennilyn.com)  
-**[Marvel United](https://davidandjennilyn.com/2023/04/24/marvel-united/)**  2023-04-25 01:09:26
+**[Happy 4th Birthday Hayden!](https://davidandjennilyn.com/2023/04/25/happy-4th-birthday-hayden/)**  2023-04-25 17:37:59
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Customer,  you’re being fleeced!](https://www.lemauricien.com/le-mauricien/customer-youre-being-fleeced/552448/)**  2023-04-24 13:21:31
+**[THE RISE OF AI](https://www.lemauricien.com/le-mauricien/the-rise-of-ai/552758/)**  2023-04-25 13:00:54
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Manchester derby for FA Cup final](https://ritesh2103.wordpress.com/2023/04/23/manchester-derby-for-fa-cup-final/)**  2023-04-23 19:50:45
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 3e Dimanche du temps de Pâques](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-3e-dimanche-du-temps-de.html)**  2023-04-23 14:25:31
+
+[English Speaking Union](https://www.esumauritius.org)  
+**[The launch of The Queen”s Commonwealth Essay Competition 2023.](https://www.esumauritius.org/essay-competition/the-launch-of-the-queens-commonwealth-essay-competition-2023/)**  2023-04-21 06:48:21
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Unleashing Creativity in the Paradise of Seychelles: Rabi Alieva’s Journey](https://blog.constancehotels.com/unleashing-creativity-in-the-paradise-of-seychelles-rabi-alievas-journey/)**  2023-04-20 11:11:32
