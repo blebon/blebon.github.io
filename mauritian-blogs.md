@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Paul Giblot Ducray](https://www.lemauricien.com/le-mauricien/paul-giblot-ducray/553127/)**  2023-04-26 13:25:50
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 4th Birthday Hayden!](https://davidandjennilyn.com/2023/04/25/happy-4th-birthday-hayden/)**  2023-04-25 17:37:59
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[THE RISE OF AI](https://www.lemauricien.com/le-mauricien/the-rise-of-ai/552758/)**  2023-04-25 13:00:54
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Manchester derby for FA Cup final](https://ritesh2103.wordpress.com/2023/04/23/manchester-derby-for-fa-cup-final/)**  2023-04-23 19:50:45
