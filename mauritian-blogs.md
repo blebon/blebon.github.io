@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Green Mauritius](https://greenmauritius.blogspot.com/)  
+**[Financement de la transition écologique à Maurice par la MCB](https://greenmauritius.blogspot.com/2023/04/financement-de-la-transition-ecologique.html)**  2023-04-28 06:37:01
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[PENSEURS DU SUD, N0.10 – Basdeo Bissoondoyal (1915-1991) ou la contre-histoire (1re Partie)](https://www.lemauricien.com/le-mauricien/penseurs-du-sud-n0-10-basdeo-bissoondoyal-1915-1991-ou-la-contre-histoire-1re-partie/553372/)**  2023-04-27 13:47:12
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Artificial intelligence (AI)](https://msinnott.net/2023/04/19/artificial-intelligence-ai/)**  2023-04-19 08:06:47
-
-[Green Mauritius](https://greenmauritius.blogspot.com/)  
-**[Un arbre en danger dans l'école Noé Némorin de Trou aux Biches](https://greenmauritius.blogspot.com/2023/04/un-arbre-en-danger-dans-lecole-noe.html)**  2023-04-12 17:54:37
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Politically yours.](https://relocationmauritius.wordpress.com/2023/04/11/politically-yours/)**  2023-04-11 11:04:40
