@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Paul Giblot Ducray](https://www.lemauricien.com/le-mauricien/paul-giblot-ducray/553127/)**  2023-04-26 13:25:50
+**[PENSEURS DU SUD, N0.10 – Basdeo Bissoondoyal (1915-1991) ou la contre-histoire (1re Partie)](https://www.lemauricien.com/le-mauricien/penseurs-du-sud-n0-10-basdeo-bissoondoyal-1915-1991-ou-la-contre-histoire-1re-partie/553372/)**  2023-04-27 13:47:12
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 4th Birthday Hayden!](https://davidandjennilyn.com/2023/04/25/happy-4th-birthday-hayden/)**  2023-04-25 17:37:59
