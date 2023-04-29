@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[A Mauritian Compote of Female-Shaming](https://www.lemauricien.com/le-mauricien/a-mauritian-compote-of-female-shaming/553476/)**  2023-04-28 13:00:56
+
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Financement de la transition écologique à Maurice par la MCB](https://greenmauritius.blogspot.com/2023/04/financement-de-la-transition-ecologique.html)**  2023-04-28 06:37:01
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[PENSEURS DU SUD, N0.10 – Basdeo Bissoondoyal (1915-1991) ou la contre-histoire (1re Partie)](https://www.lemauricien.com/le-mauricien/penseurs-du-sud-n0-10-basdeo-bissoondoyal-1915-1991-ou-la-contre-histoire-1re-partie/553372/)**  2023-04-27 13:47:12
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 4th Birthday Hayden!](https://davidandjennilyn.com/2023/04/25/happy-4th-birthday-hayden/)**  2023-04-25 17:37:59
