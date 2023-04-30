@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[A Mauritian Compote of Female-Shaming](https://www.lemauricien.com/le-mauricien/a-mauritian-compote-of-female-shaming/553476/)**  2023-04-28 13:00:56
+**[Paul Ducray, homme sans âge](https://www.lemauricien.com/le-mauricien/paul-ducray-homme-sans-age/553820/)**  2023-04-29 11:32:03
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Financement de la transition écologique à Maurice par la MCB](https://greenmauritius.blogspot.com/2023/04/financement-de-la-transition-ecologique.html)**  2023-04-28 06:37:01
