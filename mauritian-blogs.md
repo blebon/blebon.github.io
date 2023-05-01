@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Labour Has Always Been Against PR](http://kozelidir.blogspot.com/2023/04/labour-has-always-been-against-pr.html)**  2023-04-30 19:01:57
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Paul Ducray, homme sans âge](https://www.lemauricien.com/le-mauricien/paul-ducray-homme-sans-age/553820/)**  2023-04-29 11:32:03
 
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Meet with Mimi Kalinda- Bank one x Turbine](https://turbine.mu/2023/04/05/meet-with-mimi-kalinda-bank-one-x-turbine/)**  2023-04-05 06:04:25
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Meet One of the Most Important Political Partnerships in Mauritian History](http://kozelidir.blogspot.com/2023/03/meet-one-of-most-important-political.html)**  2023-03-30 10:15:12
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 33 (GFCI)](https://amarbheenick.blogspot.com/2023/03/the-global-financial-centres-index-33.html)**  2023-03-24 09:16:18
