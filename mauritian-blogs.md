@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[PENSEURS DU SUD, N0.10 – Basdeo Bissoondoyal (1915-1991) et le rôle de la religion  (2e Partie & Fin )](https://www.lemauricien.com/le-mauricien/penseurs-du-sud-n0-10-basdeo-bissoondoyal-1915-1991-et-le-role-de-la-religion-2e-partie-fin/554538/)**  2023-05-02 13:00:38
+**[Remars lor zot pa](https://www.lemauricien.com/le-mauricien/remars-lor-zot-pa/554810/)**  2023-05-03 13:00:54
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Labour Has Always Been Against PR](http://kozelidir.blogspot.com/2023/04/labour-has-always-been-against-pr.html)**  2023-04-30 19:01:57
