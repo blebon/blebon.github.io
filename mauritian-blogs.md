@@ -166,7 +166,4 @@ permalink: /mauritian-blogs/
 [Cogito...](https://patil-hunma.blogspot.com/)  
 **[Does Power Corrupt or Does it Attract Corrupt People?](https://patil-hunma.blogspot.com/2022/06/does-power-corrupt-or-does-it-attract.html)**  2022-06-02 15:24:17
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2022/06/ce-qui-menace-le-plus-la-democratie-au.html)**  2022-06-02 05:46:02
-
 <div style="height:0;width:0;overflow:hidden;"></div>
