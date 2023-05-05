@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 CRAFT MARKET AU CAUDAN](https://mysweetmauritius.blogspot.com/2023/05/craft-market-au-caudan.html)**  2023-05-04 14:32:44
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Remars lor zot pa](https://www.lemauricien.com/le-mauricien/remars-lor-zot-pa/554810/)**  2023-05-03 13:00:54
+**[Shakespeare, a nonpareil](https://www.lemauricien.com/le-mauricien/shakespeare-a-nonpareil/554995/)**  2023-05-04 13:03:45
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Labour Has Always Been Against PR](http://kozelidir.blogspot.com/2023/04/labour-has-always-been-against-pr.html)**  2023-04-30 19:01:57
@@ -91,9 +94,6 @@ permalink: /mauritian-blogs/
 [Medicine Hack](http://www.medicinehack.com/)  
 **[BPAP - Bilevel Positive Airway Pressure Ventilation](http://www.medicinehack.com/2020/04/bpap-bilevel-positive-airway-pressure.html)**  2023-01-01 16:23:01
 
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 ORIGIN ECO CHALET à Rodrigues](https://mysweetmauritius.blogspot.com/2022/12/origin-eco-chalet-rodrigues.html)**  2022-12-30 17:33:31
-
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Chocolate Cake with Cream Cheese Swirl](https://nashbakery.blogspot.com/2022/12/chocolate-cake-with-cream-cheese-swirl.html)**  2022-12-23 15:03:16
 
@@ -162,8 +162,5 @@ permalink: /mauritian-blogs/
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[I rest my case For or Against the Quattronity  at the foot of the Cross Where the love of Jesus and His Mother Mary is Found](https://lleclezio.blogspot.com/2022/06/i-rest-my-case-for-or-against.html)**  2022-06-07 06:51:08
-
-[Cogito...](https://patil-hunma.blogspot.com/)  
-**[Does Power Corrupt or Does it Attract Corrupt People?](https://patil-hunma.blogspot.com/2022/06/does-power-corrupt-or-does-it-attract.html)**  2022-06-02 15:24:17
 
 <div style="height:0;width:0;overflow:hidden;"></div>
