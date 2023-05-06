@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 CRAFT MARKET AU CAUDAN](https://mysweetmauritius.blogspot.com/2023/05/craft-market-au-caudan.html)**  2023-05-04 14:32:44
+[priscimon.com](https://priscimon.com/blog)  
+**[Hurting in Bordeaux](https://priscimon.com/blog/2023/05/05/hurting-in-bordeaux/)**  2023-05-05 18:11:18
+
+[Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
+**[What’s programming?](https://lovvy.wordpress.com/2023/05/05/whats-programming/)**  2023-05-05 17:53:36
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Shakespeare, a nonpareil](https://www.lemauricien.com/le-mauricien/shakespeare-a-nonpareil/554995/)**  2023-05-04 13:03:45
+**[An Eminent Exponent of Tamil Music: Isai Murasu Nagore E.M. Hanafi](https://www.lemauricien.com/le-mauricien/an-eminent-exponent-of-tamil-music-isai-murasu-nagore-e-m-hanafi/555336/)**  2023-05-05 13:02:09
+
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 CRAFT MARKET AU CAUDAN](https://mysweetmauritius.blogspot.com/2023/05/craft-market-au-caudan.html)**  2023-05-04 14:32:44
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Labour Has Always Been Against PR](http://kozelidir.blogspot.com/2023/04/labour-has-always-been-against-pr.html)**  2023-04-30 19:01:57
@@ -82,9 +88,6 @@ permalink: /mauritian-blogs/
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
 
-[priscimon.com](https://priscimon.com/blog)  
-**[Scratched that itch](https://priscimon.com/blog/2023/01/11/scratched-that-itch/)**  2023-01-11 18:43:11
-
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[[Reminder] You have Web & App Activity turned on](https://shruticulturalgroup.blogspot.com/2023/01/reminder-you-have-web-app-activity.html)**  2023-01-07 20:26:01
 
@@ -132,9 +135,6 @@ permalink: /mauritian-blogs/
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[How to use Hugging Face🤗& Gradio to create simple Machine Learning (ML) projects](https://daveappadoo.com/how-to-use-hugging-face-gradio-to-create-simple-machine-learning-ml-projects/)**  2022-09-11 19:20:43
-
-[Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
-**[Camunda Chapter: Mauritius – First online meetup](https://lovvy.wordpress.com/2022/09/08/camunda-chapter-mauritius-first-online-meetup/)**  2022-09-08 10:31:26
 
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What Is Fundamental Analysis? – Capital Street Fx](https://capital-streetfx.blogspot.com/2022/09/what-is-fundamental-analysis-capital.html)**  2022-09-08 10:18:27
