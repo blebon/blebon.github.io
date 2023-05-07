@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Greed drives people to embrace political dogma…](https://www.lemauricien.com/le-mauricien/greed-drives-people-to-embrace-political-dogma/555510/)**  2023-05-06 11:17:12
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Hurting in Bordeaux](https://priscimon.com/blog/2023/05/05/hurting-in-bordeaux/)**  2023-05-05 18:11:18
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[What’s programming?](https://lovvy.wordpress.com/2023/05/05/whats-programming/)**  2023-05-05 17:53:36
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[An Eminent Exponent of Tamil Music: Isai Murasu Nagore E.M. Hanafi](https://www.lemauricien.com/le-mauricien/an-eminent-exponent-of-tamil-music-isai-murasu-nagore-e-m-hanafi/555336/)**  2023-05-05 13:02:09
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 CRAFT MARKET AU CAUDAN](https://mysweetmauritius.blogspot.com/2023/05/craft-market-au-caudan.html)**  2023-05-04 14:32:44
