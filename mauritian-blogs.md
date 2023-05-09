@@ -160,7 +160,4 @@ permalink: /mauritian-blogs/
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Centre de contact : SEDECO vous propose diverses prestations](https://sedecobtob.blogspot.com/2022/06/centre-de-contact-sedeco-vous-propose.html)**  2022-06-28 20:25:06
 
-[Leclézio](https://lleclezio.blogspot.com/)  
-**[I rest my case For or Against the Quattronity  at the foot of the Cross Where the love of Jesus and His Mother Mary is Found](https://lleclezio.blogspot.com/2022/06/i-rest-my-case-for-or-against.html)**  2022-06-07 06:51:08
-
 <div style="height:0;width:0;overflow:hidden;"></div>
