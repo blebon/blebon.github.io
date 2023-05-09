@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Greed drives people to embrace political dogma…](https://www.lemauricien.com/le-mauricien/greed-drives-people-to-embrace-political-dogma/555510/)**  2023-05-06 11:17:12
+**[BELC régional Maurice 2023 : ondes positives](https://www.lemauricien.com/le-mauricien/belc-regional-maurice-2023-ondes-positives/556016/)**  2023-05-08 13:00:15
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Hurting in Bordeaux](https://priscimon.com/blog/2023/05/05/hurting-in-bordeaux/)**  2023-05-05 18:11:18
