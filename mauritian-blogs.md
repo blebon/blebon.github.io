@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[BELC régional Maurice 2023 : ondes positives](https://www.lemauricien.com/le-mauricien/belc-regional-maurice-2023-ondes-positives/556016/)**  2023-05-08 13:00:15
+**[NANDA PAVADAY : Écrire, c’est l’art de dire au lecteur  quelque chose de nouveau…](https://www.lemauricien.com/le-mauricien/nanda-pavaday-ecrire-cest-lart-de-dire-au-lecteur-quelque-chose-de-nouveau/556343/)**  2023-05-09 13:52:20
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Hurting in Bordeaux](https://priscimon.com/blog/2023/05/05/hurting-in-bordeaux/)**  2023-05-05 18:11:18
