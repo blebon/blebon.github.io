@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Adrenaline-Raising Activities at Constance Ephelia](https://blog.constancehotels.com/adrenaline-raising-activities-at-constance-ephelia/)**  2023-05-11 09:34:24
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[250 ans de la mort de Philibert Commerson  : la Société Royale des Arts et des Sciences tient la gageure](https://www.lemauricien.com/le-mauricien/commemoration-des-250-ans-de-la-mort-de-philibert-commerson-la-societe-royale-des-arts-et-des-sciences-de-maurice-tient-la-gageure/556506/)**  2023-05-10 13:00:55
+**[250 ans du décès de Philibert Commerson : la Société Royale des Arts et des Sciences tient la gageure](https://www.lemauricien.com/le-mauricien/commemoration-des-250-ans-de-la-mort-de-philibert-commerson-la-societe-royale-des-arts-et-des-sciences-de-maurice-tient-la-gageure/556506/)**  2023-05-11 05:30:55
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Hurting in Bordeaux](https://priscimon.com/blog/2023/05/05/hurting-in-bordeaux/)**  2023-05-05 18:11:18
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [English Speaking Union](https://www.esumauritius.org)  
 **[The launch of The Queen”s Commonwealth Essay Competition 2023.](https://www.esumauritius.org/essay-competition/the-launch-of-the-queens-commonwealth-essay-competition-2023/)**  2023-04-21 06:48:21
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Unleashing Creativity in the Paradise of Seychelles: Rabi Alieva’s Journey](https://blog.constancehotels.com/unleashing-creativity-in-the-paradise-of-seychelles-rabi-alievas-journey/)**  2023-04-20 11:11:32
 
 [ever peckish](https://everpeckish.com)  
 **[Ostrich sausage plaits](https://everpeckish.com/ostrich-sausage-plaits/?utm_source=rss&utm_medium=rss&utm_campaign=ostrich-sausage-plaits)**  2023-04-19 19:00:20
