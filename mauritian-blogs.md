@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[NANDA PAVADAY : Écrire, c’est l’art de dire au lecteur  quelque chose de nouveau…](https://www.lemauricien.com/le-mauricien/nanda-pavaday-ecrire-cest-lart-de-dire-au-lecteur-quelque-chose-de-nouveau/556343/)**  2023-05-09 13:52:20
+**[250 ans de la mort de Philibert Commerson  : la Société Royale des Arts et des Sciences tient la gageure](https://www.lemauricien.com/le-mauricien/commemoration-des-250-ans-de-la-mort-de-philibert-commerson-la-societe-royale-des-arts-et-des-sciences-de-maurice-tient-la-gageure/556506/)**  2023-05-10 13:00:55
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Hurting in Bordeaux](https://priscimon.com/blog/2023/05/05/hurting-in-bordeaux/)**  2023-05-05 18:11:18
