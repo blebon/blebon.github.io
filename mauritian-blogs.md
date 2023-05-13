@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Adrenaline-Raising Activities at Constance Ephelia](https://blog.constancehotels.com/adrenaline-raising-activities-at-constance-ephelia/)**  2023-05-11 09:34:24
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[L'arnaque systémique,  ça suffit !](https://tchombo.blogspot.com/2023/05/larnaque-systemique-ca-suffit.html)**  2023-05-12 17:42:02
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[250 ans du décès de Philibert Commerson : la Société Royale des Arts et des Sciences tient la gageure](https://www.lemauricien.com/le-mauricien/commemoration-des-250-ans-de-la-mort-de-philibert-commerson-la-societe-royale-des-arts-et-des-sciences-de-maurice-tient-la-gageure/556506/)**  2023-05-11 05:30:55
+**[MISE EN PERSPECTIVE – L’arnaque systémique,  ça suffit !](https://www.lemauricien.com/le-mauricien/mise-en-perspective-larnaque-systemique-ca-suffit/556894/)**  2023-05-12 13:00:47
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Adrenaline-Raising Activities at Constance Ephelia](https://blog.constancehotels.com/adrenaline-raising-activities-at-constance-ephelia/)**  2023-05-11 09:34:24
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Hurting in Bordeaux](https://priscimon.com/blog/2023/05/05/hurting-in-bordeaux/)**  2023-05-05 18:11:18
@@ -81,9 +84,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Calming Bouquet](https://swanlady-impressions.blogspot.com/2023/02/calming-bouquet.html)**  2023-02-15 19:00:45
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The albums that make a great eclectic collection](https://tchombo.blogspot.com/2023/01/the-albums-that-make-great-eclectic.html)**  2023-02-07 16:22:41
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
