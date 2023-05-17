@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Dive into the #TrueIndianOcean](https://blog.constancehotels.com/dive-into-the-true-indian-ocean/)**  2023-05-17 09:17:45
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Anou koz kas – Anou koz Mother’s Day](https://www.lemauricien.com/le-mauricien/anou-koz-kas-anou-koz-mothers-day/557764/)**  2023-05-16 13:00:33
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[L'arnaque systémique,  ça suffit !](https://tchombo.blogspot.com/2023/05/larnaque-systemique-ca-suffit.html)**  2023-05-12 17:42:02
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Adrenaline-Raising Activities at Constance Ephelia](https://blog.constancehotels.com/adrenaline-raising-activities-at-constance-ephelia/)**  2023-05-11 09:34:24
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Hurting in Bordeaux](https://priscimon.com/blog/2023/05/05/hurting-in-bordeaux/)**  2023-05-05 18:11:18
