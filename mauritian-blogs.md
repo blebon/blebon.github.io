@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Time](https://vintishgokool.blogspot.com/2023/05/time.html)**  2023-05-17 19:20:51
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Dive into the #TrueIndianOcean](https://blog.constancehotels.com/dive-into-the-true-indian-ocean/)**  2023-05-17 09:17:45
 
@@ -69,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Les Assises de l'Agriculture, themed Pathways to a Sustainable Food System for a Healthier Tomorrow](https://facultyagriculture.blogspot.com/2023/03/les-assises-de-lagriculture-themed.html)**  2023-03-20 16:26:25
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Kinds of beings](https://vintishgokool.blogspot.com/2023/03/kinds-of-beings.html)**  2023-03-17 12:57:05
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Despite Government efforts, Youth Unemployment is still on the rise in Mauritius.](https://comstudies.wordpress.com/2023/03/16/despite-government-efforts-youth-unemployment-is-still-on-the-rise-in-mauritius/)**  2023-03-16 09:59:51
