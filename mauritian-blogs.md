@@ -4,14 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[True thinkers sit at the same table](https://zoomdr.blogspot.com/2023/05/true-thinkers-sit-at-same-table.html)**  2023-05-18 20:17:52
+
+[Mera Blog](https://nayarweb.com/blog)  
+**[2 Years investing in Mauritian Stock Market.](https://nayarweb.com/blog/2023/2-years-investing-in-mauritian-stock-market/)**  2023-05-18 19:13:03
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[La Guerre des Mondes :  vous avez dit « Monde Libre » ?](https://www.lemauricien.com/le-mauricien/la-guerre-des-mondes-vous-avez-dit-monde-libre/558441/)**  2023-05-18 13:00:45
+
+[Leclézio](https://lleclezio.blogspot.com/)  
+**[COMMENT l’IA (Intelligence Artificielle) pourrait conduire l’IH (Intelligence Humaine) vers un Dieu Unique et Quattronitaire?](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle.html)**  2023-05-18 12:32:22
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Time](https://vintishgokool.blogspot.com/2023/05/time.html)**  2023-05-17 19:20:51
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Dive into the #TrueIndianOcean](https://blog.constancehotels.com/dive-into-the-true-indian-ocean/)**  2023-05-17 09:17:45
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou koz kas – Anou koz Mother’s Day](https://www.lemauricien.com/le-mauricien/anou-koz-kas-anou-koz-mothers-day/557764/)**  2023-05-16 13:00:33
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy Mother’s Day](https://davidandjennilyn.com/2023/05/14/happy-mothers-day-5/)**  2023-05-15 04:41:33
@@ -48,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Ostrich sausage plaits](https://everpeckish.com/ostrich-sausage-plaits/?utm_source=rss&utm_medium=rss&utm_campaign=ostrich-sausage-plaits)**  2023-04-19 19:00:20
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Robert Waldinger, psychiatrist: ‘Happiness depends on what we’re lacking’](https://zoomdr.blogspot.com/2023/04/robert-waldinger-psychiatrist-happiness.html)**  2023-04-19 16:21:01
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Artificial intelligence (AI)](https://msinnott.net/2023/04/19/artificial-intelligence-ai/)**  2023-04-19 08:06:47
@@ -108,9 +114,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Gluten Free Coconut Cookies](https://veganlovlie.com/gluten-free-coconut-cookies/)**  2022-12-18 20:32:11
-
-[Mera Blog](https://nayarweb.com/blog)  
-**[Speaking at DevCon 2022 Mauritius](https://nayarweb.com/blog/2022/speaking-at-devcon-2022-mauritius/)**  2022-12-10 14:08:01
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[General Secretaries of the Labour Party](https://morisk.blogspot.com/2022/12/general-secretaries-of-labour-party.html)**  2022-12-10 12:03:49
