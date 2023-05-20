@@ -4,17 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Leclézio](https://lleclezio.blogspot.com/)  
+**[HOW AI (Artificial Intelligence) could contribute to bring HI (Human Intelligence) back to and closer to the Unique and Quattronitarian God?](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-could.html)**  2023-05-20 03:44:49
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Leave Middle East, live in Mauritius](https://relocationmauritius.wordpress.com/2023/05/19/life-in-middle-east-vs-mauritius/)**  2023-05-19 14:18:13
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Inspiration : L’universalité du Tiroukkoural (*)](https://www.lemauricien.com/le-mauricien/inspiration-luniversalite-du-tiroukkoural/558642/)**  2023-05-19 07:09:59
+**[Enseignement secondaire :   la fausse bonne idée ou le déni de réalité ?](https://www.lemauricien.com/le-mauricien/enseignement-secondaire-la-fausse-bonne-idee-ou-le-deni-de-realite/558822/)**  2023-05-19 13:36:44
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
-**[True thinkers sit at the same table](https://zoomdr.blogspot.com/2023/05/true-thinkers-sit-at-same-table.html)**  2023-05-18 20:17:52
+**[True thinkers sit at the same table](https://zoomdr.blogspot.com/2023/05/true-thinkers-sit-at-same-table.html)**  2023-05-19 11:56:31
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[2 Years investing in Mauritian Stock Market.](https://nayarweb.com/blog/2023/2-years-investing-in-mauritian-stock-market/)**  2023-05-18 19:13:03
-
-[Leclézio](https://lleclezio.blogspot.com/)  
-**[COMMENT l’IA (Intelligence Artificielle) pourrait conduire l’IH (Intelligence Humaine) vers un Dieu Unique et Quattronitaire?](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle.html)**  2023-05-18 12:32:22
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Time](https://vintishgokool.blogspot.com/2023/05/time.html)**  2023-05-17 19:20:51
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Artificial intelligence (AI)](https://msinnott.net/2023/04/19/artificial-intelligence-ai/)**  2023-04-19 08:06:47
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Politically yours.](https://relocationmauritius.wordpress.com/2023/04/11/politically-yours/)**  2023-04-11 11:04:40
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Passion](https://faustianmatters.blogspot.com/2023/04/passion.html)**  2023-04-05 09:34:22
