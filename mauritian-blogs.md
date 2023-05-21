@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Leclézio](https://lleclezio.blogspot.com/)  
+**[HOW AI (Artificial Intelligence) could contribute to bring HI (Human Intelligence) back to and closer to the Unique and Quattronitarian God?](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-could.html)**  2023-05-21 09:29:38
+
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Pedestal](https://faustianmatters.blogspot.com/2023/05/pedestal.html)**  2023-05-20 10:48:25
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Philibert Commerson, concepteur  d’une Académie à l’Isle de France](https://www.lemauricien.com/le-mauricien/philibert-commerson-concepteur-dune-academie-a-lisle-de-france/559078/)**  2023-05-20 10:47:43
-
-[Leclézio](https://lleclezio.blogspot.com/)  
-**[HOW AI (Artificial Intelligence) could contribute to bring HI (Human Intelligence) back to and closer to the Unique and Quattronitarian God?](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-could.html)**  2023-05-20 03:44:49
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Leave Middle East, live in Mauritius](https://relocationmauritius.wordpress.com/2023/05/19/life-in-middle-east-vs-mauritius/)**  2023-05-19 14:18:13
