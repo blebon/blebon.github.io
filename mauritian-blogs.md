@@ -5,13 +5,16 @@ permalink: /mauritian-blogs/
 ---
 
 [Leclézio](https://lleclezio.blogspot.com/)  
-**[HOW AI (Artificial Intelligence) could contribute to bring HI (Human Intelligence) back to and closer to the Unique and Quattronitarian God?](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-could.html)**  2023-05-21 09:29:38
+**[HOW AI (Artificial Intelligence) could contribute to bring HI (Human Intelligence) back to and closer to the Unique and Quattronitarian God?](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-could.html)**  2023-05-21 17:54:28
+
+[EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
+**[ALBUM ZION QUEEN ( release 2018 )](https://elplagaa.blogspot.com/2023/05/album-zion-queen-release-2018.html)**  2023-05-21 17:18:34
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[REZISTANS EK ALTERNATIV – Open letter to MPs of the majority elected in Urban Constituencies](https://www.lemauricien.com/le-mauricien/rezistans-ek-alternativ-open-letter-to-mps-of-the-majority-elected-in-urban-constituencies/559363/)**  2023-05-21 16:23:45
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Pedestal](https://faustianmatters.blogspot.com/2023/05/pedestal.html)**  2023-05-20 10:48:25
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Philibert Commerson, concepteur  d’une Académie à l’Isle de France](https://www.lemauricien.com/le-mauricien/philibert-commerson-concepteur-dune-academie-a-lisle-de-france/559078/)**  2023-05-20 10:47:43
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Leave Middle East, live in Mauritius](https://relocationmauritius.wordpress.com/2023/05/19/life-in-middle-east-vs-mauritius/)**  2023-05-19 14:18:13
