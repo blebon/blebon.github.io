@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Leclézio](https://lleclezio.blogspot.com/)  
-**[HOW AI (Artificial Intelligence) could contribute to bring HI (Human Intelligence) back to and closer to the Unique and Quattronitarian God?](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-could.html)**  2023-05-21 17:54:28
+**[HOW AI (Artificial Intelligence) could contribute to bring HI (Human Intelligence) back to and closer to the Unique and Quattronitarian God?](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-could.html)**  2023-05-22 09:49:57
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[ALBUM ZION QUEEN ( release 2018 )](https://elplagaa.blogspot.com/2023/05/album-zion-queen-release-2018.html)**  2023-05-21 17:18:34
