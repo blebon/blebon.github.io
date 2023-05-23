@@ -5,13 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [Leclézio](https://lleclezio.blogspot.com/)  
-**[HOW AI (Artificial Intelligence) could contribute to bring HI (Human Intelligence) back to and closer to the Unique and Quattronitarian God?](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-could.html)**  2023-05-22 09:49:57
+**[HOW AI (Artificial Intelligence) could contribute to bring HI (Human Intelligence) back to and closer to the Unique and Quattronitarian God?](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-could.html)**  2023-05-23 09:17:13
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Alerte! Qu’en est-il de la  vulnérabilité des immeubles ?](https://www.lemauricien.com/le-mauricien/alerte-quen-est-il-de-la-vulnerabilite-des-immeubles/559927/)**  2023-05-22 13:33:04
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[ALBUM ZION QUEEN ( release 2018 )](https://elplagaa.blogspot.com/2023/05/album-zion-queen-release-2018.html)**  2023-05-21 17:18:34
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[REZISTANS EK ALTERNATIV – Open letter to MPs of the majority elected in Urban Constituencies](https://www.lemauricien.com/le-mauricien/rezistans-ek-alternativ-open-letter-to-mps-of-the-majority-elected-in-urban-constituencies/559363/)**  2023-05-21 16:23:45
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Pedestal](https://faustianmatters.blogspot.com/2023/05/pedestal.html)**  2023-05-20 10:48:25
