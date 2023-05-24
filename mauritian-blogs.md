@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Bricks Cascade 2023](https://davidandjennilyn.com/2023/05/23/bricks-cascade-2023/)**  2023-05-24 04:10:46
+
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[HOW AI (Artificial Intelligence) could contribute to bring HI (Human Intelligence) back to and closer to the Unique and Quattronitarian God?](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-could.html)**  2023-05-23 09:17:13
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Dive into the #TrueIndianOcean](https://blog.constancehotels.com/dive-into-the-true-indian-ocean/)**  2023-05-17 09:17:45
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy Mother’s Day](https://davidandjennilyn.com/2023/05/14/happy-mothers-day-5/)**  2023-05-15 04:41:33
 
 [School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
 **[School Science and Underachievement](https://vhunma.blogspot.com/2023/05/school-science-and-underachievement.html)**  2023-05-14 04:50:39
