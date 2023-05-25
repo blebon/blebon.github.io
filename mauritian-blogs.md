@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[HELLO THERE!  – ARET KOZ NENPORT!](https://www.lemauricien.com/le-mauricien/hello-there-aret-koz-nenport/561091/)**  2023-05-24 13:00:40
+
 [School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
 **[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-05-24 08:05:53
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[HOW AI (Artificial Intelligence) could contribute to bring HI (Human Intelligence) back to and closer to the Unique and Quattronitarian God?](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-could.html)**  2023-05-23 09:17:13
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Alerte! Qu’en est-il de la  vulnérabilité des immeubles ?](https://www.lemauricien.com/le-mauricien/alerte-quen-est-il-de-la-vulnerabilite-des-immeubles/559927/)**  2023-05-22 13:33:04
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[ALBUM ZION QUEEN ( release 2018 )](https://elplagaa.blogspot.com/2023/05/album-zion-queen-release-2018.html)**  2023-05-21 17:18:34
