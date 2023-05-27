@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Leclézio](https://lleclezio.blogspot.com/)  
+**[How AI (Artificial Intelligence) can contribute to aligning Human Intelligence (HI) with a vision of the Unique God.](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-can.html)**  2023-05-26 14:40:40
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[A Tribute to my mother – Rudyard Kipling : “God could not be everywhere,  and therefore he made mothers”](https://www.lemauricien.com/le-mauricien/a-tribute-to-my-mother-rudyard-kipling-god-could-not-be-everywhere-and-therefore-he-made-mothers/562342/)**  2023-05-26 13:44:58
+
 [School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
 **[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-05-26 07:07:20
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Le Salon de Mai et l’art contemporain mauricien progressent](https://www.lemauricien.com/le-mauricien/le-salon-de-mai-et-lart-contemporain-mauricien-progressent/561811/)**  2023-05-25 13:00:28
-
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Bricks Cascade 2023](https://davidandjennilyn.com/2023/05/23/bricks-cascade-2023/)**  2023-05-24 04:10:46
-
-[Leclézio](https://lleclezio.blogspot.com/)  
-**[HOW AI (Artificial Intelligence) could contribute to bring HI (Human Intelligence) back to and closer to the Unique and Quattronitarian God?](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-could.html)**  2023-05-23 09:17:13
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[ALBUM ZION QUEEN ( release 2018 )](https://elplagaa.blogspot.com/2023/05/album-zion-queen-release-2018.html)**  2023-05-21 17:18:34
