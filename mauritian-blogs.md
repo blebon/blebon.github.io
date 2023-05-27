@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Leclézio](https://lleclezio.blogspot.com/)  
-**[How AI (Artificial Intelligence) can contribute to aligning Human Intelligence (HI) with a vision of the Unique God.](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-can.html)**  2023-05-26 14:40:40
+**[How AI (Artificial Intelligence) can contribute to aligning Human Intelligence (HI) with a vision of the Unique God.](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-can.html)**  2023-05-27 08:00:10
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[A Tribute to my mother – Rudyard Kipling : “God could not be everywhere,  and therefore he made mothers”](https://www.lemauricien.com/le-mauricien/a-tribute-to-my-mother-rudyard-kipling-god-could-not-be-everywhere-and-therefore-he-made-mothers/562342/)**  2023-05-26 13:44:58
