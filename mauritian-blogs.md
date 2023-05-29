@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Red Devils seal third spot](https://ritesh2103.wordpress.com/2023/05/28/red-devils-seal-third-spot/)**  2023-05-28 19:02:23
+
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 LAKAZ CHAMAREL](https://mysweetmauritius.blogspot.com/2023/05/lakaz-chamarel_28.html)**  2023-05-28 18:52:37
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mommy](https://www.lemauricien.com/le-mauricien/mommy/562892/)**  2023-05-27 12:27:23
+**[Inspiration – Kumudini, la libération au nom de la tradition ?](https://www.lemauricien.com/le-mauricien/inspiration-kumudini-la-liberation-au-nom-de-la-tradition/563288/)**  2023-05-28 15:20:11
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[How AI (Artificial Intelligence) can contribute to aligning Human Intelligence (HI) with a vision of the Unique God.](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-can.html)**  2023-05-27 08:00:10
@@ -46,17 +52,11 @@ permalink: /mauritian-blogs/
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[What’s programming?](https://lovvy.wordpress.com/2023/05/05/whats-programming/)**  2023-05-05 17:53:36
 
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 CRAFT MARKET AU CAUDAN](https://mysweetmauritius.blogspot.com/2023/05/craft-market-au-caudan.html)**  2023-05-04 14:32:44
-
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Labour Has Always Been Against PR](http://kozelidir.blogspot.com/2023/04/labour-has-always-been-against-pr.html)**  2023-04-30 19:01:57
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Financement de la transition écologique à Maurice par la MCB](https://greenmauritius.blogspot.com/2023/04/financement-de-la-transition-ecologique.html)**  2023-04-28 06:37:01
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Manchester derby for FA Cup final](https://ritesh2103.wordpress.com/2023/04/23/manchester-derby-for-fa-cup-final/)**  2023-04-23 19:50:45
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 3e Dimanche du temps de Pâques](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-3e-dimanche-du-temps-de.html)**  2023-04-23 14:25:31
