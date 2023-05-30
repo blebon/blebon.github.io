@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Chavouot et Pentecôte : don de  la Torah (Loi) pour les juifs…](https://www.lemauricien.com/le-mauricien/chavouot-et-pentecote-don-de-la-torah-loi-pour-les-juifs/563717/)**  2023-05-29 15:42:48
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils seal third spot](https://ritesh2103.wordpress.com/2023/05/28/red-devils-seal-third-spot/)**  2023-05-28 19:02:23
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LAKAZ CHAMAREL](https://mysweetmauritius.blogspot.com/2023/05/lakaz-chamarel_28.html)**  2023-05-28 18:52:37
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Inspiration – Kumudini, la libération au nom de la tradition ?](https://www.lemauricien.com/le-mauricien/inspiration-kumudini-la-liberation-au-nom-de-la-tradition/563288/)**  2023-05-28 15:20:11
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[How AI (Artificial Intelligence) can contribute to aligning Human Intelligence (HI) with a vision of the Unique God.](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-can.html)**  2023-05-27 08:00:10
