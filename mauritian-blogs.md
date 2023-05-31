@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Leclézio](https://lleclezio.blogspot.com/)  
+**[Comment l'IA (Intelligence Artificielle) peut contribuer à aligner l'Intelligence Humaine (IH) sur une vision du Dieu Unique.](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle_31.html)**  2023-05-31 06:51:47
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Look Back In History: Seychelles](https://blog.constancehotels.com/a-look-back-in-history-seychelles/)**  2023-05-30 13:42:56
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LAKAZ CHAMAREL](https://mysweetmauritius.blogspot.com/2023/05/lakaz-chamarel_28.html)**  2023-05-28 18:52:37
-
-[Leclézio](https://lleclezio.blogspot.com/)  
-**[How AI (Artificial Intelligence) can contribute to aligning Human Intelligence (HI) with a vision of the Unique God.](https://lleclezio.blogspot.com/2023/05/how-ai-artificial-intelligence-can.html)**  2023-05-27 08:00:10
 
 [School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
 **[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-05-26 07:07:20
