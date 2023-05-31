@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[A Look Back In History: Seychelles](https://blog.constancehotels.com/a-look-back-in-history-seychelles/)**  2023-05-30 13:42:56
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Chavouot et Pentecôte : don de  la Torah (Loi) pour les juifs…](https://www.lemauricien.com/le-mauricien/chavouot-et-pentecote-don-de-la-torah-loi-pour-les-juifs/563717/)**  2023-05-29 15:42:48
 
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Time](https://vintishgokool.blogspot.com/2023/05/time.html)**  2023-05-17 19:20:51
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Dive into the #TrueIndianOcean](https://blog.constancehotels.com/dive-into-the-true-indian-ocean/)**  2023-05-17 09:17:45
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[L'arnaque systémique,  ça suffit !](https://tchombo.blogspot.com/2023/05/larnaque-systemique-ca-suffit.html)**  2023-05-12 17:42:02
@@ -165,8 +165,5 @@ permalink: /mauritian-blogs/
 
 [Carte Abricot Wedding Planner à l'Ile Maurice](https://carteabricotwedding.blogspot.com/)  
 **[MARIE-MICHELE & JORDAN  22 .04. 22](https://carteabricotwedding.blogspot.com/2022/06/mariage-flic-en-flac-22-04-22.html)**  2022-07-11 06:21:20
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Centre de contact : SEDECO vous propose diverses prestations](https://sedecobtob.blogspot.com/2022/06/centre-de-contact-sedeco-vous-propose.html)**  2022-06-28 20:25:06
 
 <div style="height:0;width:0;overflow:hidden;"></div>
