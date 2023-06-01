@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[YJHD @ 10](http://kozelidir.blogspot.com/2023/05/yjhd-10.html)**  2023-05-31 16:31:45
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[A Juicy Season for Dream Merchants](https://www.lemauricien.com/le-mauricien/a-juicy-season-for-dream-merchants/564401/)**  2023-05-31 13:00:56
+
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Comment l'IA (Intelligence Artificielle) peut contribuer à aligner l'Intelligence Humaine (IH) sur une vision du Dieu Unique.](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle_31.html)**  2023-05-31 06:51:47
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Look Back In History: Seychelles](https://blog.constancehotels.com/a-look-back-in-history-seychelles/)**  2023-05-30 13:42:56
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Chavouot et Pentecôte : don de  la Torah (Loi) pour les juifs…](https://www.lemauricien.com/le-mauricien/chavouot-et-pentecote-don-de-la-torah-loi-pour-les-juifs/563717/)**  2023-05-29 15:42:48
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Red Devils seal third spot](https://ritesh2103.wordpress.com/2023/05/28/red-devils-seal-third-spot/)**  2023-05-28 19:02:23
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[What’s programming?](https://lovvy.wordpress.com/2023/05/05/whats-programming/)**  2023-05-05 17:53:36
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Labour Has Always Been Against PR](http://kozelidir.blogspot.com/2023/04/labour-has-always-been-against-pr.html)**  2023-04-30 19:01:57
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Financement de la transition écologique à Maurice par la MCB](https://greenmauritius.blogspot.com/2023/04/financement-de-la-transition-ecologique.html)**  2023-04-28 06:37:01
