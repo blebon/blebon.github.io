@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Gro Gato Nasional](https://www.lemauricien.com/le-mauricien/gro-gato-nasional/564806/)**  2023-06-01 13:12:27
+**[Débats &#124; Changement climatique et taxe carbone entre autres](https://www.lemauricien.com/le-mauricien/debats-changement-climatique-et-taxe-carbone-entre-autres/565167/)**  2023-06-02 11:07:16
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Comment l'IA (Intelligence Artificielle) peut contribuer à aligner l'Intelligence Humaine (IH) sur une vision du Dieu Unique.](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle_31.html)**  2023-06-01 06:59:20
