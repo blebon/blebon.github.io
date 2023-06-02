@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Gro Gato Nasional](https://www.lemauricien.com/le-mauricien/gro-gato-nasional/564806/)**  2023-06-01 13:12:27
+
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Comment l'IA (Intelligence Artificielle) peut contribuer à aligner l'Intelligence Humaine (IH) sur une vision du Dieu Unique.](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle_31.html)**  2023-06-01 06:59:20
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Global Day of Parents – 1st June 2023](https://www.lemauricien.com/opinions/forum/global-day-of-parents-1st-june-2023/564623/)**  2023-06-01 05:52:34
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[YJHD @ 10](http://kozelidir.blogspot.com/2023/05/yjhd-10.html)**  2023-05-31 16:31:45
