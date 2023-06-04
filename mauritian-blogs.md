@@ -4,11 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Blue details](http://gadatagada.blogspot.com/2023/06/blue-details.html)**  2023-06-03 10:26:24
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Marvel United: Guardians of the Galaxy Remix](https://davidandjennilyn.com/2023/06/03/marvel-united-guardians-of-the-galaxy-remix/)**  2023-06-04 04:10:35
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Man City edging towards a famous treble 🏆](https://ritesh2103.wordpress.com/2023/06/03/man-city-edging-towards-a-famous-treble-%f0%9f%8f%86/)**  2023-06-03 18:04:05
+
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[A Week of Butterfly Education and Conservation at the University Farm](https://facultyagriculture.blogspot.com/2023/06/a-week-of-butterfly-education-and.html)**  2023-06-03 16:01:09
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Today’s Modern Educator : Going above and beyond](https://www.lemauricien.com/le-mauricien/todays-modern-educator-going-above-and-beyond/565176/)**  2023-06-02 13:00:49
+**[World Environment Day :  Challenges in the Plastic Age](https://www.lemauricien.com/le-mauricien/world-environment-day-challenges-in-the-plastic-age/565808/)**  2023-06-03 13:23:43
+
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Sleeping beauty](http://gadatagada.blogspot.com/2023/06/sleeping-beauty.html)**  2023-06-03 12:32:21
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Comment l'IA (Intelligence Artificielle) peut contribuer à aligner l'Intelligence Humaine (IH) sur une vision du Dieu Unique.](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle_31.html)**  2023-06-01 06:59:20
@@ -19,17 +28,11 @@ permalink: /mauritian-blogs/
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Look Back In History: Seychelles](https://blog.constancehotels.com/a-look-back-in-history-seychelles/)**  2023-05-30 13:42:56
 
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Red Devils seal third spot](https://ritesh2103.wordpress.com/2023/05/28/red-devils-seal-third-spot/)**  2023-05-28 19:02:23
-
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LAKAZ CHAMAREL](https://mysweetmauritius.blogspot.com/2023/05/lakaz-chamarel_28.html)**  2023-05-28 18:52:37
 
 [School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
 **[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-05-26 07:07:20
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Bricks Cascade 2023](https://davidandjennilyn.com/2023/05/23/bricks-cascade-2023/)**  2023-05-24 04:10:46
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[ALBUM ZION QUEEN ( release 2018 )](https://elplagaa.blogspot.com/2023/05/album-zion-queen-release-2018.html)**  2023-05-21 17:18:34
@@ -81,9 +84,6 @@ permalink: /mauritian-blogs/
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[38th birthday and 10 years of daily selfies…](https://yashvinblogs.com/2023/03/22/happy-birthday-2023/)**  2023-03-22 16:44:24
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Les Assises de l'Agriculture, themed Pathways to a Sustainable Food System for a Healthier Tomorrow](https://facultyagriculture.blogspot.com/2023/03/les-assises-de-lagriculture-themed.html)**  2023-03-20 16:26:25
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Despite Government efforts, Youth Unemployment is still on the rise in Mauritius.](https://comstudies.wordpress.com/2023/03/16/despite-government-efforts-youth-unemployment-is-still-on-the-rise-in-mauritius/)**  2023-03-16 09:59:51
