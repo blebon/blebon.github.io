@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Reddy’s Journal](https://drreddy.wordpress.com)  
+**[Telugu Immigration in Mauritius](https://drreddy.wordpress.com/2023/06/05/telugu-immigration-in-mauritius/)**  2023-06-05 07:10:08
+
+[School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
+**[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-06-05 06:33:23
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Marvel United: Guardians of the Galaxy Remix](https://davidandjennilyn.com/2023/06/03/marvel-united-guardians-of-the-galaxy-remix/)**  2023-06-04 04:10:35
 
@@ -30,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LAKAZ CHAMAREL](https://mysweetmauritius.blogspot.com/2023/05/lakaz-chamarel_28.html)**  2023-05-28 18:52:37
-
-[School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
-**[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-05-26 07:07:20
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[ALBUM ZION QUEEN ( release 2018 )](https://elplagaa.blogspot.com/2023/05/album-zion-queen-release-2018.html)**  2023-05-21 17:18:34
