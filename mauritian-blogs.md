@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Un budget clientéliste à outrance](https://www.lemauricien.com/le-mauricien/un-budget-clienteliste-a-outrance/566749/)**  2023-06-05 12:43:58
+
 [Dr Reddy’s Journal](https://drreddy.wordpress.com)  
 **[Telugu Immigration in Mauritius](https://drreddy.wordpress.com/2023/06/05/telugu-immigration-in-mauritius/)**  2023-06-05 07:10:08
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[A Week of Butterfly Education and Conservation at the University Farm](https://facultyagriculture.blogspot.com/2023/06/a-week-of-butterfly-education-and.html)**  2023-06-03 16:01:09
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[World Environment Day :  Challenges in the Plastic Age](https://www.lemauricien.com/le-mauricien/world-environment-day-challenges-in-the-plastic-age/565808/)**  2023-06-03 13:23:43
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Sleeping beauty](http://gadatagada.blogspot.com/2023/06/sleeping-beauty.html)**  2023-06-03 12:32:21
