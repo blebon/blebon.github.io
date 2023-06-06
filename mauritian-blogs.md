@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[A Week of Butterfly Education and Conservation at the University Farm](https://facultyagriculture.blogspot.com/2023/06/a-week-of-butterfly-education-and.html)**  2023-06-06 10:57:42
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Un budget clientéliste à outrance](https://www.lemauricien.com/le-mauricien/un-budget-clienteliste-a-outrance/566749/)**  2023-06-05 12:43:58
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Man City edging towards a famous treble 🏆](https://ritesh2103.wordpress.com/2023/06/03/man-city-edging-towards-a-famous-treble-%f0%9f%8f%86/)**  2023-06-03 18:04:05
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[A Week of Butterfly Education and Conservation at the University Farm](https://facultyagriculture.blogspot.com/2023/06/a-week-of-butterfly-education-and.html)**  2023-06-03 16:01:09
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Sleeping beauty](http://gadatagada.blogspot.com/2023/06/sleeping-beauty.html)**  2023-06-03 12:32:21
