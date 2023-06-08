@@ -5,10 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Unveiling the Fusion of Perspectives: French Interns and Local Students Illuminate the World of Food Science and Technology](https://facultyagriculture.blogspot.com/2023/06/presentation-by-interns-from-linstitut.html)**  2023-06-06 16:22:07
+**[World Food Safety Day 2023: The Faculty of Agriculture, University of Mauritius Highlights the Importance of Food Safety](https://facultyagriculture.blogspot.com/2023/06/world-food-safety-day-2023-faculty-of.html)**  2023-06-07 13:21:00
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Manoeuvring against discontent](https://www.lemauricien.com/le-mauricien/manoeuvring-against-discontent/567090/)**  2023-06-06 13:00:07
+**[E.M FORSTER: Reaching Out to Humanity](https://www.lemauricien.com/le-mauricien/e-m-forster-reaching-out-to-humanity/567475/)**  2023-06-07 13:00:38
 
 [Dr Reddy’s Journal](https://drreddy.wordpress.com)  
 **[Telugu Immigration in Mauritius](https://drreddy.wordpress.com/2023/06/05/telugu-immigration-in-mauritius/)**  2023-06-05 07:10:08
