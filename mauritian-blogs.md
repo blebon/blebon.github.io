@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[L’avenir que nous méritons](https://www.lemauricien.com/le-mauricien/lavenir-que-nous-meritons/568535/)**  2023-06-09 13:00:56
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Resentment](https://vintishgokool.blogspot.com/2023/06/attitude-and-behaviour.html)**  2023-06-08 22:23:17
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Budget 2023-2024 : oser un air de guitare](https://www.lemauricien.com/le-mauricien/budget-2023-2024-oser-un-air-de-guitare/567919/)**  2023-06-08 13:00:31
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[World Food Safety Day 2023: The Faculty of Agriculture, University of Mauritius Highlights the Importance of Food Safety](https://facultyagriculture.blogspot.com/2023/06/world-food-safety-day-2023-faculty-of.html)**  2023-06-07 13:21:00
