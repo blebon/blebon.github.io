@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Resentment](https://vintishgokool.blogspot.com/2023/06/attitude-and-behaviour.html)**  2023-06-08 22:23:17
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Qu’est-ce que le Big Bang ?](https://www.lemauricien.com/opinions/forum/quest-ce-que-le-big-bang/568017/)**  2023-06-08 10:12:42
+**[Budget 2023-2024 : oser un air de guitare](https://www.lemauricien.com/le-mauricien/budget-2023-2024-oser-un-air-de-guitare/567919/)**  2023-06-08 13:00:31
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[World Food Safety Day 2023: The Faculty of Agriculture, University of Mauritius Highlights the Importance of Food Safety](https://facultyagriculture.blogspot.com/2023/06/world-food-safety-day-2023-faculty-of.html)**  2023-06-07 13:21:00
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[2 Years investing in Mauritian Stock Market.](https://nayarweb.com/blog/2023/2-years-investing-in-mauritian-stock-market/)**  2023-05-18 19:13:03
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Time](https://vintishgokool.blogspot.com/2023/05/time.html)**  2023-05-17 19:20:51
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[L'arnaque systémique,  ça suffit !](https://tchombo.blogspot.com/2023/05/larnaque-systemique-ca-suffit.html)**  2023-05-12 17:42:02
