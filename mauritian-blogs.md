@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[The Future of Farming: A Talk on Career Prospects in Agriculture](https://facultyagriculture.blogspot.com/2023/06/the-future-of-farming-talk-on-career.html)**  2023-06-10 15:17:36
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’avenir que nous méritons](https://www.lemauricien.com/le-mauricien/lavenir-que-nous-meritons/568535/)**  2023-06-09 13:00:56
+**[Portrait of a dysfunctional family](https://www.lemauricien.com/le-mauricien/portrait-of-a-dysfunctional-family/569140/)**  2023-06-10 12:27:55
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Resentment](https://vintishgokool.blogspot.com/2023/06/attitude-and-behaviour.html)**  2023-06-08 22:23:17
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[World Food Safety Day 2023: The Faculty of Agriculture, University of Mauritius Highlights the Importance of Food Safety](https://facultyagriculture.blogspot.com/2023/06/world-food-safety-day-2023-faculty-of.html)**  2023-06-07 13:21:00
 
 [Dr Reddy’s Journal](https://drreddy.wordpress.com)  
 **[Telugu Immigration in Mauritius](https://drreddy.wordpress.com/2023/06/05/telugu-immigration-in-mauritius/)**  2023-06-05 07:10:08
