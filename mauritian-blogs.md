@@ -166,7 +166,4 @@ permalink: /mauritian-blogs/
 [Spiritual in my life](https://spiritualinlife23.blogspot.com/)  
 **[Youtube shorts mere sai](https://spiritualinlife23.blogspot.com/2022/07/youtube-shorts-mere-sai_19.html)**  2022-07-19 20:22:42
 
-[Carte Abricot Wedding Planner à l'Ile Maurice](https://carteabricotwedding.blogspot.com/)  
-**[MARIE-MICHELE & JORDAN  22 .04. 22](https://carteabricotwedding.blogspot.com/2022/06/mariage-flic-en-flac-22-04-22.html)**  2022-07-11 06:21:20
-
 <div style="height:0;width:0;overflow:hidden;"></div>
