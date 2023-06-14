@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[AUDACE : Transmission et dialogue intergénérationnels entre Roger Charoux, Evan Sohun et Gaël Froget](https://www.lemauricien.com/le-mauricien/audace-transmission-et-dialogue-intergenerationnels-entre-roger-charoux-evan-sohun-et-gael-froget/570312/)**  2023-06-13 13:33:32
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[A systemic knot](https://tchombo.blogspot.com/2023/06/a-systemic-knot.html)**  2023-06-12 18:15:34
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mayflower college : The Relevance of Agriculture as a  School Certificate Subject in Mauritius](https://www.lemauricien.com/le-mauricien/mayflower-college-the-relevance-of-agriculture-as-a-school-certificate-subject-in-mauritius/570127/)**  2023-06-12 13:00:43
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[The Future of Farming: A Talk on Career Prospects in Agriculture](https://facultyagriculture.blogspot.com/2023/06/the-future-of-farming-talk-on-career.html)**  2023-06-10 15:17:36
