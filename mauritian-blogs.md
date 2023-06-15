@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[AUDACE : Transmission et dialogue intergénérationnels entre Roger Charoux, Evan Sohun et Gaël Froget](https://www.lemauricien.com/le-mauricien/audace-transmission-et-dialogue-intergenerationnels-entre-roger-charoux-evan-sohun-et-gael-froget/570312/)**  2023-06-13 13:33:32
+**[Le tournoi de Roland Garros, « French Open », késako ?](https://www.lemauricien.com/le-mauricien/le-tournoi-de-roland-garros-french-open-kesako/570698/)**  2023-06-14 13:30:58
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[A systemic knot](https://tchombo.blogspot.com/2023/06/a-systemic-knot.html)**  2023-06-12 18:15:34
