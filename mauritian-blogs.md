@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Looking Back at #ConstanceArtLove](https://blog.constancehotels.com/looking-back-at-constanceartlove/)**  2023-06-16 10:29:23
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[A systemic knot](https://tchombo.blogspot.com/2023/06/a-systemic-knot.html)**  2023-06-15 17:39:58
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[YJHD @ 10](http://kozelidir.blogspot.com/2023/05/yjhd-10.html)**  2023-05-31 16:31:45
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[A Look Back In History: Seychelles](https://blog.constancehotels.com/a-look-back-in-history-seychelles/)**  2023-05-30 13:42:56
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LAKAZ CHAMAREL](https://mysweetmauritius.blogspot.com/2023/05/lakaz-chamarel_28.html)**  2023-05-28 18:52:37
