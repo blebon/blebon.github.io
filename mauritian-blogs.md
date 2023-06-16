@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[A systemic knot](https://tchombo.blogspot.com/2023/06/a-systemic-knot.html)**  2023-06-15 17:39:58
+
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Fixtures 2023-2024](https://ritesh2103.wordpress.com/2023/06/15/fixtures-2023-2024/)**  2023-06-15 14:08:42
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Le tournoi de Roland Garros, « French Open », késako ?](https://www.lemauricien.com/le-mauricien/le-tournoi-de-roland-garros-french-open-kesako/570698/)**  2023-06-14 13:30:58
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[A systemic knot](https://tchombo.blogspot.com/2023/06/a-systemic-knot.html)**  2023-06-12 18:15:34
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[The Future of Farming: A Talk on Career Prospects in Agriculture](https://facultyagriculture.blogspot.com/2023/06/the-future-of-farming-talk-on-career.html)**  2023-06-10 15:17:36
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Marvel United: Guardians of the Galaxy Remix](https://davidandjennilyn.com/2023/06/03/marvel-united-guardians-of-the-galaxy-remix/)**  2023-06-04 04:10:35
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Man City edging towards a famous treble 🏆](https://ritesh2103.wordpress.com/2023/06/03/man-city-edging-towards-a-famous-treble-%f0%9f%8f%86/)**  2023-06-03 18:04:05
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Sleeping beauty](http://gadatagada.blogspot.com/2023/06/sleeping-beauty.html)**  2023-06-03 12:32:21
