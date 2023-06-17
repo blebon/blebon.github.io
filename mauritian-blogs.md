@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Le Président Macron Met en Avant  “l’Autonomie Stratégique ” de la France](https://www.lemauricien.com/le-mauricien/le-president-macron-met-en-avant-lautonomie-strategique-de-la-france/571381/)**  2023-06-16 13:55:16
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Looking Back at #ConstanceArtLove](https://blog.constancehotels.com/looking-back-at-constanceartlove/)**  2023-06-16 10:29:23
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Fixtures 2023-2024](https://ritesh2103.wordpress.com/2023/06/15/fixtures-2023-2024/)**  2023-06-15 14:08:42
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Le tournoi de Roland Garros, « French Open », késako ?](https://www.lemauricien.com/le-mauricien/le-tournoi-de-roland-garros-french-open-kesako/570698/)**  2023-06-14 13:30:58
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[The Future of Farming: A Talk on Career Prospects in Agriculture](https://facultyagriculture.blogspot.com/2023/06/the-future-of-farming-talk-on-career.html)**  2023-06-10 15:17:36
