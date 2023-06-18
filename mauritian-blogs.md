@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Le Président Macron Met en Avant  “l’Autonomie Stratégique ” de la France](https://www.lemauricien.com/le-mauricien/le-president-macron-met-en-avant-lautonomie-strategique-de-la-france/571381/)**  2023-06-16 13:55:16
+**[When morning comes…](https://www.lemauricien.com/le-mauricien/when-morning-comes/571753/)**  2023-06-17 12:00:44
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Looking Back at #ConstanceArtLove](https://blog.constancehotels.com/looking-back-at-constanceartlove/)**  2023-06-16 10:29:23
