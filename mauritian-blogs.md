@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[When morning comes…](https://www.lemauricien.com/le-mauricien/when-morning-comes/571753/)**  2023-06-17 12:00:44
+**[Islamic Literature – OMAR KHAYYAM: The Sufi Poet…](https://www.lemauricien.com/le-mauricien/islamic-literature-omar-khayyam-the-sufi-poet/572472/)**  2023-06-19 14:00:47
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Looking Back at #ConstanceArtLove](https://blog.constancehotels.com/looking-back-at-constanceartlove/)**  2023-06-16 10:29:23
