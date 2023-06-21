@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[priscimon.com](https://priscimon.com/blog)  
-**[J’ai demandé à la lune](https://priscimon.com/blog/2023/06/20/jai-demande-a-la-lune/)**  2023-06-20 18:42:34
-
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[FINANCE & DEVELOPMENT : SUBSIDY WARS](https://www.lemauricien.com/le-mauricien/finance-development-subsidy-wars/572902/)**  2023-06-20 13:17:33
+**[Ne pas avoir à choisir entre développement et environnement : la France appelle à « un choc de financement »](https://www.lemauricien.com/actualites/ne-pas-avoir-a-choisir-entre-developpement-et-environnement-la-france-appelle-a-un-choc-de-financement/573032/)**  2023-06-21 10:47:27
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Looking Back at #ConstanceArtLove](https://blog.constancehotels.com/looking-back-at-constanceartlove/)**  2023-06-16 10:29:23
+**[How to Embrace Island Life at Constance Hotels & Resorts](https://blog.constancehotels.com/how-to-embrace-island-life-at-constance-hotels-resorts/)**  2023-06-21 08:37:31
+
+[priscimon.com](https://priscimon.com/blog)  
+**[J’ai demandé à la lune](https://priscimon.com/blog/2023/06/20/jai-demande-a-la-lune/)**  2023-06-20 18:42:34
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[A systemic knot](https://tchombo.blogspot.com/2023/06/a-systemic-knot.html)**  2023-06-15 17:39:58
