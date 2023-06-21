@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[J’ai demandé à la lune](https://priscimon.com/blog/2023/06/20/jai-demande-a-la-lune/)**  2023-06-20 18:42:34
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Islamic Literature – OMAR KHAYYAM: The Sufi Poet…](https://www.lemauricien.com/le-mauricien/islamic-literature-omar-khayyam-the-sufi-poet/572472/)**  2023-06-19 14:00:47
+**[FINANCE & DEVELOPMENT : SUBSIDY WARS](https://www.lemauricien.com/le-mauricien/finance-development-subsidy-wars/572902/)**  2023-06-20 13:17:33
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Looking Back at #ConstanceArtLove](https://blog.constancehotels.com/looking-back-at-constanceartlove/)**  2023-06-16 10:29:23
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[2 Years investing in Mauritian Stock Market.](https://nayarweb.com/blog/2023/2-years-investing-in-mauritian-stock-market/)**  2023-05-18 19:13:03
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Hurting in Bordeaux](https://priscimon.com/blog/2023/05/05/hurting-in-bordeaux/)**  2023-05-05 18:11:18
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[What’s programming?](https://lovvy.wordpress.com/2023/05/05/whats-programming/)**  2023-05-05 17:53:36
@@ -162,8 +162,5 @@ permalink: /mauritian-blogs/
 
 [My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
 **[The End (almost!)](https://mymauritiangarden.wordpress.com/2022/07/21/the-end-almost/)**  2022-07-21 09:45:04
-
-[Spiritual in my life](https://spiritualinlife23.blogspot.com/)  
-**[Youtube shorts mere sai](https://spiritualinlife23.blogspot.com/2022/07/youtube-shorts-mere-sai_19.html)**  2022-07-19 20:22:42
 
 <div style="height:0;width:0;overflow:hidden;"></div>
