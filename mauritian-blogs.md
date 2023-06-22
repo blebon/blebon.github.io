@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Ne pas avoir à choisir entre développement et environnement : la France appelle à « un choc de financement »](https://www.lemauricien.com/actualites/ne-pas-avoir-a-choisir-entre-developpement-et-environnement-la-france-appelle-a-un-choc-de-financement/573032/)**  2023-06-21 10:47:27
+**[La quête de reconnaissance au coeur de nos luttes](https://www.lemauricien.com/le-mauricien/la-quete-de-reconnaissance-au-coeur-de-nos-luttes/573232/)**  2023-06-21 13:00:13
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[How to Embrace Island Life at Constance Hotels & Resorts](https://blog.constancehotels.com/how-to-embrace-island-life-at-constance-hotels-resorts/)**  2023-06-21 08:37:31
