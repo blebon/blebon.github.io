@@ -160,7 +160,4 @@ permalink: /mauritian-blogs/
 [imathsit](https://imathsit.blogspot.com/)  
 **[June 2015 Paper 22 Worked Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-07 16:37:31
 
-[My Mauritian Garden](https://mymauritiangarden.wordpress.com)  
-**[The End (almost!)](https://mymauritiangarden.wordpress.com/2022/07/21/the-end-almost/)**  2022-07-21 09:45:04
-
 <div style="height:0;width:0;overflow:hidden;"></div>
