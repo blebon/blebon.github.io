@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[GRANDES OREILLES CHINOISES À CUBA – Retour de boomerang  pour les Américains](https://www.lemauricien.com/le-mauricien/grandes-oreilles-chinoises-a-cuba-retour-de-boomerang-pour-les-americains-2/574579/)**  2023-06-23 13:00:12
+**[GRANDES OREILLES CHINOISES À CUBA – Retour de boomerang  pour les Américains](https://www.lemauricien.com/le-mauricien/grandes-oreilles-chinoises-a-cuba-retour-de-boomerang-pour-les-americains/573945/)**  2023-06-22 13:00:48
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[How to Embrace Island Life at Constance Hotels & Resorts](https://blog.constancehotels.com/how-to-embrace-island-life-at-constance-hotels-resorts/)**  2023-06-21 08:37:31
