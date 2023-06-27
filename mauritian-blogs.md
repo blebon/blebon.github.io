@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Packing Tips for a Blissful Island Escape](https://blog.constancehotels.com/packing-tips-for-a-blissful-island-escape/)**  2023-06-27 10:46:27
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Mauritius, connected !](https://relocationmauritius.wordpress.com/2023/06/27/mauritius-connected/)**  2023-06-27 09:19:16
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[The global industrial arms race is just what we need](https://zoomdr.blogspot.com/2023/06/the-global-industrial-arms-race-is-just.html)**  2023-06-27 05:14:24
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Voir Juger Agir](https://www.lemauricien.com/le-mauricien/voir-juger-agir/576557/)**  2023-06-26 13:50:03
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[How to Embrace Island Life at Constance Hotels & Resorts](https://blog.constancehotels.com/how-to-embrace-island-life-at-constance-hotels-resorts/)**  2023-06-21 08:37:31
 
 [priscimon.com](https://priscimon.com/blog)  
 **[J’ai demandé à la lune](https://priscimon.com/blog/2023/06/20/jai-demande-a-la-lune/)**  2023-06-20 18:42:34
@@ -51,12 +57,6 @@ permalink: /mauritian-blogs/
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Pedestal](https://faustianmatters.blogspot.com/2023/05/pedestal.html)**  2023-05-20 10:48:25
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Leave Middle East, live in Mauritius](https://relocationmauritius.wordpress.com/2023/05/19/life-in-middle-east-vs-mauritius/)**  2023-05-19 14:18:13
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[True thinkers sit at the same table](https://zoomdr.blogspot.com/2023/05/true-thinkers-sit-at-same-table.html)**  2023-05-19 11:56:31
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[2 Years investing in Mauritian Stock Market.](https://nayarweb.com/blog/2023/2-years-investing-in-mauritian-stock-market/)**  2023-05-18 19:13:03
