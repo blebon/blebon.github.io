@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Breathe Inhale Exhale](https://www.lemauricien.com/le-mauricien/breathe-inhale-exhale/577087/)**  2023-06-27 13:50:57
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Packing Tips for a Blissful Island Escape](https://blog.constancehotels.com/packing-tips-for-a-blissful-island-escape/)**  2023-06-27 10:46:27
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[The global industrial arms race is just what we need](https://zoomdr.blogspot.com/2023/06/the-global-industrial-arms-race-is-just.html)**  2023-06-27 05:14:24
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Voir Juger Agir](https://www.lemauricien.com/le-mauricien/voir-juger-agir/576557/)**  2023-06-26 13:50:03
 
 [priscimon.com](https://priscimon.com/blog)  
 **[J’ai demandé à la lune](https://priscimon.com/blog/2023/06/20/jai-demande-a-la-lune/)**  2023-06-20 18:42:34
