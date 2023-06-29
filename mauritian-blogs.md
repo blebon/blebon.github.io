@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Breathe Inhale Exhale](https://www.lemauricien.com/le-mauricien/breathe-inhale-exhale/577087/)**  2023-06-27 13:50:57
+**[SAINT FRANCIS OF ASSISI : “Start by doing what’s necessary;  then do what’s possible…  suddenly you are doing the impossible”](https://www.lemauricien.com/le-mauricien/saint-francis-of-assisi-start-by-doing-whats-necessary-then-do-whats-possible-suddenly-you-are-doing-the-impossible/577481/)**  2023-06-28 13:00:46
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Packing Tips for a Blissful Island Escape](https://blog.constancehotels.com/packing-tips-for-a-blissful-island-escape/)**  2023-06-27 10:46:27
