@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Equator Lounge](https://equatorlounge.blogspot.com/)  
+**[Windows 10 - difference between product key and license key](https://equatorlounge.blogspot.com/2023/06/windows-10-difference-between-product.html)**  2023-06-29 07:01:45
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[SAINT FRANCIS OF ASSISI : “Start by doing what’s necessary;  then do what’s possible…  suddenly you are doing the impossible”](https://www.lemauricien.com/le-mauricien/saint-francis-of-assisi-start-by-doing-whats-necessary-then-do-whats-possible-suddenly-you-are-doing-the-impossible/577481/)**  2023-06-28 13:00:46
 
