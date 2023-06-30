@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[UoM-Communication Studies](https://comstudies.wordpress.com)  
+**[Unveiling Statistical Discrepancies: An Examination of Tourist Arrival Data in Mauritius from January to May](https://comstudies.wordpress.com/2023/06/29/unveiling-statistical-discrepancies-an-examination-of-tourist-arrival-data-in-mauritius-from-january-to-may/)**  2023-06-29 11:49:14
+
 [Equator Lounge](https://equatorlounge.blogspot.com/)  
 **[Windows 10 - difference between product key and license key](https://equatorlounge.blogspot.com/2023/06/windows-10-difference-between-product.html)**  2023-06-29 07:01:45
 
@@ -90,9 +93,6 @@ permalink: /mauritian-blogs/
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[38th birthday and 10 years of daily selfies…](https://yashvinblogs.com/2023/03/22/happy-birthday-2023/)**  2023-03-22 16:44:24
-
-[UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[Despite Government efforts, Youth Unemployment is still on the rise in Mauritius.](https://comstudies.wordpress.com/2023/03/16/despite-government-efforts-youth-unemployment-is-still-on-the-rise-in-mauritius/)**  2023-03-16 09:59:51
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Aggiornamento, Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/freddy-passera-da-grand-baie-alle-17.html)**  2023-02-24 16:42:36
