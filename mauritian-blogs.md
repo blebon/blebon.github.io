@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[People Are Not Falling That Easily For Anti-Modi Propaganda Now](http://kozelidir.blogspot.com/2023/06/people-are-not-falling-that-easily-for.html)**  2023-06-30 18:53:45
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Flashback &#124; May 2018 Pa Tigit Zordir Nun Tande Lor CWA](https://www.lemauricien.com/opinions/forum/flashback-may-2018-pa-tigit-zordir-nun-tande-lor-cwa/578608/)**  2023-06-30 14:08:54
+
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[Unveiling Statistical Discrepancies: An Examination of Tourist Arrival Data in Mauritius from January to May](https://comstudies.wordpress.com/2023/06/29/unveiling-statistical-discrepancies-an-examination-of-tourist-arrival-data-in-mauritius-from-january-to-may/)**  2023-06-29 11:49:14
+**[Is Infertility Really a Genetic Issue?](https://comstudies.wordpress.com/2023/06/30/is-infertility-really-a-genetic-issue-2/)**  2023-06-30 11:34:13
 
 [Equator Lounge](https://equatorlounge.blogspot.com/)  
 **[Windows 10 - difference between product key and license key](https://equatorlounge.blogspot.com/2023/06/windows-10-difference-between-product.html)**  2023-06-29 07:01:45
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[SAINT FRANCIS OF ASSISI : “Start by doing what’s necessary;  then do what’s possible…  suddenly you are doing the impossible”](https://www.lemauricien.com/le-mauricien/saint-francis-of-assisi-start-by-doing-whats-necessary-then-do-whats-possible-suddenly-you-are-doing-the-impossible/577481/)**  2023-06-28 13:00:46
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Packing Tips for a Blissful Island Escape](https://blog.constancehotels.com/packing-tips-for-a-blissful-island-escape/)**  2023-06-27 10:46:27
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Comment l'IA (Intelligence Artificielle) peut contribuer à aligner l'Intelligence Humaine (IH) sur une vision du Dieu Unique.](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle_31.html)**  2023-06-01 06:59:20
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[YJHD @ 10](http://kozelidir.blogspot.com/2023/05/yjhd-10.html)**  2023-05-31 16:31:45
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LAKAZ CHAMAREL](https://mysweetmauritius.blogspot.com/2023/05/lakaz-chamarel_28.html)**  2023-05-28 18:52:37
