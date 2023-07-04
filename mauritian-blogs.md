@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[People Are Not Falling That Easily For Anti-Modi Propaganda Now](http://kozelidir.blogspot.com/2023/06/people-are-not-falling-that-easily-for.html)**  2023-06-30 18:53:45
+[Dr Reddy’s Journal](https://drreddy.wordpress.com)  
+**[TELUGU Ancestors ….Mauritius](https://drreddy.wordpress.com/2023/07/04/telugu-ancestors-mauritius/)**  2023-07-04 08:22:51
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Flashback &#124; May 2018 Pa Tigit Zordir Nun Tande Lor CWA](https://www.lemauricien.com/opinions/forum/flashback-may-2018-pa-tigit-zordir-nun-tande-lor-cwa/578608/)**  2023-06-30 14:08:54
+**[SYSTÈME FINANCIER MONDIAL  Au bénéfice des plus riches…](https://www.lemauricien.com/le-mauricien/systeme-financier-mondial-au-benefice-des-plus-riches/579798/)**  2023-07-03 13:00:24
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[People Are Not Falling That Easily For Anti-Modi Propaganda Now](http://kozelidir.blogspot.com/2023/06/people-are-not-falling-that-easily-for.html)**  2023-06-30 18:53:45
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Is Infertility Really a Genetic Issue?](https://comstudies.wordpress.com/2023/06/30/is-infertility-really-a-genetic-issue-2/)**  2023-06-30 11:34:13
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Resentment](https://vintishgokool.blogspot.com/2023/06/attitude-and-behaviour.html)**  2023-06-08 22:23:17
-
-[Dr Reddy’s Journal](https://drreddy.wordpress.com)  
-**[Telugu Immigration in Mauritius](https://drreddy.wordpress.com/2023/06/05/telugu-immigration-in-mauritius/)**  2023-06-05 07:10:08
 
 [School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
 **[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-06-05 06:33:23
