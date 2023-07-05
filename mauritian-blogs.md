@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Policing, Riots and Social Justice :Any Lessons to Draw from Paris?](https://www.lemauricien.com/le-mauricien/policing-riots-and-social-justice-any-lessons-to-draw-from-paris/580324/)**  2023-07-04 13:00:53
+
 [Dr Reddy’s Journal](https://drreddy.wordpress.com)  
 **[TELUGU Ancestors ….Mauritius](https://drreddy.wordpress.com/2023/07/04/telugu-ancestors-mauritius/)**  2023-07-04 08:22:51
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[SYSTÈME FINANCIER MONDIAL  Au bénéfice des plus riches…](https://www.lemauricien.com/le-mauricien/systeme-financier-mondial-au-benefice-des-plus-riches/579798/)**  2023-07-03 13:00:24
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[People Are Not Falling That Easily For Anti-Modi Propaganda Now](http://kozelidir.blogspot.com/2023/06/people-are-not-falling-that-easily-for.html)**  2023-06-30 18:53:45
