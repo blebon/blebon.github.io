@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
+**[Welcome Mason Mount](https://ritesh2103.wordpress.com/2023/07/05/welcome-mason-mount/)**  2023-07-05 13:47:59
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Policing, Riots and Social Justice :Any Lessons to Draw from Paris?](https://www.lemauricien.com/le-mauricien/policing-riots-and-social-justice-any-lessons-to-draw-from-paris/580324/)**  2023-07-04 13:00:53
+**[Force ou faiblesse !  Que nous dicte notre ego ?](https://www.lemauricien.com/le-mauricien/force-ou-faiblesse-que-nous-dicte-notre-ego/581302/)**  2023-07-05 13:05:19
 
 [Dr Reddy’s Journal](https://drreddy.wordpress.com)  
 **[TELUGU Ancestors ….Mauritius](https://drreddy.wordpress.com/2023/07/04/telugu-ancestors-mauritius/)**  2023-07-04 08:22:51
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[A systemic knot](https://tchombo.blogspot.com/2023/06/a-systemic-knot.html)**  2023-06-15 17:39:58
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Fixtures 2023-2024](https://ritesh2103.wordpress.com/2023/06/15/fixtures-2023-2024/)**  2023-06-15 14:08:42
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[The Future of Farming: A Talk on Career Prospects in Agriculture](https://facultyagriculture.blogspot.com/2023/06/the-future-of-farming-talk-on-career.html)**  2023-06-10 15:17:36
