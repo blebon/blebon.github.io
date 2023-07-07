@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[GENERAL ELECTIONS RESULTS, 11 JUNE 1982 : ‘60-Zero’: Song of Victory, New Insights & Ratchet Effect](https://www.lemauricien.com/le-mauricien/general-elections-results-11-june-1982-60-zero-song-of-victory-new-insights-ratchet-effect/582361/)**  2023-07-06 13:00:05
+
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Welcome Mason Mount](https://ritesh2103.wordpress.com/2023/07/05/welcome-mason-mount/)**  2023-07-05 13:47:59
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Force ou faiblesse !  Que nous dicte notre ego ?](https://www.lemauricien.com/le-mauricien/force-ou-faiblesse-que-nous-dicte-notre-ego/581302/)**  2023-07-05 13:05:19
 
 [Dr Reddy’s Journal](https://drreddy.wordpress.com)  
 **[TELUGU Ancestors ….Mauritius](https://drreddy.wordpress.com/2023/07/04/telugu-ancestors-mauritius/)**  2023-07-04 08:22:51
