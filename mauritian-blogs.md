@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[GENERAL ELECTIONS RESULTS, 11 JUNE 1982 : ‘60-Zero’: Song of Victory, New Insights & Ratchet Effect](https://www.lemauricien.com/le-mauricien/general-elections-results-11-june-1982-60-zero-song-of-victory-new-insights-ratchet-effect/582361/)**  2023-07-06 13:00:05
+**[Percy B. Shelley: “If Winter Comes, Can Spring Be Far Behind”?](https://www.lemauricien.com/le-mauricien/percy-b-shelley-if-winter-comes-can-spring-be-far-behind/582599/)**  2023-07-07 13:00:34
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Welcome Mason Mount](https://ritesh2103.wordpress.com/2023/07/05/welcome-mason-mount/)**  2023-07-05 13:47:59
