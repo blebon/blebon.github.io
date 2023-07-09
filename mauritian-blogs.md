@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Marvel United: Enter the Spider-Verse](https://davidandjennilyn.com/2023/07/08/marvel-united-enter-the-spider-verse/)**  2023-07-09 05:04:02
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Percy B. Shelley: “If Winter Comes, Can Spring Be Far Behind”?](https://www.lemauricien.com/le-mauricien/percy-b-shelley-if-winter-comes-can-spring-be-far-behind/582599/)**  2023-07-07 13:00:34
+**[LE MAURITIUS TURF CLUB ET LE CHAMP DE MARS : Mort imminente de deux des fleurons du patrimoine mauricien, ou pas ?](https://www.lemauricien.com/le-mauricien/le-mauritius-turf-club-et-le-champ-de-mars-mort-imminente-de-deux-des-fleurons-du-patrimoine-mauricien-ou-pas/583151/)**  2023-07-08 12:00:21
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Welcome Mason Mount](https://ritesh2103.wordpress.com/2023/07/05/welcome-mason-mount/)**  2023-07-05 13:47:59
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
 **[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-06-05 06:33:23
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Marvel United: Guardians of the Galaxy Remix](https://davidandjennilyn.com/2023/06/03/marvel-united-guardians-of-the-galaxy-remix/)**  2023-06-04 04:10:35
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Sleeping beauty](http://gadatagada.blogspot.com/2023/06/sleeping-beauty.html)**  2023-06-03 12:32:21
