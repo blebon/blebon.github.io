@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [David and Jennilyn](https://davidandjennilyn.com)  
-**[Marvel United: Enter the Spider-Verse](https://davidandjennilyn.com/2023/07/08/marvel-united-enter-the-spider-verse/)**  2023-07-09 05:04:02
+**[70th Birthdays at Pacific City](https://davidandjennilyn.com/2023/07/09/70th-birthdays-at-pacific-city/)**  2023-07-09 19:01:24
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LE MAURITIUS TURF CLUB ET LE CHAMP DE MARS : Mort imminente de deux des fleurons du patrimoine mauricien, ou pas ?](https://www.lemauricien.com/le-mauricien/le-mauritius-turf-club-et-le-champ-de-mars-mort-imminente-de-deux-des-fleurons-du-patrimoine-mauricien-ou-pas/583151/)**  2023-07-08 12:00:21
@@ -159,8 +159,5 @@ permalink: /mauritian-blogs/
 
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[it's been 2 years](https://myanonymouslife24.blogspot.com/2022/08/its-been-2-years.html)**  2022-08-30 09:08:01
-
-[imathsit](https://imathsit.blogspot.com/)  
-**[June 2015 Paper 22 Worked Solutions!!! Part 3](https://imathsit.blogspot.com/2022/08/june-2015-paper-22-solutions-part-3.html)**  2022-08-07 16:37:31
 
 <div style="height:0;width:0;overflow:hidden;"></div>
