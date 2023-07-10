@@ -37,6 +37,9 @@ permalink: /mauritian-blogs/
 [priscimon.com](https://priscimon.com/blog)  
 **[J’ai demandé à la lune](https://priscimon.com/blog/2023/06/20/jai-demande-a-la-lune/)**  2023-06-20 18:42:34
 
+[English Speaking Union](https://www.esumauritius.org)  
+**[ESU National Spelling Bee Competition Finals 2023](https://www.esumauritius.org/national-spelling-bee-competition/finals-2023/)**  2023-06-19 08:24:33
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[A systemic knot](https://tchombo.blogspot.com/2023/06/a-systemic-knot.html)**  2023-06-15 17:39:58
 
@@ -75,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 3e Dimanche du temps de Pâques](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-3e-dimanche-du-temps-de.html)**  2023-04-23 14:25:31
-
-[English Speaking Union](https://www.esumauritius.org)  
-**[The launch of The Queen”s Commonwealth Essay Competition 2023.](https://www.esumauritius.org/essay-competition/the-launch-of-the-queens-commonwealth-essay-competition-2023/)**  2023-04-21 06:48:21
 
 [ever peckish](https://everpeckish.com)  
 **[Ostrich sausage plaits](https://everpeckish.com/ostrich-sausage-plaits/?utm_source=rss&utm_medium=rss&utm_campaign=ostrich-sausage-plaits)**  2023-04-19 19:00:20
