@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Little Anantasin](https://littleanantasin.wordpress.com)  
+**[Bangkok, Malaysia, Singapore June 2023](https://littleanantasin.wordpress.com/2023/07/10/bangkok-malaysia-singapore-june-2023/)**  2023-07-10 14:49:14
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[70th Birthdays at Pacific City](https://davidandjennilyn.com/2023/07/09/70th-birthdays-at-pacific-city/)**  2023-07-09 19:01:24
 
@@ -108,9 +111,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[[Reminder] You have Web & App Activity turned on](https://shruticulturalgroup.blogspot.com/2023/01/reminder-you-have-web-app-activity.html)**  2023-01-07 20:26:01
-
-[Little Anantasin](https://littleanantasin.wordpress.com)  
-**[Turning 40 in Singapore and Thailand 2022](https://littleanantasin.wordpress.com/2023/01/04/turning-40-in-singapore-and-thailand-2022/)**  2023-01-04 23:54:36
 
 [Medicine Hack](http://www.medicinehack.com/)  
 **[BPAP - Bilevel Positive Airway Pressure Ventilation](http://www.medicinehack.com/2020/04/bpap-bilevel-positive-airway-pressure.html)**  2023-01-01 16:23:01
