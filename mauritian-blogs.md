@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Sorcellerie et Magie Noire. Voir Juger Agir](https://www.lemauricien.com/le-mauricien/sorcellerie-et-magie-noire-voir-juger-agir/584176/)**  2023-07-11 13:00:09
+
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bangkok, Malaysia, Singapore June 2023](https://littleanantasin.wordpress.com/2023/07/10/bangkok-malaysia-singapore-june-2023/)**  2023-07-10 14:49:14
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[CRISE INSTITUTIONNELLE  CP / DPP – Rétablir la confiance dans  le système de Law and Order](https://www.lemauricien.com/le-mauricien/crise-institutionnelle-cp-dpp-retablir-la-confiance-dans-le-systeme-de-law-and-order/584153/)**  2023-07-10 13:00:11
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[70th Birthdays at Pacific City](https://davidandjennilyn.com/2023/07/09/70th-birthdays-at-pacific-city/)**  2023-07-09 19:01:24
