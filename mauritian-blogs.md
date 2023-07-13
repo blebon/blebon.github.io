@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Sorcellerie et Magie Noire. Voir Juger Agir](https://www.lemauricien.com/le-mauricien/sorcellerie-et-magie-noire-voir-juger-agir/584176/)**  2023-07-11 13:00:09
+**[Considering an economy of wisdom](https://www.lemauricien.com/le-mauricien/considering-an-economy-of-wisdom/584607/)**  2023-07-12 13:01:32
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bangkok, Malaysia, Singapore June 2023](https://littleanantasin.wordpress.com/2023/07/10/bangkok-malaysia-singapore-june-2023/)**  2023-07-10 14:49:14
@@ -89,7 +89,7 @@ permalink: /mauritian-blogs/
 **[Artificial intelligence (AI)](https://msinnott.net/2023/04/19/artificial-intelligence-ai/)**  2023-04-19 08:06:47
 
 [turbine.mu](https://turbine.mu)  
-**[Meet with Mimi Kalinda- Bank one x Turbine](https://turbine.mu/2023/04/05/meet-with-mimi-kalinda-bank-one-x-turbine/)**  2023-04-05 06:04:25
+**[Meet with Mimi Kalinda- Bank one x Turbine](https://turbine.mu/blog/2023/04/05/meet-with-mimi-kalinda-bank-one-x-turbine/)**  2023-04-05 06:04:25
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 33 (GFCI)](https://amarbheenick.blogspot.com/2023/03/the-global-financial-centres-index-33.html)**  2023-03-24 09:16:18
