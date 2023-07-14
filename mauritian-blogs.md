@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Considering an economy of wisdom](https://www.lemauricien.com/le-mauricien/considering-an-economy-of-wisdom/584607/)**  2023-07-12 13:01:32
+**[Art et culture à Paris : Binômes Centenaires, une exposition inclusive et novatrice](https://www.lemauricien.com/le-mauricien/art-et-culture-a-paris-binomes-centenaires-une-exposition-inclusive-et-novatrice/584836/)**  2023-07-13 13:23:43
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bangkok, Malaysia, Singapore June 2023](https://littleanantasin.wordpress.com/2023/07/10/bangkok-malaysia-singapore-june-2023/)**  2023-07-10 14:49:14
