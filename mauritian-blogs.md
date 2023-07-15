@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Institutionalized Racism : When Sports are not Spared](https://www.lemauricien.com/le-mauricien/institutionalized-racism-when-sports-are-not-spared/585250/)**  2023-07-15 07:22:54
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 14th Birthday Violet!](https://davidandjennilyn.com/2023/07/14/happy-14th-birthday-violet/)**  2023-07-15 02:56:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Le kaléidoscope et la lunette de Galilée](https://www.lemauricien.com/le-mauricien/le-kaleidoscope-et-la-lunette-de-galilee/585066/)**  2023-07-14 13:00:31
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bangkok, Malaysia, Singapore June 2023](https://littleanantasin.wordpress.com/2023/07/10/bangkok-malaysia-singapore-june-2023/)**  2023-07-10 14:49:14
