@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Evolves](https://vintishgokool.blogspot.com/2023/07/evolves.html)**  2023-07-15 21:51:38
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Institutionalized Racism : When Sports are not Spared](https://www.lemauricien.com/le-mauricien/institutionalized-racism-when-sports-are-not-spared/585250/)**  2023-07-15 07:22:54
+**[Inspiration : des traditions millénaires à la nouvelle ère](https://www.lemauricien.com/le-mauricien/inspiration-des-traditions-millenaires-a-la-nouvelle-ere/585410/)**  2023-07-15 13:04:07
+
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[When old meets new](http://gadatagada.blogspot.com/2023/07/when-old-meets-new.html)**  2023-07-15 12:35:04
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 14th Birthday Violet!](https://davidandjennilyn.com/2023/07/14/happy-14th-birthday-violet/)**  2023-07-15 02:56:00
@@ -49,14 +55,8 @@ permalink: /mauritian-blogs/
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[The Future of Farming: A Talk on Career Prospects in Agriculture](https://facultyagriculture.blogspot.com/2023/06/the-future-of-farming-talk-on-career.html)**  2023-06-10 15:17:36
 
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Resentment](https://vintishgokool.blogspot.com/2023/06/attitude-and-behaviour.html)**  2023-06-08 22:23:17
-
 [School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
 **[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-06-05 06:33:23
-
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Sleeping beauty](http://gadatagada.blogspot.com/2023/06/sleeping-beauty.html)**  2023-06-03 12:32:21
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Comment l'IA (Intelligence Artificielle) peut contribuer à aligner l'Intelligence Humaine (IH) sur une vision du Dieu Unique.](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle_31.html)**  2023-06-01 06:59:20
