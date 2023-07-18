@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Charif Muhammed Al-Edrissi : Arab Geographer-Cartographer…](https://www.lemauricien.com/le-mauricien/charif-muhammed-al-edrissi-arab-geographer-cartographer/585968/)**  2023-07-17 13:32:19
+
+[Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
+**[Java program to find the first non-repeating character in a string](https://lovvy.wordpress.com/2023/07/17/java-program-to-find-the-first-non-repeating-character-in-a-string/)**  2023-07-17 13:01:16
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Evolves](https://vintishgokool.blogspot.com/2023/07/evolves.html)**  2023-07-15 21:51:38
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Inspiration : des traditions millénaires à la nouvelle ère](https://www.lemauricien.com/le-mauricien/inspiration-des-traditions-millenaires-a-la-nouvelle-ere/585410/)**  2023-07-15 13:04:07
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[When old meets new](http://gadatagada.blogspot.com/2023/07/when-old-meets-new.html)**  2023-07-15 12:35:04
@@ -72,9 +75,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[2 Years investing in Mauritian Stock Market.](https://nayarweb.com/blog/2023/2-years-investing-in-mauritian-stock-market/)**  2023-05-18 19:13:03
-
-[Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
-**[What’s programming?](https://lovvy.wordpress.com/2023/05/05/whats-programming/)**  2023-05-05 17:53:36
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Financement de la transition écologique à Maurice par la MCB](https://greenmauritius.blogspot.com/2023/04/financement-de-la-transition-ecologique.html)**  2023-04-28 06:37:01
