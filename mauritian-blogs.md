@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Charif Muhammed Al-Edrissi : Arab Geographer-Cartographer…](https://www.lemauricien.com/le-mauricien/charif-muhammed-al-edrissi-arab-geographer-cartographer/585968/)**  2023-07-17 13:32:19
+**[The Housing Crisis – Need for More Homes](https://www.lemauricien.com/le-mauricien/the-housing-crisis-need-for-more-homes/586229/)**  2023-07-18 14:24:01
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Java program to find the first non-repeating character in a string](https://lovvy.wordpress.com/2023/07/17/java-program-to-find-the-first-non-repeating-character-in-a-string/)**  2023-07-17 13:01:16
