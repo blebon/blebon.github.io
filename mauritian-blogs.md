@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Remembering the Dragon Who Told Us What To Be](http://kozelidir.blogspot.com/2023/07/remembering-dragon-who-told-us-what-to.html)**  2023-07-20 00:01:15
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Housing Crisis – Need for More Homes](https://www.lemauricien.com/le-mauricien/the-housing-crisis-need-for-more-homes/586229/)**  2023-07-18 14:24:01
+**[PATRIMOINE BÂTI DE L’ÎLE MAURICE : 1740-2023, de l’Hôpital du roy au Musée Intercontinental de l’Esclavage…](https://www.lemauricien.com/le-mauricien/patrimoine-bati-de-lile-maurice-1740-2023-de-lhopital-du-roy-au-musee-intercontinental-de-lesclavage/586413/)**  2023-07-19 13:00:40
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Java program to find the first non-repeating character in a string](https://lovvy.wordpress.com/2023/07/17/java-program-to-find-the-first-non-repeating-character-in-a-string/)**  2023-07-17 13:01:16
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Dr Reddy’s Journal](https://drreddy.wordpress.com)  
 **[TELUGU Ancestors ….Mauritius](https://drreddy.wordpress.com/2023/07/04/telugu-ancestors-mauritius/)**  2023-07-04 08:22:51
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[People Are Not Falling That Easily For Anti-Modi Propaganda Now](http://kozelidir.blogspot.com/2023/06/people-are-not-falling-that-easily-for.html)**  2023-06-30 18:53:45
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Is Infertility Really a Genetic Issue?](https://comstudies.wordpress.com/2023/06/30/is-infertility-really-a-genetic-issue-2/)**  2023-06-30 11:34:13
