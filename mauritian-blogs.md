@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
+**[Updating our Google Account inactivity policy](https://shruticulturalgroup.blogspot.com/2023/07/updating-our-google-account-inactivity.html)**  2023-07-20 08:16:37
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
-**[Remembering the Dragon Who Told Us What To Be](http://kozelidir.blogspot.com/2023/07/remembering-dragon-who-told-us-what-to.html)**  2023-07-20 00:01:15
+**[Remembering the Dragon Who Told Us What To Be](http://kozelidir.blogspot.com/2023/07/remembering-dragon-who-told-us-what-to.html)**  2023-07-20 08:11:33
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[PATRIMOINE BÂTI DE L’ÎLE MAURICE : 1740-2023, de l’Hôpital du roy au Musée Intercontinental de l’Esclavage…](https://www.lemauricien.com/le-mauricien/patrimoine-bati-de-lile-maurice-1740-2023-de-lhopital-du-roy-au-musee-intercontinental-de-lesclavage/586413/)**  2023-07-19 13:00:40
@@ -108,9 +111,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
-
-[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
-**[[Reminder] You have Web & App Activity turned on](https://shruticulturalgroup.blogspot.com/2023/01/reminder-you-have-web-app-activity.html)**  2023-01-07 20:26:01
 
 [Medicine Hack](http://www.medicinehack.com/)  
 **[BPAP - Bilevel Positive Airway Pressure Ventilation](http://www.medicinehack.com/2020/04/bpap-bilevel-positive-airway-pressure.html)**  2023-01-01 16:23:01
