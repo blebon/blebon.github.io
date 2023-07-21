@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[HUMBLE APPEL À L’HON. G.P. LESJONGARD, MINISTRE DE L’ÉNERGIE ET DES UTILITÉS PUBLIQUES : Étendre le tarif selon l’heure d’utilisation](https://www.lemauricien.com/le-mauricien/humble-appel-a-lhon-g-p-lesjongard-ministre-de-lenergie-et-des-utilites-publiques-etendre-le-tarif-selon-lheure-dutilisation/586796/)**  2023-07-20 13:42:30
+
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Updating our Google Account inactivity policy](https://shruticulturalgroup.blogspot.com/2023/07/updating-our-google-account-inactivity.html)**  2023-07-20 08:16:37
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Remembering the Dragon Who Told Us What To Be](http://kozelidir.blogspot.com/2023/07/remembering-dragon-who-told-us-what-to.html)**  2023-07-20 08:11:33
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[PATRIMOINE BÂTI DE L’ÎLE MAURICE : 1740-2023, de l’Hôpital du roy au Musée Intercontinental de l’Esclavage…](https://www.lemauricien.com/le-mauricien/patrimoine-bati-de-lile-maurice-1740-2023-de-lhopital-du-roy-au-musee-intercontinental-de-lesclavage/586413/)**  2023-07-19 13:00:40
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Java program to find the first non-repeating character in a string](https://lovvy.wordpress.com/2023/07/17/java-program-to-find-the-first-non-repeating-character-in-a-string/)**  2023-07-17 13:01:16
