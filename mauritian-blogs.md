@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[HUMBLE APPEL À L’HON. G.P. LESJONGARD, MINISTRE DE L’ÉNERGIE ET DES UTILITÉS PUBLIQUES : Étendre le tarif selon l’heure d’utilisation](https://www.lemauricien.com/le-mauricien/humble-appel-a-lhon-g-p-lesjongard-ministre-de-lenergie-et-des-utilites-publiques-etendre-le-tarif-selon-lheure-dutilisation/586796/)**  2023-07-20 13:42:30
+**[Chuchotements d’E.](https://www.lemauricien.com/le-mauricien/chuchotements-de/587087/)**  2023-07-21 14:39:50
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Updating our Google Account inactivity policy](https://shruticulturalgroup.blogspot.com/2023/07/updating-our-google-account-inactivity.html)**  2023-07-20 08:16:37
