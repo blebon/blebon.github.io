@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Mox Boarding House](https://davidandjennilyn.com/2023/07/22/mox-boarding-house/)**  2023-07-23 06:50:36
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[FACTS AND REMINDERS (Whistleblowing)](https://www.lemauricien.com/le-mauricien/facts-and-reminders-whistleblowing/587330/)**  2023-07-22 13:00:40
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[When old meets new](http://gadatagada.blogspot.com/2023/07/when-old-meets-new.html)**  2023-07-15 12:35:04
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy 14th Birthday Violet!](https://davidandjennilyn.com/2023/07/14/happy-14th-birthday-violet/)**  2023-07-15 02:56:00
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bangkok, Malaysia, Singapore June 2023](https://littleanantasin.wordpress.com/2023/07/10/bangkok-malaysia-singapore-june-2023/)**  2023-07-10 14:49:14
