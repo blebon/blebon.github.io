@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Chuchotements d’E.](https://www.lemauricien.com/le-mauricien/chuchotements-de/587087/)**  2023-07-21 14:39:50
+**[FACTS AND REMINDERS (Whistleblowing)](https://www.lemauricien.com/le-mauricien/facts-and-reminders-whistleblowing/587330/)**  2023-07-22 13:00:40
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Updating our Google Account inactivity policy](https://shruticulturalgroup.blogspot.com/2023/07/updating-our-google-account-inactivity.html)**  2023-07-20 08:16:37
