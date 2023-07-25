@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Alliance électorale : Bérenger réitère-t-il le faux pas politique de 2014 ?](https://www.lemauricien.com/le-mauricien/alliance-electorale-berenger-reitere-t-il-le-faux-pas-politique-de-2014/587810/)**  2023-07-24 13:51:37
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Mox Boarding House](https://davidandjennilyn.com/2023/07/22/mox-boarding-house/)**  2023-07-23 06:50:36
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[FACTS AND REMINDERS (Whistleblowing)](https://www.lemauricien.com/le-mauricien/facts-and-reminders-whistleblowing/587330/)**  2023-07-22 13:00:40
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Updating our Google Account inactivity policy](https://shruticulturalgroup.blogspot.com/2023/07/updating-our-google-account-inactivity.html)**  2023-07-20 08:16:37
