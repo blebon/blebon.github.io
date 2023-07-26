@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Alliance électorale : Bérenger réitère-t-il le faux pas politique de 2014 ?](https://www.lemauricien.com/le-mauricien/alliance-electorale-berenger-reitere-t-il-le-faux-pas-politique-de-2014/587810/)**  2023-07-24 13:51:37
+**[MILAN KUNDERA : HIS ART AND HIS APPEAL](https://www.lemauricien.com/le-mauricien/milan-kundera-his-art-and-his-appeal/588106/)**  2023-07-25 13:38:29
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Mox Boarding House](https://davidandjennilyn.com/2023/07/22/mox-boarding-house/)**  2023-07-23 06:50:36
