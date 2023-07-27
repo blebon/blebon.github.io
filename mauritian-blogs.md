@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[MILAN KUNDERA : HIS ART AND HIS APPEAL](https://www.lemauricien.com/le-mauricien/milan-kundera-his-art-and-his-appeal/588106/)**  2023-07-25 13:38:29
+**[The Masters’ Houses – How can re-engaging with Audre Lorde’s legacy reinvigorate feminism(s) in Mauritius and why it is necessary](https://www.lemauricien.com/le-mauricien/the-masters-houses-how-can-re-engaging-with-audre-lordes-legacy-reinvigorate-feminisms-in-mauritius-and-why-it-is-necessary/588294/)**  2023-07-26 13:00:27
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Mox Boarding House](https://davidandjennilyn.com/2023/07/22/mox-boarding-house/)**  2023-07-23 06:50:36
