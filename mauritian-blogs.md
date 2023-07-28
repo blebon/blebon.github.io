@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mera Blog](https://nayarweb.com/blog)  
+**[Speaking at DevCon 2023: E-commerce Chatbot in Creole](https://nayarweb.com/blog/2023/speaking-at-devcon-2023-e-commerce-chatbot-in-creole/)**  2023-07-28 09:36:10
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Of unrequited love, broken dreams and unfulfilled desires](https://www.lemauricien.com/le-mauricien/of-unrequited-love-broken-dreams-and-unfulfilled-desires/588531/)**  2023-07-27 13:00:19
 
@@ -78,9 +81,6 @@ permalink: /mauritian-blogs/
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Pedestal](https://faustianmatters.blogspot.com/2023/05/pedestal.html)**  2023-05-20 10:48:25
-
-[Mera Blog](https://nayarweb.com/blog)  
-**[2 Years investing in Mauritian Stock Market.](https://nayarweb.com/blog/2023/2-years-investing-in-mauritian-stock-market/)**  2023-05-18 19:13:03
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Financement de la transition écologique à Maurice par la MCB](https://greenmauritius.blogspot.com/2023/04/financement-de-la-transition-ecologique.html)**  2023-04-28 06:37:01
