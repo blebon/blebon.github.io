@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Diplomacy: Friendships, Values and Interests?](https://www.lemauricien.com/le-mauricien/diplomacy-friendships-values-and-interests/588889/)**  2023-07-28 13:44:00
+
 [Mera Blog](https://nayarweb.com/blog)  
 **[Speaking at DevCon 2023: E-commerce Chatbot in Creole](https://nayarweb.com/blog/2023/speaking-at-devcon-2023-e-commerce-chatbot-in-creole/)**  2023-07-28 09:36:10
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Of unrequited love, broken dreams and unfulfilled desires](https://www.lemauricien.com/le-mauricien/of-unrequited-love-broken-dreams-and-unfulfilled-desires/588531/)**  2023-07-27 13:00:19
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Mox Boarding House](https://davidandjennilyn.com/2023/07/22/mox-boarding-house/)**  2023-07-23 06:50:36
