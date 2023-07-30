@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Melancholies](https://faustianmatters.blogspot.com/)  
+**[Memento Mori](https://faustianmatters.blogspot.com/2023/07/memento-mori.html)**  2023-07-29 20:54:24
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Diplomacy: Friendships, Values and Interests?](https://www.lemauricien.com/le-mauricien/diplomacy-friendships-values-and-interests/588889/)**  2023-07-28 13:44:00
+**[Coastal Chic : Breaking Barriers](https://www.lemauricien.com/le-mauricien/coastal-chic-breaking-barriers/589138/)**  2023-07-29 13:02:20
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Speaking at DevCon 2023: E-commerce Chatbot in Creole](https://nayarweb.com/blog/2023/speaking-at-devcon-2023-e-commerce-chatbot-in-creole/)**  2023-07-28 09:36:10
@@ -78,9 +81,6 @@ permalink: /mauritian-blogs/
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[ALBUM ZION QUEEN ( release 2018 )](https://elplagaa.blogspot.com/2023/05/album-zion-queen-release-2018.html)**  2023-05-21 17:18:34
-
-[Melancholies](https://faustianmatters.blogspot.com/)  
-**[Pedestal](https://faustianmatters.blogspot.com/2023/05/pedestal.html)**  2023-05-20 10:48:25
 
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Financement de la transition écologique à Maurice par la MCB](https://greenmauritius.blogspot.com/2023/04/financement-de-la-transition-ecologique.html)**  2023-04-28 06:37:01
