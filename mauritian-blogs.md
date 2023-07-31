@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Abstract water wishes](https://swanlady-impressions.blogspot.com/2023/07/abstract-water-wishes.html)**  2023-07-31 11:00:01
+
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Memento Mori](https://faustianmatters.blogspot.com/2023/07/memento-mori.html)**  2023-07-29 20:54:24
 
@@ -108,9 +111,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[This is a chicken](https://meeraappadoo.wordpress.com/2023/02/24/this-is-a-chicken/)**  2023-02-24 04:41:49
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Calming Bouquet](https://swanlady-impressions.blogspot.com/2023/02/calming-bouquet.html)**  2023-02-15 19:00:45
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
