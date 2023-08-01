@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Peter White : l’exit forcément discret d’un Grand de Maurice](https://www.lemauricien.com/le-mauricien/peter-white-lexit-forcement-discret-dun-grand-de-maurice/589658/)**  2023-07-31 13:42:14
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Abstract water wishes](https://swanlady-impressions.blogspot.com/2023/07/abstract-water-wishes.html)**  2023-07-31 11:00:01
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Memento Mori](https://faustianmatters.blogspot.com/2023/07/memento-mori.html)**  2023-07-29 20:54:24
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Coastal Chic : Breaking Barriers](https://www.lemauricien.com/le-mauricien/coastal-chic-breaking-barriers/589138/)**  2023-07-29 13:02:20
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Speaking at DevCon 2023: E-commerce Chatbot in Creole](https://nayarweb.com/blog/2023/speaking-at-devcon-2023-e-commerce-chatbot-in-creole/)**  2023-07-28 09:36:10
