@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Peter White : l’exit forcément discret d’un Grand de Maurice](https://www.lemauricien.com/le-mauricien/peter-white-lexit-forcement-discret-dun-grand-de-maurice/589658/)**  2023-07-31 13:42:14
+**[A whole new world](https://www.lemauricien.com/le-mauricien/a-whole-new-world/589952/)**  2023-08-01 13:28:40
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Abstract water wishes](https://swanlady-impressions.blogspot.com/2023/07/abstract-water-wishes.html)**  2023-07-31 11:00:01
