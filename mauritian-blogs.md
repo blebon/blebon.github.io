@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[A whole new world](https://www.lemauricien.com/le-mauricien/a-whole-new-world/589952/)**  2023-08-01 13:28:40
+**[Réflexions – GHTU : Un GM jugé sur sa politique éducationnelle](https://www.lemauricien.com/le-mauricien/reflexions-ghtu-un-gm-juge-sur-sa-politique-educationnelle/590132/)**  2023-08-02 13:00:14
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Abstract water wishes](https://swanlady-impressions.blogspot.com/2023/07/abstract-water-wishes.html)**  2023-07-31 11:00:01
