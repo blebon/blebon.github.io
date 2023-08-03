@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Unlike China, India Cannot Be an Economic Superpower](https://zoomdr.blogspot.com/2023/08/unlike-china-india-cannot-be-economic.html)**  2023-08-03 06:17:28
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Réflexions – GHTU : Un GM jugé sur sa politique éducationnelle](https://www.lemauricien.com/le-mauricien/reflexions-ghtu-un-gm-juge-sur-sa-politique-educationnelle/590132/)**  2023-08-02 13:00:14
 
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius, connected !](https://relocationmauritius.wordpress.com/2023/06/27/mauritius-connected/)**  2023-06-27 09:19:16
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[The global industrial arms race is just what we need](https://zoomdr.blogspot.com/2023/06/the-global-industrial-arms-race-is-just.html)**  2023-06-27 05:14:24
 
 [priscimon.com](https://priscimon.com/blog)  
 **[J’ai demandé à la lune](https://priscimon.com/blog/2023/06/20/jai-demande-a-la-lune/)**  2023-06-20 18:42:34
