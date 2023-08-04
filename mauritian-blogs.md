@@ -157,7 +157,4 @@ permalink: /mauritian-blogs/
 [Capital Street Fx](https://capital-streetfx.blogspot.com/)  
 **[What Is Fundamental Analysis? – Capital Street Fx](https://capital-streetfx.blogspot.com/2022/09/what-is-fundamental-analysis-capital.html)**  2022-09-08 10:18:27
 
-[Blog trotteur](https://patoutafeca.blogspot.com/)  
-**[ES6 exemple simple: Async, Await, Fetch, Then](https://patoutafeca.blogspot.com/2022/09/es6-exemple-simple-async-await-fetch.html)**  2022-09-02 07:57:38
-
 <div style="height:0;width:0;overflow:hidden;"></div>
