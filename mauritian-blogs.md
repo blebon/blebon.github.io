@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Economic and financial policies — How to Close Gender Gaps and Grow the Global Economy](https://www.lemauricien.com/le-mauricien/economic-and-financial-policies-how-to-close-gender-gaps-and-grow-the-global-economy/590365/)**  2023-08-03 13:00:45
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Unlike China, India Cannot Be an Economic Superpower](https://zoomdr.blogspot.com/2023/08/unlike-china-india-cannot-be-economic.html)**  2023-08-03 06:17:28
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Réflexions – GHTU : Un GM jugé sur sa politique éducationnelle](https://www.lemauricien.com/le-mauricien/reflexions-ghtu-un-gm-juge-sur-sa-politique-educationnelle/590132/)**  2023-08-02 13:00:14
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Abstract water wishes](https://swanlady-impressions.blogspot.com/2023/07/abstract-water-wishes.html)**  2023-07-31 11:00:01
