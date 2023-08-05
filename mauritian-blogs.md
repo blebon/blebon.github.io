@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[What is a #Visa ?](https://relocationmauritius.wordpress.com/2023/08/04/what-is-a-visa-2/)**  2023-08-04 13:13:10
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Economic and financial policies — How to Close Gender Gaps and Grow the Global Economy](https://www.lemauricien.com/le-mauricien/economic-and-financial-policies-how-to-close-gender-gaps-and-grow-the-global-economy/590365/)**  2023-08-03 13:00:45
+**[Paroles simples](https://www.lemauricien.com/le-mauricien/paroles-simples/590576/)**  2023-08-04 13:00:55
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Unlike China, India Cannot Be an Economic Superpower](https://zoomdr.blogspot.com/2023/08/unlike-china-india-cannot-be-economic.html)**  2023-08-03 06:17:28
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Packing Tips for a Blissful Island Escape](https://blog.constancehotels.com/packing-tips-for-a-blissful-island-escape/)**  2023-06-27 10:46:27
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Mauritius, connected !](https://relocationmauritius.wordpress.com/2023/06/27/mauritius-connected/)**  2023-06-27 09:19:16
 
 [priscimon.com](https://priscimon.com/blog)  
 **[J’ai demandé à la lune](https://priscimon.com/blog/2023/06/20/jai-demande-a-la-lune/)**  2023-06-20 18:42:34
