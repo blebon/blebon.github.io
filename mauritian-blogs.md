@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Outline of Institutional Reforms … The Principles by which the Nation lives](https://www.lemauricien.com/le-mauricien/590825/590825/)**  2023-08-05 12:16:18
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[What is a #Visa ?](https://relocationmauritius.wordpress.com/2023/08/04/what-is-a-visa-2/)**  2023-08-04 13:13:10
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Paroles simples](https://www.lemauricien.com/le-mauricien/paroles-simples/590576/)**  2023-08-04 13:00:55
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Unlike China, India Cannot Be an Economic Superpower](https://zoomdr.blogspot.com/2023/08/unlike-china-india-cannot-be-economic.html)**  2023-08-03 06:17:28
