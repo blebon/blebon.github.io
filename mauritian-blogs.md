@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-08-08 03:14:26
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Outline of Institutional Reforms … The Principles by which the Nation lives](https://www.lemauricien.com/le-mauricien/590825/590825/)**  2023-08-05 12:16:18
+**[Violations flagrantes des droits humains en Iran](https://www.lemauricien.com/le-mauricien/violations-flagrantes-des-droits-humains-en-iran/591291/)**  2023-08-07 13:08:03
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[What is a #Visa ?](https://relocationmauritius.wordpress.com/2023/08/04/what-is-a-visa-2/)**  2023-08-04 13:13:10
@@ -111,9 +114,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[This is a chicken](https://meeraappadoo.wordpress.com/2023/02/24/this-is-a-chicken/)**  2023-02-24 04:41:49
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Replacement for children therapy.](https://flicenflac.blogspot.com/2023/01/replacement-for-children-therapy.html)**  2023-01-24 02:44:06
 
 [Medicine Hack](http://www.medicinehack.com/)  
 **[BPAP - Bilevel Positive Airway Pressure Ventilation](http://www.medicinehack.com/2020/04/bpap-bilevel-positive-airway-pressure.html)**  2023-01-01 16:23:01
