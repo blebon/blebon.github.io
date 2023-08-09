@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Assad Bhuglah’s New Book:  “KOKNI DIASPORA IN MAURITIUS”(*):](https://www.lemauricien.com/le-mauricien/assad-bhuglahs-new-book-kokni-diaspora-in-mauritius/591505/)**  2023-08-08 13:00:41
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-08-08 03:14:26
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Violations flagrantes des droits humains en Iran](https://www.lemauricien.com/le-mauricien/violations-flagrantes-des-droits-humains-en-iran/591291/)**  2023-08-07 13:08:03
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[What is a #Visa ?](https://relocationmauritius.wordpress.com/2023/08/04/what-is-a-visa-2/)**  2023-08-04 13:13:10
