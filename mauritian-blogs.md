@@ -154,7 +154,4 @@ permalink: /mauritian-blogs/
 [Dave Appadoo](https://daveappadoo.com/)  
 **[How to use Hugging Face🤗& Gradio to create simple Machine Learning (ML) projects](https://daveappadoo.com/how-to-use-hugging-face-gradio-to-create-simple-machine-learning-ml-projects/)**  2022-09-11 19:20:43
 
-[Capital Street Fx](https://capital-streetfx.blogspot.com/)  
-**[What Is Fundamental Analysis? – Capital Street Fx](https://capital-streetfx.blogspot.com/2022/09/what-is-fundamental-analysis-capital.html)**  2022-09-08 10:18:27
-
 <div style="height:0;width:0;overflow:hidden;"></div>
