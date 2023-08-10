@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[NDP2023](https://kabilen.tumblr.com/post/725179699182157824)**  2023-08-09 13:47:33
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Assad Bhuglah’s New Book:  “KOKNI DIASPORA IN MAURITIUS”(*):](https://www.lemauricien.com/le-mauricien/assad-bhuglahs-new-book-kokni-diaspora-in-mauritius/591505/)**  2023-08-08 13:00:41
+**[PA MELANZ KALCHOUL!](https://www.lemauricien.com/le-mauricien/pa-melanz-kalchoul/591775/)**  2023-08-09 13:33:36
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-08-08 03:14:26
@@ -75,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
 **[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-06-05 06:33:23
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Alwys so peaceful. 🙏🏾 #vesak2023](https://kabilen.tumblr.com/post/719060445867196416)**  2023-06-03 00:44:39
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Comment l'IA (Intelligence Artificielle) peut contribuer à aligner l'Intelligence Humaine (IH) sur une vision du Dieu Unique.](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle_31.html)**  2023-06-01 06:59:20
