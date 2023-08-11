@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[POST-PLASTIC FREE JULY – Barriers to Environmental  Actions and Climate Optimism](https://www.lemauricien.com/le-mauricien/post-plastic-free-july-barriers-to-environmental-actions-and-climate-optimism/591993/)**  2023-08-10 12:32:51
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[NDP2023](https://kabilen.tumblr.com/post/725179699182157824)**  2023-08-09 13:47:33
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[PA MELANZ KALCHOUL!](https://www.lemauricien.com/le-mauricien/pa-melanz-kalchoul/591775/)**  2023-08-09 13:33:36
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-08-08 03:14:26
