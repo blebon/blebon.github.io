@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[In Great Company for Fiddler on the Roof](https://davidandjennilyn.com/2023/08/12/in-great-company-for-fiddler-on-the-roof/)**  2023-08-12 16:53:33
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[MY ROBLOX ADVENTURE](https://www.lemauricien.com/le-mauricien/my-roblox-adventure/592434/)**  2023-08-12 10:12:23
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Speaking at DevCon 2023: E-commerce Chatbot in Creole](https://nayarweb.com/blog/2023/speaking-at-devcon-2023-e-commerce-chatbot-in-creole/)**  2023-07-28 09:36:10
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Mox Boarding House](https://davidandjennilyn.com/2023/07/22/mox-boarding-house/)**  2023-07-23 06:50:36
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Updating our Google Account inactivity policy](https://shruticulturalgroup.blogspot.com/2023/07/updating-our-google-account-inactivity.html)**  2023-07-20 08:16:37
