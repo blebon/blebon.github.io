@@ -5,10 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [David and Jennilyn](https://davidandjennilyn.com)  
-**[In Great Company for Fiddler on the Roof](https://davidandjennilyn.com/2023/08/12/in-great-company-for-fiddler-on-the-roof/)**  2023-08-12 16:53:33
+**[Portland Bridge Pedal 2023](https://davidandjennilyn.com/2023/08/13/portland-bridge-pedal-2023/)**  2023-08-14 04:45:49
+
+[ever peckish](https://everpeckish.com)  
+**[Custard and Cherry Jam Phyllo Tartlets](https://everpeckish.com/custard-and-cherry-jam-phyllo-tartlets/?utm_source=rss&utm_medium=rss&utm_campaign=custard-and-cherry-jam-phyllo-tartlets)**  2023-08-13 12:51:45
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[MY ROBLOX ADVENTURE](https://www.lemauricien.com/le-mauricien/my-roblox-adventure/592434/)**  2023-08-12 10:12:23
+**[Air Mauritius’ move from Heathrow to Gatwick](https://www.lemauricien.com/le-mauricien/air-mauritius-move-from-heathrow-to-gatwick/592439/)**  2023-08-12 10:15:34
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Start of a bday 2023. Team gift.](https://kabilen.tumblr.com/post/725407409108025344)**  2023-08-12 02:06:54
@@ -94,9 +97,6 @@ permalink: /mauritian-blogs/
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 3e Dimanche du temps de Pâques](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-3e-dimanche-du-temps-de.html)**  2023-04-23 14:25:31
 
-[ever peckish](https://everpeckish.com)  
-**[Ostrich sausage plaits](https://everpeckish.com/ostrich-sausage-plaits/?utm_source=rss&utm_medium=rss&utm_campaign=ostrich-sausage-plaits)**  2023-04-19 19:00:20
-
 [Mike Sinnott's World](https://msinnott.net)  
 **[Artificial intelligence (AI)](https://msinnott.net/2023/04/19/artificial-intelligence-ai/)**  2023-04-19 08:06:47
 
@@ -150,8 +150,5 @@ permalink: /mauritian-blogs/
 
 [C'est reparti !](https://c-est-reparti.blogspot.com/)  
 **[La lune qui nous berce](https://c-est-reparti.blogspot.com/2022/09/la-lune-qui-nous-berce.html)**  2022-09-14 20:38:52
-
-[Dave Appadoo](https://daveappadoo.com/)  
-**[How to use Hugging Face🤗& Gradio to create simple Machine Learning (ML) projects](https://daveappadoo.com/how-to-use-hugging-face-gradio-to-create-simple-machine-learning-ml-projects/)**  2022-09-11 19:20:43
 
 <div style="height:0;width:0;overflow:hidden;"></div>
