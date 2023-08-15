@@ -4,23 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Decoding the Investor Occupation Permit](https://relocationmauritius.wordpress.com/2023/08/14/decoding-the-investor-occupation-permit/)**  2023-08-14 17:14:00
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Marie la catholique, l’orthodoxe, la protestante et la musulmane](https://www.lemauricien.com/le-mauricien/marie-la-catholique-lorthodoxe-la-protestante-et-la-musulmane/592786/)**  2023-08-14 13:45:26
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Portland Bridge Pedal 2023](https://davidandjennilyn.com/2023/08/13/portland-bridge-pedal-2023/)**  2023-08-14 04:45:49
 
 [ever peckish](https://everpeckish.com)  
 **[Custard and Cherry Jam Phyllo Tartlets](https://everpeckish.com/custard-and-cherry-jam-phyllo-tartlets/?utm_source=rss&utm_medium=rss&utm_campaign=custard-and-cherry-jam-phyllo-tartlets)**  2023-08-13 12:51:45
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Air Mauritius’ move from Heathrow to Gatwick](https://www.lemauricien.com/le-mauricien/air-mauritius-move-from-heathrow-to-gatwick/592439/)**  2023-08-12 10:15:34
-
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Start of a bday 2023. Team gift.](https://kabilen.tumblr.com/post/725407409108025344)**  2023-08-12 02:06:54
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-08-08 03:14:26
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[What is a #Visa ?](https://relocationmauritius.wordpress.com/2023/08/04/what-is-a-visa-2/)**  2023-08-04 13:13:10
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Unlike China, India Cannot Be an Economic Superpower](https://zoomdr.blogspot.com/2023/08/unlike-china-india-cannot-be-economic.html)**  2023-08-03 06:17:28
