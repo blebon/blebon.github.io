@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Les hommes colonisent l’espace…public](https://www.lemauricien.com/le-mauricien/les-hommes-colonisent-lespacepublic/592913/)**  2023-08-15 13:00:59
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Decoding the Investor Occupation Permit](https://relocationmauritius.wordpress.com/2023/08/14/decoding-the-investor-occupation-permit/)**  2023-08-14 17:14:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Marie la catholique, l’orthodoxe, la protestante et la musulmane](https://www.lemauricien.com/le-mauricien/marie-la-catholique-lorthodoxe-la-protestante-et-la-musulmane/592786/)**  2023-08-14 13:45:26
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Portland Bridge Pedal 2023](https://davidandjennilyn.com/2023/08/13/portland-bridge-pedal-2023/)**  2023-08-14 04:45:49
