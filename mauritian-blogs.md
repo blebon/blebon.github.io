@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[The things we do…](https://priscimon.com/blog/2023/08/17/the-things-we-do/)**  2023-08-17 00:47:23
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Les hommes colonisent l’espace…public](https://www.lemauricien.com/le-mauricien/les-hommes-colonisent-lespacepublic/592913/)**  2023-08-15 13:00:59
 
@@ -66,9 +69,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Packing Tips for a Blissful Island Escape](https://blog.constancehotels.com/packing-tips-for-a-blissful-island-escape/)**  2023-06-27 10:46:27
-
-[priscimon.com](https://priscimon.com/blog)  
-**[J’ai demandé à la lune](https://priscimon.com/blog/2023/06/20/jai-demande-a-la-lune/)**  2023-06-20 18:42:34
 
 [English Speaking Union](https://www.esumauritius.org)  
 **[ESU National Spelling Bee Competition Finals 2023](https://www.esumauritius.org/national-spelling-bee-competition/finals-2023/)**  2023-06-19 08:24:33
@@ -147,8 +147,5 @@ permalink: /mauritian-blogs/
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[Chalet vibe](http://gadatagada-portfolio.blogspot.com/2022/09/chalet-vibe.html)**  2022-09-23 06:19:51
-
-[C'est reparti !](https://c-est-reparti.blogspot.com/)  
-**[La lune qui nous berce](https://c-est-reparti.blogspot.com/2022/09/la-lune-qui-nous-berce.html)**  2022-09-14 20:38:52
 
 <div style="height:0;width:0;overflow:hidden;"></div>
