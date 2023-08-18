@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Off the beaten track: exploring Seychelles](https://blog.constancehotels.com/off-the-beaten-track-seychelles/)**  2023-08-18 08:29:02
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Petits Coups de Coude](https://www.lemauricien.com/le-mauricien/petits-coups-de-coude/593374/)**  2023-08-17 13:09:27
 
@@ -66,9 +69,6 @@ permalink: /mauritian-blogs/
 
 [Equator Lounge](https://equatorlounge.blogspot.com/)  
 **[Windows 10 - difference between product key and license key](https://equatorlounge.blogspot.com/2023/06/windows-10-difference-between-product.html)**  2023-06-29 07:01:45
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Packing Tips for a Blissful Island Escape](https://blog.constancehotels.com/packing-tips-for-a-blissful-island-escape/)**  2023-06-27 10:46:27
 
 [English Speaking Union](https://www.esumauritius.org)  
 **[ESU National Spelling Bee Competition Finals 2023](https://www.esumauritius.org/national-spelling-bee-competition/finals-2023/)**  2023-06-19 08:24:33
