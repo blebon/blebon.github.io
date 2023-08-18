@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Petits Coups de Coude](https://www.lemauricien.com/le-mauricien/petits-coups-de-coude/593374/)**  2023-08-17 13:09:27
+
 [priscimon.com](https://priscimon.com/blog)  
 **[The things we do…](https://priscimon.com/blog/2023/08/17/the-things-we-do/)**  2023-08-17 00:47:23
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Les hommes colonisent l’espace…public](https://www.lemauricien.com/le-mauricien/les-hommes-colonisent-lespacepublic/592913/)**  2023-08-15 13:00:59
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Decoding the Investor Occupation Permit](https://relocationmauritius.wordpress.com/2023/08/14/decoding-the-investor-occupation-permit/)**  2023-08-14 17:14:00
