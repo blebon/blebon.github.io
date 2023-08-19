@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Water Waves for Wednesday](https://davidandjennilyn.com/2023/08/18/water-waves-for-wednesday/)**  2023-08-19 05:39:01
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Rich Heritage of Mauritius](https://blog.constancehotels.com/the-rich-heritage-of-mauritius/)**  2023-08-18 14:00:00
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Decoding the Investor Occupation Permit](https://relocationmauritius.wordpress.com/2023/08/14/decoding-the-investor-occupation-permit/)**  2023-08-14 17:14:00
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Portland Bridge Pedal 2023](https://davidandjennilyn.com/2023/08/13/portland-bridge-pedal-2023/)**  2023-08-14 04:45:49
 
 [ever peckish](https://everpeckish.com)  
 **[Custard and Cherry Jam Phyllo Tartlets](https://everpeckish.com/custard-and-cherry-jam-phyllo-tartlets/?utm_source=rss&utm_medium=rss&utm_campaign=custard-and-cherry-jam-phyllo-tartlets)**  2023-08-13 12:51:45
