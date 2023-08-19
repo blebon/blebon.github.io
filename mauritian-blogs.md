@@ -5,10 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Off the beaten track: exploring Seychelles](https://blog.constancehotels.com/off-the-beaten-track-seychelles/)**  2023-08-18 08:29:02
+**[The Rich Heritage of Mauritius](https://blog.constancehotels.com/the-rich-heritage-of-mauritius/)**  2023-08-18 14:00:00
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Petits Coups de Coude](https://www.lemauricien.com/le-mauricien/petits-coups-de-coude/593374/)**  2023-08-17 13:09:27
+**[Adolphe De Plevitz : The unsung hero of the Indian immigrants in Mauritius](https://www.lemauricien.com/le-mauricien/adolphe-de-plevitz-the-unsung-hero-of-the-indian-immigrants-in-mauritius/593621/)**  2023-08-18 13:02:45
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Ho Ho Ho](https://swanlady-impressions.blogspot.com/2023/08/ho-ho-ho.html)**  2023-08-18 12:14:40
 
 [priscimon.com](https://priscimon.com/blog)  
 **[The things we do…](https://priscimon.com/blog/2023/08/17/the-things-we-do/)**  2023-08-17 00:47:23
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Unlike China, India Cannot Be an Economic Superpower](https://zoomdr.blogspot.com/2023/08/unlike-china-india-cannot-be-economic.html)**  2023-08-03 06:17:28
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Abstract water wishes](https://swanlady-impressions.blogspot.com/2023/07/abstract-water-wishes.html)**  2023-07-31 11:00:01
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Memento Mori](https://faustianmatters.blogspot.com/2023/07/memento-mori.html)**  2023-07-29 20:54:24
