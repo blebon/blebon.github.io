@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[How One European Country Will Make FIFA History Today](http://kozelidir.blogspot.com/2023/08/how-one-european-country-will-make-fifa.html)**  2023-08-19 22:44:22
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[An Overview :   The Freedom Struggle of the Mauritian Maroons  During the Early Years of Ile de France (1721-1732)](https://www.lemauricien.com/le-mauricien/an-overview-the-freedom-struggle-of-the-mauritian-maroons-during-the-early-years-of-ile-de-france-1721-1732/593828/)**  2023-08-19 11:52:03
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Water Waves for Wednesday](https://davidandjennilyn.com/2023/08/18/water-waves-for-wednesday/)**  2023-08-19 05:39:01
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Rich Heritage of Mauritius](https://blog.constancehotels.com/the-rich-heritage-of-mauritius/)**  2023-08-18 14:00:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Adolphe De Plevitz : The unsung hero of the Indian immigrants in Mauritius](https://www.lemauricien.com/le-mauricien/adolphe-de-plevitz-the-unsung-hero-of-the-indian-immigrants-in-mauritius/593621/)**  2023-08-18 13:02:45
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Ho Ho Ho](https://swanlady-impressions.blogspot.com/2023/08/ho-ho-ho.html)**  2023-08-18 12:14:40
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Updating our Google Account inactivity policy](https://shruticulturalgroup.blogspot.com/2023/07/updating-our-google-account-inactivity.html)**  2023-07-20 08:16:37
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Remembering the Dragon Who Told Us What To Be](http://kozelidir.blogspot.com/2023/07/remembering-dragon-who-told-us-what-to.html)**  2023-07-20 08:11:33
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Java program to find the first non-repeating character in a string](https://lovvy.wordpress.com/2023/07/17/java-program-to-find-the-first-non-repeating-character-in-a-string/)**  2023-07-17 13:01:16
