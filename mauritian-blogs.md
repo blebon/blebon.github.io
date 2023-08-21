@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Bombay Transit Aug 2023](https://kabilen.tumblr.com/post/726202447180267520)**  2023-08-20 20:43:42
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[How One European Country Will Make FIFA History Today](http://kozelidir.blogspot.com/2023/08/how-one-european-country-will-make-fifa.html)**  2023-08-19 22:44:22
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Custard and Cherry Jam Phyllo Tartlets](https://everpeckish.com/custard-and-cherry-jam-phyllo-tartlets/?utm_source=rss&utm_medium=rss&utm_campaign=custard-and-cherry-jam-phyllo-tartlets)**  2023-08-13 12:51:45
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Start of a bday 2023. Team gift.](https://kabilen.tumblr.com/post/725407409108025344)**  2023-08-12 02:06:54
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-08-08 03:14:26
