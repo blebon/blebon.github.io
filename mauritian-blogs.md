@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Hidden Gems of North and South Ari Atoll, Maldives](https://blog.constancehotels.com/hidden-gems-north-south-ari-atolls-maldives/)**  2023-08-22 08:27:54
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[TIME FOR ONLY ….’MANZ PISTAS GET SINEMA’!](https://www.lemauricien.com/le-mauricien/time-for-only-manz-pistas-get-sinema/594131/)**  2023-08-21 13:00:43
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Water Waves for Wednesday](https://davidandjennilyn.com/2023/08/18/water-waves-for-wednesday/)**  2023-08-19 05:39:01
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[The Rich Heritage of Mauritius](https://blog.constancehotels.com/the-rich-heritage-of-mauritius/)**  2023-08-18 14:00:00
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Ho Ho Ho](https://swanlady-impressions.blogspot.com/2023/08/ho-ho-ho.html)**  2023-08-18 12:14:40
