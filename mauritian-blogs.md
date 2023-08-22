@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[TIME FOR ONLY ….’MANZ PISTAS GET SINEMA’!](https://www.lemauricien.com/le-mauricien/time-for-only-manz-pistas-get-sinema/594131/)**  2023-08-21 13:00:43
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Bombay Transit Aug 2023](https://kabilen.tumblr.com/post/726202447180267520)**  2023-08-20 20:43:42
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[How One European Country Will Make FIFA History Today](http://kozelidir.blogspot.com/2023/08/how-one-european-country-will-make-fifa.html)**  2023-08-19 22:44:22
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[An Overview :   The Freedom Struggle of the Mauritian Maroons  During the Early Years of Ile de France (1721-1732)](https://www.lemauricien.com/le-mauricien/an-overview-the-freedom-struggle-of-the-mauritian-maroons-during-the-early-years-of-ile-de-france-1721-1732/593828/)**  2023-08-19 11:52:03
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Water Waves for Wednesday](https://davidandjennilyn.com/2023/08/18/water-waves-for-wednesday/)**  2023-08-19 05:39:01
