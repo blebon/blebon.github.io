@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Hidden Gems of North and South Ari Atoll, Maldives](https://blog.constancehotels.com/hidden-gems-north-south-ari-atolls-maldives/)**  2023-08-22 08:27:54
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 LES SALINES DE MAURICE par Jérémie de Gersigny](https://mysweetmauritius.blogspot.com/2023/08/les-salines-de-maurice-par-jeremie-de.html)**  2023-08-22 13:36:16
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[TIME FOR ONLY ….’MANZ PISTAS GET SINEMA’!](https://www.lemauricien.com/le-mauricien/time-for-only-manz-pistas-get-sinema/594131/)**  2023-08-21 13:00:43
+**[The International Day for the Remembrance of the Slave Trade and its Abolition](https://www.lemauricien.com/le-mauricien/the-international-day-for-the-remembrance-of-the-slave-trade-and-its-abolition/594432/)**  2023-08-22 13:17:40
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Hidden Gems of North and South Ari Atoll, Maldives](https://blog.constancehotels.com/hidden-gems-north-south-ari-atolls-maldives/)**  2023-08-22 08:27:54
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Bombay Transit Aug 2023](https://kabilen.tumblr.com/post/726202447180267520)**  2023-08-20 20:43:42
@@ -84,9 +87,6 @@ permalink: /mauritian-blogs/
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Comment l'IA (Intelligence Artificielle) peut contribuer à aligner l'Intelligence Humaine (IH) sur une vision du Dieu Unique.](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle_31.html)**  2023-06-01 06:59:20
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 LAKAZ CHAMAREL](https://mysweetmauritius.blogspot.com/2023/05/lakaz-chamarel_28.html)**  2023-05-28 18:52:37
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[ALBUM ZION QUEEN ( release 2018 )](https://elplagaa.blogspot.com/2023/05/album-zion-queen-release-2018.html)**  2023-05-21 17:18:34
