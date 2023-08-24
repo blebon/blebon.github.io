@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Sali rouz](https://www.lemauricien.com/le-mauricien/sali-rouz/594633/)**  2023-08-23 13:16:21
+
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LES SALINES DE MAURICE par Jérémie de Gersigny](https://mysweetmauritius.blogspot.com/2023/08/les-salines-de-maurice-par-jeremie-de.html)**  2023-08-22 13:36:16
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The International Day for the Remembrance of the Slave Trade and its Abolition](https://www.lemauricien.com/le-mauricien/the-international-day-for-the-remembrance-of-the-slave-trade-and-its-abolition/594432/)**  2023-08-22 13:17:40
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Hidden Gems of North and South Ari Atoll, Maldives](https://blog.constancehotels.com/hidden-gems-north-south-ari-atolls-maldives/)**  2023-08-22 08:27:54
