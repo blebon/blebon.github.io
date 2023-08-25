@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[L&rsquo;Hiver &agrave; Maurice #mru23](https://kabilen.tumblr.com/post/726599160383602688)**  2023-08-25 05:49:17
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Tressaillez de Joie !](https://www.lemauricien.com/le-mauricien/tressaillez-de-joie/594836/)**  2023-08-24 13:00:45
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Hidden Gems of North and South Ari Atoll, Maldives](https://blog.constancehotels.com/hidden-gems-north-south-ari-atolls-maldives/)**  2023-08-22 08:27:54
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Bombay Transit Aug 2023](https://kabilen.tumblr.com/post/726202447180267520)**  2023-08-20 20:43:42
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[How One European Country Will Make FIFA History Today](http://kozelidir.blogspot.com/2023/08/how-one-european-country-will-make-fifa.html)**  2023-08-19 22:44:22
@@ -144,8 +144,5 @@ permalink: /mauritian-blogs/
 
 [An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
 **[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
-
-[Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
-**[Chalet vibe](http://gadatagada-portfolio.blogspot.com/2022/09/chalet-vibe.html)**  2022-09-23 06:19:51
 
 <div style="height:0;width:0;overflow:hidden;"></div>
