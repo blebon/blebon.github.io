@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Sali rouz](https://www.lemauricien.com/le-mauricien/sali-rouz/594633/)**  2023-08-23 13:16:21
+**[Tressaillez de Joie !](https://www.lemauricien.com/le-mauricien/tressaillez-de-joie/594836/)**  2023-08-24 13:00:45
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LES SALINES DE MAURICE par Jérémie de Gersigny](https://mysweetmauritius.blogspot.com/2023/08/les-salines-de-maurice-par-jeremie-de.html)**  2023-08-22 13:36:16
