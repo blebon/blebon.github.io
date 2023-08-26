@@ -5,10 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[PHÉNOMÈNES MÉTÉOROLOGIQUES EXTRÊMES – Incendies à Hawaï – la sonnette d’alarme !](https://www.lemauricien.com/le-mauricien/phenomenes-meteorologiques-extremes-incendies-a-hawai-la-sonnette-dalarme/595259/)**  2023-08-25 13:00:38
+**[Pour féliciter Monseigneur Jean Michaël Durhône Évêque de Port Louis](https://www.lemauricien.com/le-mauricien/pour-feliciter-monseigneur-jean-michael-durhone-eveque-de-port-louis/595490/)**  2023-08-26 10:37:27
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
-**[Visite au Temple des &Eacute;lites #mru23](https://kabilen.tumblr.com/post/726623097622577152)**  2023-08-25 12:09:45
+**[La Nicoliere Ride #mru23](https://kabilen.tumblr.com/post/726697724519628800)**  2023-08-26 07:55:55
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LES SALINES DE MAURICE par Jérémie de Gersigny](https://mysweetmauritius.blogspot.com/2023/08/les-salines-de-maurice-par-jeremie-de.html)**  2023-08-22 13:36:16
