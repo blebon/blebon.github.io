@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Tackling Food Waste: Insights from a Workshop on Leftovers & Imperfect Produce](https://facultyagriculture.blogspot.com/2023/08/tackling-food-waste-insights-from.html)**  2023-08-29 10:37:29
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Fresh Fish #mru23](https://kabilen.tumblr.com/post/726923192609947648)**  2023-08-28 19:39:38
 
@@ -78,9 +81,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[A systemic knot](https://tchombo.blogspot.com/2023/06/a-systemic-knot.html)**  2023-06-15 17:39:58
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[The Future of Farming: A Talk on Career Prospects in Agriculture](https://facultyagriculture.blogspot.com/2023/06/the-future-of-farming-talk-on-career.html)**  2023-06-10 15:17:36
 
 [School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
 **[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-06-05 06:33:23
