@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Pour féliciter Monseigneur Jean Michaël Durhône Évêque de Port Louis](https://www.lemauricien.com/le-mauricien/pour-feliciter-monseigneur-jean-michael-durhone-eveque-de-port-louis/595490/)**  2023-08-26 10:37:27
-
 [kabilen sornum](https://kabilen.tumblr.com/)  
-**[La Nicoliere Ride #mru23](https://kabilen.tumblr.com/post/726697724519628800)**  2023-08-26 07:55:55
+**[Fresh Fish #mru23](https://kabilen.tumblr.com/post/726923192609947648)**  2023-08-28 19:39:38
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Tropical Tipples: Exploring the Art of Cocktail Making](https://blog.constancehotels.com/tropical-tipples-exploring-the-art-of-cocktail-making/)**  2023-08-28 16:18:47
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[National Wholesale Market (NWM) :  Let’s give the devil its due!](https://www.lemauricien.com/le-mauricien/national-wholesale-market-nwm-lets-give-the-devil-its-due/595918/)**  2023-08-28 14:00:03
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LES SALINES DE MAURICE par Jérémie de Gersigny](https://mysweetmauritius.blogspot.com/2023/08/les-salines-de-maurice-par-jeremie-de.html)**  2023-08-22 13:36:16
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Hidden Gems of North and South Ari Atoll, Maldives](https://blog.constancehotels.com/hidden-gems-north-south-ari-atolls-maldives/)**  2023-08-22 08:27:54
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[How One European Country Will Make FIFA History Today](http://kozelidir.blogspot.com/2023/08/how-one-european-country-will-make-fifa.html)**  2023-08-19 22:44:22
