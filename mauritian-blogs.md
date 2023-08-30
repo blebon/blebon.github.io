@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Money, Power, & fame](https://vintishgokool.blogspot.com/2023/08/money-power-fame.html)**  2023-08-29 14:59:49
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Tackling Food Waste: Insights from a Workshop on Leftovers & Imperfect Produce](https://facultyagriculture.blogspot.com/2023/08/tackling-food-waste-insights-from.html)**  2023-08-29 10:37:29
 
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Java program to find the first non-repeating character in a string](https://lovvy.wordpress.com/2023/07/17/java-program-to-find-the-first-non-repeating-character-in-a-string/)**  2023-07-17 13:01:16
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Evolves](https://vintishgokool.blogspot.com/2023/07/evolves.html)**  2023-07-15 21:51:38
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[When old meets new](http://gadatagada.blogspot.com/2023/07/when-old-meets-new.html)**  2023-07-15 12:35:04
