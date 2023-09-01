@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Anou koz parol, N° 139 – Anou Koz Literatir Kreol I](https://www.lemauricien.com/le-mauricien/anou-koz-parol-n-139-anou-koz-literatir-kreol-i/596726/)**  2023-08-31 13:00:55
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money, Power, & fame](https://vintishgokool.blogspot.com/2023/08/money-power-fame.html)**  2023-08-29 14:59:49
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Tropical Tipples: Exploring the Art of Cocktail Making](https://blog.constancehotels.com/tropical-tipples-exploring-the-art-of-cocktail-making/)**  2023-08-28 16:18:47
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[National Wholesale Market (NWM) :  Let’s give the devil its due!](https://www.lemauricien.com/le-mauricien/national-wholesale-market-nwm-lets-give-the-devil-its-due/595918/)**  2023-08-28 14:00:03
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 LES SALINES DE MAURICE par Jérémie de Gersigny](https://mysweetmauritius.blogspot.com/2023/08/les-salines-de-maurice-par-jeremie-de.html)**  2023-08-22 13:36:16
