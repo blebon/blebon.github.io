@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Playing with expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/09/02/playing-with-expired-ferrania-solaris-100-film/)**  2023-09-02 01:44:46
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou koz parol, N° 139 – Anou Koz Literatir Kreol I](https://www.lemauricien.com/le-mauricien/anou-koz-parol-n-139-anou-koz-literatir-kreol-i/596726/)**  2023-08-31 13:00:55
+**[CONNEXION À L’INFINI – Danser sa vie avec créativité](https://www.lemauricien.com/le-mauricien/connexion-a-linfini-danser-sa-vie-avec-creativite/596979/)**  2023-09-01 14:00:56
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money, Power, & fame](https://vintishgokool.blogspot.com/2023/08/money-power-fame.html)**  2023-08-29 14:59:49
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Ho Ho Ho](https://swanlady-impressions.blogspot.com/2023/08/ho-ho-ho.html)**  2023-08-18 12:14:40
-
-[priscimon.com](https://priscimon.com/blog)  
-**[The things we do…](https://priscimon.com/blog/2023/08/17/the-things-we-do/)**  2023-08-17 00:47:23
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Decoding the Investor Occupation Permit](https://relocationmauritius.wordpress.com/2023/08/14/decoding-the-investor-occupation-permit/)**  2023-08-14 17:14:00
