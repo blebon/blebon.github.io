@@ -4,20 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[priscimon.com](https://priscimon.com/blog)  
-**[Playing with expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/09/02/playing-with-expired-ferrania-solaris-100-film/)**  2023-09-02 01:44:46
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Bazaar Purrr Louis #mru23](https://kabilen.tumblr.com/post/727356798179409920)**  2023-09-02 14:31:37
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[CONNEXION À L’INFINI – Danser sa vie avec créativité](https://www.lemauricien.com/le-mauricien/connexion-a-linfini-danser-sa-vie-avec-creativite/596979/)**  2023-09-01 14:00:56
+**[Mandela Washington Fellowship 2023](https://www.lemauricien.com/le-mauricien/mandela-washington-fellowship-2023/597348/)**  2023-09-02 12:08:41
+
+[priscimon.com](https://priscimon.com/blog)  
+**[Playing with expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/09/02/playing-with-expired-ferrania-solaris-100-film/)**  2023-09-02 01:44:46
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money, Power, & fame](https://vintishgokool.blogspot.com/2023/08/money-power-fame.html)**  2023-08-29 14:59:49
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Tackling Food Waste: Insights from a Workshop on Leftovers & Imperfect Produce](https://facultyagriculture.blogspot.com/2023/08/tackling-food-waste-insights-from.html)**  2023-08-29 10:37:29
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Fresh Fish #mru23](https://kabilen.tumblr.com/post/726923192609947648)**  2023-08-28 19:39:38
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Tropical Tipples: Exploring the Art of Cocktail Making](https://blog.constancehotels.com/tropical-tipples-exploring-the-art-of-cocktail-making/)**  2023-08-28 16:18:47
