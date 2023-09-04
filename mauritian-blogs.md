@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Bazaar Purrr Louis #mru23](https://kabilen.tumblr.com/post/727356798179409920)**  2023-09-02 14:31:37
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[GETTING A SKIPPER LICENSE IN MAURITIUS](https://relocationmauritius.wordpress.com/2023/09/04/getting-a-skipper-license-in-mauritiusgetting-a-skipper-license-in-mauritius/)**  2023-09-04 10:11:20
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mandela Washington Fellowship 2023](https://www.lemauricien.com/le-mauricien/mandela-washington-fellowship-2023/597348/)**  2023-09-02 12:08:41
+**[Inspiration : Lettre de gratitude à une pédagogue et une guide hors pair](https://www.lemauricien.com/opinions/inspiration-lettre-de-gratitude-a-une-pedagogue-et-une-guide-hors-pair/597686/)**  2023-09-04 08:25:56
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Bazaar Purrr Louis #mru23](https://kabilen.tumblr.com/post/727356798179409920)**  2023-09-02 14:31:37
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Playing with expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/09/02/playing-with-expired-ferrania-solaris-100-film/)**  2023-09-02 01:44:46
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Ho Ho Ho](https://swanlady-impressions.blogspot.com/2023/08/ho-ho-ho.html)**  2023-08-18 12:14:40
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Decoding the Investor Occupation Permit](https://relocationmauritius.wordpress.com/2023/08/14/decoding-the-investor-occupation-permit/)**  2023-08-14 17:14:00
 
 [ever peckish](https://everpeckish.com)  
 **[Custard and Cherry Jam Phyllo Tartlets](https://everpeckish.com/custard-and-cherry-jam-phyllo-tartlets/?utm_source=rss&utm_medium=rss&utm_campaign=custard-and-cherry-jam-phyllo-tartlets)**  2023-08-13 12:51:45
