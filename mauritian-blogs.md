@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Se nourrir, un acte qui n’a pas  révélé toute sa portée politique](https://www.lemauricien.com/le-mauricien/se-nourrir-un-acte-qui-na-pas-revele-toute-sa-portee-politique/597766/)**  2023-09-04 13:00:43
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[GETTING A SKIPPER LICENSE IN MAURITIUS](https://relocationmauritius.wordpress.com/2023/09/04/getting-a-skipper-license-in-mauritiusgetting-a-skipper-license-in-mauritius/)**  2023-09-04 10:11:20
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Inspiration : Lettre de gratitude à une pédagogue et une guide hors pair](https://www.lemauricien.com/opinions/inspiration-lettre-de-gratitude-a-une-pedagogue-et-une-guide-hors-pair/597686/)**  2023-09-04 08:25:56
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Bazaar Purrr Louis #mru23](https://kabilen.tumblr.com/post/727356798179409920)**  2023-09-02 14:31:37
