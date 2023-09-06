@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Se nourrir, un acte qui n’a pas  révélé toute sa portée politique](https://www.lemauricien.com/le-mauricien/se-nourrir-un-acte-qui-na-pas-revele-toute-sa-portee-politique/597766/)**  2023-09-04 13:00:43
+**[Mandela Washington Fellowship 2023](https://www.lemauricien.com/le-mauricien/mandela-washington-fellowship-2023-2/597877/)**  2023-09-05 15:00:36
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Goodbye to my Gracious Gentleman](https://swanlady-impressions.blogspot.com/2023/09/goodbye-to-my-gracious-gentleman.html)**  2023-09-05 13:15:57
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[GETTING A SKIPPER LICENSE IN MAURITIUS](https://relocationmauritius.wordpress.com/2023/09/04/getting-a-skipper-license-in-mauritiusgetting-a-skipper-license-in-mauritius/)**  2023-09-04 10:11:20
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Water Waves for Wednesday](https://davidandjennilyn.com/2023/08/18/water-waves-for-wednesday/)**  2023-08-19 05:39:01
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Ho Ho Ho](https://swanlady-impressions.blogspot.com/2023/08/ho-ho-ho.html)**  2023-08-18 12:14:40
 
 [ever peckish](https://everpeckish.com)  
 **[Custard and Cherry Jam Phyllo Tartlets](https://everpeckish.com/custard-and-cherry-jam-phyllo-tartlets/?utm_source=rss&utm_medium=rss&utm_campaign=custard-and-cherry-jam-phyllo-tartlets)**  2023-08-13 12:51:45
