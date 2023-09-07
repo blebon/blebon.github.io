@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mandela Washington Fellowship 2023](https://www.lemauricien.com/le-mauricien/mandela-washington-fellowship-2023-2/597877/)**  2023-09-05 15:00:36
+**[Place Emmanuel Anquetil, 2065](https://www.lemauricien.com/le-mauricien/place-emmanuel-anquetil-2065/598072/)**  2023-09-06 15:00:27
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Goodbye to my Gracious Gentleman](https://swanlady-impressions.blogspot.com/2023/09/goodbye-to-my-gracious-gentleman.html)**  2023-09-05 13:15:57
