@@ -5,16 +5,16 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Place Emmanuel Anquetil, 2065](https://www.lemauricien.com/le-mauricien/place-emmanuel-anquetil-2065/598072/)**  2023-09-06 15:00:27
+**[Mauritius’ Energy Transition : ambitious plans  impeded by the state of local energy governance](https://www.lemauricien.com/le-mauricien/mauritius-energy-transition-ambitious-plans-impeded-by-the-state-of-local-energy-governance/598266/)**  2023-09-07 14:00:11
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[C&ocirc;te D&rsquo;Or Valletta #mru23](https://kabilen.tumblr.com/post/727802989952335872)**  2023-09-07 12:43:38
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Goodbye to my Gracious Gentleman](https://swanlady-impressions.blogspot.com/2023/09/goodbye-to-my-gracious-gentleman.html)**  2023-09-05 13:15:57
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[GETTING A SKIPPER LICENSE IN MAURITIUS](https://relocationmauritius.wordpress.com/2023/09/04/getting-a-skipper-license-in-mauritiusgetting-a-skipper-license-in-mauritius/)**  2023-09-04 10:11:20
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Bazaar Purrr Louis #mru23](https://kabilen.tumblr.com/post/727356798179409920)**  2023-09-02 14:31:37
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Playing with expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/09/02/playing-with-expired-ferrania-solaris-100-film/)**  2023-09-02 01:44:46
