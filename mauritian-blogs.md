@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mauritius’ Energy Transition : ambitious plans  impeded by the state of local energy governance](https://www.lemauricien.com/le-mauricien/mauritius-energy-transition-ambitious-plans-impeded-by-the-state-of-local-energy-governance/598266/)**  2023-09-07 14:00:11
+**[Kreyòl ayisyen ak kreol morisien men nan men](https://www.lemauricien.com/opinions/forum/kreyol-ayisyen-ak-kreol-morisien-men-nan-men/598528/)**  2023-09-08 15:16:32
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[C&ocirc;te D&rsquo;Or Valletta #mru23](https://kabilen.tumblr.com/post/727802989952335872)**  2023-09-07 12:43:38
