@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Kreyòl ayisyen ak kreol morisien men nan men](https://www.lemauricien.com/opinions/forum/kreyol-ayisyen-ak-kreol-morisien-men-nan-men/598528/)**  2023-09-08 15:16:32
+**[Le sens du détail dans l’architecture mauricienne, en évolution ou en extinction ?](https://www.lemauricien.com/le-mauricien/le-sens-du-detail-dans-larchitecture-mauricienne-en-evolution-ou-en-extinction/598765/)**  2023-09-09 13:00:51
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[C&ocirc;te D&rsquo;Or Valletta #mru23](https://kabilen.tumblr.com/post/727802989952335872)**  2023-09-07 12:43:38
