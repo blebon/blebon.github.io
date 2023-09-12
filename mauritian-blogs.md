@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Nespresso Reveals Exclusive New Coffee Variety, A Taste Innovation 20 Years In The Making](https://amarbheenick.blogspot.com/2023/09/nespresso-reveals-exclusive-new-coffee.html)**  2023-09-12 09:31:52
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[History : Etienne Bottineau, the man with radar eyes…](https://www.lemauricien.com/le-mauricien/history-etienne-bottineau-the-man-with-radar-eyes/599196/)**  2023-09-11 14:00:23
 
@@ -102,9 +105,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Meet with Mimi Kalinda- Bank one x Turbine](https://turbine.mu/blog/2023/04/05/meet-with-mimi-kalinda-bank-one-x-turbine/)**  2023-04-05 06:04:25
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[The Global Financial Centres Index 33 (GFCI)](https://amarbheenick.blogspot.com/2023/03/the-global-financial-centres-index-33.html)**  2023-03-24 09:16:18
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[38th birthday and 10 years of daily selfies…](https://yashvinblogs.com/2023/03/22/happy-birthday-2023/)**  2023-03-22 16:44:24
