@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[History : Etienne Bottineau, the man with radar eyes…](https://www.lemauricien.com/le-mauricien/history-etienne-bottineau-the-man-with-radar-eyes/599196/)**  2023-09-11 14:00:23
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Breakkies #mru23](https://kabilen.tumblr.com/post/728077989148016640)**  2023-09-10 13:34:38
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Le sens du détail dans l’architecture mauricienne, en évolution ou en extinction ?](https://www.lemauricien.com/le-mauricien/le-sens-du-detail-dans-larchitecture-mauricienne-en-evolution-ou-en-extinction/598765/)**  2023-09-09 13:00:51
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Goodbye to my Gracious Gentleman](https://swanlady-impressions.blogspot.com/2023/09/goodbye-to-my-gracious-gentleman.html)**  2023-09-05 13:15:57
