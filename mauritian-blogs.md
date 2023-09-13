@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Nespresso Reveals Exclusive New Coffee Variety, A Taste Innovation 20 Years In The Making](https://amarbheenick.blogspot.com/2023/09/nespresso-reveals-exclusive-new-coffee.html)**  2023-09-12 09:31:52
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Folly and interdisciplinary mindset are the drivers of geniuses like Elon Musk](https://zoomdr.blogspot.com/2023/09/folly-and-interdisciplinary-mindset-are.html)**  2023-09-12 16:34:53
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[History : Etienne Bottineau, the man with radar eyes…](https://www.lemauricien.com/le-mauricien/history-etienne-bottineau-the-man-with-radar-eyes/599196/)**  2023-09-11 14:00:23
+**[ANOU KOZ PAROL-140 (Anou Koz Literatir-ii) : 192em laniverser nesans Charles Baissac ek 135em laniverser Folklore de l’Ile Maurice](https://www.lemauricien.com/le-mauricien/anou-koz-parol-140-anou-koz-literatir-ii-192em-laniverser-nesans-charles-baissac-ek-135em-laniverser-folklore-de-lile-maurice/599654/)**  2023-09-12 13:00:32
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
-**[Breakkies #mru23](https://kabilen.tumblr.com/post/728077989148016640)**  2023-09-10 13:34:38
+**[LKY exhibition](https://kabilen.tumblr.com/post/728256166198657024)**  2023-09-12 12:46:41
+
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Nespresso Reveals Exclusive New Coffee Variety, A Taste Innovation 20 Years In The Making](https://amarbheenick.blogspot.com/2023/09/nespresso-reveals-exclusive-new-coffee.html)**  2023-09-12 09:31:52
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Goodbye to my Gracious Gentleman](https://swanlady-impressions.blogspot.com/2023/09/goodbye-to-my-gracious-gentleman.html)**  2023-09-05 13:15:57
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-08-08 03:14:26
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Unlike China, India Cannot Be an Economic Superpower](https://zoomdr.blogspot.com/2023/08/unlike-china-india-cannot-be-economic.html)**  2023-08-03 06:17:28
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Memento Mori](https://faustianmatters.blogspot.com/2023/07/memento-mori.html)**  2023-07-29 20:54:24
