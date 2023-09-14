@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[PARTAZ – Kreyòl ayisyen ak kreol morisien men nan men](https://www.lemauricien.com/le-mauricien/partaz-kreyol-ayisyen-ak-kreol-morisien-men-nan-men/599810/)**  2023-09-13 14:00:50
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Folly and interdisciplinary mindset are the drivers of geniuses like Elon Musk](https://zoomdr.blogspot.com/2023/09/folly-and-interdisciplinary-mindset-are.html)**  2023-09-12 16:34:53
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ANOU KOZ PAROL-140 (Anou Koz Literatir-ii) : 192em laniverser nesans Charles Baissac ek 135em laniverser Folklore de l’Ile Maurice](https://www.lemauricien.com/le-mauricien/anou-koz-parol-140-anou-koz-literatir-ii-192em-laniverser-nesans-charles-baissac-ek-135em-laniverser-folklore-de-lile-maurice/599654/)**  2023-09-12 13:00:32
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[LKY exhibition](https://kabilen.tumblr.com/post/728256166198657024)**  2023-09-12 12:46:41
