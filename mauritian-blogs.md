@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴LAKAZ SANDRINE à CAP MALHEUREUX](https://mysweetmauritius.blogspot.com/2023/09/lakaz-sandrine-cap-malheureux.html)**  2023-09-15 11:02:45
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Back to BASIC](https://priscimon.com/blog/2023/09/14/back-to-basic/)**  2023-09-14 22:32:07
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Tropical Tipples: Exploring the Art of Cocktail Making](https://blog.constancehotels.com/tropical-tipples-exploring-the-art-of-cocktail-making/)**  2023-08-28 16:18:47
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴 LES SALINES DE MAURICE par Jérémie de Gersigny](https://mysweetmauritius.blogspot.com/2023/08/les-salines-de-maurice-par-jeremie-de.html)**  2023-08-22 13:36:16
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[How One European Country Will Make FIFA History Today](http://kozelidir.blogspot.com/2023/08/how-one-european-country-will-make-fifa.html)**  2023-08-19 22:44:22
