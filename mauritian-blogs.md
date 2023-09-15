@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Back to BASIC](https://priscimon.com/blog/2023/09/14/back-to-basic/)**  2023-09-14 22:32:07
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[PARTAZ – Kreyòl ayisyen ak kreol morisien men nan men](https://www.lemauricien.com/le-mauricien/partaz-kreyol-ayisyen-ak-kreol-morisien-men-nan-men/599810/)**  2023-09-13 14:00:50
+**[À LA CONQUÊTE DU POUVOIR  : Le peuple « admirable  » pris dans  l’étau de la politique politicienne](https://www.lemauricien.com/le-mauricien/a-la-conquete-du-pouvoir-le-peuple-admirable-pris-dans-letau-de-la-politique-politicienne/600238/)**  2023-09-14 13:28:37
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Folly and interdisciplinary mindset are the drivers of geniuses like Elon Musk](https://zoomdr.blogspot.com/2023/09/folly-and-interdisciplinary-mindset-are.html)**  2023-09-12 16:34:53
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[GETTING A SKIPPER LICENSE IN MAURITIUS](https://relocationmauritius.wordpress.com/2023/09/04/getting-a-skipper-license-in-mauritiusgetting-a-skipper-license-in-mauritius/)**  2023-09-04 10:11:20
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Playing with expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/09/02/playing-with-expired-ferrania-solaris-100-film/)**  2023-09-02 01:44:46
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money, Power, & fame](https://vintishgokool.blogspot.com/2023/08/money-power-fame.html)**  2023-08-29 14:59:49
