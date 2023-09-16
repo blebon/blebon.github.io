@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[GB Retro Party 2023](https://kabilen.tumblr.com/post/728598376887812096)**  2023-09-16 07:25:59
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[OPEN LETTER TO THE RIGHT HONOURABLE PRIME MINISTER : Noble minds FACE FAIlure WITH EQUANIMITY!](https://www.lemauricien.com/le-mauricien/open-letter-to-the-right-honourable-prime-minister-noble-minds-face-failure-with-equanimity/600483/)**  2023-09-15 15:00:48
+**[L’hégémonie de l’absurde](https://www.lemauricien.com/le-mauricien/lhegemonie-de-labsurde/600733/)**  2023-09-16 07:17:31
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴LAKAZ SANDRINE à CAP MALHEUREUX](https://mysweetmauritius.blogspot.com/2023/09/lakaz-sandrine-cap-malheureux.html)**  2023-09-15 11:02:45
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Folly and interdisciplinary mindset are the drivers of geniuses like Elon Musk](https://zoomdr.blogspot.com/2023/09/folly-and-interdisciplinary-mindset-are.html)**  2023-09-12 16:34:53
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[LKY exhibition](https://kabilen.tumblr.com/post/728256166198657024)**  2023-09-12 12:46:41
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Nespresso Reveals Exclusive New Coffee Variety, A Taste Innovation 20 Years In The Making](https://amarbheenick.blogspot.com/2023/09/nespresso-reveals-exclusive-new-coffee.html)**  2023-09-12 09:31:52
