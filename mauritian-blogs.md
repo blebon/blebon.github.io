@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[OPEN LETTER TO THE RIGHT HONOURABLE PRIME MINISTER : Noble minds FACE FAIlure WITH EQUANIMITY!](https://www.lemauricien.com/le-mauricien/open-letter-to-the-right-honourable-prime-minister-noble-minds-face-failure-with-equanimity/600483/)**  2023-09-15 15:00:48
+
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴LAKAZ SANDRINE à CAP MALHEUREUX](https://mysweetmauritius.blogspot.com/2023/09/lakaz-sandrine-cap-malheureux.html)**  2023-09-15 11:02:45
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Back to BASIC](https://priscimon.com/blog/2023/09/14/back-to-basic/)**  2023-09-14 22:32:07
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[À LA CONQUÊTE DU POUVOIR  : Le peuple « admirable  » pris dans  l’étau de la politique politicienne](https://www.lemauricien.com/le-mauricien/a-la-conquete-du-pouvoir-le-peuple-admirable-pris-dans-letau-de-la-politique-politicienne/600238/)**  2023-09-14 13:28:37
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Folly and interdisciplinary mindset are the drivers of geniuses like Elon Musk](https://zoomdr.blogspot.com/2023/09/folly-and-interdisciplinary-mindset-are.html)**  2023-09-12 16:34:53
