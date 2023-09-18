@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
+**[🌴🇲🇺🌴 DIGITAL HOUSE A PORT LOUIS](https://mysweetmauritius.blogspot.com/2023/09/digital-house-port-louis.html)**  2023-09-17 16:14:23
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Lovy&rsquo;s Bday 17//Sep//23](https://kabilen.tumblr.com/post/728668391257391104)**  2023-09-17 01:58:49
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[RELIGION ET SPIRITUALITÉ &#124; Messe prévue à Souillac ce dimanche à 14 heures : Le Foyer de l’Unité en union de prières pour ses 60 ans !](https://www.lemauricien.com/le-mauricien/religion-et-spiritualite-messe-prevue-a-souillac-ce-dimanche-a-14-heures-le-foyer-de-lunite-en-union-de-prieres-pour-ses-60-ans/600888/)**  2023-09-16 13:00:14
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴LAKAZ SANDRINE à CAP MALHEUREUX](https://mysweetmauritius.blogspot.com/2023/09/lakaz-sandrine-cap-malheureux.html)**  2023-09-15 11:02:45
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Back to BASIC](https://priscimon.com/blog/2023/09/14/back-to-basic/)**  2023-09-14 22:32:07
