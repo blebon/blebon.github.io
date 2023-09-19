@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Practice Putting in Paradise](https://blog.constancehotels.com/practice-putting-in-paradise/)**  2023-09-18 13:49:06
+**[Dive into the Indian Ocean](https://blog.constancehotels.com/dive-into-the-indian-ocean/)**  2023-09-19 09:30:00
+
+[Melancholies](https://faustianmatters.blogspot.com/)  
+**[Sanity](https://faustianmatters.blogspot.com/2023/09/sanity.html)**  2023-09-19 09:14:11
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Mourir à deux](https://www.lemauricien.com/le-mauricien/mourir-a-deux/601424/)**  2023-09-18 13:01:11
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-08-08 03:14:26
-
-[Melancholies](https://faustianmatters.blogspot.com/)  
-**[Memento Mori](https://faustianmatters.blogspot.com/2023/07/memento-mori.html)**  2023-07-29 20:54:24
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Speaking at DevCon 2023: E-commerce Chatbot in Creole](https://nayarweb.com/blog/2023/speaking-at-devcon-2023-e-commerce-chatbot-in-creole/)**  2023-07-28 09:36:10
