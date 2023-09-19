@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Practice Putting in Paradise](https://blog.constancehotels.com/practice-putting-in-paradise/)**  2023-09-18 13:49:06
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Mourir à deux](https://www.lemauricien.com/le-mauricien/mourir-a-deux/601424/)**  2023-09-18 13:01:11
+
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 DIGITAL HOUSE A PORT LOUIS](https://mysweetmauritius.blogspot.com/2023/09/digital-house-port-louis.html)**  2023-09-17 16:14:23
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Lovy&rsquo;s Bday 17//Sep//23](https://kabilen.tumblr.com/post/728668391257391104)**  2023-09-17 01:58:49
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[RELIGION ET SPIRITUALITÉ &#124; Messe prévue à Souillac ce dimanche à 14 heures : Le Foyer de l’Unité en union de prières pour ses 60 ans !](https://www.lemauricien.com/le-mauricien/religion-et-spiritualite-messe-prevue-a-souillac-ce-dimanche-a-14-heures-le-foyer-de-lunite-en-union-de-prieres-pour-ses-60-ans/600888/)**  2023-09-16 13:00:14
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Back to BASIC](https://priscimon.com/blog/2023/09/14/back-to-basic/)**  2023-09-14 22:32:07
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Tackling Food Waste: Insights from a Workshop on Leftovers & Imperfect Produce](https://facultyagriculture.blogspot.com/2023/08/tackling-food-waste-insights-from.html)**  2023-08-29 10:37:29
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Tropical Tipples: Exploring the Art of Cocktail Making](https://blog.constancehotels.com/tropical-tipples-exploring-the-art-of-cocktail-making/)**  2023-08-28 16:18:47
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[How One European Country Will Make FIFA History Today](http://kozelidir.blogspot.com/2023/08/how-one-european-country-will-make-fifa.html)**  2023-08-19 22:44:22
