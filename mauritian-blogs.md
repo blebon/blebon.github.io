@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[FOREIGN V/S LOCAL EMPLOYEES – AVOIDING THE XENOPHOBIC TRAP](https://relocationmauritius.wordpress.com/2023/09/22/foreign-v-s-local-employees-avoiding-the-xenophobic-trap-2/)**  2023-09-22 05:04:24
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Complainte d’un enseignant](https://www.lemauricien.com/le-mauricien/complainte-dun-enseignant/602059/)**  2023-09-21 15:00:11
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Back to China after more than 3 years!](https://kabilen.tumblr.com/post/728894959487500288)**  2023-09-19 14:00:02
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Sanity](https://faustianmatters.blogspot.com/2023/09/sanity.html)**  2023-09-19 09:14:11
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mourir à deux](https://www.lemauricien.com/le-mauricien/mourir-a-deux/601424/)**  2023-09-18 13:01:11
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 DIGITAL HOUSE A PORT LOUIS](https://mysweetmauritius.blogspot.com/2023/09/digital-house-port-louis.html)**  2023-09-17 16:14:23
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Goodbye to my Gracious Gentleman](https://swanlady-impressions.blogspot.com/2023/09/goodbye-to-my-gracious-gentleman.html)**  2023-09-05 13:15:57
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[GETTING A SKIPPER LICENSE IN MAURITIUS](https://relocationmauritius.wordpress.com/2023/09/04/getting-a-skipper-license-in-mauritiusgetting-a-skipper-license-in-mauritius/)**  2023-09-04 10:11:20
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money, Power, & fame](https://vintishgokool.blogspot.com/2023/08/money-power-fame.html)**  2023-08-29 14:59:49
