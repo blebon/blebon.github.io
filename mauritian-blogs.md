@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[S W A M I   V I V E K A N A N D A  : The Spiritual Ambassador of India](https://www.lemauricien.com/le-mauricien/s-w-a-m-i-v-i-v-e-k-a-n-a-n-d-a-the-spiritual-ambassador-of-india/602306/)**  2023-09-22 15:00:15
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[FOREIGN V/S LOCAL EMPLOYEES – AVOIDING THE XENOPHOBIC TRAP](https://relocationmauritius.wordpress.com/2023/09/22/foreign-v-s-local-employees-avoiding-the-xenophobic-trap-2/)**  2023-09-22 05:04:24
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Complainte d’un enseignant](https://www.lemauricien.com/le-mauricien/complainte-dun-enseignant/602059/)**  2023-09-21 15:00:11
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Back to China after more than 3 years!](https://kabilen.tumblr.com/post/728894959487500288)**  2023-09-19 14:00:02
