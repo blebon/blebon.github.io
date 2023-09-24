@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[75 Years Ago, Mad Man Opens His First Agency](http://kozelidir.blogspot.com/2023/09/75-years-ago-mad-man-opens-his-first.html)**  2023-09-23 18:11:55
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[S W A M I   V I V E K A N A N D A  : The Spiritual Ambassador of India](https://www.lemauricien.com/le-mauricien/s-w-a-m-i-v-i-v-e-k-a-n-a-n-d-a-the-spiritual-ambassador-of-india/602306/)**  2023-09-22 15:00:15
+**[Anou koz kas – Anou koz the Diderot effect](https://www.lemauricien.com/le-mauricien/anou-koz-kas-anou-koz-the-diderot-effect/602591/)**  2023-09-23 12:48:52
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[FOREIGN V/S LOCAL EMPLOYEES – AVOIDING THE XENOPHOBIC TRAP](https://relocationmauritius.wordpress.com/2023/09/22/foreign-v-s-local-employees-avoiding-the-xenophobic-trap-2/)**  2023-09-22 05:04:24
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Tackling Food Waste: Insights from a Workshop on Leftovers & Imperfect Produce](https://facultyagriculture.blogspot.com/2023/08/tackling-food-waste-insights-from.html)**  2023-08-29 10:37:29
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[How One European Country Will Make FIFA History Today](http://kozelidir.blogspot.com/2023/08/how-one-european-country-will-make-fifa.html)**  2023-08-19 22:44:22
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Water Waves for Wednesday](https://davidandjennilyn.com/2023/08/18/water-waves-for-wednesday/)**  2023-08-19 05:39:01
