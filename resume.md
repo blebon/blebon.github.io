@@ -8,7 +8,7 @@ permalink: /resume/
 ## Computational Fluid Dynamics Engineer
 
 > [blebon.com](https://blebon.com)    
-> [2yw6tl2g@anonaddy.me](mailto:2yw6tl2g@anonaddy.me)
+> [2yw6tl2g@anonaddy.me](mailto:20u3zfyy@anonaddy.me)
 
 ------
 
