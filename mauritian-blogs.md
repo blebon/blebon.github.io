@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[75 Years Ago, Mad Man Opens His First Agency](http://kozelidir.blogspot.com/2023/09/75-years-ago-mad-man-opens-his-first.html)**  2023-09-23 18:11:55
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Number of days](https://vintishgokool.blogspot.com/2023/09/number-of-days_25.html)**  2023-09-25 17:04:09
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou koz kas – Anou koz the Diderot effect](https://www.lemauricien.com/le-mauricien/anou-koz-kas-anou-koz-the-diderot-effect/602591/)**  2023-09-23 12:48:52
+**[Why a ‘High Level Council for Future Planning’ is Crucial for Mauritius](https://www.lemauricien.com/le-mauricien/why-a-high-level-council-for-future-planning-is-crucial-for-mauritius/602964/)**  2023-09-25 14:00:49
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[75 Years Ago, Mad Man Opens His First Agency](http://kozelidir.blogspot.com/2023/09/75-years-ago-mad-man-opens-his-first.html)**  2023-09-23 18:11:55
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[FOREIGN V/S LOCAL EMPLOYEES – AVOIDING THE XENOPHOBIC TRAP](https://relocationmauritius.wordpress.com/2023/09/22/foreign-v-s-local-employees-avoiding-the-xenophobic-trap-2/)**  2023-09-22 05:04:24
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Goodbye to my Gracious Gentleman](https://swanlady-impressions.blogspot.com/2023/09/goodbye-to-my-gracious-gentleman.html)**  2023-09-05 13:15:57
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Money, Power, & fame](https://vintishgokool.blogspot.com/2023/08/money-power-fame.html)**  2023-08-29 14:59:49
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Tackling Food Waste: Insights from a Workshop on Leftovers & Imperfect Produce](https://facultyagriculture.blogspot.com/2023/08/tackling-food-waste-insights-from.html)**  2023-08-29 10:37:29
