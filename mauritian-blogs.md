@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[China as a model: Who said Asia has ‘low intellectual potential’?](https://zoomdr.blogspot.com/2023/09/china-as-model-who-said-asia-has-low.html)**  2023-09-26 18:41:42
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Number of days](https://vintishgokool.blogspot.com/2023/09/number-of-days_25.html)**  2023-09-25 17:04:09
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Back to BASIC](https://priscimon.com/blog/2023/09/14/back-to-basic/)**  2023-09-14 22:32:07
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Folly and interdisciplinary mindset are the drivers of geniuses like Elon Musk](https://zoomdr.blogspot.com/2023/09/folly-and-interdisciplinary-mindset-are.html)**  2023-09-12 16:34:53
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Nespresso Reveals Exclusive New Coffee Variety, A Taste Innovation 20 Years In The Making](https://amarbheenick.blogspot.com/2023/09/nespresso-reveals-exclusive-new-coffee.html)**  2023-09-12 09:31:52
