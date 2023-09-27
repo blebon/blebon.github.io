@@ -7,11 +7,11 @@ permalink: /mauritian-blogs/
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[China as a model: Who said Asia has ‘low intellectual potential’?](https://zoomdr.blogspot.com/2023/09/china-as-model-who-said-asia-has-low.html)**  2023-09-26 18:41:42
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[How are we treating our senior citizens?](https://www.lemauricien.com/le-mauricien/how-are-we-treating-our-senior-citizens/603264/)**  2023-09-26 14:00:24
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Number of days](https://vintishgokool.blogspot.com/2023/09/number-of-days_25.html)**  2023-09-25 17:04:09
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Why a ‘High Level Council for Future Planning’ is Crucial for Mauritius](https://www.lemauricien.com/le-mauricien/why-a-high-level-council-for-future-planning-is-crucial-for-mauritius/602964/)**  2023-09-25 14:00:49
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[75 Years Ago, Mad Man Opens His First Agency](http://kozelidir.blogspot.com/2023/09/75-years-ago-mad-man-opens-his-first.html)**  2023-09-23 18:11:55
