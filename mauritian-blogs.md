@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[A brief appearance of the Nikon FG-20](https://priscimon.com/blog/2023/09/27/a-brief-appearance-of-the-nikon-fg-20/)**  2023-09-27 23:11:22
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[China as a model: Who said Asia has ‘low intellectual potential’?](https://zoomdr.blogspot.com/2023/09/china-as-model-who-said-asia-has-low.html)**  2023-09-26 18:41:42
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 DIGITAL HOUSE A PORT LOUIS](https://mysweetmauritius.blogspot.com/2023/09/digital-house-port-louis.html)**  2023-09-17 16:14:23
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Back to BASIC](https://priscimon.com/blog/2023/09/14/back-to-basic/)**  2023-09-14 22:32:07
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Nespresso Reveals Exclusive New Coffee Variety, A Taste Innovation 20 Years In The Making](https://amarbheenick.blogspot.com/2023/09/nespresso-reveals-exclusive-new-coffee.html)**  2023-09-12 09:31:52
