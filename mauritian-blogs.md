@@ -7,11 +7,11 @@ permalink: /mauritian-blogs/
 [priscimon.com](https://priscimon.com/blog)  
 **[A brief appearance of the Nikon FG-20](https://priscimon.com/blog/2023/09/27/a-brief-appearance-of-the-nikon-fg-20/)**  2023-09-27 23:11:22
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Anjalay Coopen](https://www.lemauricien.com/le-mauricien/anjalay-coopen/603742/)**  2023-09-27 17:00:30
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[China as a model: Who said Asia has ‘low intellectual potential’?](https://zoomdr.blogspot.com/2023/09/china-as-model-who-said-asia-has-low.html)**  2023-09-26 18:41:42
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[How are we treating our senior citizens?](https://www.lemauricien.com/le-mauricien/how-are-we-treating-our-senior-citizens/603264/)**  2023-09-26 14:00:24
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Number of days](https://vintishgokool.blogspot.com/2023/09/number-of-days_25.html)**  2023-09-25 17:04:09
