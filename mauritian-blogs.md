@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Final Round - Forage Wine Bar. Shanghai 2023](https://kabilen.tumblr.com/post/729789920907018240)**  2023-09-29 11:05:03
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[L’enseignant : “Être ou ne pas être!”](https://www.lemauricien.com/le-mauricien/lenseignant-etre-ou-ne-pas-etre/603823/)**  2023-09-28 13:00:55
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[FOREIGN V/S LOCAL EMPLOYEES – AVOIDING THE XENOPHOBIC TRAP](https://relocationmauritius.wordpress.com/2023/09/22/foreign-v-s-local-employees-avoiding-the-xenophobic-trap-2/)**  2023-09-22 05:04:24
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Back to China after more than 3 years!](https://kabilen.tumblr.com/post/728894959487500288)**  2023-09-19 14:00:02
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Dive into the Indian Ocean](https://blog.constancehotels.com/dive-into-the-indian-ocean/)**  2023-09-19 09:30:00
