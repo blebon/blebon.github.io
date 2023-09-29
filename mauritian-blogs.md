@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[L’enseignant : “Être ou ne pas être!”](https://www.lemauricien.com/le-mauricien/lenseignant-etre-ou-ne-pas-etre/603823/)**  2023-09-28 13:00:55
+
+[Amar](https://amarbheenick.blogspot.com/)  
+**[The Global Financial Centres Index 34 (GFCI)](https://amarbheenick.blogspot.com/2023/09/the-global-financial-centres-index-34.html)**  2023-09-28 12:39:10
+
 [priscimon.com](https://priscimon.com/blog)  
 **[A brief appearance of the Nikon FG-20](https://priscimon.com/blog/2023/09/27/a-brief-appearance-of-the-nikon-fg-20/)**  2023-09-27 23:11:22
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anjalay Coopen](https://www.lemauricien.com/le-mauricien/anjalay-coopen/603742/)**  2023-09-27 17:00:30
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[China as a model: Who said Asia has ‘low intellectual potential’?](https://zoomdr.blogspot.com/2023/09/china-as-model-who-said-asia-has-low.html)**  2023-09-26 18:41:42
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 DIGITAL HOUSE A PORT LOUIS](https://mysweetmauritius.blogspot.com/2023/09/digital-house-port-louis.html)**  2023-09-17 16:14:23
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Nespresso Reveals Exclusive New Coffee Variety, A Taste Innovation 20 Years In The Making](https://amarbheenick.blogspot.com/2023/09/nespresso-reveals-exclusive-new-coffee.html)**  2023-09-12 09:31:52
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Goodbye to my Gracious Gentleman](https://swanlady-impressions.blogspot.com/2023/09/goodbye-to-my-gracious-gentleman.html)**  2023-09-05 13:15:57
