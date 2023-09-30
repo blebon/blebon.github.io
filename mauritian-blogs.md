@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Final Round - Forage Wine Bar. Shanghai 2023](https://kabilen.tumblr.com/post/729789920907018240)**  2023-09-29 11:05:03
+[Katia M](https://katiam.blog)  
+**[Northern islands of Madagascar](https://katiam.blog/2023/09/29/northern-islands-of-madagascar/)**  2023-09-29 15:07:45
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’enseignant : “Être ou ne pas être!”](https://www.lemauricien.com/le-mauricien/lenseignant-etre-ou-ne-pas-etre/603823/)**  2023-09-28 13:00:55
+**[INDIAN HISTORY  THE QUTUB MINAR of Delhi, India](https://www.lemauricien.com/le-mauricien/indian-history-the-qutub-minar-of-delhi-india/604034/)**  2023-09-29 14:00:19
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Final Round - Forage Wine Bar. Shanghai 2023](https://kabilen.tumblr.com/post/729789920907018240)**  2023-09-29 11:05:03
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 34 (GFCI)](https://amarbheenick.blogspot.com/2023/09/the-global-financial-centres-index-34.html)**  2023-09-28 12:39:10
