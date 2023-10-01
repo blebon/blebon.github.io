@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[International Day of Awareness on Food Loss and Waste Reduction 2024](https://facultyagriculture.blogspot.com/2023/09/international-day-of-awareness-on-food.html)**  2023-09-30 11:10:40
+**[Why the "Valorising food leftovers and imperfect fruits & vegetables" Recipe Book Matters](https://facultyagriculture.blogspot.com/2023/10/why-valorising-food-leftovers-and.html)**  2023-10-01 10:15:43
 
 [Katia M](https://katiam.blog)  
 **[Northern islands of Madagascar](https://katiam.blog/2023/09/29/northern-islands-of-madagascar/)**  2023-09-29 15:07:45
