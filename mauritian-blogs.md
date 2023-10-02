@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Why the "Valorising food leftovers and imperfect fruits & vegetables" Recipe Book Matters](https://facultyagriculture.blogspot.com/2023/10/why-valorising-food-leftovers-and.html)**  2023-10-01 10:15:43
+**[Why the "Valorising food leftovers and imperfect fruits & vegetables" Recipe Book Matters](https://facultyagriculture.blogspot.com/2023/10/why-valorising-food-leftovers-and.html)**  2023-10-02 04:14:54
 
 [Katia M](https://katiam.blog)  
 **[Northern islands of Madagascar](https://katiam.blog/2023/09/29/northern-islands-of-madagascar/)**  2023-09-29 15:07:45
