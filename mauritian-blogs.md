@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[En marge du festival du livre de Trou d’Eau Douce – L’Inde, sa littérature et l’ailleurs indien](https://www.lemauricien.com/le-mauricien/en-marge-du-festival-du-livre-de-trou-deau-douce-linde-sa-litterature-et-lailleurs-indien/604844/)**  2023-10-02 14:00:11
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Why the "Valorising food leftovers and imperfect fruits & vegetables" Recipe Book Matters](https://facultyagriculture.blogspot.com/2023/10/why-valorising-food-leftovers-and.html)**  2023-10-02 04:14:54
 
 [Katia M](https://katiam.blog)  
 **[Northern islands of Madagascar](https://katiam.blog/2023/09/29/northern-islands-of-madagascar/)**  2023-09-29 15:07:45
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[INDIAN HISTORY  THE QUTUB MINAR of Delhi, India](https://www.lemauricien.com/le-mauricien/indian-history-the-qutub-minar-of-delhi-india/604034/)**  2023-09-29 14:00:19
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Final Round - Forage Wine Bar. Shanghai 2023](https://kabilen.tumblr.com/post/729789920907018240)**  2023-09-29 11:05:03
