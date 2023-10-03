@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Happy 16th Birthday Kadie!](https://davidandjennilyn.com/2023/10/02/happy-16th-birthday-kadie/)**  2023-10-03 05:19:48
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[En marge du festival du livre de Trou d’Eau Douce – L’Inde, sa littérature et l’ailleurs indien](https://www.lemauricien.com/le-mauricien/en-marge-du-festival-du-livre-de-trou-deau-douce-linde-sa-litterature-et-lailleurs-indien/604844/)**  2023-10-02 14:00:11
 
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Goodbye to my Gracious Gentleman](https://swanlady-impressions.blogspot.com/2023/09/goodbye-to-my-gracious-gentleman.html)**  2023-09-05 13:15:57
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Water Waves for Wednesday](https://davidandjennilyn.com/2023/08/18/water-waves-for-wednesday/)**  2023-08-19 05:39:01
 
 [ever peckish](https://everpeckish.com)  
 **[Custard and Cherry Jam Phyllo Tartlets](https://everpeckish.com/custard-and-cherry-jam-phyllo-tartlets/?utm_source=rss&utm_medium=rss&utm_campaign=custard-and-cherry-jam-phyllo-tartlets)**  2023-08-13 12:51:45
