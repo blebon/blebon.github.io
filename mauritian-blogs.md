@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy 16th Birthday Kadie!](https://davidandjennilyn.com/2023/10/02/happy-16th-birthday-kadie/)**  2023-10-03 05:19:48
+[UoM-Communication Studies](https://comstudies.wordpress.com)  
+**[UOM students selected for the finals of the Africa Fact-Checking Awards 2023](https://comstudies.wordpress.com/2023/10/05/uom-students-selected-for-the-finals-of-the-africa-fact-checking-awards-2023/)**  2023-10-05 19:14:05
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[En marge du festival du livre de Trou d’Eau Douce – L’Inde, sa littérature et l’ailleurs indien](https://www.lemauricien.com/le-mauricien/en-marge-du-festival-du-livre-de-trou-deau-douce-linde-sa-litterature-et-lailleurs-indien/604844/)**  2023-10-02 14:00:11
+**[World Teachers’ Day 2023](https://www.lemauricien.com/en-une/world-teachers-day-2023/605204/)**  2023-10-05 06:00:15
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Happy 16th Birthday Kadie!](https://davidandjennilyn.com/2023/10/02/happy-16th-birthday-kadie/)**  2023-10-03 05:19:48
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Why the "Valorising food leftovers and imperfect fruits & vegetables" Recipe Book Matters](https://facultyagriculture.blogspot.com/2023/10/why-valorising-food-leftovers-and.html)**  2023-10-02 04:14:54
@@ -75,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [Dr Reddy’s Journal](https://drreddy.wordpress.com)  
 **[TELUGU Ancestors ….Mauritius](https://drreddy.wordpress.com/2023/07/04/telugu-ancestors-mauritius/)**  2023-07-04 08:22:51
-
-[UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[Is Infertility Really a Genetic Issue?](https://comstudies.wordpress.com/2023/06/30/is-infertility-really-a-genetic-issue-2/)**  2023-06-30 11:34:13
 
 [Equator Lounge](https://equatorlounge.blogspot.com/)  
 **[Windows 10 - difference between product key and license key](https://equatorlounge.blogspot.com/2023/06/windows-10-difference-between-product.html)**  2023-06-29 07:01:45
