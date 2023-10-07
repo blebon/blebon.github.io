@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Investment Analytics Now On Apple Books](http://kozelidir.blogspot.com/2023/10/investment-analytics-now-on-apple-books.html)**  2023-10-07 08:27:05
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Advancing Food Waste Prevention in the Hospitality Industry](https://facultyagriculture.blogspot.com/2023/10/advancing-food-waste-prevention-in.html)**  2023-10-06 18:10:33
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Number of days](https://vintishgokool.blogspot.com/2023/09/number-of-days_25.html)**  2023-09-25 17:04:09
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[75 Years Ago, Mad Man Opens His First Agency](http://kozelidir.blogspot.com/2023/09/75-years-ago-mad-man-opens-his-first.html)**  2023-09-23 18:11:55
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[FOREIGN V/S LOCAL EMPLOYEES – AVOIDING THE XENOPHOBIC TRAP](https://relocationmauritius.wordpress.com/2023/09/22/foreign-v-s-local-employees-avoiding-the-xenophobic-trap-2/)**  2023-09-22 05:04:24
