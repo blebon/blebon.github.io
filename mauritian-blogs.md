@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Advancing Food Waste Prevention in the Hospitality Industry](https://facultyagriculture.blogspot.com/2023/10/advancing-food-waste-prevention-in.html)**  2023-10-06 18:10:33
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Anou Koz Parol 141 : Anou koz Literarir Kreol III avek poezi Michel Ducasse](https://www.lemauricien.com/le-mauricien/anou-koz-parol-141-anou-koz-literarir-kreol-iii-avek-poezi-michel-ducasse/605626/)**  2023-10-06 13:00:12
+
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UOM students selected for the finals of the Africa Fact-Checking Awards 2023](https://comstudies.wordpress.com/2023/10/05/uom-students-selected-for-the-finals-of-the-africa-fact-checking-awards-2023/)**  2023-10-05 19:14:05
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[World Teachers’ Day 2023](https://www.lemauricien.com/en-une/world-teachers-day-2023/605204/)**  2023-10-05 06:00:15
-
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 16th Birthday Kadie!](https://davidandjennilyn.com/2023/10/02/happy-16th-birthday-kadie/)**  2023-10-03 05:19:48
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Why the "Valorising food leftovers and imperfect fruits & vegetables" Recipe Book Matters](https://facultyagriculture.blogspot.com/2023/10/why-valorising-food-leftovers-and.html)**  2023-10-02 04:14:54
 
 [Katia M](https://katiam.blog)  
 **[Northern islands of Madagascar](https://katiam.blog/2023/09/29/northern-islands-of-madagascar/)**  2023-09-29 15:07:45
