@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[En attendant l’oeuvre complète de Marcel Cabon…](https://www.lemauricien.com/le-mauricien/en-attendant-loeuvre-complete-de-marcel-cabon/605790/)**  2023-10-07 13:02:51
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Investment Analytics Now On Apple Books](http://kozelidir.blogspot.com/2023/10/investment-analytics-now-on-apple-books.html)**  2023-10-07 08:27:05
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Advancing Food Waste Prevention in the Hospitality Industry](https://facultyagriculture.blogspot.com/2023/10/advancing-food-waste-prevention-in.html)**  2023-10-06 18:10:33
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou Koz Parol 141 : Anou koz Literarir Kreol III avek poezi Michel Ducasse](https://www.lemauricien.com/le-mauricien/anou-koz-parol-141-anou-koz-literarir-kreol-iii-avek-poezi-michel-ducasse/605626/)**  2023-10-06 13:00:12
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UOM students selected for the finals of the Africa Fact-Checking Awards 2023](https://comstudies.wordpress.com/2023/10/05/uom-students-selected-for-the-finals-of-the-africa-fact-checking-awards-2023/)**  2023-10-05 19:14:05
