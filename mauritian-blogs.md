@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Winning & Losing](https://vintishgokool.blogspot.com/2023/10/winning-losing.html)**  2023-10-08 19:05:15
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[En attendant l’oeuvre complète de Marcel Cabon…](https://www.lemauricien.com/le-mauricien/en-attendant-loeuvre-complete-de-marcel-cabon/605790/)**  2023-10-07 13:02:51
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[China as a model: Who said Asia has ‘low intellectual potential’?](https://zoomdr.blogspot.com/2023/09/china-as-model-who-said-asia-has-low.html)**  2023-09-26 18:41:42
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Number of days](https://vintishgokool.blogspot.com/2023/09/number-of-days_25.html)**  2023-09-25 17:04:09
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[FOREIGN V/S LOCAL EMPLOYEES – AVOIDING THE XENOPHOBIC TRAP](https://relocationmauritius.wordpress.com/2023/09/22/foreign-v-s-local-employees-avoiding-the-xenophobic-trap-2/)**  2023-09-22 05:04:24
