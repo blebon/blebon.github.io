@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[PARTICIPATORY GUARANTEE SYSTEMS (PGS) FOR SUSTAINABLE LOCAL FOOD SYSTEMS](https://facultyagriculture.blogspot.com/2023/10/participatory-guarantee-systems-pgs-for.html)**  2023-10-09 17:40:39
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[A Glimpse of Light at the End  of the Chagos Tunnel](https://www.lemauricien.com/le-mauricien/a-glimpse-of-light-at-the-end-of-the-chagos-tunnel/606166/)**  2023-10-09 11:06:39
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Investment Analytics Now On Apple Books](http://kozelidir.blogspot.com/2023/10/investment-analytics-now-on-apple-books.html)**  2023-10-07 08:27:05
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Advancing Food Waste Prevention in the Hospitality Industry](https://facultyagriculture.blogspot.com/2023/10/advancing-food-waste-prevention-in.html)**  2023-10-06 18:10:33
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UOM students selected for the finals of the Africa Fact-Checking Awards 2023](https://comstudies.wordpress.com/2023/10/05/uom-students-selected-for-the-finals-of-the-africa-fact-checking-awards-2023/)**  2023-10-05 19:14:05
