@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Conservation efforts at Constance Hotels & Resorts](https://blog.constancehotels.com/conservation-efforts-at-constance-hotels-resorts/)**  2023-10-10 10:08:40
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[PARTICIPATORY GUARANTEE SYSTEMS (PGS) FOR SUSTAINABLE LOCAL FOOD SYSTEMS](https://facultyagriculture.blogspot.com/2023/10/participatory-guarantee-systems-pgs-for.html)**  2023-10-09 17:40:39
 
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[FOREIGN V/S LOCAL EMPLOYEES – AVOIDING THE XENOPHOBIC TRAP](https://relocationmauritius.wordpress.com/2023/09/22/foreign-v-s-local-employees-avoiding-the-xenophobic-trap-2/)**  2023-09-22 05:04:24
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Dive into the Indian Ocean](https://blog.constancehotels.com/dive-into-the-indian-ocean/)**  2023-09-19 09:30:00
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Sanity](https://faustianmatters.blogspot.com/2023/09/sanity.html)**  2023-09-19 09:14:11
