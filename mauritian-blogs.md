@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Wedding Wishes](https://swanlady-impressions.blogspot.com/2023/10/wedding-wishes.html)**  2023-10-10 15:55:00
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[OM](https://www.lemauricien.com/le-mauricien/om/606402/)**  2023-10-10 14:30:29
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Conservation efforts at Constance Hotels & Resorts](https://blog.constancehotels.com/conservation-efforts-at-constance-hotels-resorts/)**  2023-10-10 10:08:40
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[PARTICIPATORY GUARANTEE SYSTEMS (PGS) FOR SUSTAINABLE LOCAL FOOD SYSTEMS](https://facultyagriculture.blogspot.com/2023/10/participatory-guarantee-systems-pgs-for.html)**  2023-10-09 17:40:39
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[A Glimpse of Light at the End  of the Chagos Tunnel](https://www.lemauricien.com/le-mauricien/a-glimpse-of-light-at-the-end-of-the-chagos-tunnel/606166/)**  2023-10-09 11:06:39
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Winning & Losing](https://vintishgokool.blogspot.com/2023/10/winning-losing.html)**  2023-10-08 19:05:15
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴 DIGITAL HOUSE A PORT LOUIS](https://mysweetmauritius.blogspot.com/2023/09/digital-house-port-louis.html)**  2023-09-17 16:14:23
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Goodbye to my Gracious Gentleman](https://swanlady-impressions.blogspot.com/2023/09/goodbye-to-my-gracious-gentleman.html)**  2023-09-05 13:15:57
 
 [ever peckish](https://everpeckish.com)  
 **[Custard and Cherry Jam Phyllo Tartlets](https://everpeckish.com/custard-and-cherry-jam-phyllo-tartlets/?utm_source=rss&utm_medium=rss&utm_campaign=custard-and-cherry-jam-phyllo-tartlets)**  2023-08-13 12:51:45
@@ -144,8 +144,5 @@ permalink: /mauritian-blogs/
 
 [ASSOCIATION FOR POPULATION AND DEVELOPMENT](https://apdmauritius.blogspot.com/)  
 **[MEN AS CARING PARTNERS](https://apdmauritius.blogspot.com/2022/11/men-as-caring-partners.html)**  2022-11-13 15:26:52
-
-[An Evil Nymph's Blog](https://evilnymphstuff.wordpress.com)  
-**[Would You Like to Read My Novel for Free?](https://evilnymphstuff.wordpress.com/2022/11/09/would-you-like-to-read-my-novel-for-free/)**  2022-11-09 00:40:03
 
 <div style="height:0;width:0;overflow:hidden;"></div>
