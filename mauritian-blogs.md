@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Yashvinblogs](https://yashvinblogs.com)  
+**[Magsafe Accessories : PopSockets Wallet+ and PopGrips review](https://yashvinblogs.com/2023/10/11/magsafe-popsockets-wallet-popgrips/)**  2023-10-11 18:18:01
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Wedding Wishes](https://swanlady-impressions.blogspot.com/2023/10/wedding-wishes.html)**  2023-10-10 15:55:00
 
@@ -108,9 +111,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Meet with Mimi Kalinda- Bank one x Turbine](https://turbine.mu/blog/2023/04/05/meet-with-mimi-kalinda-bank-one-x-turbine/)**  2023-04-05 06:04:25
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[38th birthday and 10 years of daily selfies…](https://yashvinblogs.com/2023/03/22/happy-birthday-2023/)**  2023-03-22 16:44:24
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Aggiornamento, Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/freddy-passera-da-grand-baie-alle-17.html)**  2023-02-24 16:42:36
