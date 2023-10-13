@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The contribution of Mauritius to Tamil language,culture, religion and the global Tamil diaspora](https://www.lemauricien.com/le-mauricien/the-contribution-of-mauritius-to-tamil-languageculture-religion-and-the-global-tamil-diaspora/606826/)**  2023-10-12 13:00:01
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Family Experience at Constance Hotels & Resorts](https://blog.constancehotels.com/family-experiences-at-constance-hotels-resorts/)**  2023-10-12 10:00:00
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Magsafe Accessories : PopSockets Wallet+ and PopGrips review](https://yashvinblogs.com/2023/10/11/magsafe-popsockets-wallet-popgrips/)**  2023-10-11 18:18:01
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Nou bizin pa bliye esansiel](https://www.lemauricien.com/le-mauricien/nou-bizin-pa-bliye-esansiel-2/606661/)**  2023-10-11 12:02:48
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Wedding Wishes](https://swanlady-impressions.blogspot.com/2023/10/wedding-wishes.html)**  2023-10-10 15:55:00
