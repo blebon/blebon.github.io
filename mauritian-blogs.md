@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The contribution of Mauritius to Tamil language,culture, religion and the global Tamil diaspora](https://www.lemauricien.com/le-mauricien/the-contribution-of-mauritius-to-tamil-languageculture-religion-and-the-global-tamil-diaspora/606826/)**  2023-10-12 13:00:01
+**[L’Inde, la littérature de la partition](https://www.lemauricien.com/le-mauricien/linde-la-litterature-de-la-partition/606924/)**  2023-10-13 14:00:09
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Family Experience at Constance Hotels & Resorts](https://blog.constancehotels.com/family-experiences-at-constance-hotels-resorts/)**  2023-10-12 10:00:00
@@ -15,6 +15,9 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Wedding Wishes](https://swanlady-impressions.blogspot.com/2023/10/wedding-wishes.html)**  2023-10-10 15:55:00
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Hoffman Farms](https://davidandjennilyn.com/2023/10/09/hoffman-farms/)**  2023-10-10 04:32:09
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[PARTICIPATORY GUARANTEE SYSTEMS (PGS) FOR SUSTAINABLE LOCAL FOOD SYSTEMS](https://facultyagriculture.blogspot.com/2023/10/participatory-guarantee-systems-pgs-for.html)**  2023-10-09 17:40:39
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UOM students selected for the finals of the Africa Fact-Checking Awards 2023](https://comstudies.wordpress.com/2023/10/05/uom-students-selected-for-the-finals-of-the-africa-fact-checking-awards-2023/)**  2023-10-05 19:14:05
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy 16th Birthday Kadie!](https://davidandjennilyn.com/2023/10/02/happy-16th-birthday-kadie/)**  2023-10-03 05:19:48
 
 [Katia M](https://katiam.blog)  
 **[Northern islands of Madagascar](https://katiam.blog/2023/09/29/northern-islands-of-madagascar/)**  2023-09-29 15:07:45
