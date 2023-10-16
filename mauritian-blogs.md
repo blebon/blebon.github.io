@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Judicial Committee of the Privy Council (JCPC) : Surendra Dayal (Appellant) v Pravind Kumar Jugnauth and 7 others (Respondents) (Mauritius)](https://amarbheenick.blogspot.com/2023/10/judicial-committee-of-privy-council.html)**  2023-10-16 10:00:22
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Two for 1 Rainbow Blending](https://swanlady-impressions.blogspot.com/2023/10/two-for-1-rainbow-blending.html)**  2023-10-15 19:24:54
 
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Final Round - Forage Wine Bar. Shanghai 2023](https://kabilen.tumblr.com/post/729789920907018240)**  2023-09-29 11:05:03
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[The Global Financial Centres Index 34 (GFCI)](https://amarbheenick.blogspot.com/2023/09/the-global-financial-centres-index-34.html)**  2023-09-28 12:39:10
 
 [priscimon.com](https://priscimon.com/blog)  
 **[A brief appearance of the Nikon FG-20](https://priscimon.com/blog/2023/09/27/a-brief-appearance-of-the-nikon-fg-20/)**  2023-09-27 23:11:22
