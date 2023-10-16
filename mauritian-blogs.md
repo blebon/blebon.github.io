@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Two for 1 Rainbow Blending](https://swanlady-impressions.blogspot.com/2023/10/two-for-1-rainbow-blending.html)**  2023-10-15 19:24:54
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Hopscotch in Living Color](https://davidandjennilyn.com/2023/10/15/hopscotch-in-living-color/)**  2023-10-15 16:10:58
+
 [Mike Sinnott's World](https://msinnott.net)  
 **[Rare Contacts](https://msinnott.net/2023/10/14/rare-contacts/)**  2023-10-14 10:25:15
 
@@ -15,12 +21,6 @@ permalink: /mauritian-blogs/
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Magsafe Accessories : PopSockets Wallet+ and PopGrips review](https://yashvinblogs.com/2023/10/11/magsafe-popsockets-wallet-popgrips/)**  2023-10-11 18:18:01
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Wedding Wishes](https://swanlady-impressions.blogspot.com/2023/10/wedding-wishes.html)**  2023-10-10 15:55:00
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Hoffman Farms](https://davidandjennilyn.com/2023/10/09/hoffman-farms/)**  2023-10-10 04:32:09
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[PARTICIPATORY GUARANTEE SYSTEMS (PGS) FOR SUSTAINABLE LOCAL FOOD SYSTEMS](https://facultyagriculture.blogspot.com/2023/10/participatory-guarantee-systems-pgs-for.html)**  2023-10-09 17:40:39
@@ -141,8 +141,5 @@ permalink: /mauritian-blogs/
 
 [Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
 **[Our New Clients Get Up to 25 extra bonus on top of 650%.](https://dailytechnicalanalysisforexnews.blogspot.com/2022/11/our-new-clients-get-up-to-25-extra.html)**  2022-11-14 12:33:46
-
-[ASSOCIATION FOR POPULATION AND DEVELOPMENT](https://apdmauritius.blogspot.com/)  
-**[MEN AS CARING PARTNERS](https://apdmauritius.blogspot.com/2022/11/men-as-caring-partners.html)**  2022-11-13 15:26:52
 
 <div style="height:0;width:0;overflow:hidden;"></div>
