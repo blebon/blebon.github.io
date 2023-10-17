@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Les anniversaires jumeaux](https://www.lemauricien.com/le-mauricien/les-anniversaires-jumeaux/607619/)**  2023-10-16 14:00:50
+
+[EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
+**[Book Now Artist: EL PLAGA](https://elplagaa.blogspot.com/2023/10/book-now-artist-el-plaga.html)**  2023-10-16 12:41:57
+
 [Amar](https://amarbheenick.blogspot.com/)  
-**[Judicial Committee of the Privy Council (JCPC) : Surendra Dayal (Appellant) v Pravind Kumar Jugnauth and 7 others (Respondents) (Mauritius)](https://amarbheenick.blogspot.com/2023/10/judicial-committee-of-privy-council.html)**  2023-10-16 10:00:22
+**[Judicial Committee of the Privy Council (JCPC) : Surendra Dayal (Appellant) v Pravind Kumar Jugnauth and 7 others (Respondents) (Mauritius)](https://amarbheenick.blogspot.com/2023/10/judicial-committee-of-privy-council.html)**  2023-10-16 12:10:58
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Two for 1 Rainbow Blending](https://swanlady-impressions.blogspot.com/2023/10/two-for-1-rainbow-blending.html)**  2023-10-15 19:24:54
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Rare Contacts](https://msinnott.net/2023/10/14/rare-contacts/)**  2023-10-14 10:25:15
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’Inde, la littérature de la partition](https://www.lemauricien.com/le-mauricien/linde-la-litterature-de-la-partition/606924/)**  2023-10-13 14:00:09
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Family Experience at Constance Hotels & Resorts](https://blog.constancehotels.com/family-experiences-at-constance-hotels-resorts/)**  2023-10-12 10:00:00
@@ -100,9 +103,6 @@ permalink: /mauritian-blogs/
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Comment l'IA (Intelligence Artificielle) peut contribuer à aligner l'Intelligence Humaine (IH) sur une vision du Dieu Unique.](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle_31.html)**  2023-06-01 06:59:20
 
-[EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
-**[ALBUM ZION QUEEN ( release 2018 )](https://elplagaa.blogspot.com/2023/05/album-zion-queen-release-2018.html)**  2023-05-21 17:18:34
-
 [Green Mauritius](https://greenmauritius.blogspot.com/)  
 **[Financement de la transition écologique à Maurice par la MCB](https://greenmauritius.blogspot.com/2023/04/financement-de-la-transition-ecologique.html)**  2023-04-28 06:37:01
 
@@ -138,8 +138,5 @@ permalink: /mauritian-blogs/
 
 [Celeborn](http://blog.atwin.org/)  
 **[Tmux : Create multiple windows to ssh to several servers](http://blog.atwin.org/2022/11/tmux-create-multiple-windows-to-ssh-to.html)**  2022-11-16 23:59:00
-
-[Stock Market Technical Analysis &#124; Financial Markets &#124; Technical Analysis &#124; Capital Street FX](https://dailytechnicalanalysisforexnews.blogspot.com/)  
-**[Our New Clients Get Up to 25 extra bonus on top of 650%.](https://dailytechnicalanalysisforexnews.blogspot.com/2022/11/our-new-clients-get-up-to-25-extra.html)**  2022-11-14 12:33:46
 
 <div style="height:0;width:0;overflow:hidden;"></div>
