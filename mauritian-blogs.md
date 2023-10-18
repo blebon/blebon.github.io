@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Why you should honeymoon in Mauritius](https://blog.constancehotels.com/why-you-should-honeymoon-in-mauritius/)**  2023-10-18 09:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Fundamental Attribution Error](https://www.lemauricien.com/le-mauricien/fundamental-attribution-error/607939/)**  2023-10-17 14:00:07
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Rare Contacts](https://msinnott.net/2023/10/14/rare-contacts/)**  2023-10-14 10:25:15
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Family Experience at Constance Hotels & Resorts](https://blog.constancehotels.com/family-experiences-at-constance-hotels-resorts/)**  2023-10-12 10:00:00
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Magsafe Accessories : PopSockets Wallet+ and PopGrips review](https://yashvinblogs.com/2023/10/11/magsafe-popsockets-wallet-popgrips/)**  2023-10-11 18:18:01
