@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Les anniversaires jumeaux](https://www.lemauricien.com/le-mauricien/les-anniversaires-jumeaux/607619/)**  2023-10-16 14:00:50
+**[Fundamental Attribution Error](https://www.lemauricien.com/le-mauricien/fundamental-attribution-error/607939/)**  2023-10-17 14:00:07
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[Book Now Artist: EL PLAGA](https://elplagaa.blogspot.com/2023/10/book-now-artist-el-plaga.html)**  2023-10-16 12:41:57
