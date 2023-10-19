@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[HARD LUCK MR. SUREN!*](https://www.lemauricien.com/le-mauricien/hard-luck-mr-suren/608178/)**  2023-10-18 12:29:05
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Why you should honeymoon in Mauritius](https://blog.constancehotels.com/why-you-should-honeymoon-in-mauritius/)**  2023-10-18 09:00:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Fundamental Attribution Error](https://www.lemauricien.com/le-mauricien/fundamental-attribution-error/607939/)**  2023-10-17 14:00:07
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[Book Now Artist: EL PLAGA](https://elplagaa.blogspot.com/2023/10/book-now-artist-el-plaga.html)**  2023-10-16 12:41:57
@@ -135,8 +135,5 @@ permalink: /mauritian-blogs/
 
 [DesignHub](https://theolivertwistblog.blogspot.com/)  
 **[No title](https://theolivertwistblog.blogspot.com/2022/11/blog-post_21.html)**  2022-11-21 19:01:49
-
-[Celeborn](http://blog.atwin.org/)  
-**[Tmux : Create multiple windows to ssh to several servers](http://blog.atwin.org/2022/11/tmux-create-multiple-windows-to-ssh-to.html)**  2022-11-16 23:59:00
 
 <div style="height:0;width:0;overflow:hidden;"></div>
