@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[10 Delicious Pumpkin and Squash Recipes](https://veganlovlie.com/10-delicious-pumpkin-and-squash-recipes/)**  2023-10-19 09:46:52
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[HARD LUCK MR. SUREN!*](https://www.lemauricien.com/le-mauricien/hard-luck-mr-suren/608178/)**  2023-10-18 12:29:05
 
@@ -126,9 +129,6 @@ permalink: /mauritian-blogs/
 
 [La  Foi Bahaie a PORT LOUIS](https://bahai-portlouis-ile-maurice.blogspot.com/)  
 **[a sunday morning](https://bahai-portlouis-ile-maurice.blogspot.com/2008/09/sunday-morning.html)**  2022-12-22 06:21:40
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Gluten Free Coconut Cookies](https://veganlovlie.com/gluten-free-coconut-cookies/)**  2022-12-18 20:32:11
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[General Secretaries of the Labour Party](https://morisk.blogspot.com/2022/12/general-secretaries-of-labour-party.html)**  2022-12-10 12:03:49
