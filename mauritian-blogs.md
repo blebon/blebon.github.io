@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Permal Soobrayen – une offrande à Anjalay](https://www.lemauricien.com/le-mauricien/permal-soobrayen-une-offrande-a-anjalay/608343/)**  2023-10-19 13:02:50
+
 [Veganlovlie](https://veganlovlie.com)  
 **[10 Delicious Pumpkin and Squash Recipes](https://veganlovlie.com/10-delicious-pumpkin-and-squash-recipes/)**  2023-10-19 09:46:52
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[HARD LUCK MR. SUREN!*](https://www.lemauricien.com/le-mauricien/hard-luck-mr-suren/608178/)**  2023-10-18 12:29:05
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Why you should honeymoon in Mauritius](https://blog.constancehotels.com/why-you-should-honeymoon-in-mauritius/)**  2023-10-18 09:00:00
