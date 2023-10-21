@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Permal Soobrayen – une offrande à Anjalay](https://www.lemauricien.com/le-mauricien/permal-soobrayen-une-offrande-a-anjalay/608343/)**  2023-10-19 13:02:50
+**[La tragédie française](https://www.lemauricien.com/week-end/la-tragedie-francaise/608749/)**  2023-10-21 09:00:33
 
 [Veganlovlie](https://veganlovlie.com)  
 **[10 Delicious Pumpkin and Squash Recipes](https://veganlovlie.com/10-delicious-pumpkin-and-squash-recipes/)**  2023-10-19 09:46:52
