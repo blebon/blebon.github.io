@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2023/10/23/owning-a-business-in-mauritius-2/)**  2023-10-23 10:13:11
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[La tragédie française](https://www.lemauricien.com/week-end/la-tragedie-francaise/608749/)**  2023-10-21 09:00:33
 
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[China as a model: Who said Asia has ‘low intellectual potential’?](https://zoomdr.blogspot.com/2023/09/china-as-model-who-said-asia-has-low.html)**  2023-09-26 18:41:42
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[FOREIGN V/S LOCAL EMPLOYEES – AVOIDING THE XENOPHOBIC TRAP](https://relocationmauritius.wordpress.com/2023/09/22/foreign-v-s-local-employees-avoiding-the-xenophobic-trap-2/)**  2023-09-22 05:04:24
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Sanity](https://faustianmatters.blogspot.com/2023/09/sanity.html)**  2023-09-19 09:14:11
