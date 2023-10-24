@@ -7,11 +7,11 @@ permalink: /mauritian-blogs/
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[One Happy Duck!](https://swanlady-impressions.blogspot.com/2023/10/one-happy-duck.html)**  2023-10-23 16:47:09
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[COMMEMORATING THE MAKING OF OUR HISTORY : The Arrival of Arbuthnot’s Indentured Labourers in Mauritius in November 1834](https://www.lemauricien.com/le-mauricien/commemorating-the-making-of-our-history-the-arrival-of-arbuthnots-indentured-labourers-in-mauritius-in-november-1834/609232/)**  2023-10-23 13:00:19
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2023/10/23/owning-a-business-in-mauritius-2/)**  2023-10-23 10:13:11
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[La tragédie française](https://www.lemauricien.com/week-end/la-tragedie-francaise/608749/)**  2023-10-21 09:00:33
 
 [Veganlovlie](https://veganlovlie.com)  
 **[10 Delicious Pumpkin and Squash Recipes](https://veganlovlie.com/10-delicious-pumpkin-and-squash-recipes/)**  2023-10-19 09:46:52
