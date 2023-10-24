@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[One Happy Duck!](https://swanlady-impressions.blogspot.com/2023/10/one-happy-duck.html)**  2023-10-23 16:47:09
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2023/10/23/owning-a-business-in-mauritius-2/)**  2023-10-23 10:13:11
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Judicial Committee of the Privy Council (JCPC) : Surendra Dayal (Appellant) v Pravind Kumar Jugnauth and 7 others (Respondents) (Mauritius)](https://amarbheenick.blogspot.com/2023/10/judicial-committee-of-privy-council.html)**  2023-10-16 12:10:58
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Two for 1 Rainbow Blending](https://swanlady-impressions.blogspot.com/2023/10/two-for-1-rainbow-blending.html)**  2023-10-15 19:24:54
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Hopscotch in Living Color](https://davidandjennilyn.com/2023/10/15/hopscotch-in-living-color/)**  2023-10-15 16:10:58
@@ -132,8 +132,5 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[General Secretaries of the Labour Party](https://morisk.blogspot.com/2022/12/general-secretaries-of-labour-party.html)**  2022-12-10 12:03:49
-
-[DesignHub](https://theolivertwistblog.blogspot.com/)  
-**[No title](https://theolivertwistblog.blogspot.com/2022/11/blog-post_21.html)**  2022-11-21 19:01:49
 
 <div style="height:0;width:0;overflow:hidden;"></div>
