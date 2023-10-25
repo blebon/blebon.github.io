@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[One Happy Duck!](https://swanlady-impressions.blogspot.com/2023/10/one-happy-duck.html)**  2023-10-23 16:47:09
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**["Empathy can be really bad for conflict resolution"](https://zoomdr.blogspot.com/2023/10/empathy-can-be-really-bad-for-conflict.html)**  2023-10-24 18:24:42
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[COMMEMORATING THE MAKING OF OUR HISTORY : The Arrival of Arbuthnot’s Indentured Labourers in Mauritius in November 1834](https://www.lemauricien.com/le-mauricien/commemorating-the-making-of-our-history-the-arrival-of-arbuthnots-indentured-labourers-in-mauritius-in-november-1834/609232/)**  2023-10-23 13:00:19
+**[Parsi-Parla](https://www.lemauricien.com/le-mauricien/parsi-parla/609451/)**  2023-10-24 13:00:41
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[One Happy Duck!](https://swanlady-impressions.blogspot.com/2023/10/one-happy-duck.html)**  2023-10-23 16:47:09
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2023/10/23/owning-a-business-in-mauritius-2/)**  2023-10-23 10:13:11
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[A brief appearance of the Nikon FG-20](https://priscimon.com/blog/2023/09/27/a-brief-appearance-of-the-nikon-fg-20/)**  2023-09-27 23:11:22
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[China as a model: Who said Asia has ‘low intellectual potential’?](https://zoomdr.blogspot.com/2023/09/china-as-model-who-said-asia-has-low.html)**  2023-09-26 18:41:42
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Sanity](https://faustianmatters.blogspot.com/2023/09/sanity.html)**  2023-09-19 09:14:11
