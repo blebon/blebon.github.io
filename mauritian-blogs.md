@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**["Empathy can be really bad for conflict resolution"](https://zoomdr.blogspot.com/2023/10/empathy-can-be-really-bad-for-conflict.html)**  2023-10-24 18:24:42
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Celebrating Academic Excellence: PhD Graduations at the Faculty of Agriculture 2023](https://facultyagriculture.blogspot.com/2023/10/celebrating-academic-excellence-phd.html)**  2023-10-25 17:00:07
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Parsi-Parla](https://www.lemauricien.com/le-mauricien/parsi-parla/609451/)**  2023-10-24 13:00:41
+**[Bernardin de Saint-Pierre](https://www.lemauricien.com/le-mauricien/bernardin-de-saint-pierre/609615/)**  2023-10-25 13:17:36
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**["Empathy can be really bad for conflict resolution"](https://zoomdr.blogspot.com/2023/10/empathy-can-be-really-bad-for-conflict.html)**  2023-10-24 18:24:42
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[One Happy Duck!](https://swanlady-impressions.blogspot.com/2023/10/one-happy-duck.html)**  2023-10-23 16:47:09
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Magsafe Accessories : PopSockets Wallet+ and PopGrips review](https://yashvinblogs.com/2023/10/11/magsafe-popsockets-wallet-popgrips/)**  2023-10-11 18:18:01
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[PARTICIPATORY GUARANTEE SYSTEMS (PGS) FOR SUSTAINABLE LOCAL FOOD SYSTEMS](https://facultyagriculture.blogspot.com/2023/10/participatory-guarantee-systems-pgs-for.html)**  2023-10-09 17:40:39
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Winning & Losing](https://vintishgokool.blogspot.com/2023/10/winning-losing.html)**  2023-10-08 19:05:15
