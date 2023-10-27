@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Philosopher, c’est apprendre à mourir](https://www.lemauricien.com/le-mauricien/philosopher-cest-apprendre-a-mourir/609771/)**  2023-10-26 13:00:25
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Celebrating Academic Excellence: PhD Graduations at the Faculty of Agriculture 2023](https://facultyagriculture.blogspot.com/2023/10/celebrating-academic-excellence-phd.html)**  2023-10-25 17:00:07
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Bernardin de Saint-Pierre](https://www.lemauricien.com/le-mauricien/bernardin-de-saint-pierre/609615/)**  2023-10-25 13:17:36
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Empathy can be really bad for conflict resolution"](https://zoomdr.blogspot.com/2023/10/empathy-can-be-really-bad-for-conflict.html)**  2023-10-24 18:24:42
