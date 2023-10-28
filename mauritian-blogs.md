@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Philosopher, c’est apprendre à mourir](https://www.lemauricien.com/le-mauricien/philosopher-cest-apprendre-a-mourir/609771/)**  2023-10-26 13:00:25
+**[POU BIZIN RANN KONT](https://www.lemauricien.com/le-mauricien/pou-bizin-rann-kont/609973/)**  2023-10-27 13:52:19
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Celebrating Academic Excellence: PhD Graduations at the Faculty of Agriculture 2023](https://facultyagriculture.blogspot.com/2023/10/celebrating-academic-excellence-phd.html)**  2023-10-25 17:00:07
