@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Halloween 2023](https://kabilen.tumblr.com/post/732507911929102336)**  2023-10-29 10:06:22
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Olympe de Gouges, femme de lettres des Lumières et adversaire résolue du système esclavagiste](https://www.lemauricien.com/le-mauricien/olympe-de-gouges-femme-de-lettres-des-lumieres-et-adversaire-resolue-du-systeme-esclavagiste/610187/)**  2023-10-28 14:00:19
 
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Katia M](https://katiam.blog)  
 **[Northern islands of Madagascar](https://katiam.blog/2023/09/29/northern-islands-of-madagascar/)**  2023-09-29 15:07:45
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Final Round - Forage Wine Bar. Shanghai 2023](https://kabilen.tumblr.com/post/729789920907018240)**  2023-09-29 11:05:03
 
 [priscimon.com](https://priscimon.com/blog)  
 **[A brief appearance of the Nikon FG-20](https://priscimon.com/blog/2023/09/27/a-brief-appearance-of-the-nikon-fg-20/)**  2023-09-27 23:11:22
