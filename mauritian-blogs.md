@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[turbine.mu](https://turbine.mu)  
+**[Laurence Vallet: Une Coach et Entrepreneure Polyvalente au Coeur de l’Écosystème Turbine](https://turbine.mu/blog/2023/10/31/laurence-vallet-une-coach-et-entrepreneure-polyvalente-au-coeur-de-lecosysteme-turbine/)**  2023-10-31 11:56:34
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[In conversation with Perumal Murugan,  Chronicler of Ordinary Lives](https://www.lemauricien.com/le-mauricien/in-conversation-with-perumal-murugan-chronicler-of-ordinary-lives/610503/)**  2023-10-30 12:49:57
 
@@ -111,9 +114,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 3e Dimanche du temps de Pâques](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-3e-dimanche-du-temps-de.html)**  2023-04-23 14:25:31
-
-[turbine.mu](https://turbine.mu)  
-**[Meet with Mimi Kalinda- Bank one x Turbine](https://turbine.mu/blog/2023/04/05/meet-with-mimi-kalinda-bank-one-x-turbine/)**  2023-04-05 06:04:25
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Aggiornamento, Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/freddy-passera-da-grand-baie-alle-17.html)**  2023-02-24 16:42:36
