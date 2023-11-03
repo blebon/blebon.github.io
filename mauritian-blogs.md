@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[My little Spanish Place](https://kabilen.tumblr.com/post/732947739575533568)**  2023-11-03 06:37:14
+
 [turbine.mu](https://turbine.mu)  
 **[Laurence Vallet: Une Coach et Entrepreneure Polyvalente au Coeur de l’Écosystème Turbine](https://turbine.mu/blog/2023/10/31/laurence-vallet-une-coach-et-entrepreneure-polyvalente-au-coeur-de-lecosysteme-turbine/)**  2023-10-31 11:56:34
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[In conversation with Perumal Murugan,  Chronicler of Ordinary Lives](https://www.lemauricien.com/le-mauricien/in-conversation-with-perumal-murugan-chronicler-of-ordinary-lives/610503/)**  2023-10-30 12:49:57
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Halloween 2023](https://kabilen.tumblr.com/post/732507911929102336)**  2023-10-29 10:06:22
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Celebrating Academic Excellence: PhD Graduations at the Faculty of Agriculture 2023](https://facultyagriculture.blogspot.com/2023/10/celebrating-academic-excellence-phd.html)**  2023-10-25 17:00:07
