@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Cirque](https://kabilen.tumblr.com/post/733137004900089856)**  2023-11-05 08:45:31
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Daughters of Indenture:  The Early Female Indian Immigrant Labourers & their Life-Stories in British Mauritius (1826-1908)](https://www.lemauricien.com/le-mauricien/daughters-of-indenture-the-early-female-indian-immigrant-labourers-their-life-stories-in-british-mauritius-1826-1908/611241/)**  2023-11-04 12:00:18
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[My little Spanish Place](https://kabilen.tumblr.com/post/732947739575533568)**  2023-11-03 06:37:14
 
 [turbine.mu](https://turbine.mu)  
 **[Laurence Vallet: Une Coach et Entrepreneure Polyvalente au Coeur de l’Écosystème Turbine](https://turbine.mu/blog/2023/10/31/laurence-vallet-une-coach-et-entrepreneure-polyvalente-au-coeur-de-lecosysteme-turbine/)**  2023-10-31 11:56:34
