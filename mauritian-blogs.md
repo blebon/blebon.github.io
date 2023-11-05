@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Padma Vibhushan Pandit Hariprasad Chaurasia](https://www.lemauricien.com/le-mauricien/padma-vibhushan-pandit-hariprasad-chaurasia/610999/)**  2023-11-03 12:01:36
+**[Daughters of Indenture:  The Early Female Indian Immigrant Labourers & their Life-Stories in British Mauritius (1826-1908)](https://www.lemauricien.com/le-mauricien/daughters-of-indenture-the-early-female-indian-immigrant-labourers-their-life-stories-in-british-mauritius-1826-1908/611241/)**  2023-11-04 12:00:18
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[My little Spanish Place](https://kabilen.tumblr.com/post/732947739575533568)**  2023-11-03 06:37:14
