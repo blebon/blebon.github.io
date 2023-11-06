@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[More pictures from expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/11/05/more-pictures-from-expired-ferrania-solaris-100-film/)**  2023-11-05 20:13:17
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Cirque](https://kabilen.tumblr.com/post/733137004900089856)**  2023-11-05 08:45:31
 
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Katia M](https://katiam.blog)  
 **[Northern islands of Madagascar](https://katiam.blog/2023/09/29/northern-islands-of-madagascar/)**  2023-09-29 15:07:45
-
-[priscimon.com](https://priscimon.com/blog)  
-**[A brief appearance of the Nikon FG-20](https://priscimon.com/blog/2023/09/27/a-brief-appearance-of-the-nikon-fg-20/)**  2023-09-27 23:11:22
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Sanity](https://faustianmatters.blogspot.com/2023/09/sanity.html)**  2023-09-19 09:14:11
