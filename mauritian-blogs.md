@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Campaign for the appointment  of a Royal Commission (1909) : ‘La Vérité en Marche’](https://www.lemauricien.com/le-mauricien/campaign-for-the-appointment-of-a-royal-commission-1909-la-verite-en-marche/611496/)**  2023-11-06 12:16:07
+
 [priscimon.com](https://priscimon.com/blog)  
 **[More pictures from expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/11/05/more-pictures-from-expired-ferrania-solaris-100-film/)**  2023-11-05 20:13:17
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Cirque](https://kabilen.tumblr.com/post/733137004900089856)**  2023-11-05 08:45:31
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Daughters of Indenture:  The Early Female Indian Immigrant Labourers & their Life-Stories in British Mauritius (1826-1908)](https://www.lemauricien.com/le-mauricien/daughters-of-indenture-the-early-female-indian-immigrant-labourers-their-life-stories-in-british-mauritius-1826-1908/611241/)**  2023-11-04 12:00:18
 
 [turbine.mu](https://turbine.mu)  
 **[Laurence Vallet: Une Coach et Entrepreneure Polyvalente au Coeur de l’Écosystème Turbine](https://turbine.mu/blog/2023/10/31/laurence-vallet-une-coach-et-entrepreneure-polyvalente-au-coeur-de-lecosysteme-turbine/)**  2023-10-31 11:56:34
