@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Exploring Madagascan Wildlife at Constance Hotels & Resorts](https://blog.constancehotels.com/exploring-madagascan-wildlife/)**  2023-11-10 08:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Anou Koz Parol-144 – Spesial Omaz Dev Virahsawmy](https://www.lemauricien.com/le-mauricien/anou-koz-parol-144-spesial-omaz-dev-virahsawmy/611973/)**  2023-11-09 13:00:59
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[10 Delicious Pumpkin and Squash Recipes](https://veganlovlie.com/10-delicious-pumpkin-and-squash-recipes/)**  2023-10-19 09:46:52
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Why you should honeymoon in Mauritius](https://blog.constancehotels.com/why-you-should-honeymoon-in-mauritius/)**  2023-10-18 09:00:00
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[Book Now Artist: EL PLAGA](https://elplagaa.blogspot.com/2023/10/book-now-artist-el-plaga.html)**  2023-10-16 12:41:57
