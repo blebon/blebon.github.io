@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou Koz Parol-143 – Anou Koz Literatir Kreol-IV : ‘Literatir Kreol: nouvo lavwa, nouvo text, nouvo stil…’](https://www.lemauricien.com/le-mauricien/anou-koz-parol-143-anou-koz-literatir-kreol-iv-literatir-kreol-nouvo-lavwa-nouvo-text-nouvo-stil/611822/)**  2023-11-08 12:07:09
+**[Anou Koz Parol-144 – Spesial Omaz Dev Virahsawmy](https://www.lemauricien.com/le-mauricien/anou-koz-parol-144-spesial-omaz-dev-virahsawmy/611973/)**  2023-11-09 13:00:59
 
 [priscimon.com](https://priscimon.com/blog)  
 **[More pictures from expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/11/05/more-pictures-from-expired-ferrania-solaris-100-film/)**  2023-11-05 20:13:17
