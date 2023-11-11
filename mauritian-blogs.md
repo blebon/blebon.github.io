@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Les jardins de Versailles](https://www.lemauricien.com/le-mauricien/les-jardins-de-versailles/612336/)**  2023-11-11 09:51:07
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SEDECO prône l’excellence via des formations continues](https://sedecobtob.blogspot.com/2023/11/sedeco-prone-lexcellence-via-des.html)**  2023-11-10 17:47:19
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Annona Glabra](https://www.lemauricien.com/le-mauricien/annona-glabra/612190/)**  2023-11-10 12:03:44
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Exploring Madagascan Wildlife at Constance Hotels & Resorts](https://blog.constancehotels.com/exploring-madagascan-wildlife/)**  2023-11-10 08:00:00
