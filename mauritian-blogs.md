@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Exploring Madagascan Wildlife at Constance Hotels & Resorts](https://blog.constancehotels.com/exploring-madagascan-wildlife/)**  2023-11-10 08:00:00
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[SEDECO prône l’excellence via des formations continues](https://sedecobtob.blogspot.com/2023/11/sedeco-prone-lexcellence-via-des.html)**  2023-11-10 17:47:19
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou Koz Parol-144 – Spesial Omaz Dev Virahsawmy](https://www.lemauricien.com/le-mauricien/anou-koz-parol-144-spesial-omaz-dev-virahsawmy/611973/)**  2023-11-09 13:00:59
+**[Annona Glabra](https://www.lemauricien.com/le-mauricien/annona-glabra/612190/)**  2023-11-10 12:03:44
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Exploring Madagascan Wildlife at Constance Hotels & Resorts](https://blog.constancehotels.com/exploring-madagascan-wildlife/)**  2023-11-10 08:00:00
 
 [priscimon.com](https://priscimon.com/blog)  
 **[More pictures from expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/11/05/more-pictures-from-expired-ferrania-solaris-100-film/)**  2023-11-05 20:13:17
