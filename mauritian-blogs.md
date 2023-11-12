@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Falling for Fall Colors](https://davidandjennilyn.com/2023/11/11/falling-for-fall-colors/)**  2023-11-11 14:49:56
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Les jardins de Versailles](https://www.lemauricien.com/le-mauricien/les-jardins-de-versailles/612336/)**  2023-11-11 09:51:07
 
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Judicial Committee of the Privy Council (JCPC) : Surendra Dayal (Appellant) v Pravind Kumar Jugnauth and 7 others (Respondents) (Mauritius)](https://amarbheenick.blogspot.com/2023/10/judicial-committee-of-privy-council.html)**  2023-10-16 12:10:58
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Hopscotch in Living Color](https://davidandjennilyn.com/2023/10/15/hopscotch-in-living-color/)**  2023-10-15 16:10:58
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Rare Contacts](https://msinnott.net/2023/10/14/rare-contacts/)**  2023-10-14 10:25:15
@@ -132,8 +132,5 @@ permalink: /mauritian-blogs/
 
 [La  Foi Bahaie a PORT LOUIS](https://bahai-portlouis-ile-maurice.blogspot.com/)  
 **[a sunday morning](https://bahai-portlouis-ile-maurice.blogspot.com/2008/09/sunday-morning.html)**  2022-12-22 06:21:40
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[General Secretaries of the Labour Party](https://morisk.blogspot.com/2022/12/general-secretaries-of-labour-party.html)**  2022-12-10 12:03:49
 
 <div style="height:0;width:0;overflow:hidden;"></div>
