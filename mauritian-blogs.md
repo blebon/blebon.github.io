@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Deepavali 2023](https://kabilen.tumblr.com/post/733834129147297792)**  2023-11-13 01:26:01
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Falling for Fall Colors](https://davidandjennilyn.com/2023/11/11/falling-for-fall-colors/)**  2023-11-11 14:49:56
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[More pictures from expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/11/05/more-pictures-from-expired-ferrania-solaris-100-film/)**  2023-11-05 20:13:17
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Cirque](https://kabilen.tumblr.com/post/733137004900089856)**  2023-11-05 08:45:31
 
 [turbine.mu](https://turbine.mu)  
 **[Laurence Vallet: Une Coach et Entrepreneure Polyvalente au Coeur de l’Écosystème Turbine](https://turbine.mu/blog/2023/10/31/laurence-vallet-une-coach-et-entrepreneure-polyvalente-au-coeur-de-lecosysteme-turbine/)**  2023-10-31 11:56:34
