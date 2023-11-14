@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : externalisez en toute confiance chez SEDECO](https://sedecobtob.blogspot.com/2023/11/bpo-externalisez-en-toute-confiance.html)**  2023-11-13 19:17:11
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Les mémoires du Cardinal de Retz](https://www.lemauricien.com/le-mauricien/les-memoires-du-cardinal-de-retz/612646/)**  2023-11-13 12:41:19
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Deepavali 2023](https://kabilen.tumblr.com/post/733834129147297792)**  2023-11-13 01:26:01
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Falling for Fall Colors](https://davidandjennilyn.com/2023/11/11/falling-for-fall-colors/)**  2023-11-11 14:49:56
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Les jardins de Versailles](https://www.lemauricien.com/le-mauricien/les-jardins-de-versailles/612336/)**  2023-11-11 09:51:07
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[SEDECO prône l’excellence via des formations continues](https://sedecobtob.blogspot.com/2023/11/sedeco-prone-lexcellence-via-des.html)**  2023-11-10 17:47:19
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Exploring Madagascan Wildlife at Constance Hotels & Resorts](https://blog.constancehotels.com/exploring-madagascan-wildlife/)**  2023-11-10 08:00:00
