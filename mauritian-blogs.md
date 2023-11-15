@@ -4,20 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Suivi des demandes clients : SEDECO prône la qualité](https://sedecobtob.blogspot.com/2023/11/suivi-des-demandes-clients-sedeco-prone.html)**  2023-11-15 09:02:00
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[The Beaches of Constance Hotels & Resorts](https://blog.constancehotels.com/the-beaches-of-constance-hotels-resorts/)**  2023-11-15 08:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Devant le Silambou pour le 288e anniversaire  de la présence des Tamouls bâtisseurs](https://www.lemauricien.com/le-mauricien/devant-le-silambou-pour-le-288e-anniversaire-de-la-presence-des-tamouls-batisseurs/612768/)**  2023-11-14 12:00:42
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : externalisez en toute confiance chez SEDECO](https://sedecobtob.blogspot.com/2023/11/bpo-externalisez-en-toute-confiance.html)**  2023-11-13 19:17:11
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Deepavali 2023](https://kabilen.tumblr.com/post/733834129147297792)**  2023-11-13 01:26:01
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Falling for Fall Colors](https://davidandjennilyn.com/2023/11/11/falling-for-fall-colors/)**  2023-11-11 14:49:56
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Exploring Madagascan Wildlife at Constance Hotels & Resorts](https://blog.constancehotels.com/exploring-madagascan-wildlife/)**  2023-11-10 08:00:00
 
 [priscimon.com](https://priscimon.com/blog)  
 **[More pictures from expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/11/05/more-pictures-from-expired-ferrania-solaris-100-film/)**  2023-11-05 20:13:17
