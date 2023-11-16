@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The Right Man…](https://www.lemauricien.com/le-mauricien/the-right-man/612906/)**  2023-11-15 12:01:42
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Suivi des demandes clients : SEDECO prône la qualité](https://sedecobtob.blogspot.com/2023/11/suivi-des-demandes-clients-sedeco-prone.html)**  2023-11-15 09:02:00
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Beaches of Constance Hotels & Resorts](https://blog.constancehotels.com/the-beaches-of-constance-hotels-resorts/)**  2023-11-15 08:00:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Devant le Silambou pour le 288e anniversaire  de la présence des Tamouls bâtisseurs](https://www.lemauricien.com/le-mauricien/devant-le-silambou-pour-le-288e-anniversaire-de-la-presence-des-tamouls-batisseurs/612768/)**  2023-11-14 12:00:42
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Deepavali 2023](https://kabilen.tumblr.com/post/733834129147297792)**  2023-11-13 01:26:01
