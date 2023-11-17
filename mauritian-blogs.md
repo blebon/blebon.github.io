@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Right Man…](https://www.lemauricien.com/le-mauricien/the-right-man/612906/)**  2023-11-15 12:01:42
+**[Good ocean governance is crucial  for small island states… but world leaders have to listen to young people](https://www.lemauricien.com/le-mauricien/613019/613019/)**  2023-11-16 12:01:14
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Suivi des demandes clients : SEDECO prône la qualité](https://sedecobtob.blogspot.com/2023/11/suivi-des-demandes-clients-sedeco-prone.html)**  2023-11-15 09:02:00
