@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Revealing the Hidden Realities: « A Call to action against Gender-Based Violence »](https://www.lemauricien.com/opinions/revealing-the-hidden-realities-a-call-to-action-against-gender-based-violence/613208/)**  2023-11-17 10:30:20
+**[Les secrets de la compétitivité suisse](https://www.lemauricien.com/le-mauricien/les-secrets-de-la-competitivite-suisse/613415/)**  2023-11-18 11:03:45
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Suivi des demandes clients : SEDECO prône la qualité](https://sedecobtob.blogspot.com/2023/11/suivi-des-demandes-clients-sedeco-prone.html)**  2023-11-15 09:02:00
