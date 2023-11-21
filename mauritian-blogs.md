@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’assassinat de John Fitzgerald Kennedy  à Dallas il y a 60 ans de cela](https://www.lemauricien.com/le-mauricien/lassassinat-de-john-fitzgerald-kennedy-a-dallas-il-y-a-60-ans-de-cela/613761/)**  2023-11-20 12:01:01
+**[Stendhal ou Mérimée ?](https://www.lemauricien.com/le-mauricien/stendhal-ou-merimee/613952/)**  2023-11-21 11:03:27
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Suivi des demandes clients : SEDECO prône la qualité](https://sedecobtob.blogspot.com/2023/11/suivi-des-demandes-clients-sedeco-prone.html)**  2023-11-15 09:02:00
