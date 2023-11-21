@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Les secrets de la compétitivité suisse](https://www.lemauricien.com/le-mauricien/les-secrets-de-la-competitivite-suisse/613415/)**  2023-11-18 11:03:45
+**[L’assassinat de John Fitzgerald Kennedy  à Dallas il y a 60 ans de cela](https://www.lemauricien.com/le-mauricien/lassassinat-de-john-fitzgerald-kennedy-a-dallas-il-y-a-60-ans-de-cela/613761/)**  2023-11-20 12:01:01
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Suivi des demandes clients : SEDECO prône la qualité](https://sedecobtob.blogspot.com/2023/11/suivi-des-demandes-clients-sedeco-prone.html)**  2023-11-15 09:02:00
