@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Swing into Paradise: Explore the MCB Tour Championship](https://blog.constancehotels.com/swing-into-paradise-explore-the-mcb-tour-championship/)**  2023-11-23 08:00:00
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Noel Robin](https://swanlady-impressions.blogspot.com/2023/11/noel-robin.html)**  2023-11-22 16:06:35
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Suivi des demandes clients : SEDECO prône la qualité](https://sedecobtob.blogspot.com/2023/11/suivi-des-demandes-clients-sedeco-prone.html)**  2023-11-15 09:02:00
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[The Beaches of Constance Hotels & Resorts](https://blog.constancehotels.com/the-beaches-of-constance-hotels-resorts/)**  2023-11-15 08:00:00
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Deepavali 2023](https://kabilen.tumblr.com/post/733834129147297792)**  2023-11-13 01:26:01
@@ -129,8 +129,5 @@ permalink: /mauritian-blogs/
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[Chocolate Cake with Cream Cheese Swirl](https://nashbakery.blogspot.com/2022/12/chocolate-cake-with-cream-cheese-swirl.html)**  2022-12-23 15:03:16
-
-[La  Foi Bahaie a PORT LOUIS](https://bahai-portlouis-ile-maurice.blogspot.com/)  
-**[a sunday morning](https://bahai-portlouis-ile-maurice.blogspot.com/2008/09/sunday-morning.html)**  2022-12-22 06:21:40
 
 <div style="height:0;width:0;overflow:hidden;"></div>
