@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Noel Robin](https://swanlady-impressions.blogspot.com/2023/11/noel-robin.html)**  2023-11-22 16:06:35
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Stendhal ou Mérimée ?](https://www.lemauricien.com/le-mauricien/stendhal-ou-merimee/613952/)**  2023-11-21 11:03:27
+**[Faiz Ahmed Faiz and the Human Predicament](https://www.lemauricien.com/le-mauricien/faiz-ahmed-faiz-and-the-human-predicament/614174/)**  2023-11-22 13:00:08
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Suivi des demandes clients : SEDECO prône la qualité](https://sedecobtob.blogspot.com/2023/11/suivi-des-demandes-clients-sedeco-prone.html)**  2023-11-15 09:02:00
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Empathy can be really bad for conflict resolution"](https://zoomdr.blogspot.com/2023/10/empathy-can-be-really-bad-for-conflict.html)**  2023-10-24 18:24:42
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[One Happy Duck!](https://swanlady-impressions.blogspot.com/2023/10/one-happy-duck.html)**  2023-10-23 16:47:09
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2023/10/23/owning-a-business-in-mauritius-2/)**  2023-10-23 10:13:11
