@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[“Knowledge” in Islam](https://www.lemauricien.com/le-mauricien/knowledge-in-islam/614409/)**  2023-11-24 11:02:52
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Swing into Paradise: Explore the MCB Tour Championship](https://blog.constancehotels.com/swing-into-paradise-explore-the-mcb-tour-championship/)**  2023-11-23 08:00:00
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Noel Robin](https://swanlady-impressions.blogspot.com/2023/11/noel-robin.html)**  2023-11-22 16:06:35
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Faiz Ahmed Faiz and the Human Predicament](https://www.lemauricien.com/le-mauricien/faiz-ahmed-faiz-and-the-human-predicament/614174/)**  2023-11-22 13:00:08
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Suivi des demandes clients : SEDECO prône la qualité](https://sedecobtob.blogspot.com/2023/11/suivi-des-demandes-clients-sedeco-prone.html)**  2023-11-15 09:02:00
