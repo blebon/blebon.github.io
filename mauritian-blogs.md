@@ -127,7 +127,4 @@ permalink: /mauritian-blogs/
 [Medicine Hack](http://www.medicinehack.com/)  
 **[BPAP - Bilevel Positive Airway Pressure Ventilation](http://www.medicinehack.com/2020/04/bpap-bilevel-positive-airway-pressure.html)**  2023-01-01 16:23:01
 
-[Ask the Baker](https://nashbakery.blogspot.com/)  
-**[Chocolate Cake with Cream Cheese Swirl](https://nashbakery.blogspot.com/2022/12/chocolate-cake-with-cream-cheese-swirl.html)**  2022-12-23 15:03:16
-
 <div style="height:0;width:0;overflow:hidden;"></div>
