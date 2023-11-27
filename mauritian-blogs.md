@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[“Knowledge” in Islam](https://www.lemauricien.com/le-mauricien/knowledge-in-islam/614409/)**  2023-11-24 11:02:52
+**[The imperative of philosophy for youth : nurturing critical thinking and judicious independence](https://www.lemauricien.com/le-mauricien/the-imperative-of-philosophy-for-youth-nurturing-critical-thinking-and-judicious-independence/614782/)**  2023-11-27 11:02:05
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Swing into Paradise: Explore the MCB Tour Championship](https://blog.constancehotels.com/swing-into-paradise-explore-the-mcb-tour-championship/)**  2023-11-23 08:00:00
