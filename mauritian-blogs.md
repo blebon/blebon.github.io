@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Anusha Seechurn: A Voice for Climate Change and Sustainable Development](https://facultyagriculture.blogspot.com/2023/11/anusha-seechurn-voice-for-climate.html)**  2023-11-28 07:54:59
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[The imperative of philosophy for youth : nurturing critical thinking and judicious independence](https://www.lemauricien.com/le-mauricien/the-imperative-of-philosophy-for-youth-nurturing-critical-thinking-and-judicious-independence/614782/)**  2023-11-27 11:02:05
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Laurence Vallet: Une Coach et Entrepreneure Polyvalente au Coeur de l’Écosystème Turbine](https://turbine.mu/blog/2023/10/31/laurence-vallet-une-coach-et-entrepreneure-polyvalente-au-coeur-de-lecosysteme-turbine/)**  2023-10-31 11:56:34
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Celebrating Academic Excellence: PhD Graduations at the Faculty of Agriculture 2023](https://facultyagriculture.blogspot.com/2023/10/celebrating-academic-excellence-phd.html)**  2023-10-25 17:00:07
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["Empathy can be really bad for conflict resolution"](https://zoomdr.blogspot.com/2023/10/empathy-can-be-really-bad-for-conflict.html)**  2023-10-24 18:24:42
