@@ -5,10 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Anusha Seechurn: A Voice for Climate Change and Sustainable Development](https://facultyagriculture.blogspot.com/2023/11/anusha-seechurn-voice-for-climate.html)**  2023-11-28 07:54:59
+**[Celebrating 170 Years of the Mauritius Chamber of Agriculture](https://facultyagriculture.blogspot.com/2023/11/celebrating-170-years-of-mauritius.html)**  2023-11-29 04:44:54
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The imperative of philosophy for youth : nurturing critical thinking and judicious independence](https://www.lemauricien.com/le-mauricien/the-imperative-of-philosophy-for-youth-nurturing-critical-thinking-and-judicious-independence/614782/)**  2023-11-27 11:02:05
+**[« Tu vas voir, quand tu auras fini  le lycée, ça va te manquer »](https://www.lemauricien.com/le-mauricien/tu-vas-voir-quand-tu-auras-fini-le-lycee-ca-va-te-manquer/615057/)**  2023-11-28 11:24:25
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Swing into Paradise: Explore the MCB Tour Championship](https://blog.constancehotels.com/swing-into-paradise-explore-the-mcb-tour-championship/)**  2023-11-23 08:00:00
