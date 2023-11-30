@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Coming to South African Shores An Overview of Indentured Labour in  Natal (South Africa) [1860-1911]](https://www.lemauricien.com/le-mauricien/coming-to-south-african-shores-an-overview-of-indentured-labour-in-natal-south-africa-1860-1911/615172/)**  2023-11-29 12:00:30
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Celebrating 170 Years of the Mauritius Chamber of Agriculture](https://facultyagriculture.blogspot.com/2023/11/celebrating-170-years-of-mauritius.html)**  2023-11-29 04:44:54
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[« Tu vas voir, quand tu auras fini  le lycée, ça va te manquer »](https://www.lemauricien.com/le-mauricien/tu-vas-voir-quand-tu-auras-fini-le-lycee-ca-va-te-manquer/615057/)**  2023-11-28 11:24:25
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Swing into Paradise: Explore the MCB Tour Championship](https://blog.constancehotels.com/swing-into-paradise-explore-the-mcb-tour-championship/)**  2023-11-23 08:00:00
