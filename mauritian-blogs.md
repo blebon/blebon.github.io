@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Coming to South African Shores An Overview of Indentured Labour in  Natal (South Africa) [1860-1911]](https://www.lemauricien.com/le-mauricien/coming-to-south-african-shores-an-overview-of-indentured-labour-in-natal-south-africa-1860-1911/615172/)**  2023-11-29 12:00:30
+**[Pik Pous Azin](https://www.lemauricien.com/le-mauricien/pik-pous-azin/615276/)**  2023-11-30 11:03:37
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[John Cowperthwaite: the thinking civil servant behind Hong Kong's success](https://zoomdr.blogspot.com/2023/11/john-cowperthwaite-thinking-civil.html)**  2023-11-30 06:04:40
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Celebrating 170 Years of the Mauritius Chamber of Agriculture](https://facultyagriculture.blogspot.com/2023/11/celebrating-170-years-of-mauritius.html)**  2023-11-29 04:44:54
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Laurence Vallet: Une Coach et Entrepreneure Polyvalente au Coeur de l’Écosystème Turbine](https://turbine.mu/blog/2023/10/31/laurence-vallet-une-coach-et-entrepreneure-polyvalente-au-coeur-de-lecosysteme-turbine/)**  2023-10-31 11:56:34
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**["Empathy can be really bad for conflict resolution"](https://zoomdr.blogspot.com/2023/10/empathy-can-be-really-bad-for-conflict.html)**  2023-10-24 18:24:42
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2023/10/23/owning-a-business-in-mauritius-2/)**  2023-10-23 10:13:11
