@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Monochrome Ornaments](https://swanlady-impressions.blogspot.com/2023/11/monochrome-ornaments.html)**  2023-11-30 19:11:26
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Pik Pous Azin](https://www.lemauricien.com/le-mauricien/pik-pous-azin/615276/)**  2023-11-30 11:03:37
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Swing into Paradise: Explore the MCB Tour Championship](https://blog.constancehotels.com/swing-into-paradise-explore-the-mcb-tour-championship/)**  2023-11-23 08:00:00
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Noel Robin](https://swanlady-impressions.blogspot.com/2023/11/noel-robin.html)**  2023-11-22 16:06:35
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Suivi des demandes clients : SEDECO prône la qualité](https://sedecobtob.blogspot.com/2023/11/suivi-des-demandes-clients-sedeco-prone.html)**  2023-11-15 09:02:00
