@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The alarming increasing death rate due to road traffic injuries](https://www.lemauricien.com/le-mauricien/the-alarming-increasing-death-rate-due-to-road-traffic-injuries/615549/)**  2023-12-02 11:06:38
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-12-02 04:14:56
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[International Day of Persons with Disabilities 2023](https://www.lemauricien.com/le-mauricien/international-day-of-persons-with-disabilities-2023/615370/)**  2023-12-01 13:00:16
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Hébergement web : un service complet avec SEDECO](https://sedecobtob.blogspot.com/2023/12/hebergement-web-un-service-complet-avec.html)**  2023-12-01 12:41:07
