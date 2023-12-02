@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Monochrome Ornaments](https://swanlady-impressions.blogspot.com/2023/11/monochrome-ornaments.html)**  2023-11-30 19:11:26
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-12-02 04:14:56
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Pik Pous Azin](https://www.lemauricien.com/le-mauricien/pik-pous-azin/615276/)**  2023-11-30 11:03:37
+**[International Day of Persons with Disabilities 2023](https://www.lemauricien.com/le-mauricien/international-day-of-persons-with-disabilities-2023/615370/)**  2023-12-01 13:00:16
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Hébergement web : un service complet avec SEDECO](https://sedecobtob.blogspot.com/2023/12/hebergement-web-un-service-complet-avec.html)**  2023-12-01 12:41:07
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Monochrome Ornaments](https://swanlady-impressions.blogspot.com/2023/11/monochrome-ornaments.html)**  2023-11-30 19:11:26
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[John Cowperthwaite: the thinking civil servant behind Hong Kong's success](https://zoomdr.blogspot.com/2023/11/john-cowperthwaite-thinking-civil.html)**  2023-11-30 06:04:40
@@ -18,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Swing into Paradise: Explore the MCB Tour Championship](https://blog.constancehotels.com/swing-into-paradise-explore-the-mcb-tour-championship/)**  2023-11-23 08:00:00
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Suivi des demandes clients : SEDECO prône la qualité](https://sedecobtob.blogspot.com/2023/11/suivi-des-demandes-clients-sedeco-prone.html)**  2023-11-15 09:02:00
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Deepavali 2023](https://kabilen.tumblr.com/post/733834129147297792)**  2023-11-13 01:26:01
@@ -72,9 +75,6 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Custard and Cherry Jam Phyllo Tartlets](https://everpeckish.com/custard-and-cherry-jam-phyllo-tartlets/?utm_source=rss&utm_medium=rss&utm_campaign=custard-and-cherry-jam-phyllo-tartlets)**  2023-08-13 12:51:45
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-08-08 03:14:26
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Speaking at DevCon 2023: E-commerce Chatbot in Creole](https://nayarweb.com/blog/2023/speaking-at-devcon-2023-e-commerce-chatbot-in-creole/)**  2023-07-28 09:36:10
