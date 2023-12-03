@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[A few memories of Tahiti](https://priscimon.com/blog/2023/12/02/a-few-memories-of-tahiti/)**  2023-12-02 18:13:28
+
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Innovating for a Sustainable Future: Navigating Technology and Research in Food Security](https://facultyagriculture.blogspot.com/2023/12/innovating-for-sustainable-future.html)**  2023-12-02 16:03:59
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[The alarming increasing death rate due to road traffic injuries](https://www.lemauricien.com/le-mauricien/the-alarming-increasing-death-rate-due-to-road-traffic-injuries/615549/)**  2023-12-02 11:06:38
 
@@ -19,9 +25,6 @@ permalink: /mauritian-blogs/
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[John Cowperthwaite: the thinking civil servant behind Hong Kong's success](https://zoomdr.blogspot.com/2023/11/john-cowperthwaite-thinking-civil.html)**  2023-11-30 06:04:40
 
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Celebrating 170 Years of the Mauritius Chamber of Agriculture](https://facultyagriculture.blogspot.com/2023/11/celebrating-170-years-of-mauritius.html)**  2023-11-29 04:44:54
-
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Swing into Paradise: Explore the MCB Tour Championship](https://blog.constancehotels.com/swing-into-paradise-explore-the-mcb-tour-championship/)**  2023-11-23 08:00:00
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Falling for Fall Colors](https://davidandjennilyn.com/2023/11/11/falling-for-fall-colors/)**  2023-11-11 14:49:56
-
-[priscimon.com](https://priscimon.com/blog)  
-**[More pictures from expired Ferrania Solaris 100 film](https://priscimon.com/blog/2023/11/05/more-pictures-from-expired-ferrania-solaris-100-film/)**  2023-11-05 20:13:17
 
 [turbine.mu](https://turbine.mu)  
 **[Laurence Vallet: Une Coach et Entrepreneure Polyvalente au Coeur de l’Écosystème Turbine](https://turbine.mu/blog/2023/10/31/laurence-vallet-une-coach-et-entrepreneure-polyvalente-au-coeur-de-lecosysteme-turbine/)**  2023-10-31 11:56:34
