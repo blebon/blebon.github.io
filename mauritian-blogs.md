@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Overview of the Food Innovation Lab (FIL) of the Faculty of Agriculture and its Inception](https://facultyagriculture.blogspot.com/2023/12/overview-of-food-innovation-lab-fil-of.html)**  2023-12-03 16:13:05
+
 [priscimon.com](https://priscimon.com/blog)  
 **[A few memories of Tahiti](https://priscimon.com/blog/2023/12/02/a-few-memories-of-tahiti/)**  2023-12-02 18:13:28
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Innovating for a Sustainable Future: Navigating Technology and Research in Food Security](https://facultyagriculture.blogspot.com/2023/12/innovating-for-sustainable-future.html)**  2023-12-02 16:03:59
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[The alarming increasing death rate due to road traffic injuries](https://www.lemauricien.com/le-mauricien/the-alarming-increasing-death-rate-due-to-road-traffic-injuries/615549/)**  2023-12-02 11:06:38
@@ -27,6 +27,9 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Swing into Paradise: Explore the MCB Tour Championship](https://blog.constancehotels.com/swing-into-paradise-explore-the-mcb-tour-championship/)**  2023-11-23 08:00:00
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Socks For Laura](http://kozelidir.blogspot.com/2023/11/socks-for-laura.html)**  2023-11-22 18:46:37
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Deepavali 2023](https://kabilen.tumblr.com/post/733834129147297792)**  2023-11-13 01:26:01
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Winning & Losing](https://vintishgokool.blogspot.com/2023/10/winning-losing.html)**  2023-10-08 19:05:15
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Investment Analytics Now On Apple Books](http://kozelidir.blogspot.com/2023/10/investment-analytics-now-on-apple-books.html)**  2023-10-07 08:27:05
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UOM students selected for the finals of the Africa Fact-Checking Awards 2023](https://comstudies.wordpress.com/2023/10/05/uom-students-selected-for-the-finals-of-the-africa-fact-checking-awards-2023/)**  2023-10-05 19:14:05
@@ -123,8 +123,5 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[This is a chicken](https://meeraappadoo.wordpress.com/2023/02/24/this-is-a-chicken/)**  2023-02-24 04:41:49
-
-[Medicine Hack](http://www.medicinehack.com/)  
-**[BPAP - Bilevel Positive Airway Pressure Ventilation](http://www.medicinehack.com/2020/04/bpap-bilevel-positive-airway-pressure.html)**  2023-01-01 16:23:01
 
 <div style="height:0;width:0;overflow:hidden;"></div>
