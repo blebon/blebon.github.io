@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Are our farmers getting the respect and place they deserve in our society?](https://www.lemauricien.com/le-mauricien/are-our-farmers-getting-the-respect-and-place-they-deserve-in-our-society/615794/)**  2023-12-05 07:45:11
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Overview of the Food Innovation Lab (FIL) of the Faculty of Agriculture and its Inception](https://facultyagriculture.blogspot.com/2023/12/overview-of-food-innovation-lab-fil-of.html)**  2023-12-04 10:37:33
+**[Ecopec Food Freshness Retainer (A natural coating to enhance the shelf-life of fresh fruits and vegetables)](https://facultyagriculture.blogspot.com/2023/12/ecopec-food-freshness-retainer-natural.html)**  2023-12-05 05:31:50
 
 [priscimon.com](https://priscimon.com/blog)  
 **[A few memories of Tahiti](https://priscimon.com/blog/2023/12/02/a-few-memories-of-tahiti/)**  2023-12-02 18:13:28
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The alarming increasing death rate due to road traffic injuries](https://www.lemauricien.com/le-mauricien/the-alarming-increasing-death-rate-due-to-road-traffic-injuries/615549/)**  2023-12-02 11:06:38
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-12-02 04:14:56
