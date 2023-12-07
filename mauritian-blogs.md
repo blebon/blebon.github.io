@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
-**[Live Tea Experience - BASAO, Shanghai Nov 23](https://kabilen.tumblr.com/post/736020565473837056)**  2023-12-07 04:38:29
+**[SriLanka 2023 - Negambo welcome!](https://kabilen.tumblr.com/post/736023540792442880)**  2023-12-07 05:25:47
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Peace & Joy](https://swanlady-impressions.blogspot.com/2023/12/peace-joy.html)**  2023-12-06 15:38:16
