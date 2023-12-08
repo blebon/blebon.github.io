@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[SriLanka 2023 - Jetwing Lake Dambulla](https://kabilen.tumblr.com/post/736064953505775616)**  2023-12-07 16:24:01
-
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Major Works of Nirad C. Chaudhuri](https://www.lemauricien.com/le-mauricien/the-major-works-of-nirad-c-chaudhuri/616126/)**  2023-12-07 13:00:43
+**[Economics of Care: Women’s Rights as Human Rights](https://www.lemauricien.com/le-mauricien/economics-of-care-womens-rights-as-human-rights/616316/)**  2023-12-08 11:02:26
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[SriLanka 2023 - Sirigiya Lion Rock](https://kabilen.tumblr.com/post/736116819715407873)**  2023-12-08 06:08:24
+
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Ecopec Food Freshness Retainer (A natural coating to enhance the shelf-life of fresh fruits and vegetables)](https://facultyagriculture.blogspot.com/2023/12/ecopec-food-freshness-retainer-natural.html)**  2023-12-08 05:58:09
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Contenu multimédia : SEDECO aide à stimuler votre marque](https://sedecobtob.blogspot.com/2023/12/contenu-multimedia-sedeco-aide-stimuler.html)**  2023-12-07 11:12:18
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴JOLLY'S ROCK à BUTTE A L'HERBE](https://mysweetmauritius.blogspot.com/2023/12/jollys-rock-butte-lherbe.html)**  2023-12-05 15:28:16
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Ecopec Food Freshness Retainer (A natural coating to enhance the shelf-life of fresh fruits and vegetables)](https://facultyagriculture.blogspot.com/2023/12/ecopec-food-freshness-retainer-natural.html)**  2023-12-05 05:31:50
 
 [priscimon.com](https://priscimon.com/blog)  
 **[A few memories of Tahiti](https://priscimon.com/blog/2023/12/02/a-few-memories-of-tahiti/)**  2023-12-02 18:13:28
