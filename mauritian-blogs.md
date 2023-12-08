@@ -5,13 +5,16 @@ permalink: /mauritian-blogs/
 ---
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
-**[SriLanka 2023 - Negambo welcome!](https://kabilen.tumblr.com/post/736023540792442880)**  2023-12-07 05:25:47
+**[SriLanka 2023 - Jetwing Lake Dambulla](https://kabilen.tumblr.com/post/736064953505775616)**  2023-12-07 16:24:01
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The Major Works of Nirad C. Chaudhuri](https://www.lemauricien.com/le-mauricien/the-major-works-of-nirad-c-chaudhuri/616126/)**  2023-12-07 13:00:43
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Contenu multimédia : SEDECO aide à stimuler votre marque](https://sedecobtob.blogspot.com/2023/12/contenu-multimedia-sedeco-aide-stimuler.html)**  2023-12-07 11:12:18
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Peace & Joy](https://swanlady-impressions.blogspot.com/2023/12/peace-joy.html)**  2023-12-06 15:38:16
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[How to Get our Cucumbers](https://www.lemauricien.com/le-mauricien/how-to-get-our-cucumbers/616033/)**  2023-12-06 11:01:31
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴JOLLY'S ROCK à BUTTE A L'HERBE](https://mysweetmauritius.blogspot.com/2023/12/jollys-rock-butte-lherbe.html)**  2023-12-05 15:28:16
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-12-02 04:14:56
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Hébergement web : un service complet avec SEDECO](https://sedecobtob.blogspot.com/2023/12/hebergement-web-un-service-complet-avec.html)**  2023-12-01 12:41:07
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[John Cowperthwaite: the thinking civil servant behind Hong Kong's success](https://zoomdr.blogspot.com/2023/11/john-cowperthwaite-thinking-civil.html)**  2023-11-30 06:04:40
