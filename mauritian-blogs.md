@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : SEDECO aide à booster vos performances digitales](https://sedecobtob.blogspot.com/2023/12/bpo-sedeco-aide-booster-vos.html)**  2023-12-08 12:24:53
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Economics of Care: Women’s Rights as Human Rights](https://www.lemauricien.com/le-mauricien/economics-of-care-womens-rights-as-human-rights/616316/)**  2023-12-08 11:02:26
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Ecopec Food Freshness Retainer (A natural coating to enhance the shelf-life of fresh fruits and vegetables)](https://facultyagriculture.blogspot.com/2023/12/ecopec-food-freshness-retainer-natural.html)**  2023-12-08 05:58:09
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Contenu multimédia : SEDECO aide à stimuler votre marque](https://sedecobtob.blogspot.com/2023/12/contenu-multimedia-sedeco-aide-stimuler.html)**  2023-12-07 11:12:18
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Peace & Joy](https://swanlady-impressions.blogspot.com/2023/12/peace-joy.html)**  2023-12-06 15:38:16
