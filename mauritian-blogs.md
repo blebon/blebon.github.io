@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Controlling the Indian Immigrants of Natal & their Resistance](https://www.lemauricien.com/le-mauricien/controlling-the-indian-immigrants-of-natal-their-resistance/616447/)**  2023-12-09 12:01:42
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO aide à booster vos performances digitales](https://sedecobtob.blogspot.com/2023/12/bpo-sedeco-aide-booster-vos.html)**  2023-12-08 12:24:53
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Economics of Care: Women’s Rights as Human Rights](https://www.lemauricien.com/le-mauricien/economics-of-care-womens-rights-as-human-rights/616316/)**  2023-12-08 11:02:26
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[SriLanka 2023 - Sirigiya Lion Rock](https://kabilen.tumblr.com/post/736116819715407873)**  2023-12-08 06:08:24
