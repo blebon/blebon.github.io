@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[SriLanka 2023 - Rock Carvings](https://kabilen.tumblr.com/post/736323481406439424)**  2023-12-10 12:53:12
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Controlling the Indian Immigrants of Natal & their Resistance](https://www.lemauricien.com/le-mauricien/controlling-the-indian-immigrants-of-natal-their-resistance/616447/)**  2023-12-09 12:01:42
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO aide à booster vos performances digitales](https://sedecobtob.blogspot.com/2023/12/bpo-sedeco-aide-booster-vos.html)**  2023-12-08 12:24:53
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[SriLanka 2023 - Sirigiya Lion Rock](https://kabilen.tumblr.com/post/736116819715407873)**  2023-12-08 06:08:24
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Ecopec Food Freshness Retainer (A natural coating to enhance the shelf-life of fresh fruits and vegetables)](https://facultyagriculture.blogspot.com/2023/12/ecopec-food-freshness-retainer-natural.html)**  2023-12-08 05:58:09
