@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Les villes s’habillent en vert](https://www.lemauricien.com/le-mauricien/les-villes-shabillent-en-vert/616782/)**  2023-12-12 11:03:56
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[The deeper layers of Business in Mauritius](https://relocationmauritius.wordpress.com/2023/12/12/the-deeper-layers-of-business-in-mauritius/)**  2023-12-12 07:57:26
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 12th Birthday Bruce!](https://davidandjennilyn.com/2023/12/11/happy-12th-birthday-bruce/)**  2023-12-11 14:57:57
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[2024 Weddings at Constance Hotels & Resorts](https://blog.constancehotels.com/2024-weddings-at-constance-hotels-resorts/)**  2023-12-11 14:00:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Notre Dame de Paris](https://www.lemauricien.com/le-mauricien/notre-dame-de-paris/616688/)**  2023-12-11 12:02:49
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[SriLanka 2023 - Rock Carvings](https://kabilen.tumblr.com/post/736323481406439424)**  2023-12-10 12:53:12
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Laurence Vallet: Une Coach et Entrepreneure Polyvalente au Coeur de l’Écosystème Turbine](https://turbine.mu/blog/2023/10/31/laurence-vallet-une-coach-et-entrepreneure-polyvalente-au-coeur-de-lecosysteme-turbine/)**  2023-10-31 11:56:34
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Owning a business in Mauritius](https://relocationmauritius.wordpress.com/2023/10/23/owning-a-business-in-mauritius-2/)**  2023-10-23 10:13:11
 
 [Veganlovlie](https://veganlovlie.com)  
 **[10 Delicious Pumpkin and Squash Recipes](https://veganlovlie.com/10-delicious-pumpkin-and-squash-recipes/)**  2023-10-19 09:46:52
