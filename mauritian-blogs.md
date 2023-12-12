@@ -4,11 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[SriLanka 2023 - Rock Carvings](https://kabilen.tumblr.com/post/736323481406439424)**  2023-12-10 12:53:12
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Happy 12th Birthday Bruce!](https://davidandjennilyn.com/2023/12/11/happy-12th-birthday-bruce/)**  2023-12-11 14:57:57
+
+[Reflection Corner](https://tachah.blogspot.com/)  
+**[Discrimination against women with disabilities](https://tachah.blogspot.com/2023/12/discrimination-against-women-with.html)**  2023-12-11 14:28:11
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[2024 Weddings at Constance Hotels & Resorts](https://blog.constancehotels.com/2024-weddings-at-constance-hotels-resorts/)**  2023-12-11 14:00:00
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Controlling the Indian Immigrants of Natal & their Resistance](https://www.lemauricien.com/le-mauricien/controlling-the-indian-immigrants-of-natal-their-resistance/616447/)**  2023-12-09 12:01:42
+**[Notre Dame de Paris](https://www.lemauricien.com/le-mauricien/notre-dame-de-paris/616688/)**  2023-12-11 12:02:49
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[SriLanka 2023 - Rock Carvings](https://kabilen.tumblr.com/post/736323481406439424)**  2023-12-10 12:53:12
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO aide à booster vos performances digitales](https://sedecobtob.blogspot.com/2023/12/bpo-sedeco-aide-booster-vos.html)**  2023-12-08 12:24:53
@@ -31,14 +40,8 @@ permalink: /mauritian-blogs/
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[John Cowperthwaite: the thinking civil servant behind Hong Kong's success](https://zoomdr.blogspot.com/2023/11/john-cowperthwaite-thinking-civil.html)**  2023-11-30 06:04:40
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Swing into Paradise: Explore the MCB Tour Championship](https://blog.constancehotels.com/swing-into-paradise-explore-the-mcb-tour-championship/)**  2023-11-23 08:00:00
-
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Socks For Laura](http://kozelidir.blogspot.com/2023/11/socks-for-laura.html)**  2023-11-22 18:46:37
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Falling for Fall Colors](https://davidandjennilyn.com/2023/11/11/falling-for-fall-colors/)**  2023-11-11 14:49:56
 
 [turbine.mu](https://turbine.mu)  
 **[Laurence Vallet: Une Coach et Entrepreneure Polyvalente au Coeur de l’Écosystème Turbine](https://turbine.mu/blog/2023/10/31/laurence-vallet-une-coach-et-entrepreneure-polyvalente-au-coeur-de-lecosysteme-turbine/)**  2023-10-31 11:56:34
