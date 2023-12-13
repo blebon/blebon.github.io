@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Escape The Wintery Weather With Your Mauritian Getaway](https://blog.constancehotels.com/mauritian-winter-getaway/)**  2023-12-12 12:04:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Les villes s’habillent en vert](https://www.lemauricien.com/le-mauricien/les-villes-shabillent-en-vert/616782/)**  2023-12-12 11:03:56
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Discrimination against women with disabilities](https://tachah.blogspot.com/2023/12/discrimination-against-women-with.html)**  2023-12-11 14:28:11
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[2024 Weddings at Constance Hotels & Resorts](https://blog.constancehotels.com/2024-weddings-at-constance-hotels-resorts/)**  2023-12-11 14:00:00
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[SriLanka 2023 - Rock Carvings](https://kabilen.tumblr.com/post/736323481406439424)**  2023-12-10 12:53:12
