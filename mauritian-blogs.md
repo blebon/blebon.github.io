@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Gerrymandering and opacity by design in Mauritian Elections](https://www.lemauricien.com/le-mauricien/gerrymandering-and-opacity-by-design-in-mauritian-elections/617033/)**  2023-12-14 12:00:50
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Escape The Wintery Weather With Your Mauritian Getaway](https://blog.constancehotels.com/mauritian-winter-getaway/)**  2023-12-12 12:04:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Les villes s’habillent en vert](https://www.lemauricien.com/le-mauricien/les-villes-shabillent-en-vert/616782/)**  2023-12-12 11:03:56
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The deeper layers of Business in Mauritius](https://relocationmauritius.wordpress.com/2023/12/12/the-deeper-layers-of-business-in-mauritius/)**  2023-12-12 07:57:26
