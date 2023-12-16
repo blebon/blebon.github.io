@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Gerrymandering and opacity by design in Mauritian Elections](https://www.lemauricien.com/le-mauricien/gerrymandering-and-opacity-by-design-in-mauritian-elections/617033/)**  2023-12-14 12:00:50
+**[Ikigai – Un voyage pas comme les autres !](https://www.lemauricien.com/le-mauricien/ikigai-un-voyage-pas-comme-les-autres/617129/)**  2023-12-15 13:00:50
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Escape The Wintery Weather With Your Mauritian Getaway](https://blog.constancehotels.com/mauritian-winter-getaway/)**  2023-12-12 12:04:00
