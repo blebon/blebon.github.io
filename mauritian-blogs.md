@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[I can do it](https://vintishgokool.blogspot.com/2023/12/i-can-do-it.html)**  2023-12-16 20:28:38
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Ikigai – Un voyage pas comme les autres !](https://www.lemauricien.com/le-mauricien/ikigai-un-voyage-pas-comme-les-autres/617129/)**  2023-12-15 13:00:50
+**[Remembering Rumi on his 750th Death Anniversary](https://www.lemauricien.com/le-mauricien/remembering-rumi-on-his-750th-death-anniversary/617230/)**  2023-12-16 13:00:37
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Escape The Wintery Weather With Your Mauritian Getaway](https://blog.constancehotels.com/mauritian-winter-getaway/)**  2023-12-12 12:04:00
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Magsafe Accessories : PopSockets Wallet+ and PopGrips review](https://yashvinblogs.com/2023/10/11/magsafe-popsockets-wallet-popgrips/)**  2023-10-11 18:18:01
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Winning & Losing](https://vintishgokool.blogspot.com/2023/10/winning-losing.html)**  2023-10-08 19:05:15
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UOM students selected for the finals of the Africa Fact-Checking Awards 2023](https://comstudies.wordpress.com/2023/10/05/uom-students-selected-for-the-finals-of-the-africa-fact-checking-awards-2023/)**  2023-10-05 19:14:05
