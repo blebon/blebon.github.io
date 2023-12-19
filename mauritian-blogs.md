@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[AL-BIRUNI: Great Genius, Scholar  and Scientist of Islam](https://www.lemauricien.com/le-mauricien/al-biruni-great-genius-scholar-and-scientist-of-islam/617471/)**  2023-12-18 13:00:37
+**[No title](https://www.lemauricien.com/le-mauricien/617631/617631/)**  2023-12-19 11:12:11
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[I can do it](https://vintishgokool.blogspot.com/2023/12/i-can-do-it.html)**  2023-12-17 06:53:01
