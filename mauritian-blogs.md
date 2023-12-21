@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Mum’s flowers](https://priscimon.com/blog/2023/12/20/mums-flowers/)**  2023-12-20 11:16:28
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Vieux papiers, grande Histoire](https://www.lemauricien.com/le-mauricien/617631/617631/)**  2023-12-19 11:12:11
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴JOLLY'S ROCK à BUTTE A L'HERBE](https://mysweetmauritius.blogspot.com/2023/12/jollys-rock-butte-lherbe.html)**  2023-12-05 15:28:16
-
-[priscimon.com](https://priscimon.com/blog)  
-**[A few memories of Tahiti](https://priscimon.com/blog/2023/12/02/a-few-memories-of-tahiti/)**  2023-12-02 18:13:28
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-12-02 04:14:56
