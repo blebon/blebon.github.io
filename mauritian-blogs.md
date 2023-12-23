@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Keshinee at the Christmas Market](https://www.lemauricien.com/le-mauricien/keshinee-at-the-christmas-market/617781/)**  2023-12-21 11:01:00
+**[CONTE DE NOËL – Le vilain petit oiseau](https://www.lemauricien.com/le-mauricien/conte-de-noel-le-vilain-petit-oiseau/617887/)**  2023-12-22 13:00:06
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Escaping the January blues with Constance Hotels & Resorts](https://blog.constancehotels.com/escaping-the-january-blues-with-constance-hotels-resorts/)**  2023-12-21 09:00:00
