@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[CONTE DE NOËL – Le vilain petit oiseau](https://www.lemauricien.com/le-mauricien/conte-de-noel-le-vilain-petit-oiseau/617887/)**  2023-12-22 13:00:06
+**[L’Alsace](https://www.lemauricien.com/le-mauricien/lalsace/618005/)**  2023-12-23 11:02:26
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Escaping the January blues with Constance Hotels & Resorts](https://blog.constancehotels.com/escaping-the-january-blues-with-constance-hotels-resorts/)**  2023-12-21 09:00:00
