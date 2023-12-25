@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Reflecting on 2023](https://davidandjennilyn.com/2023/12/24/reflecting-on-2023/)**  2023-12-24 23:06:23
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[L’Alsace](https://www.lemauricien.com/le-mauricien/lalsace/618005/)**  2023-12-23 11:02:26
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The deeper layers of Business in Mauritius](https://relocationmauritius.wordpress.com/2023/12/12/the-deeper-layers-of-business-in-mauritius/)**  2023-12-12 07:57:26
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy 12th Birthday Bruce!](https://davidandjennilyn.com/2023/12/11/happy-12th-birthday-bruce/)**  2023-12-11 14:57:57
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Discrimination against women with disabilities](https://tachah.blogspot.com/2023/12/discrimination-against-women-with.html)**  2023-12-11 14:28:11
