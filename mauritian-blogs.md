@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Little Anantasin](https://littleanantasin.wordpress.com)  
+**[Bright, Victoria](https://littleanantasin.wordpress.com/2023/12/25/bright-victoria/)**  2023-12-25 20:02:38
+
+[priscimon.com](https://priscimon.com/blog)  
+**[Christmas Day photoblogging: Mauritius Bulk Sugar Terminal](https://priscimon.com/blog/2023/12/25/christmas-day-photoblogging-mauritius-bulk-sugar-terminal/)**  2023-12-25 16:57:44
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Reflecting on 2023](https://davidandjennilyn.com/2023/12/24/reflecting-on-2023/)**  2023-12-24 23:06:23
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Escaping the January blues with Constance Hotels & Resorts](https://blog.constancehotels.com/escaping-the-january-blues-with-constance-hotels-resorts/)**  2023-12-21 09:00:00
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Mum’s flowers](https://priscimon.com/blog/2023/12/20/mums-flowers/)**  2023-12-20 11:16:28
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[I can do it](https://vintishgokool.blogspot.com/2023/12/i-can-do-it.html)**  2023-12-17 06:53:01
@@ -90,9 +93,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[When old meets new](http://gadatagada.blogspot.com/2023/07/when-old-meets-new.html)**  2023-07-15 12:35:04
-
-[Little Anantasin](https://littleanantasin.wordpress.com)  
-**[Bangkok, Malaysia, Singapore June 2023](https://littleanantasin.wordpress.com/2023/07/10/bangkok-malaysia-singapore-june-2023/)**  2023-07-10 14:49:14
 
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Welcome Mason Mount](https://ritesh2103.wordpress.com/2023/07/05/welcome-mason-mount/)**  2023-07-05 13:47:59
