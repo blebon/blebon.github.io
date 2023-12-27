@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Sri Lanka 2023 &#124; Yala Leopard &amp; Elephant Sighting](https://kabilen.tumblr.com/post/737815388231024640)**  2023-12-27 00:06:25
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[December Song](https://www.lemauricien.com/le-mauricien/december-song/618191/)**  2023-12-26 13:00:11
+
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bright, Victoria](https://littleanantasin.wordpress.com/2023/12/25/bright-victoria/)**  2023-12-25 20:02:38
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Reflecting on 2023](https://davidandjennilyn.com/2023/12/24/reflecting-on-2023/)**  2023-12-24 23:06:23
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’Alsace](https://www.lemauricien.com/le-mauricien/lalsace/618005/)**  2023-12-23 11:02:26
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Escaping the January blues with Constance Hotels & Resorts](https://blog.constancehotels.com/escaping-the-january-blues-with-constance-hotels-resorts/)**  2023-12-21 09:00:00
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Discrimination against women with disabilities](https://tachah.blogspot.com/2023/12/discrimination-against-women-with.html)**  2023-12-11 14:28:11
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[SriLanka 2023 - Rock Carvings](https://kabilen.tumblr.com/post/736323481406439424)**  2023-12-10 12:53:12
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO aide à booster vos performances digitales](https://sedecobtob.blogspot.com/2023/12/bpo-sedeco-aide-booster-vos.html)**  2023-12-08 12:24:53
