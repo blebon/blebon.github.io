@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Buy IA, Boost Your CFA® Exam Prep](http://kozelidir.blogspot.com/2023/12/buy-ia-boost-your-cfa-exam-prep.html)**  2023-12-27 19:12:08
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Bringing social justice in education](https://www.lemauricien.com/le-mauricien/bringing-social-justice-in-education/618399/)**  2023-12-27 11:02:32
 
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[John Cowperthwaite: the thinking civil servant behind Hong Kong's success](https://zoomdr.blogspot.com/2023/11/john-cowperthwaite-thinking-civil.html)**  2023-11-30 06:04:40
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Socks For Laura](http://kozelidir.blogspot.com/2023/11/socks-for-laura.html)**  2023-11-22 18:46:37
 
 [turbine.mu](https://turbine.mu)  
 **[Laurence Vallet: Une Coach et Entrepreneure Polyvalente au Coeur de l’Écosystème Turbine](https://turbine.mu/blog/2023/10/31/laurence-vallet-une-coach-et-entrepreneure-polyvalente-au-coeur-de-lecosysteme-turbine/)**  2023-10-31 11:56:34
