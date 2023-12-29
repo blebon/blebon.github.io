@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Could the Red Sea Crisis be the Tipping Point for Mauritius to Reinforce its Role as Stella Clavisque Maris Indici?](https://www.lemauricien.com/le-mauricien/could-the-red-sea-crisis-be-the-tipping-point-for-mauritius-to-reinforce-its-role-as-stella-clavisque-maris-indici/618494/)**  2023-12-28 13:00:41
+
+[Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
+**[Silence, on exécute à Gaza!](https://jeanmeedesveaux.blogspot.com/2023/12/silence-on-tue-gaza.html)**  2023-12-28 12:08:58
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Buy IA, Boost Your CFA® Exam Prep](http://kozelidir.blogspot.com/2023/12/buy-ia-boost-your-cfa-exam-prep.html)**  2023-12-27 19:12:08
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Bringing social justice in education](https://www.lemauricien.com/le-mauricien/bringing-social-justice-in-education/618399/)**  2023-12-27 11:02:32
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Christmas festive week 2023](https://kabilen.tumblr.com/post/737856375338696704)**  2023-12-27 10:57:54
