@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[New Year 2024 Meal](https://kabilen.tumblr.com/post/738304445304143872)**  2024-01-01 09:39:47
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Rainbow Birthday Wishes](https://swanlady-impressions.blogspot.com/2024/01/rainbow-birthday-wishes.html)**  2024-01-01 08:04:47
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[A Marvelous Year in a Snap](https://davidandjennilyn.com/2023/12/31/a-marvelous-year-in-a-snap/)**  2023-12-31 21:09:38
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Ending 2023&hellip;](https://kabilen.tumblr.com/post/738212992568672256)**  2023-12-31 09:26:11
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[AKP-147: Enn regar retrospektif lor lane 2023 par rapor ek lang kreol](https://www.lemauricien.com/le-mauricien/akp-147-enn-regar-retrospektif-lor-lane-2023-par-rapor-ek-lang-kreol/618669/)**  2023-12-30 11:04:46
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Ecopec Food Freshness Retainer (A natural coating to enhance the shelf-life of fresh fruits and vegetables)](https://facultyagriculture.blogspot.com/2023/12/ecopec-food-freshness-retainer-natural.html)**  2023-12-08 05:58:09
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Peace & Joy](https://swanlady-impressions.blogspot.com/2023/12/peace-joy.html)**  2023-12-06 15:38:16
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴JOLLY'S ROCK à BUTTE A L'HERBE](https://mysweetmauritius.blogspot.com/2023/12/jollys-rock-butte-lherbe.html)**  2023-12-05 15:28:16
