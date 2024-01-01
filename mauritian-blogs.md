@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[A Marvelous Year in a Snap](https://davidandjennilyn.com/2023/12/31/a-marvelous-year-in-a-snap/)**  2023-12-31 21:09:38
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Ending 2023&hellip;](https://kabilen.tumblr.com/post/738212992568672256)**  2023-12-31 09:26:11
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Christmas Day photoblogging: Mauritius Bulk Sugar Terminal](https://priscimon.com/blog/2023/12/25/christmas-day-photoblogging-mauritius-bulk-sugar-terminal/)**  2023-12-25 16:57:44
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Reflecting on 2023](https://davidandjennilyn.com/2023/12/24/reflecting-on-2023/)**  2023-12-24 23:06:23
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Escaping the January blues with Constance Hotels & Resorts](https://blog.constancehotels.com/escaping-the-january-blues-with-constance-hotels-resorts/)**  2023-12-21 09:00:00
