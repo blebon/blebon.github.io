@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[New Year’s Day photoblogging: The local](https://priscimon.com/blog/2024/01/01/new-years-day-photoblogging-the-local/)**  2024-01-01 16:22:03
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[New Year 2024 Meal](https://kabilen.tumblr.com/post/738304445304143872)**  2024-01-01 09:39:47
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bright, Victoria](https://littleanantasin.wordpress.com/2023/12/25/bright-victoria/)**  2023-12-25 20:02:38
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Christmas Day photoblogging: Mauritius Bulk Sugar Terminal](https://priscimon.com/blog/2023/12/25/christmas-day-photoblogging-mauritius-bulk-sugar-terminal/)**  2023-12-25 16:57:44
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Escaping the January blues with Constance Hotels & Resorts](https://blog.constancehotels.com/escaping-the-january-blues-with-constance-hotels-resorts/)**  2023-12-21 09:00:00
