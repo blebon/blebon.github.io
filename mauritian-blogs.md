@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Power of Zero](https://vintishgokool.blogspot.com/2024/01/power-of-zero.html)**  2024-01-03 07:59:36
+
 [priscimon.com](https://priscimon.com/blog)  
 **[New Year’s Day photoblogging: The local](https://priscimon.com/blog/2024/01/01/new-years-day-photoblogging-the-local/)**  2024-01-01 16:22:03
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Escaping the January blues with Constance Hotels & Resorts](https://blog.constancehotels.com/escaping-the-january-blues-with-constance-hotels-resorts/)**  2023-12-21 09:00:00
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[I can do it](https://vintishgokool.blogspot.com/2023/12/i-can-do-it.html)**  2023-12-17 06:53:01
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The deeper layers of Business in Mauritius](https://relocationmauritius.wordpress.com/2023/12/12/the-deeper-layers-of-business-in-mauritius/)**  2023-12-12 07:57:26
