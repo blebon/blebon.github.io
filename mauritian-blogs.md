@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Les femmes ou l’espérance politique ?](https://www.lemauricien.com/le-mauricien/les-femmes-ou-lesperance-politique/619070/)**  2024-01-06 11:03:35
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Power of Zero](https://vintishgokool.blogspot.com/2024/01/power-of-zero.html)**  2024-01-03 07:59:36
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[A Marvelous Year in a Snap](https://davidandjennilyn.com/2023/12/31/a-marvelous-year-in-a-snap/)**  2023-12-31 21:09:38
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[AKP-147: Enn regar retrospektif lor lane 2023 par rapor ek lang kreol](https://www.lemauricien.com/le-mauricien/akp-147-enn-regar-retrospektif-lor-lane-2023-par-rapor-ek-lang-kreol/618669/)**  2023-12-30 11:04:46
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Silence, on exécute à Gaza!](https://jeanmeedesveaux.blogspot.com/2023/12/silence-on-tue-gaza.html)**  2023-12-28 12:08:58
