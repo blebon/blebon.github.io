@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Death](https://vintishgokool.blogspot.com/2024/01/death.html)**  2024-01-07 16:53:12
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Les femmes ou l’espérance politique ?](https://www.lemauricien.com/le-mauricien/les-femmes-ou-lesperance-politique/619070/)**  2024-01-06 11:03:35
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Power of Zero](https://vintishgokool.blogspot.com/2024/01/power-of-zero.html)**  2024-01-03 07:59:36
 
 [priscimon.com](https://priscimon.com/blog)  
 **[New Year’s Day photoblogging: The local](https://priscimon.com/blog/2024/01/01/new-years-day-photoblogging-the-local/)**  2024-01-01 16:22:03
