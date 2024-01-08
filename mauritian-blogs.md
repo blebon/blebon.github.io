@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Is Youtube the last bastion of sound journalism?](https://zoomdr.blogspot.com/2024/01/is-youtube-last-bastion-of-sound.html)**  2024-01-08 08:28:09
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Death](https://vintishgokool.blogspot.com/2024/01/death.html)**  2024-01-07 16:53:12
 
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-12-02 04:14:56
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[John Cowperthwaite: the thinking civil servant behind Hong Kong's success](https://zoomdr.blogspot.com/2023/11/john-cowperthwaite-thinking-civil.html)**  2023-11-30 06:04:40
 
 [turbine.mu](https://turbine.mu)  
 **[Laurence Vallet: Une Coach et Entrepreneure Polyvalente au Coeur de l’Écosystème Turbine](https://turbine.mu/blog/2023/10/31/laurence-vallet-une-coach-et-entrepreneure-polyvalente-au-coeur-de-lecosysteme-turbine/)**  2023-10-31 11:56:34
