@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Extended Programme with the NCE/EP Certificate : A Humble Request for timely actions…](https://www.lemauricien.com/le-mauricien/extended-programme-with-the-nce-ep-certificate-a-humble-request-for-timely-actions/619332/)**  2024-01-09 11:02:40
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Hill Family Life 2018](https://davidandjennilyn.com/2024/01/08/hill-family-life-2018/)**  2024-01-08 23:28:09
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Khadi: The Fabric of Legacy and Sustainability](https://www.lemauricien.com/le-mauricien/khadi-the-fabric-of-legacy-and-sustainability/619233/)**  2024-01-08 13:00:13
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Is Youtube the last bastion of sound journalism?](https://zoomdr.blogspot.com/2024/01/is-youtube-last-bastion-of-sound.html)**  2024-01-08 08:28:09
