@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Hill Family Life 2018](https://davidandjennilyn.com/2024/01/08/hill-family-life-2018/)**  2024-01-08 23:28:09
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Khadi: The Fabric of Legacy and Sustainability](https://www.lemauricien.com/le-mauricien/khadi-the-fabric-of-legacy-and-sustainability/619233/)**  2024-01-08 13:00:13
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Is Youtube the last bastion of sound journalism?](https://zoomdr.blogspot.com/2024/01/is-youtube-last-bastion-of-sound.html)**  2024-01-08 08:28:09
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Death](https://vintishgokool.blogspot.com/2024/01/death.html)**  2024-01-07 16:53:12
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Les femmes ou l’espérance politique ?](https://www.lemauricien.com/le-mauricien/les-femmes-ou-lesperance-politique/619070/)**  2024-01-06 11:03:35
 
 [priscimon.com](https://priscimon.com/blog)  
 **[New Year’s Day photoblogging: The local](https://priscimon.com/blog/2024/01/01/new-years-day-photoblogging-the-local/)**  2024-01-01 16:22:03
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Rainbow Birthday Wishes](https://swanlady-impressions.blogspot.com/2024/01/rainbow-birthday-wishes.html)**  2024-01-01 08:04:47
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[A Marvelous Year in a Snap](https://davidandjennilyn.com/2023/12/31/a-marvelous-year-in-a-snap/)**  2023-12-31 21:09:38
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Silence, on exécute à Gaza!](https://jeanmeedesveaux.blogspot.com/2023/12/silence-on-tue-gaza.html)**  2023-12-28 12:08:58
