@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Externalisation : SEDECO vise la satisfaction client](https://sedecobtob.blogspot.com/2024/01/externalisation-sedeco-vise-la.html)**  2024-01-09 15:27:46
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Extended Programme with the NCE/EP Certificate : A Humble Request for timely actions…](https://www.lemauricien.com/le-mauricien/extended-programme-with-the-nce-ep-certificate-a-humble-request-for-timely-actions/619332/)**  2024-01-09 11:02:40
 
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Discrimination against women with disabilities](https://tachah.blogspot.com/2023/12/discrimination-against-women-with.html)**  2023-12-11 14:28:11
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : SEDECO aide à booster vos performances digitales](https://sedecobtob.blogspot.com/2023/12/bpo-sedeco-aide-booster-vos.html)**  2023-12-08 12:24:53
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Ecopec Food Freshness Retainer (A natural coating to enhance the shelf-life of fresh fruits and vegetables)](https://facultyagriculture.blogspot.com/2023/12/ecopec-food-freshness-retainer-natural.html)**  2023-12-08 05:58:09
