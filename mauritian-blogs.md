@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
+**[Don't Miss Out On Messages - ﻿InternationalCupid﻿ Membership Has Expired!](https://shruticulturalgroup.blogspot.com/2024/01/dont-miss-out-on-messages.html)**  2024-01-10 06:22:01
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Externalisation : SEDECO vise la satisfaction client](https://sedecobtob.blogspot.com/2024/01/externalisation-sedeco-vise-la.html)**  2024-01-09 15:27:46
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[The Ultimate Wellness Experience](https://blog.constancehotels.com/the-ultimate-wellness-experience/)**  2024-01-09 15:23:19
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Extended Programme with the NCE/EP Certificate : A Humble Request for timely actions…](https://www.lemauricien.com/le-mauricien/extended-programme-with-the-nce-ep-certificate-a-humble-request-for-timely-actions/619332/)**  2024-01-09 11:02:40
@@ -36,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bright, Victoria](https://littleanantasin.wordpress.com/2023/12/25/bright-victoria/)**  2023-12-25 20:02:38
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Escaping the January blues with Constance Hotels & Resorts](https://blog.constancehotels.com/escaping-the-january-blues-with-constance-hotels-resorts/)**  2023-12-21 09:00:00
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The deeper layers of Business in Mauritius](https://relocationmauritius.wordpress.com/2023/12/12/the-deeper-layers-of-business-in-mauritius/)**  2023-12-12 07:57:26
@@ -87,9 +90,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Speaking at DevCon 2023: E-commerce Chatbot in Creole](https://nayarweb.com/blog/2023/speaking-at-devcon-2023-e-commerce-chatbot-in-creole/)**  2023-07-28 09:36:10
-
-[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
-**[Updating our Google Account inactivity policy](https://shruticulturalgroup.blogspot.com/2023/07/updating-our-google-account-inactivity.html)**  2023-07-20 08:16:37
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Java program to find the first non-repeating character in a string](https://lovvy.wordpress.com/2023/07/17/java-program-to-find-the-first-non-repeating-character-in-a-string/)**  2023-07-17 13:01:16
