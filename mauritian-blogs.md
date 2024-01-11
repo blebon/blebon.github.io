@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Fostering Connections and Driving Positive Change in Mauritius](https://www.lemauricien.com/le-mauricien/fostering-connections-and-driving-positive-change-in-mauritius/619502/)**  2024-01-10 12:01:44
+
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Don't Miss Out On Messages - ﻿InternationalCupid﻿ Membership Has Expired!](https://shruticulturalgroup.blogspot.com/2024/01/dont-miss-out-on-messages.html)**  2024-01-10 06:22:01
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Ultimate Wellness Experience](https://blog.constancehotels.com/the-ultimate-wellness-experience/)**  2024-01-09 15:23:19
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Extended Programme with the NCE/EP Certificate : A Humble Request for timely actions…](https://www.lemauricien.com/le-mauricien/extended-programme-with-the-nce-ep-certificate-a-humble-request-for-timely-actions/619332/)**  2024-01-09 11:02:40
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Hill Family Life 2018](https://davidandjennilyn.com/2024/01/08/hill-family-life-2018/)**  2024-01-08 23:28:09
