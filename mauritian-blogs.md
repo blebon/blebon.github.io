@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Different Countries/National/Languages](https://vintishgokool.blogspot.com/2024/01/different-countriesnationallanguages.html)**  2024-01-11 22:21:29
+
+[Reflection Corner](https://tachah.blogspot.com/)  
+**[Current tendencies [Observations]](https://tachah.blogspot.com/2024/01/current-tendencies-observations.html)**  2024-01-11 11:20:40
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Fostering Connections and Driving Positive Change in Mauritius](https://www.lemauricien.com/le-mauricien/fostering-connections-and-driving-positive-change-in-mauritius/619502/)**  2024-01-10 12:01:44
 
@@ -21,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Is Youtube the last bastion of sound journalism?](https://zoomdr.blogspot.com/2024/01/is-youtube-last-bastion-of-sound.html)**  2024-01-08 08:28:09
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Death](https://vintishgokool.blogspot.com/2024/01/death.html)**  2024-01-07 16:53:12
 
 [priscimon.com](https://priscimon.com/blog)  
 **[New Year’s Day photoblogging: The local](https://priscimon.com/blog/2024/01/01/new-years-day-photoblogging-the-local/)**  2024-01-01 16:22:03
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The deeper layers of Business in Mauritius](https://relocationmauritius.wordpress.com/2023/12/12/the-deeper-layers-of-business-in-mauritius/)**  2023-12-12 07:57:26
-
-[Reflection Corner](https://tachah.blogspot.com/)  
-**[Discrimination against women with disabilities](https://tachah.blogspot.com/2023/12/discrimination-against-women-with.html)**  2023-12-11 14:28:11
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Ecopec Food Freshness Retainer (A natural coating to enhance the shelf-life of fresh fruits and vegetables)](https://facultyagriculture.blogspot.com/2023/12/ecopec-food-freshness-retainer-natural.html)**  2023-12-08 05:58:09
