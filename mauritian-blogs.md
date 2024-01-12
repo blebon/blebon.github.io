@@ -7,11 +7,11 @@ permalink: /mauritian-blogs/
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Different Countries/National/Languages](https://vintishgokool.blogspot.com/2024/01/different-countriesnationallanguages.html)**  2024-01-11 22:21:29
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[La danse : un plaisir pour tous les âges !](https://www.lemauricien.com/le-mauricien/la-danse-un-plaisir-pour-tous-les-ages/619701/)**  2024-01-11 14:05:20
+
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Current tendencies [Observations]](https://tachah.blogspot.com/2024/01/current-tendencies-observations.html)**  2024-01-11 11:20:40
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Fostering Connections and Driving Positive Change in Mauritius](https://www.lemauricien.com/le-mauricien/fostering-connections-and-driving-positive-change-in-mauritius/619502/)**  2024-01-10 12:01:44
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Don't Miss Out On Messages - ﻿InternationalCupid﻿ Membership Has Expired!](https://shruticulturalgroup.blogspot.com/2024/01/dont-miss-out-on-messages.html)**  2024-01-10 06:22:01
