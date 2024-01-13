@@ -4,20 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Different Countries/National/Languages](https://vintishgokool.blogspot.com/2024/01/different-countriesnationallanguages.html)**  2024-01-11 22:21:29
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[SMO : SEDECO optimise vos médias sociaux](https://sedecobtob.blogspot.com/2024/01/smo-sedeco-optimise-vos-medias-sociaux.html)**  2024-01-12 17:16:45
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[La danse : un plaisir pour tous les âges !](https://www.lemauricien.com/le-mauricien/la-danse-un-plaisir-pour-tous-les-ages/619701/)**  2024-01-11 14:05:20
+**[Anniversaires à célébrer en 2024  et autres rappels peut-être utiles](https://www.lemauricien.com/le-mauricien/anniversaires-a-celebrer-en-2024-et-autres-rappels-peut-etre-utiles/619659/)**  2024-01-12 13:00:29
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Different Countries/National/Languages](https://vintishgokool.blogspot.com/2024/01/different-countriesnationallanguages.html)**  2024-01-11 22:21:29
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Current tendencies [Observations]](https://tachah.blogspot.com/2024/01/current-tendencies-observations.html)**  2024-01-11 11:20:40
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Don't Miss Out On Messages - ﻿InternationalCupid﻿ Membership Has Expired!](https://shruticulturalgroup.blogspot.com/2024/01/dont-miss-out-on-messages.html)**  2024-01-10 06:22:01
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Externalisation : SEDECO vise la satisfaction client](https://sedecobtob.blogspot.com/2024/01/externalisation-sedeco-vise-la.html)**  2024-01-09 15:27:46
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The Ultimate Wellness Experience](https://blog.constancehotels.com/the-ultimate-wellness-experience/)**  2024-01-09 15:23:19
