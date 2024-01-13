@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Il Ciclone Belal (Mauritius)](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal.html)**  2024-01-13 10:40:08
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SMO : SEDECO optimise vos médias sociaux](https://sedecobtob.blogspot.com/2024/01/smo-sedeco-optimise-vos-medias-sociaux.html)**  2024-01-12 17:16:45
 
@@ -123,9 +126,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie pour le 3e Dimanche du temps de Pâques](https://josephnguyenmahebourg.blogspot.com/2023/04/homelie-pour-le-3e-dimanche-du-temps-de.html)**  2023-04-23 14:25:31
-
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Aggiornamento, Ciclone Freddy](https://mauritiuslapassionesisente.blogspot.com/2023/02/freddy-passera-da-grand-baie-alle-17.html)**  2023-02-24 16:42:36
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[This is a chicken](https://meeraappadoo.wordpress.com/2023/02/24/this-is-a-chicken/)**  2023-02-24 04:41:49
