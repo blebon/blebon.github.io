@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Maldives: The Ultimate Couples Getaway](https://blog.constancehotels.com/maldives-the-ultimate-couples-getaway/)**  2024-01-16 09:00:00
+
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Il Ciclone Belal (Mauritius)](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal.html)**  2024-01-13 10:40:08
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Don't Miss Out On Messages - ﻿InternationalCupid﻿ Membership Has Expired!](https://shruticulturalgroup.blogspot.com/2024/01/dont-miss-out-on-messages.html)**  2024-01-10 06:22:01
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[The Ultimate Wellness Experience](https://blog.constancehotels.com/the-ultimate-wellness-experience/)**  2024-01-09 15:23:19
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Hill Family Life 2018](https://davidandjennilyn.com/2024/01/08/hill-family-life-2018/)**  2024-01-08 23:28:09
