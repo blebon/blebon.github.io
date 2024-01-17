@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Disaster in the Making](https://www.lemauricien.com/le-mauricien/disaster-in-the-making/620303/)**  2024-01-17 11:01:13
+
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Il Ciclone Belal](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal_17.html)**  2024-01-17 07:13:39
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Maldives: The Ultimate Couples Getaway](https://blog.constancehotels.com/maldives-the-ultimate-couples-getaway/)**  2024-01-16 09:00:00
 
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Il Ciclone Belal (Mauritius)](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal.html)**  2024-01-13 10:40:08
-
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SMO : SEDECO optimise vos médias sociaux](https://sedecobtob.blogspot.com/2024/01/smo-sedeco-optimise-vos-medias-sociaux.html)**  2024-01-12 17:16:45
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anniversaires à célébrer en 2024  et autres rappels peut-être utiles](https://www.lemauricien.com/le-mauricien/anniversaires-a-celebrer-en-2024-et-autres-rappels-peut-etre-utiles/619659/)**  2024-01-12 13:00:29
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Different Countries/National/Languages](https://vintishgokool.blogspot.com/2024/01/different-countriesnationallanguages.html)**  2024-01-11 22:21:29
