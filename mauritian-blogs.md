@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Disaster in the Making](https://www.lemauricien.com/le-mauricien/disaster-in-the-making/620303/)**  2024-01-17 11:01:13
+**[PISTES DE LECTURE &#124; Ces perspectives d’autrefois : La pluie à l’île Maurice…](https://www.lemauricien.com/le-mauricien/pistes-de-lecture-ces-perspectives-dautrefois-la-pluie-a-lile-maurice/620450/)**  2024-01-18 14:00:14
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Il Ciclone Belal](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal_17.html)**  2024-01-17 07:13:39
