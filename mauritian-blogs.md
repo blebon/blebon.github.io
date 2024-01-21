@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[La Veste](https://kabilen.tumblr.com/post/740077980450226176)**  2024-01-20 23:29:22
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Que peut le chef?](https://www.lemauricien.com/le-mauricien/que-peut-le-chef/620535/)**  2024-01-19 12:00:29
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[New Year’s Day photoblogging: The local](https://priscimon.com/blog/2024/01/01/new-years-day-photoblogging-the-local/)**  2024-01-01 16:22:03
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[New Year 2024 Meal](https://kabilen.tumblr.com/post/738304445304143872)**  2024-01-01 09:39:47
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Rainbow Birthday Wishes](https://swanlady-impressions.blogspot.com/2024/01/rainbow-birthday-wishes.html)**  2024-01-01 08:04:47
