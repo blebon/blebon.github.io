@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Alienation and exile in Nobel-winning writer  Abdulrazak Gurnah’s “Gravel Heart”](https://www.lemauricien.com/le-mauricien/alienation-and-exile-in-nobel-winning-writer-abdulrazak-gurnahs-gravel-heart/620873/)**  2024-01-22 12:06:14
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[La Veste](https://kabilen.tumblr.com/post/740077980450226176)**  2024-01-20 23:29:22
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Que peut le chef?](https://www.lemauricien.com/le-mauricien/que-peut-le-chef/620535/)**  2024-01-19 12:00:29
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Il Ciclone Belal](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal_17.html)**  2024-01-17 07:13:39
