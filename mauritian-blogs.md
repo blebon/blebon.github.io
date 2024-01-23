@@ -5,16 +5,19 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Alienation and exile in Nobel-winning writer  Abdulrazak Gurnah’s “Gravel Heart”](https://www.lemauricien.com/le-mauricien/alienation-and-exile-in-nobel-winning-writer-abdulrazak-gurnahs-gravel-heart/620873/)**  2024-01-22 12:06:14
+**[En passant…  À vous, les mères traumatisées…](https://www.lemauricien.com/le-mauricien/en-passant-a-vous-les-meres-traumatisees/621012/)**  2024-01-23 09:17:20
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Wintery Wishes](https://swanlady-impressions.blogspot.com/2024/01/wintery-wishes.html)**  2024-01-23 09:12:34
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Valentine’s Day in the Seychelles at Constance Hotels & Resorts](https://blog.constancehotels.com/valentines-day-in-seychelles-at-constance-hotels-resorts/)**  2024-01-23 09:00:00
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[La Veste](https://kabilen.tumblr.com/post/740077980450226176)**  2024-01-20 23:29:22
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Il Ciclone Belal](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal_17.html)**  2024-01-17 07:13:39
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Maldives: The Ultimate Couples Getaway](https://blog.constancehotels.com/maldives-the-ultimate-couples-getaway/)**  2024-01-16 09:00:00
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SMO : SEDECO optimise vos médias sociaux](https://sedecobtob.blogspot.com/2024/01/smo-sedeco-optimise-vos-medias-sociaux.html)**  2024-01-12 17:16:45
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[New Year’s Day photoblogging: The local](https://priscimon.com/blog/2024/01/01/new-years-day-photoblogging-the-local/)**  2024-01-01 16:22:03
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Rainbow Birthday Wishes](https://swanlady-impressions.blogspot.com/2024/01/rainbow-birthday-wishes.html)**  2024-01-01 08:04:47
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Silence, on exécute à Gaza!](https://jeanmeedesveaux.blogspot.com/2023/12/silence-on-tue-gaza.html)**  2023-12-28 12:08:58
