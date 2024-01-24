@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[L’espérance vivace du Chant du monde](https://www.lemauricien.com/le-mauricien/lesperance-vivace-du-chant-du-monde/621134/)**  2024-01-24 11:01:15
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Hitting 2024, under cyclones](https://relocationmauritius.wordpress.com/2024/01/23/hitting-2024-under-cyclones/)**  2024-01-23 18:49:04
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Cyclone : la faute à Voltaire ou au béton ?](https://www.lemauricien.com/le-mauricien/cyclone-la-faute-a-voltaire-ou-au-beton/621005/)**  2024-01-23 12:00:01
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Wintery Wishes](https://swanlady-impressions.blogspot.com/2024/01/wintery-wishes.html)**  2024-01-23 09:12:34
