@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Hitting 2024, under cyclones](https://relocationmauritius.wordpress.com/2024/01/23/hitting-2024-under-cyclones/)**  2024-01-23 18:49:04
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[En passant…  À vous, les mères traumatisées…](https://www.lemauricien.com/le-mauricien/en-passant-a-vous-les-meres-traumatisees/621012/)**  2024-01-23 09:17:20
+**[Cyclone : la faute à Voltaire ou au béton ?](https://www.lemauricien.com/le-mauricien/cyclone-la-faute-a-voltaire-ou-au-beton/621005/)**  2024-01-23 12:00:01
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Wintery Wishes](https://swanlady-impressions.blogspot.com/2024/01/wintery-wishes.html)**  2024-01-23 09:12:34
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bright, Victoria](https://littleanantasin.wordpress.com/2023/12/25/bright-victoria/)**  2023-12-25 20:02:38
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[The deeper layers of Business in Mauritius](https://relocationmauritius.wordpress.com/2023/12/12/the-deeper-layers-of-business-in-mauritius/)**  2023-12-12 07:57:26
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Ecopec Food Freshness Retainer (A natural coating to enhance the shelf-life of fresh fruits and vegetables)](https://facultyagriculture.blogspot.com/2023/12/ecopec-food-freshness-retainer-natural.html)**  2023-12-08 05:58:09
