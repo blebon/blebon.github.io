@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Pas de croissant au cinema!](https://kabilen.tumblr.com/post/740647015053131776)**  2024-01-27 06:13:55
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Anniversaires en 2024 et autres rappels peut-être utiles (II)](https://www.lemauricien.com/le-mauricien/anniversaires-en-2024-et-autres-rappels-peut-etre-utiles-ii/621332/)**  2024-01-26 11:01:11
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Valentine’s Day in the Seychelles at Constance Hotels & Resorts](https://blog.constancehotels.com/valentines-day-in-seychelles-at-constance-hotels-resorts/)**  2024-01-23 09:00:00
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[La Veste](https://kabilen.tumblr.com/post/740077980450226176)**  2024-01-20 23:29:22
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Il Ciclone Belal](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal_17.html)**  2024-01-17 07:13:39
