@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Anniversaires en 2024 et autres rappels peut-être utiles (II)](https://www.lemauricien.com/le-mauricien/anniversaires-en-2024-et-autres-rappels-peut-etre-utiles-ii/621332/)**  2024-01-26 11:01:11
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Hibiscus Orange Jam Recipe](https://veganlovlie.com/hibiscus-orange-jam-recipe/)**  2024-01-26 02:36:19
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’espérance vivace du Chant du monde](https://www.lemauricien.com/le-mauricien/lesperance-vivace-du-chant-du-monde/621134/)**  2024-01-24 11:01:15
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Hitting 2024, under cyclones](https://relocationmauritius.wordpress.com/2024/01/23/hitting-2024-under-cyclones/)**  2024-01-23 18:49:04
