@@ -25,6 +25,9 @@ permalink: /mauritian-blogs/
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Valentine’s Day in the Seychelles at Constance Hotels & Resorts](https://blog.constancehotels.com/valentines-day-in-seychelles-at-constance-hotels-resorts/)**  2024-01-23 09:00:00
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Ping Pong vs. Jack](https://davidandjennilyn.com/2024/01/21/ping-pong-vs-jack/)**  2024-01-22 06:11:21
+
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Il Ciclone Belal](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal_17.html)**  2024-01-17 07:13:39
 
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Don't Miss Out On Messages - ﻿InternationalCupid﻿ Membership Has Expired!](https://shruticulturalgroup.blogspot.com/2024/01/dont-miss-out-on-messages.html)**  2024-01-10 06:22:01
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Hill Family Life 2018](https://davidandjennilyn.com/2024/01/08/hill-family-life-2018/)**  2024-01-08 23:28:09
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Is Youtube the last bastion of sound journalism?](https://zoomdr.blogspot.com/2024/01/is-youtube-last-bastion-of-sound.html)**  2024-01-08 08:28:09
