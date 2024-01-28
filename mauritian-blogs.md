@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Little Anantasin](https://littleanantasin.wordpress.com)  
+**[Rocklyn Ashram, Victoria](https://littleanantasin.wordpress.com/2024/01/28/rocklyn-ashram-victoria/)**  2024-01-28 01:24:40
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Wintery Wishes](https://swanlady-impressions.blogspot.com/2024/01/wintery-wishes.html)**  2024-01-27 13:12:00
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Pas de croissant au cinema!](https://kabilen.tumblr.com/post/740647015053131776)**  2024-01-27 06:13:55
 
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Hitting 2024, under cyclones](https://relocationmauritius.wordpress.com/2024/01/23/hitting-2024-under-cyclones/)**  2024-01-23 18:49:04
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Wintery Wishes](https://swanlady-impressions.blogspot.com/2024/01/wintery-wishes.html)**  2024-01-23 09:12:34
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Valentine’s Day in the Seychelles at Constance Hotels & Resorts](https://blog.constancehotels.com/valentines-day-in-seychelles-at-constance-hotels-resorts/)**  2024-01-23 09:00:00
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Buy IA, Boost Your CFA® Exam Prep](http://kozelidir.blogspot.com/2023/12/buy-ia-boost-your-cfa-exam-prep.html)**  2023-12-27 19:12:08
-
-[Little Anantasin](https://littleanantasin.wordpress.com)  
-**[Bright, Victoria](https://littleanantasin.wordpress.com/2023/12/25/bright-victoria/)**  2023-12-25 20:02:38
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Ecopec Food Freshness Retainer (A natural coating to enhance the shelf-life of fresh fruits and vegetables)](https://facultyagriculture.blogspot.com/2023/12/ecopec-food-freshness-retainer-natural.html)**  2023-12-08 05:58:09
