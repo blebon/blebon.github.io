@@ -7,6 +7,9 @@ permalink: /mauritian-blogs/
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Rocklyn Ashram, Victoria](https://littleanantasin.wordpress.com/2024/01/28/rocklyn-ashram-victoria/)**  2024-01-28 01:24:40
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Zistwar Kadi](http://kozelidir.blogspot.com/2024/01/zistwar-kadi.html)**  2024-01-27 16:43:12
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Wintery Wishes](https://swanlady-impressions.blogspot.com/2024/01/wintery-wishes.html)**  2024-01-27 13:12:00
 
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Silence, on exécute à Gaza!](https://jeanmeedesveaux.blogspot.com/2023/12/silence-on-tue-gaza.html)**  2023-12-28 12:08:58
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Buy IA, Boost Your CFA® Exam Prep](http://kozelidir.blogspot.com/2023/12/buy-ia-boost-your-cfa-exam-prep.html)**  2023-12-27 19:12:08
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Ecopec Food Freshness Retainer (A natural coating to enhance the shelf-life of fresh fruits and vegetables)](https://facultyagriculture.blogspot.com/2023/12/ecopec-food-freshness-retainer-natural.html)**  2023-12-08 05:58:09
