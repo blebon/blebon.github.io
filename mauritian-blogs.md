@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Création de sites web : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/01/creation-de-sites-web-place-lexpertise.html)**  2024-01-29 18:34:28
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[COMMEMORATING THE MAKING OF OUR HISTORY – A Perspective on Slavery and Freedom:  An Academic Discussion & Reflection](https://www.lemauricien.com/le-mauricien/commemorating-the-making-of-our-history-a-perspective-on-slavery-and-freedom-an-academic-discussion-reflection/621693/)**  2024-01-29 13:00:37
+
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Rocklyn Ashram, Victoria](https://littleanantasin.wordpress.com/2024/01/28/rocklyn-ashram-victoria/)**  2024-01-28 01:24:40
 
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Pas de croissant au cinema!](https://kabilen.tumblr.com/post/740647015053131776)**  2024-01-27 06:13:55
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anniversaires en 2024 et autres rappels peut-être utiles (II)](https://www.lemauricien.com/le-mauricien/anniversaires-en-2024-et-autres-rappels-peut-etre-utiles-ii/621332/)**  2024-01-26 11:01:11
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Hibiscus Orange Jam Recipe](https://veganlovlie.com/hibiscus-orange-jam-recipe/)**  2024-01-26 02:36:19
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Il Ciclone Belal](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal_17.html)**  2024-01-17 07:13:39
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[SMO : SEDECO optimise vos médias sociaux](https://sedecobtob.blogspot.com/2024/01/smo-sedeco-optimise-vos-medias-sociaux.html)**  2024-01-12 17:16:45
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Different Countries/National/Languages](https://vintishgokool.blogspot.com/2024/01/different-countriesnationallanguages.html)**  2024-01-11 22:21:29
