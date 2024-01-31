@@ -29,7 +29,7 @@ permalink: /mauritian-blogs/
 **[Hitting 2024, under cyclones](https://relocationmauritius.wordpress.com/2024/01/23/hitting-2024-under-cyclones/)**  2024-01-23 18:49:04
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Valentine’s Day in the Seychelles at Constance Hotels & Resorts](https://blog.constancehotels.com/valentines-day-in-seychelles-at-constance-hotels-resorts/)**  2024-01-23 09:00:00
+**[Valentine’s Day in the Seychelles at Constance Hotels & Resorts](https://blog.constancehotels.com/valentines-day-in-seychelles-at-constance-hotels-resorts/?utm_source=rss&utm_medium=rss&utm_campaign=valentines-day-in-seychelles-at-constance-hotels-resorts)**  2024-01-23 09:00:00
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Ping Pong vs. Jack](https://davidandjennilyn.com/2024/01/21/ping-pong-vs-jack/)**  2024-01-22 06:11:21
