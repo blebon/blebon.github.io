@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Disgraceful service of Air Mauritius](https://www.lemauricien.com/le-mauricien/disgraceful-service-of-air-mauritius/621838/)**  2024-01-30 12:00:36
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Création de sites web : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/01/creation-de-sites-web-place-lexpertise.html)**  2024-01-29 18:34:28
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[COMMEMORATING THE MAKING OF OUR HISTORY – A Perspective on Slavery and Freedom:  An Academic Discussion & Reflection](https://www.lemauricien.com/le-mauricien/commemorating-the-making-of-our-history-a-perspective-on-slavery-and-freedom-an-academic-discussion-reflection/621693/)**  2024-01-29 13:00:37
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Rocklyn Ashram, Victoria](https://littleanantasin.wordpress.com/2024/01/28/rocklyn-ashram-victoria/)**  2024-01-28 01:24:40
