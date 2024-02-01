@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Disgraceful service of Air Mauritius](https://www.lemauricien.com/le-mauricien/disgraceful-service-of-air-mauritius/621838/)**  2024-01-30 12:00:36
+**[Slavery, Education and Reparation](https://www.lemauricien.com/le-mauricien/slavery-education-and-reparation/621969/)**  2024-01-31 12:01:25
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Création de sites web : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/01/creation-de-sites-web-place-lexpertise.html)**  2024-01-29 18:34:28
