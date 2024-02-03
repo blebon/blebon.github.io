@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Slavery, Education and Reparation](https://www.lemauricien.com/le-mauricien/slavery-education-and-reparation/621969/)**  2024-01-31 12:01:25
+**[COP28 & Beyond: On the need to be completely honest](https://www.lemauricien.com/le-mauricien/cop28-beyond-on-the-need-to-be-completely-honest/622163/)**  2024-02-02 11:36:53
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Création de sites web : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/01/creation-de-sites-web-place-lexpertise.html)**  2024-01-29 18:34:28
