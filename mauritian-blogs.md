@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[What the world gets wrong about ‘civilisation’](https://zoomdr.blogspot.com/2024/02/what-world-gets-wrong-about-civilisation.html)**  2024-02-03 10:23:28
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Deal](https://vintishgokool.blogspot.com/2024/02/deal.html)**  2024-02-03 07:05:53
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[COP28 & Beyond: On the need to be completely honest](https://www.lemauricien.com/le-mauricien/cop28-beyond-on-the-need-to-be-completely-honest/622163/)**  2024-02-02 11:36:53
 
@@ -37,17 +43,11 @@ permalink: /mauritian-blogs/
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Il Ciclone Belal](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal_17.html)**  2024-01-17 07:13:39
 
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Different Countries/National/Languages](https://vintishgokool.blogspot.com/2024/01/different-countriesnationallanguages.html)**  2024-01-11 22:21:29
-
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Current tendencies [Observations]](https://tachah.blogspot.com/2024/01/current-tendencies-observations.html)**  2024-01-11 11:20:40
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Don't Miss Out On Messages - ﻿InternationalCupid﻿ Membership Has Expired!](https://shruticulturalgroup.blogspot.com/2024/01/dont-miss-out-on-messages.html)**  2024-01-10 06:22:01
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Is Youtube the last bastion of sound journalism?](https://zoomdr.blogspot.com/2024/01/is-youtube-last-bastion-of-sound.html)**  2024-01-08 08:28:09
 
 [priscimon.com](https://priscimon.com/blog)  
 **[New Year’s Day photoblogging: The local](https://priscimon.com/blog/2024/01/01/new-years-day-photoblogging-the-local/)**  2024-01-01 16:22:03
