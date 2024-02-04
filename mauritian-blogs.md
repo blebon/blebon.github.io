@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[RUBRIQUE DU SUD &#124; L’Éthique, N0.1  Gériatrie & Dilemme des Infirmières (Corée du Sud) :  « Si vous ne supportez pas la chaleur, sortez de la cuisine… »](https://www.lemauricien.com/le-mauricien/rubrique-du-sud-lethique-n0-1-geriatrie-dilemme-des-infirmieres-coree-du-sud-si-vous-ne-supportez-pas-la-chaleur-sortez-de-la-cuisine/622296/)**  2024-02-03 11:11:59
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[What the world gets wrong about ‘civilisation’](https://zoomdr.blogspot.com/2024/02/what-world-gets-wrong-about-civilisation.html)**  2024-02-03 10:23:28
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Deal](https://vintishgokool.blogspot.com/2024/02/deal.html)**  2024-02-03 07:05:53
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[COP28 & Beyond: On the need to be completely honest](https://www.lemauricien.com/le-mauricien/cop28-beyond-on-the-need-to-be-completely-honest/622163/)**  2024-02-02 11:36:53
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Création de sites web : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/01/creation-de-sites-web-place-lexpertise.html)**  2024-01-29 18:34:28
