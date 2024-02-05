@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Illuminated Bike Ride](https://davidandjennilyn.com/2024/02/04/illuminated-bike-ride/)**  2024-02-04 16:32:24
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[RUBRIQUE DU SUD &#124; L’Éthique, N0.1  Gériatrie & Dilemme des Infirmières (Corée du Sud) :  « Si vous ne supportez pas la chaleur, sortez de la cuisine… »](https://www.lemauricien.com/le-mauricien/rubrique-du-sud-lethique-n0-1-geriatrie-dilemme-des-infirmieres-coree-du-sud-si-vous-ne-supportez-pas-la-chaleur-sortez-de-la-cuisine/622296/)**  2024-02-03 11:11:59
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Valentine’s Day in the Seychelles at Constance Hotels & Resorts](https://blog.constancehotels.com/valentines-day-in-seychelles-at-constance-hotels-resorts/?utm_source=rss&utm_medium=rss&utm_campaign=valentines-day-in-seychelles-at-constance-hotels-resorts)**  2024-01-23 09:00:00
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Ping Pong vs. Jack](https://davidandjennilyn.com/2024/01/21/ping-pong-vs-jack/)**  2024-01-22 06:11:21
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Il Ciclone Belal](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal_17.html)**  2024-01-17 07:13:39
