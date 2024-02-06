@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Illuminated Bike Ride](https://davidandjennilyn.com/2024/02/04/illuminated-bike-ride/)**  2024-02-04 16:32:24
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Five Ways to Experience the Calm of Mauritius](https://blog.constancehotels.com/experience-the-calm-of-mauritius/?utm_source=rss&utm_medium=rss&utm_campaign=experience-the-calm-of-mauritius)**  2024-02-05 14:26:14
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[RUBRIQUE DU SUD &#124; L’Éthique, N0.1  Gériatrie & Dilemme des Infirmières (Corée du Sud) :  « Si vous ne supportez pas la chaleur, sortez de la cuisine… »](https://www.lemauricien.com/le-mauricien/rubrique-du-sud-lethique-n0-1-geriatrie-dilemme-des-infirmieres-coree-du-sud-si-vous-ne-supportez-pas-la-chaleur-sortez-de-la-cuisine/622296/)**  2024-02-03 11:11:59
+**[Relations internationales : L’ANIMOSITÉ ENTRE GRANDES PUISSANCES ANÉANTIT L’OPTIMISME](https://www.lemauricien.com/le-mauricien/relations-internationales-lanimosite-entre-grandes-puissances-aneantit-loptimisme/622460/)**  2024-02-05 13:00:55
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Illuminated Bike Ride](https://davidandjennilyn.com/2024/02/04/illuminated-bike-ride/)**  2024-02-04 16:32:24
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[What the world gets wrong about ‘civilisation’](https://zoomdr.blogspot.com/2024/02/what-world-gets-wrong-about-civilisation.html)**  2024-02-03 10:23:28
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Hitting 2024, under cyclones](https://relocationmauritius.wordpress.com/2024/01/23/hitting-2024-under-cyclones/)**  2024-01-23 18:49:04
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Valentine’s Day in the Seychelles at Constance Hotels & Resorts](https://blog.constancehotels.com/valentines-day-in-seychelles-at-constance-hotels-resorts/?utm_source=rss&utm_medium=rss&utm_campaign=valentines-day-in-seychelles-at-constance-hotels-resorts)**  2024-01-23 09:00:00
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Il Ciclone Belal](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal_17.html)**  2024-01-17 07:13:39
