@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Public Trust and the Meteorological Services](https://www.lemauricien.com/le-mauricien/public-trust-and-the-meteorological-services/622629/)**  2024-02-06 11:40:36
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Five Ways to Experience the Calm of Mauritius](https://blog.constancehotels.com/experience-the-calm-of-mauritius/?utm_source=rss&utm_medium=rss&utm_campaign=experience-the-calm-of-mauritius)**  2024-02-05 14:26:14
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Relations internationales : L’ANIMOSITÉ ENTRE GRANDES PUISSANCES ANÉANTIT L’OPTIMISME](https://www.lemauricien.com/le-mauricien/relations-internationales-lanimosite-entre-grandes-puissances-aneantit-loptimisme/622460/)**  2024-02-05 13:00:55
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Illuminated Bike Ride](https://davidandjennilyn.com/2024/02/04/illuminated-bike-ride/)**  2024-02-04 16:32:24
