@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Analiz Sis Angazman Lalians Ptr/MMM/PMSD](https://morisk.blogspot.com/2024/02/analiz-sis-angazman-lalians-ptrmmmpmsd.html)**  2024-02-07 23:28:18
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Public Trust and the Meteorological Services](https://www.lemauricien.com/le-mauricien/public-trust-and-the-meteorological-services/622629/)**  2024-02-06 11:40:36
+**[Hafez of Shiraz, Master of the Ghazals](https://www.lemauricien.com/le-mauricien/hafez-of-shiraz-master-of-the-ghazals/622774/)**  2024-02-07 14:30:56
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Five Ways to Experience the Calm of Mauritius](https://blog.constancehotels.com/experience-the-calm-of-mauritius/?utm_source=rss&utm_medium=rss&utm_campaign=experience-the-calm-of-mauritius)**  2024-02-05 14:26:14
