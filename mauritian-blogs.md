@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Musique de l’être](https://www.lemauricien.com/le-mauricien/musique-de-letre/622853/)**  2024-02-08 12:05:42
+**[From Belal to Candice – the lessons to retain](https://www.lemauricien.com/le-mauricien/from-belal-to-candice-the-lessons-to-retain/622940/)**  2024-02-09 11:01:50
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Analiz Sis Angazman Lalians Ptr/MMM/PMSD](https://morisk.blogspot.com/2024/02/analiz-sis-angazman-lalians-ptrmmmpmsd.html)**  2024-02-07 23:28:18
