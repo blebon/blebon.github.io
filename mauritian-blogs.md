@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Fabulous Ladies](https://swanlady-impressions.blogspot.com/2024/02/fabulous-ladies.html)**  2024-02-10 06:57:41
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[From Belal to Candice – the lessons to retain](https://www.lemauricien.com/le-mauricien/from-belal-to-candice-the-lessons-to-retain/622940/)**  2024-02-09 11:01:50
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Zistwar Kadi](http://kozelidir.blogspot.com/2024/01/zistwar-kadi.html)**  2024-01-27 16:43:12
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Wintery Wishes](https://swanlady-impressions.blogspot.com/2024/01/wintery-wishes.html)**  2024-01-27 13:12:00
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Pas de croissant au cinema!](https://kabilen.tumblr.com/post/740647015053131776)**  2024-01-27 06:13:55
