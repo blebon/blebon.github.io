@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[I am a man who drinks tea!](https://kabilen.tumblr.com/post/741984374005907456)**  2024-02-11 00:30:40
+
+[The Jag!](https://morisk.blogspot.com/)  
+**[Analiz Sis Angazman Lalians Ptr/MMM/PMSD](https://morisk.blogspot.com/2024/02/analiz-sis-angazman-lalians-ptrmmmpmsd.html)**  2024-02-10 19:09:36
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Fabulous Ladies](https://swanlady-impressions.blogspot.com/2024/02/fabulous-ladies.html)**  2024-02-10 06:57:41
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[From Belal to Candice – the lessons to retain](https://www.lemauricien.com/le-mauricien/from-belal-to-candice-the-lessons-to-retain/622940/)**  2024-02-09 11:01:50
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Analiz Sis Angazman Lalians Ptr/MMM/PMSD](https://morisk.blogspot.com/2024/02/analiz-sis-angazman-lalians-ptrmmmpmsd.html)**  2024-02-07 23:28:18
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Five Ways to Experience the Calm of Mauritius](https://blog.constancehotels.com/experience-the-calm-of-mauritius/?utm_source=rss&utm_medium=rss&utm_campaign=experience-the-calm-of-mauritius)**  2024-02-05 14:26:14
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Zistwar Kadi](http://kozelidir.blogspot.com/2024/01/zistwar-kadi.html)**  2024-01-27 16:43:12
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Pas de croissant au cinema!](https://kabilen.tumblr.com/post/740647015053131776)**  2024-01-27 06:13:55
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Hibiscus Orange Jam Recipe](https://veganlovlie.com/hibiscus-orange-jam-recipe/)**  2024-01-26 02:36:19
