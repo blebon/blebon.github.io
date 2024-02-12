@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Febbre Dengue](https://mauritiuslapassionesisente.blogspot.com/2024/02/febbre-dengue.html)**  2024-02-11 17:18:59
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Portland Winter Light Festival 2024](https://davidandjennilyn.com/2024/02/11/portland-winter-light-festival-2024/)**  2024-02-11 17:09:39
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[I am a man who drinks tea!](https://kabilen.tumblr.com/post/741984374005907456)**  2024-02-11 00:30:40
 
@@ -18,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Five Ways to Experience the Calm of Mauritius](https://blog.constancehotels.com/experience-the-calm-of-mauritius/?utm_source=rss&utm_medium=rss&utm_campaign=experience-the-calm-of-mauritius)**  2024-02-05 14:26:14
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Illuminated Bike Ride](https://davidandjennilyn.com/2024/02/04/illuminated-bike-ride/)**  2024-02-04 16:32:24
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[What the world gets wrong about ‘civilisation’](https://zoomdr.blogspot.com/2024/02/what-world-gets-wrong-about-civilisation.html)**  2024-02-03 10:23:28
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Hitting 2024, under cyclones](https://relocationmauritius.wordpress.com/2024/01/23/hitting-2024-under-cyclones/)**  2024-01-23 18:49:04
-
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Il Ciclone Belal](https://mauritiuslapassionesisente.blogspot.com/2024/01/il-ciclone-belal_17.html)**  2024-01-17 07:13:39
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Current tendencies [Observations]](https://tachah.blogspot.com/2024/01/current-tendencies-observations.html)**  2024-01-11 11:20:40
