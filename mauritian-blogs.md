@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Marketing en ligne : SEDECO propose un service dynamique !](https://sedecobtob.blogspot.com/2024/02/marketing-en-ligne-sedeco-propose-un.html)**  2024-02-12 15:11:23
+
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Febbre Dengue](https://mauritiuslapassionesisente.blogspot.com/2024/02/febbre-dengue.html)**  2024-02-11 17:18:59
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Deal](https://vintishgokool.blogspot.com/2024/02/deal.html)**  2024-02-03 07:05:53
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Création de sites web : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/01/creation-de-sites-web-place-lexpertise.html)**  2024-01-29 18:34:28
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Rocklyn Ashram, Victoria](https://littleanantasin.wordpress.com/2024/01/28/rocklyn-ashram-victoria/)**  2024-01-28 01:24:40
