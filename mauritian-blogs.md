@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Deadly, Daily, Hungry Hell](https://www.lemauricien.com/le-mauricien/deadly-daily-hungry-hell/623372/)**  2024-02-13 13:00:09
+**[Bright Up Programme – Repeating past errors](https://www.lemauricien.com/le-mauricien/bright-up-programme-repeating-past-errors/623508/)**  2024-02-14 11:02:50
 
 [turbine.mu](https://turbine.mu)  
 **[Pomodoro Technique: Why & How To Use It for Startups](https://turbine.mu/blog/2024/02/13/pomodoro-technique-why-how-to-use-it-for-startups/)**  2024-02-13 05:23:41
