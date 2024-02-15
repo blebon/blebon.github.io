@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Happy Valentine&rsquo;s Day](https://kabilen.tumblr.com/post/742338094046511104)**  2024-02-14 22:12:54
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Bright Up Programme – Repeating past errors](https://www.lemauricien.com/le-mauricien/bright-up-programme-repeating-past-errors/623508/)**  2024-02-14 11:02:50
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Portland Winter Light Festival 2024](https://davidandjennilyn.com/2024/02/11/portland-winter-light-festival-2024/)**  2024-02-11 17:09:39
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[I am a man who drinks tea!](https://kabilen.tumblr.com/post/741984374005907456)**  2024-02-11 00:30:40
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Analiz Sis Angazman Lalians Ptr/MMM/PMSD](https://morisk.blogspot.com/2024/02/analiz-sis-angazman-lalians-ptrmmmpmsd.html)**  2024-02-10 19:09:36
