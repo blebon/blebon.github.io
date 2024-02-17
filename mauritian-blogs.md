@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Getting Things Right](https://www.lemauricien.com/le-mauricien/getting-things-right/623606/)**  2024-02-15 13:00:35
+**[Mémoires de Saint-Simon](https://www.lemauricien.com/le-mauricien/memoires-de-saint-simon/623775/)**  2024-02-16 13:00:48
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Happy Valentine&rsquo;s Day](https://kabilen.tumblr.com/post/742338094046511104)**  2024-02-14 22:12:54
