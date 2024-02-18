@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Febbre Dengue](https://mauritiuslapassionesisente.blogspot.com/2024/02/febbre-dengue.html)**  2024-02-17 10:53:40
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Beijing](https://davidandjennilyn.com/2024/02/17/beijing/)**  2024-02-17 17:20:08
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mémoires de Saint-Simon](https://www.lemauricien.com/le-mauricien/memoires-de-saint-simon/623775/)**  2024-02-16 13:00:48
+**[NÉCROLOGIE ET HISTOIRE  Maître Hassam Seelarbokus,  ex-doyen des Notaires](https://www.lemauricien.com/le-mauricien/necrologie-et-histoire-maitre-hassam-seelarbokus-ex-doyen-des-notaires/623896/)**  2024-02-17 12:00:26
+
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Febbre Dengue](https://mauritiuslapassionesisente.blogspot.com/2024/02/febbre-dengue.html)**  2024-02-17 10:53:40
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Happy Valentine&rsquo;s Day](https://kabilen.tumblr.com/post/742338094046511104)**  2024-02-14 22:12:54
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing en ligne : SEDECO propose un service dynamique !](https://sedecobtob.blogspot.com/2024/02/marketing-en-ligne-sedeco-propose-un.html)**  2024-02-12 15:11:23
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Portland Winter Light Festival 2024](https://davidandjennilyn.com/2024/02/11/portland-winter-light-festival-2024/)**  2024-02-11 17:09:39
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Analiz Sis Angazman Lalians Ptr/MMM/PMSD](https://morisk.blogspot.com/2024/02/analiz-sis-angazman-lalians-ptrmmmpmsd.html)**  2024-02-10 19:09:36
