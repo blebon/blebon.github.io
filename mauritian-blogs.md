@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[A short fictitious story of the spiritual awakening of a little girl](https://www.lemauricien.com/le-mauricien/a-short-fictitious-story-of-the-spiritual-awakening-of-a-little-girl/624091/)**  2024-02-19 13:00:40
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Beijing](https://davidandjennilyn.com/2024/02/17/beijing/)**  2024-02-17 17:20:08
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[NÉCROLOGIE ET HISTOIRE  Maître Hassam Seelarbokus,  ex-doyen des Notaires](https://www.lemauricien.com/le-mauricien/necrologie-et-histoire-maitre-hassam-seelarbokus-ex-doyen-des-notaires/623896/)**  2024-02-17 12:00:26
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Febbre Dengue](https://mauritiuslapassionesisente.blogspot.com/2024/02/febbre-dengue.html)**  2024-02-17 10:53:40
