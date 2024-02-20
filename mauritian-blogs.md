@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[A short fictitious story of the spiritual awakening of a little girl](https://www.lemauricien.com/le-mauricien/a-short-fictitious-story-of-the-spiritual-awakening-of-a-little-girl/624091/)**  2024-02-19 13:00:40
+**[Anniversaires en 2024  et autres rappels peut-être utiles (IV)](https://www.lemauricien.com/le-mauricien/anniversaires-en-2024-et-autres-rappels-peut-etre-utiles-iv/624270/)**  2024-02-20 11:01:25
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[#Dealmaker, du nouveau chez Gibson & Hills](https://relocationmauritius.wordpress.com/2024/02/20/dealmaker-du-nouveau-chez-gibson-hills/)**  2024-02-20 08:05:21
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Beijing](https://davidandjennilyn.com/2024/02/17/beijing/)**  2024-02-17 17:20:08
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Hibiscus Orange Jam Recipe](https://veganlovlie.com/hibiscus-orange-jam-recipe/)**  2024-01-26 02:36:19
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Hitting 2024, under cyclones](https://relocationmauritius.wordpress.com/2024/01/23/hitting-2024-under-cyclones/)**  2024-01-23 18:49:04
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Current tendencies [Observations]](https://tachah.blogspot.com/2024/01/current-tendencies-observations.html)**  2024-01-11 11:20:40
