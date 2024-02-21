@@ -4,17 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Reflection Corner](https://tachah.blogspot.com/)  
+**[Empowerment towards acceptance](https://tachah.blogspot.com/2024/02/empowerment-towards-acceptance.html)**  2024-02-20 18:26:57
+
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Ciclone Eleanor (Zimbabwe)](https://mauritiuslapassionesisente.blogspot.com/2024/02/eleanor-zimbabwe.html)**  2024-02-20 16:39:23
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Anniversaires en 2024  et autres rappels peut-être utiles (IV)](https://www.lemauricien.com/le-mauricien/anniversaires-en-2024-et-autres-rappels-peut-etre-utiles-iv/624270/)**  2024-02-20 11:01:25
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Jaime & Dave’s Indian Ocean Discovery](https://blog.constancehotels.com/jaime-daves-indian-ocean-discovery/?utm_source=rss&utm_medium=rss&utm_campaign=jaime-daves-indian-ocean-discovery)**  2024-02-20 10:19:44
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[#Dealmaker, du nouveau chez Gibson & Hills](https://relocationmauritius.wordpress.com/2024/02/20/dealmaker-du-nouveau-chez-gibson-hills/)**  2024-02-20 08:05:21
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Beijing](https://davidandjennilyn.com/2024/02/17/beijing/)**  2024-02-17 17:20:08
-
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Febbre Dengue](https://mauritiuslapassionesisente.blogspot.com/2024/02/febbre-dengue.html)**  2024-02-17 10:53:40
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Happy Valentine&rsquo;s Day](https://kabilen.tumblr.com/post/742338094046511104)**  2024-02-14 22:12:54
@@ -31,9 +37,6 @@ permalink: /mauritian-blogs/
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Fabulous Ladies](https://swanlady-impressions.blogspot.com/2024/02/fabulous-ladies.html)**  2024-02-10 06:57:41
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Five Ways to Experience the Calm of Mauritius](https://blog.constancehotels.com/experience-the-calm-of-mauritius/?utm_source=rss&utm_medium=rss&utm_campaign=experience-the-calm-of-mauritius)**  2024-02-05 14:26:14
-
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[What the world gets wrong about ‘civilisation’](https://zoomdr.blogspot.com/2024/02/what-world-gets-wrong-about-civilisation.html)**  2024-02-03 10:23:28
 
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Hibiscus Orange Jam Recipe](https://veganlovlie.com/hibiscus-orange-jam-recipe/)**  2024-01-26 02:36:19
-
-[Reflection Corner](https://tachah.blogspot.com/)  
-**[Current tendencies [Observations]](https://tachah.blogspot.com/2024/01/current-tendencies-observations.html)**  2024-01-11 11:20:40
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Don't Miss Out On Messages - ﻿InternationalCupid﻿ Membership Has Expired!](https://shruticulturalgroup.blogspot.com/2024/01/dont-miss-out-on-messages.html)**  2024-01-10 06:22:01
