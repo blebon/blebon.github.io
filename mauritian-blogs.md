@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[A beautiful flower.](https://flicenflac.blogspot.com/2024/02/a-beautiful-flower.html)**  2024-02-22 03:55:37
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Mo langaz mama](https://www.lemauricien.com/opinions/mo-langaz-mama/624456/)**  2024-02-21 16:36:28
+
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Empowerment towards acceptance](https://tachah.blogspot.com/2024/02/empowerment-towards-acceptance.html)**  2024-02-20 18:26:57
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Ciclone Eleanor (Zimbabwe)](https://mauritiuslapassionesisente.blogspot.com/2024/02/eleanor-zimbabwe.html)**  2024-02-20 16:39:23
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anniversaires en 2024  et autres rappels peut-être utiles (IV)](https://www.lemauricien.com/le-mauricien/anniversaires-en-2024-et-autres-rappels-peut-etre-utiles-iv/624270/)**  2024-02-20 11:01:25
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Jaime & Dave’s Indian Ocean Discovery](https://blog.constancehotels.com/jaime-daves-indian-ocean-discovery/?utm_source=rss&utm_medium=rss&utm_campaign=jaime-daves-indian-ocean-discovery)**  2024-02-20 10:19:44
@@ -66,9 +69,6 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴JOLLY'S ROCK à BUTTE A L'HERBE](https://mysweetmauritius.blogspot.com/2023/12/jollys-rock-butte-lherbe.html)**  2023-12-05 15:28:16
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Spirituality, vegetarianism and the right partner!](https://flicenflac.blogspot.com/2023/08/spirituality-vegetarianism-and-right.html)**  2023-12-02 04:14:56
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[Book Now Artist: EL PLAGA](https://elplagaa.blogspot.com/2023/10/book-now-artist-el-plaga.html)**  2023-10-16 12:41:57
