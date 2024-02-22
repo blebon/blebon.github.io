@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Constance Tsarabanjina – A Honeymooners Haven](https://blog.constancehotels.com/constance-tsarabanjina-a-honeymooners-haven/?utm_source=rss&utm_medium=rss&utm_campaign=constance-tsarabanjina-a-honeymooners-haven)**  2024-02-22 08:36:08
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[A beautiful flower.](https://flicenflac.blogspot.com/2024/02/a-beautiful-flower.html)**  2024-02-22 03:55:37
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Ciclone Eleanor (Zimbabwe)](https://mauritiuslapassionesisente.blogspot.com/2024/02/eleanor-zimbabwe.html)**  2024-02-20 16:39:23
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Jaime & Dave’s Indian Ocean Discovery](https://blog.constancehotels.com/jaime-daves-indian-ocean-discovery/?utm_source=rss&utm_medium=rss&utm_campaign=jaime-daves-indian-ocean-discovery)**  2024-02-20 10:19:44
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[#Dealmaker, du nouveau chez Gibson & Hills](https://relocationmauritius.wordpress.com/2024/02/20/dealmaker-du-nouveau-chez-gibson-hills/)**  2024-02-20 08:05:21
