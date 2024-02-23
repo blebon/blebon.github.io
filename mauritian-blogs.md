@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Sis Kolos Travayis – Ki Pa Ti Pu Vot Pu Navin](https://www.lemauricien.com/le-mauricien/sis-kolos-travayis-ki-pa-ti-pu-vot-pu-navin/624595/)**  2024-02-23 05:47:07
+
 [The Jag!](https://morisk.blogspot.com/)  
 **[Sis Kolos Travayis Ki Pa Ti Pu Vot Pu Navin](https://morisk.blogspot.com/2024/02/sis-kolos-travayis-ki-pa-ti-pu-vot-pu.html)**  2024-02-22 20:00:00
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[A beautiful flower.](https://flicenflac.blogspot.com/2024/02/a-beautiful-flower.html)**  2024-02-22 03:55:37
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mo langaz mama](https://www.lemauricien.com/opinions/mo-langaz-mama/624456/)**  2024-02-21 16:36:28
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Empowerment towards acceptance](https://tachah.blogspot.com/2024/02/empowerment-towards-acceptance.html)**  2024-02-20 18:26:57
