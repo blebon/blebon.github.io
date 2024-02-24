@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Anniversaires en 2024  et autres rappels peut-être utiles (V)](https://www.lemauricien.com/le-mauricien/anniversaires-en-2024-et-autres-rappels-peut-etre-utiles-v/624835/)**  2024-02-24 10:50:18
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing : place au tournage vidéo avec SEDECO](https://sedecobtob.blogspot.com/2024/02/marketing-place-au-tournage-video-avec.html)**  2024-02-23 17:55:46
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Sis Kolos Travayis – Ki Pa Ti Pu Vot Pu Navin](https://www.lemauricien.com/le-mauricien/sis-kolos-travayis-ki-pa-ti-pu-vot-pu-navin/624595/)**  2024-02-23 05:47:07
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Sis Kolos Travayis Ki Pa Ti Pu Vot Pu Navin](https://morisk.blogspot.com/2024/02/sis-kolos-travayis-ki-pa-ti-pu-vot-pu.html)**  2024-02-22 20:00:00
