@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Marketing : place au tournage vidéo avec SEDECO](https://sedecobtob.blogspot.com/2024/02/marketing-place-au-tournage-video-avec.html)**  2024-02-23 17:55:46
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Sis Kolos Travayis – Ki Pa Ti Pu Vot Pu Navin](https://www.lemauricien.com/le-mauricien/sis-kolos-travayis-ki-pa-ti-pu-vot-pu-navin/624595/)**  2024-02-23 05:47:07
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Pomodoro Technique: Why & How To Use It for Startups](https://turbine.mu/blog/2024/02/13/pomodoro-technique-why-how-to-use-it-for-startups/)**  2024-02-13 05:23:41
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Marketing en ligne : SEDECO propose un service dynamique !](https://sedecobtob.blogspot.com/2024/02/marketing-en-ligne-sedeco-propose-un.html)**  2024-02-12 15:11:23
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Fabulous Ladies](https://swanlady-impressions.blogspot.com/2024/02/fabulous-ladies.html)**  2024-02-10 06:57:41
