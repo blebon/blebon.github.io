@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Sis Kolos Travayis Ki Pa Ti Pu Vot Pu Navin](https://morisk.blogspot.com/2024/02/sis-kolos-travayis-ki-pa-ti-pu-vot-pu.html)**  2024-02-24 12:46:19
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Anniversaires en 2024  et autres rappels peut-être utiles (V)](https://www.lemauricien.com/le-mauricien/anniversaires-en-2024-et-autres-rappels-peut-etre-utiles-v/624835/)**  2024-02-24 10:50:18
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing : place au tournage vidéo avec SEDECO](https://sedecobtob.blogspot.com/2024/02/marketing-place-au-tournage-video-avec.html)**  2024-02-23 17:55:46
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Sis Kolos Travayis Ki Pa Ti Pu Vot Pu Navin](https://morisk.blogspot.com/2024/02/sis-kolos-travayis-ki-pa-ti-pu-vot-pu.html)**  2024-02-22 20:00:00
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Constance Tsarabanjina – A Honeymooners Haven](https://blog.constancehotels.com/constance-tsarabanjina-a-honeymooners-haven/?utm_source=rss&utm_medium=rss&utm_campaign=constance-tsarabanjina-a-honeymooners-haven)**  2024-02-22 08:36:08
