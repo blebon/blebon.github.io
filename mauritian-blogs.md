@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[There was a time...](https://flicenflac.blogspot.com/2024/02/there-was-time.html)**  2024-02-25 12:01:59
+
 [The Jag!](https://morisk.blogspot.com/)  
 **[Sis Kolos Travayis Ki Pa Ti Pu Vot Pu Navin](https://morisk.blogspot.com/2024/02/sis-kolos-travayis-ki-pa-ti-pu-vot-pu.html)**  2024-02-24 12:46:19
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Constance Tsarabanjina – A Honeymooners Haven](https://blog.constancehotels.com/constance-tsarabanjina-a-honeymooners-haven/?utm_source=rss&utm_medium=rss&utm_campaign=constance-tsarabanjina-a-honeymooners-haven)**  2024-02-22 08:36:08
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[A beautiful flower.](https://flicenflac.blogspot.com/2024/02/a-beautiful-flower.html)**  2024-02-22 03:55:37
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Empowerment towards acceptance](https://tachah.blogspot.com/2024/02/empowerment-towards-acceptance.html)**  2024-02-20 18:26:57
