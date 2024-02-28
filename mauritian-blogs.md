@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : laissez SEDECO gérer votre communication](https://sedecobtob.blogspot.com/2024/02/bpo-laissez-sedeco-gerer-votre.html)**  2024-02-26 14:37:14
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[New Arrivals](https://kabilen.tumblr.com/post/743520060080095232)**  2024-02-27 23:19:45
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Between Slavery and Freedom](https://www.lemauricien.com/le-mauricien/between-slavery-and-freedom/625055/)**  2024-02-26 13:00:28
+**[ÉDUCATION : Entre restructuration et stagnation](https://www.lemauricien.com/le-mauricien/education-entre-restructuration-et-stagnation/625201/)**  2024-02-27 12:05:07
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : laissez SEDECO gérer votre communication](https://sedecobtob.blogspot.com/2024/02/bpo-laissez-sedeco-gerer-votre.html)**  2024-02-26 14:37:14
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[There was a time...](https://flicenflac.blogspot.com/2024/02/there-was-time.html)**  2024-02-25 12:01:59
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Beijing](https://davidandjennilyn.com/2024/02/17/beijing/)**  2024-02-17 17:20:08
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Happy Valentine&rsquo;s Day](https://kabilen.tumblr.com/post/742338094046511104)**  2024-02-14 22:12:54
 
 [turbine.mu](https://turbine.mu)  
 **[Pomodoro Technique: Why & How To Use It for Startups](https://turbine.mu/blog/2024/02/13/pomodoro-technique-why-how-to-use-it-for-startups/)**  2024-02-13 05:23:41
