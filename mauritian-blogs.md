@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[New Arrivals](https://kabilen.tumblr.com/post/743520060080095232)**  2024-02-27 23:19:45
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[The Jag! After 2016](http://kozelidir.blogspot.com/2024/02/the-jag-after-2016.html)**  2024-02-28 17:04:14
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ÉDUCATION : Entre restructuration et stagnation](https://www.lemauricien.com/le-mauricien/education-entre-restructuration-et-stagnation/625201/)**  2024-02-27 12:05:07
+**[Chazan-Gillig and Ramhota’s important contribution to the literature on Hinduism in the diaspora](https://www.lemauricien.com/le-mauricien/chazan-gillig-and-ramhotas-important-contribution-to-the-literature-on-hinduism-in-the-diaspora/625323/)**  2024-02-28 12:00:17
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[New Arrivals](https://kabilen.tumblr.com/post/743520060080095232)**  2024-02-27 23:19:45
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : laissez SEDECO gérer votre communication](https://sedecobtob.blogspot.com/2024/02/bpo-laissez-sedeco-gerer-votre.html)**  2024-02-26 14:37:14
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Rocklyn Ashram, Victoria](https://littleanantasin.wordpress.com/2024/01/28/rocklyn-ashram-victoria/)**  2024-01-28 01:24:40
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Zistwar Kadi](http://kozelidir.blogspot.com/2024/01/zistwar-kadi.html)**  2024-01-27 16:43:12
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Hibiscus Orange Jam Recipe](https://veganlovlie.com/hibiscus-orange-jam-recipe/)**  2024-01-26 02:36:19
