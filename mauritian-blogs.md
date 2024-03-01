@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : SEDECO prône la qualité de service !](https://sedecobtob.blogspot.com/2024/02/bpo-sedeco-prone-la-qualite-de-service.html)**  2024-02-29 19:26:31
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[L’Inde des rois, l’Inde des dieux](https://www.lemauricien.com/le-mauricien/linde-des-rois-linde-des-dieux/625450/)**  2024-02-29 13:00:44
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[The Jag! After 2016](http://kozelidir.blogspot.com/2024/02/the-jag-after-2016.html)**  2024-02-28 17:04:14
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Chazan-Gillig and Ramhota’s important contribution to the literature on Hinduism in the diaspora](https://www.lemauricien.com/le-mauricien/chazan-gillig-and-ramhotas-important-contribution-to-the-literature-on-hinduism-in-the-diaspora/625323/)**  2024-02-28 12:00:17
-
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[New Arrivals](https://kabilen.tumblr.com/post/743520060080095232)**  2024-02-27 23:19:45
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : laissez SEDECO gérer votre communication](https://sedecobtob.blogspot.com/2024/02/bpo-laissez-sedeco-gerer-votre.html)**  2024-02-26 14:37:14
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[There was a time...](https://flicenflac.blogspot.com/2024/02/there-was-time.html)**  2024-02-25 12:01:59
