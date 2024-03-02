@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[History : The British abandoned Diego Garcia  after warning from Souillac (1786)](https://www.lemauricien.com/le-mauricien/history-the-british-abandoned-diego-garcia-after-warning-from-souillac-1786/625605/)**  2024-03-01 11:51:27
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO prône la qualité de service !](https://sedecobtob.blogspot.com/2024/02/bpo-sedeco-prone-la-qualite-de-service.html)**  2024-02-29 19:26:31
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’Inde des rois, l’Inde des dieux](https://www.lemauricien.com/le-mauricien/linde-des-rois-linde-des-dieux/625450/)**  2024-02-29 13:00:44
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[The Jag! After 2016](http://kozelidir.blogspot.com/2024/02/the-jag-after-2016.html)**  2024-02-28 17:04:14
