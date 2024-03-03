@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Am I turning into a Luddite?](https://priscimon.com/blog/2024/03/02/am-i-turning-into-a-luddite/)**  2024-03-02 18:03:01
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[History : The British abandoned Diego Garcia  after warning from Souillac (1786)](https://www.lemauricien.com/le-mauricien/history-the-british-abandoned-diego-garcia-after-warning-from-souillac-1786/625605/)**  2024-03-01 11:51:27
 
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Don't Miss Out On Messages - ﻿InternationalCupid﻿ Membership Has Expired!](https://shruticulturalgroup.blogspot.com/2024/01/dont-miss-out-on-messages.html)**  2024-01-10 06:22:01
-
-[priscimon.com](https://priscimon.com/blog)  
-**[New Year’s Day photoblogging: The local](https://priscimon.com/blog/2024/01/01/new-years-day-photoblogging-the-local/)**  2024-01-01 16:22:03
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Silence, on exécute à Gaza!](https://jeanmeedesveaux.blogspot.com/2023/12/silence-on-tue-gaza.html)**  2023-12-28 12:08:58
