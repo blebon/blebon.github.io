@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Maha Shivaratree : Small is Beautiful](https://www.lemauricien.com/actualites/maha-shivaratree-small-is-beautiful/625962/)**  2024-03-04 07:47:04
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Am I turning into a Luddite?](https://priscimon.com/blog/2024/03/02/am-i-turning-into-a-luddite/)**  2024-03-02 18:03:01
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[History : The British abandoned Diego Garcia  after warning from Souillac (1786)](https://www.lemauricien.com/le-mauricien/history-the-british-abandoned-diego-garcia-after-warning-from-souillac-1786/625605/)**  2024-03-01 11:51:27
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : SEDECO prône la qualité de service !](https://sedecobtob.blogspot.com/2024/02/bpo-sedeco-prone-la-qualite-de-service.html)**  2024-02-29 19:26:31
