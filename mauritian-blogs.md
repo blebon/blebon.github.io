@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Maha Shivaratree : Small is Beautiful](https://www.lemauricien.com/actualites/maha-shivaratree-small-is-beautiful/625962/)**  2024-03-04 07:47:04
+**[Mauritius is in Mourning](https://www.lemauricien.com/opinions/mauritius-is-in-mourning/626034/)**  2024-03-04 14:02:23
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Am I turning into a Luddite?](https://priscimon.com/blog/2024/03/02/am-i-turning-into-a-luddite/)**  2024-03-02 18:03:01
