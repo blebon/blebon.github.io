@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Services offshore : optez pour SEDECO](https://sedecobtob.blogspot.com/2024/03/services-offshore-optez-pour-sedeco.html)**  2024-03-05 17:15:12
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mauritius is in Mourning](https://www.lemauricien.com/opinions/mauritius-is-in-mourning/626034/)**  2024-03-04 14:02:23
+**[Remembering Dr Georges Alexis Leclézio (1872-1928) LRCP. MRCS, DPH (UK)  (Ex-Government Medical Officer Moka General Hospital)](https://www.lemauricien.com/le-mauricien/remembering-dr-georges-alexis-leclezio-1872-1928-lrcp-mrcs-dph-uk-ex-government-medical-officer-moka-general-hospital/626172/)**  2024-03-05 14:00:01
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Am I turning into a Luddite?](https://priscimon.com/blog/2024/03/02/am-i-turning-into-a-luddite/)**  2024-03-02 18:03:01
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : SEDECO prône la qualité de service !](https://sedecobtob.blogspot.com/2024/02/bpo-sedeco-prone-la-qualite-de-service.html)**  2024-02-29 19:26:31
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[The Jag! After 2016](http://kozelidir.blogspot.com/2024/02/the-jag-after-2016.html)**  2024-02-28 17:04:14
