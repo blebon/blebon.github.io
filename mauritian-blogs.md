@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Rodrigues Island: A Slow Travel Experience](https://blog.constancehotels.com/rodrigues-island-a-slow-travel-experience/?utm_source=rss&utm_medium=rss&utm_campaign=rodrigues-island-a-slow-travel-experience)**  2024-03-06 10:10:00
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Services offshore : optez pour SEDECO](https://sedecobtob.blogspot.com/2024/03/services-offshore-optez-pour-sedeco.html)**  2024-03-05 17:15:12
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Sis Kolos Travayis Ki Pa Ti Pu Vot Pu Navin](https://morisk.blogspot.com/2024/02/sis-kolos-travayis-ki-pa-ti-pu-vot-pu.html)**  2024-02-24 12:46:19
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Constance Tsarabanjina – A Honeymooners Haven](https://blog.constancehotels.com/constance-tsarabanjina-a-honeymooners-haven/?utm_source=rss&utm_medium=rss&utm_campaign=constance-tsarabanjina-a-honeymooners-haven)**  2024-02-22 08:36:08
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Empowerment towards acceptance](https://tachah.blogspot.com/2024/02/empowerment-towards-acceptance.html)**  2024-02-20 18:26:57
