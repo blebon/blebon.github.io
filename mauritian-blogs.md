@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[“I write about photography and programming”](https://priscimon.com/blog/2024/03/08/i-write-about-photography-and-programming/)**  2024-03-08 21:47:16
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Maha Shivaratri – The Great Night Of Lord Shiva](https://www.lemauricien.com/opinions/maha-shivaratri-the-great-night-of-lord-shiva/626456/)**  2024-03-08 07:36:42
+**[L’amélioration de la condition féminine passe par le respect des Droits de la Femme](https://www.lemauricien.com/opinions/lamelioration-de-la-condition-feminine-passe-par-le-respect-des-droits-de-la-femme/626495/)**  2024-03-08 12:21:02
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Rodrigues Island: A Slow Travel Experience](https://blog.constancehotels.com/rodrigues-island-a-slow-travel-experience/?utm_source=rss&utm_medium=rss&utm_campaign=rodrigues-island-a-slow-travel-experience)**  2024-03-06 10:10:00
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Services offshore : optez pour SEDECO](https://sedecobtob.blogspot.com/2024/03/services-offshore-optez-pour-sedeco.html)**  2024-03-05 17:15:12
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Am I turning into a Luddite?](https://priscimon.com/blog/2024/03/02/am-i-turning-into-a-luddite/)**  2024-03-02 18:03:01
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[The Jag! After 2016](http://kozelidir.blogspot.com/2024/02/the-jag-after-2016.html)**  2024-02-28 17:04:14
