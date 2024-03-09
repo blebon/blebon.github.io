@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Women’s Empowerment in Harmony with the Divine Feminine](https://www.lemauricien.com/le-mauricien/womens-empowerment-in-harmony-with-the-divine-feminine-2/626662/)**  2024-03-09 11:09:21
+
 [priscimon.com](https://priscimon.com/blog)  
 **[“I write about photography and programming”](https://priscimon.com/blog/2024/03/08/i-write-about-photography-and-programming/)**  2024-03-08 21:47:16
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’amélioration de la condition féminine passe par le respect des Droits de la Femme](https://www.lemauricien.com/opinions/lamelioration-de-la-condition-feminine-passe-par-le-respect-des-droits-de-la-femme/626495/)**  2024-03-08 12:21:02
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Rodrigues Island: A Slow Travel Experience](https://blog.constancehotels.com/rodrigues-island-a-slow-travel-experience/?utm_source=rss&utm_medium=rss&utm_campaign=rodrigues-island-a-slow-travel-experience)**  2024-03-06 10:10:00
