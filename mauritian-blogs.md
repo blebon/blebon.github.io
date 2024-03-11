@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Women’s Empowerment in Harmony with the Divine Feminine](https://www.lemauricien.com/le-mauricien/womens-empowerment-in-harmony-with-the-divine-feminine-2/626662/)**  2024-03-09 11:09:21
+**[The 12th of March](https://www.lemauricien.com/le-mauricien/the-12th-of-march/626852/)**  2024-03-11 11:04:22
 
 [priscimon.com](https://priscimon.com/blog)  
 **[“I write about photography and programming”](https://priscimon.com/blog/2024/03/08/i-write-about-photography-and-programming/)**  2024-03-08 21:47:16
