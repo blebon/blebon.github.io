@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[L’ère de la liberté](https://www.lemauricien.com/opinions/lere-de-la-liberte/627041/)**  2024-03-12 15:42:36
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Blossoms & Berries ... and Flower Boxes](https://swanlady-impressions.blogspot.com/2024/03/blossoms-berries-and-flower-boxes.html)**  2024-03-11 16:10:15
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The 12th of March](https://www.lemauricien.com/le-mauricien/the-12th-of-march/626852/)**  2024-03-11 11:04:22
 
 [priscimon.com](https://priscimon.com/blog)  
 **[“I write about photography and programming”](https://priscimon.com/blog/2024/03/08/i-write-about-photography-and-programming/)**  2024-03-08 21:47:16
