@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Better with Age](https://swanlady-impressions.blogspot.com/2024/03/better-with-age.html)**  2024-03-13 12:57:26
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Man & Beast](https://vintishgokool.blogspot.com/2024/03/man-beast.html)**  2024-03-14 20:03:33
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mauritius, My Homeland](https://www.lemauricien.com/le-mauricien/mauritius-my-homeland/627174/)**  2024-03-13 11:02:58
+**[Feminism and Feminine Values](https://www.lemauricien.com/le-mauricien/feminism-and-feminine-values/627320/)**  2024-03-14 13:00:27
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Better with Age](https://swanlady-impressions.blogspot.com/2024/03/better-with-age.html)**  2024-03-13 12:57:26
 
 [priscimon.com](https://priscimon.com/blog)  
 **[“I write about photography and programming”](https://priscimon.com/blog/2024/03/08/i-write-about-photography-and-programming/)**  2024-03-08 21:47:16
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[What the world gets wrong about ‘civilisation’](https://zoomdr.blogspot.com/2024/02/what-world-gets-wrong-about-civilisation.html)**  2024-02-03 10:23:28
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Deal](https://vintishgokool.blogspot.com/2024/02/deal.html)**  2024-02-03 07:05:53
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Rocklyn Ashram, Victoria](https://littleanantasin.wordpress.com/2024/01/28/rocklyn-ashram-victoria/)**  2024-01-28 01:24:40
