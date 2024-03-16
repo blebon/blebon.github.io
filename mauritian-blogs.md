@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[GUERRE ISRAËL (NETANYAHU)-HAMAS (HANIYEH) – L’Appel Humain : « Stop ! »](https://www.lemauricien.com/le-mauricien/guerre-israel-netanyahu-hamas-haniyeh-lappel-humain-stop/627452/)**  2024-03-15 12:00:19
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Man & Beast](https://vintishgokool.blogspot.com/2024/03/man-beast.html)**  2024-03-14 20:03:33
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Feminism and Feminine Values](https://www.lemauricien.com/le-mauricien/feminism-and-feminine-values/627320/)**  2024-03-14 13:00:27
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Better with Age](https://swanlady-impressions.blogspot.com/2024/03/better-with-age.html)**  2024-03-13 12:57:26
