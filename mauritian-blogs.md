@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Frantz Fanon, iconic freedom fighter: “What we want is to move forward all the time, night and day, in the company of man, all men”](https://zoomdr.blogspot.com/2024/03/frantz-fanon-iconic-freedom-fighter.html)**  2024-03-18 11:10:26
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[10 Ocean Adventures in Mauritius & the Maldives](https://blog.constancehotels.com/10-ocean-adventures-in-mauritius-the-maldives/?utm_source=rss&utm_medium=rss&utm_campaign=10-ocean-adventures-in-mauritius-the-maldives)**  2024-03-18 07:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[GUERRE ISRAËL (NETANYAHU)-HAMAS (HANIYEH) – L’Appel Humain : « Stop ! »](https://www.lemauricien.com/le-mauricien/guerre-israel-netanyahu-hamas-haniyeh-lappel-humain-stop/627452/)**  2024-03-15 12:00:19
 
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[“I write about photography and programming”](https://priscimon.com/blog/2024/03/08/i-write-about-photography-and-programming/)**  2024-03-08 21:47:16
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Rodrigues Island: A Slow Travel Experience](https://blog.constancehotels.com/rodrigues-island-a-slow-travel-experience/?utm_source=rss&utm_medium=rss&utm_campaign=rodrigues-island-a-slow-travel-experience)**  2024-03-06 10:10:00
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Services offshore : optez pour SEDECO](https://sedecobtob.blogspot.com/2024/03/services-offshore-optez-pour-sedeco.html)**  2024-03-05 17:15:12
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Pomodoro Technique: Why & How To Use It for Startups](https://turbine.mu/blog/2024/02/13/pomodoro-technique-why-how-to-use-it-for-startups/)**  2024-02-13 05:23:41
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[What the world gets wrong about ‘civilisation’](https://zoomdr.blogspot.com/2024/02/what-world-gets-wrong-about-civilisation.html)**  2024-02-03 10:23:28
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Rocklyn Ashram, Victoria](https://littleanantasin.wordpress.com/2024/01/28/rocklyn-ashram-victoria/)**  2024-01-28 01:24:40
