@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Bestial](https://vintishgokool.blogspot.com/2024/03/bestial.html)**  2024-03-21 07:57:11
+
+[priscimon.com](https://priscimon.com/blog)  
+**[How hard could it be?](https://priscimon.com/blog/2024/03/21/how-hard-could-it-be/)**  2024-03-21 06:42:01
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’ère de la liberté](https://www.lemauricien.com/le-mauricien/lere-de-la-liberte-2/627968/)**  2024-03-20 11:02:05
+**[Fragment du journal intime  d’une « working mum »](https://www.lemauricien.com/le-mauricien/fragment-du-journal-intime-dune-working-mum/628085/)**  2024-03-21 06:27:42
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Frantz Fanon, iconic freedom fighter: “What we want is to move forward all the time, night and day, in the company of man, all men”](https://zoomdr.blogspot.com/2024/03/frantz-fanon-iconic-freedom-fighter.html)**  2024-03-19 08:10:15
@@ -13,14 +19,8 @@ permalink: /mauritian-blogs/
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[10 Ocean Adventures in Mauritius & the Maldives](https://blog.constancehotels.com/10-ocean-adventures-in-mauritius-the-maldives/?utm_source=rss&utm_medium=rss&utm_campaign=10-ocean-adventures-in-mauritius-the-maldives)**  2024-03-18 07:00:00
 
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Man & Beast](https://vintishgokool.blogspot.com/2024/03/man-beast.html)**  2024-03-14 20:03:33
-
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Better with Age](https://swanlady-impressions.blogspot.com/2024/03/better-with-age.html)**  2024-03-13 12:57:26
-
-[priscimon.com](https://priscimon.com/blog)  
-**[“I write about photography and programming”](https://priscimon.com/blog/2024/03/08/i-write-about-photography-and-programming/)**  2024-03-08 21:47:16
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Services offshore : optez pour SEDECO](https://sedecobtob.blogspot.com/2024/03/services-offshore-optez-pour-sedeco.html)**  2024-03-05 17:15:12
