@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[turbine.mu](https://turbine.mu)  
+**[Is Traditional marketing still relevant for Startups in 2024 ?](https://turbine.mu/blog/2024/03/22/is-traditional-marketing-still-relevant-for-startups-in-2024/)**  2024-03-22 04:03:04
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[MAHA SHIVRATRI: DANCING WITH THE GODS](https://www.lemauricien.com/le-mauricien/maha-shivratri-dancing-with-the-gods/628164/)**  2024-03-21 12:13:10
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Bestial](https://vintishgokool.blogspot.com/2024/03/bestial.html)**  2024-03-21 07:57:11
 
 [priscimon.com](https://priscimon.com/blog)  
 **[How hard could it be?](https://priscimon.com/blog/2024/03/21/how-hard-could-it-be/)**  2024-03-21 06:42:01
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Fragment du journal intime  d’une « working mum »](https://www.lemauricien.com/le-mauricien/fragment-du-journal-intime-dune-working-mum/628085/)**  2024-03-21 06:27:42
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Frantz Fanon, iconic freedom fighter: “What we want is to move forward all the time, night and day, in the company of man, all men”](https://zoomdr.blogspot.com/2024/03/frantz-fanon-iconic-freedom-fighter.html)**  2024-03-19 08:10:15
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Beijing](https://davidandjennilyn.com/2024/02/17/beijing/)**  2024-02-17 17:20:08
-
-[turbine.mu](https://turbine.mu)  
-**[Pomodoro Technique: Why & How To Use It for Startups](https://turbine.mu/blog/2024/02/13/pomodoro-technique-why-how-to-use-it-for-startups/)**  2024-02-13 05:23:41
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Rocklyn Ashram, Victoria](https://littleanantasin.wordpress.com/2024/01/28/rocklyn-ashram-victoria/)**  2024-01-28 01:24:40
@@ -93,6 +93,9 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Custard and Cherry Jam Phyllo Tartlets](https://everpeckish.com/custard-and-cherry-jam-phyllo-tartlets/?utm_source=rss&utm_medium=rss&utm_campaign=custard-and-cherry-jam-phyllo-tartlets)**  2023-08-13 12:51:45
+
+[Savour the moment](https://savourthemomentattechie.blogspot.com/)  
+**[A Day in the Life of a VMware Administrator](https://savourthemomentattechie.blogspot.com/2023/08/a-day-in-life-of-vmware-administrator.html)**  2023-08-12 04:20:14
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Speaking at DevCon 2023: E-commerce Chatbot in Creole](https://nayarweb.com/blog/2023/speaking-at-devcon-2023-e-commerce-chatbot-in-creole/)**  2023-07-28 09:36:10
