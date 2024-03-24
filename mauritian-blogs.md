@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
+**[Longères](http://gadatagada-portfolio.blogspot.com/2024/03/longeres.html)**  2024-03-23 06:29:47
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Planning & Schedule](https://vintishgokool.blogspot.com/2024/03/planning-schedule.html)**  2024-03-22 20:43:49
 
