@@ -5,7 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Most Beautiful of Sunsets!](https://www.lemauricien.com/le-mauricien/the-most-beautiful-of-sunsets/628716/)**  2024-03-26 11:02:41
+**[E-invoicing in Mauritius for Businesses: Adapt or Perish?](https://www.lemauricien.com/le-mauricien/e-invoicing-in-mauritius-for-businesses-adapt-or-perish/628848/)**  2024-03-27 11:02:55
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Influencer Diary: India’s Heavenly Escapade to Constance Prince Maurice](https://blog.constancehotels.com/influencer-diary-indias-heavenly-escapade-to-constance-prince-maurice/?utm_source=rss&utm_medium=rss&utm_campaign=influencer-diary-indias-heavenly-escapade-to-constance-prince-maurice)**  2024-03-27 07:00:00
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Hayden’s 5th Year](https://davidandjennilyn.com/2024/03/26/haydens-5th-year/)**  2024-03-27 06:01:07
 
 [Rani's Cuisine - Menus](https://raniscuisine.com/blogs/news)  
 **[On Tour in Tamil Nadu](https://raniscuisine.com/blogs/news/on-tour-in-tamil-nadu)**  2024-03-26 09:03:00
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-03-25 14:16:58
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Bricks Cascade 2024](https://davidandjennilyn.com/2024/03/24/bricks-cascade-2024/)**  2024-03-25 02:26:26
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Planning & Schedule](https://vintishgokool.blogspot.com/2024/03/planning-schedule.html)**  2024-03-22 20:43:49
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Frantz Fanon, iconic freedom fighter: “What we want is to move forward all the time, night and day, in the company of man, all men”](https://zoomdr.blogspot.com/2024/03/frantz-fanon-iconic-freedom-fighter.html)**  2024-03-19 08:10:15
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[10 Ocean Adventures in Mauritius & the Maldives](https://blog.constancehotels.com/10-ocean-adventures-in-mauritius-the-maldives/?utm_source=rss&utm_medium=rss&utm_campaign=10-ocean-adventures-in-mauritius-the-maldives)**  2024-03-18 07:00:00
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Better with Age](https://swanlady-impressions.blogspot.com/2024/03/better-with-age.html)**  2024-03-13 12:57:26
