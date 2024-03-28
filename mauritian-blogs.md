@@ -4,14 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Anu Tiek En Palab Ki Abitie Fer Lor FPTP](http://kozelidir.blogspot.com/2024/03/anu-tiek-en-palab-ki-abitie-fer-lor-fptp.html)**  2024-03-27 16:58:51
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Lewis River Dixie and Battle Ground Community Band](https://davidandjennilyn.com/2024/03/27/lewis-river-dixie-and-battle-ground-community-band/)**  2024-03-27 15:18:11
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Offshore : SEDECO peut vous aider !](https://sedecobtob.blogspot.com/2024/03/offshore-sedeco-peut-vous-aider.html)**  2024-03-27 13:42:20
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[E-invoicing in Mauritius for Businesses: Adapt or Perish?](https://www.lemauricien.com/le-mauricien/e-invoicing-in-mauritius-for-businesses-adapt-or-perish/628848/)**  2024-03-27 11:02:55
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Influencer Diary: India’s Heavenly Escapade to Constance Prince Maurice](https://blog.constancehotels.com/influencer-diary-indias-heavenly-escapade-to-constance-prince-maurice/?utm_source=rss&utm_medium=rss&utm_campaign=influencer-diary-indias-heavenly-escapade-to-constance-prince-maurice)**  2024-03-27 07:00:00
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Hayden’s 5th Year](https://davidandjennilyn.com/2024/03/26/haydens-5th-year/)**  2024-03-27 06:01:07
 
 [Rani's Cuisine - Menus](https://raniscuisine.com/blogs/news)  
 **[On Tour in Tamil Nadu](https://raniscuisine.com/blogs/news/on-tour-in-tamil-nadu)**  2024-03-26 09:03:00
@@ -36,12 +42,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Better with Age](https://swanlady-impressions.blogspot.com/2024/03/better-with-age.html)**  2024-03-13 12:57:26
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Services offshore : optez pour SEDECO](https://sedecobtob.blogspot.com/2024/03/services-offshore-optez-pour-sedeco.html)**  2024-03-05 17:15:12
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[The Jag! After 2016](http://kozelidir.blogspot.com/2024/02/the-jag-after-2016.html)**  2024-02-28 17:04:14
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[New Arrivals](https://kabilen.tumblr.com/post/743520060080095232)**  2024-02-27 23:19:45
