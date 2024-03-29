@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[La Passion de Jésus en compagnie de Francis Jammes et Georges Brassens](https://www.lemauricien.com/le-mauricien/la-passion-de-jesus-en-compagnie-de-francis-jammes-et-georges-brassens/629040/)**  2024-03-28 12:00:54
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Anu Tiek En Palab Ki Abitie Fer Lor FPTP](http://kozelidir.blogspot.com/2024/03/anu-tiek-en-palab-ki-abitie-fer-lor-fptp.html)**  2024-03-27 16:58:51
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Offshore : SEDECO peut vous aider !](https://sedecobtob.blogspot.com/2024/03/offshore-sedeco-peut-vous-aider.html)**  2024-03-27 13:42:20
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[E-invoicing in Mauritius for Businesses: Adapt or Perish?](https://www.lemauricien.com/le-mauricien/e-invoicing-in-mauritius-for-businesses-adapt-or-perish/628848/)**  2024-03-27 11:02:55
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Influencer Diary: India’s Heavenly Escapade to Constance Prince Maurice](https://blog.constancehotels.com/influencer-diary-indias-heavenly-escapade-to-constance-prince-maurice/?utm_source=rss&utm_medium=rss&utm_campaign=influencer-diary-indias-heavenly-escapade-to-constance-prince-maurice)**  2024-03-27 07:00:00
@@ -132,8 +132,5 @@ permalink: /mauritian-blogs/
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Comment l'IA (Intelligence Artificielle) peut contribuer à aligner l'Intelligence Humaine (IH) sur une vision du Dieu Unique.](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle_31.html)**  2023-06-01 06:59:20
-
-[Green Mauritius](https://greenmauritius.blogspot.com/)  
-**[Financement de la transition écologique à Maurice par la MCB](https://greenmauritius.blogspot.com/2023/04/financement-de-la-transition-ecologique.html)**  2023-04-28 06:37:01
 
 <div style="height:0;width:0;overflow:hidden;"></div>
