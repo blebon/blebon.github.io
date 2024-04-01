@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Easter photoblogging: Port Louis](https://priscimon.com/blog/2024/03/31/easter-photoblogging-port-louis/)**  2024-03-31 18:41:36
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[ANOU KOZ PAROL NO 149 : Gro-plan lor Kour fondasion Kreol Rodrige](https://www.lemauricien.com/le-mauricien/anou-koz-parol-no-149-gro-plan-lor-kour-fondasion-kreol-rodrige/629241/)**  2024-03-30 10:10:02
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Is Traditional marketing still relevant for Startups in 2024 ?](https://turbine.mu/blog/2024/03/22/is-traditional-marketing-still-relevant-for-startups-in-2024/)**  2024-03-22 04:03:04
-
-[priscimon.com](https://priscimon.com/blog)  
-**[How hard could it be?](https://priscimon.com/blog/2024/03/21/how-hard-could-it-be/)**  2024-03-21 06:42:01
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Frantz Fanon, iconic freedom fighter: “What we want is to move forward all the time, night and day, in the company of man, all men”](https://zoomdr.blogspot.com/2024/03/frantz-fanon-iconic-freedom-fighter.html)**  2024-03-19 08:10:15
