@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-04 09:58:10
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[L’aspect spirituel du ramadan](https://www.lemauricien.com/le-mauricien/laspect-spirituel-du-ramadan/629743/)**  2024-04-03 13:01:56
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[1788](http://gadatagada-portfolio.blogspot.com/2024/03/1788.html)**  2024-03-26 06:56:27
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-03-25 14:16:58
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Planning & Schedule](https://vintishgokool.blogspot.com/2024/03/planning-schedule.html)**  2024-03-22 20:43:49
