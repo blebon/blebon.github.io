@@ -5,10 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
-**[Featured](https://kabilen.tumblr.com/post/746879884036554752)**  2024-04-05 02:22:42
+**[Mugicha NTU Ride](https://kabilen.tumblr.com/post/746968844699058176)**  2024-04-06 01:56:42
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Georges : un héros Créole](https://www.lemauricien.com/le-mauricien/georges-un-heros-creole/629811/)**  2024-04-04 14:00:27
+**[UGADI or YUGADI](https://www.lemauricien.com/le-mauricien/ugadi-or-yugadi/629943/)**  2024-04-05 12:02:53
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-04 09:58:10
