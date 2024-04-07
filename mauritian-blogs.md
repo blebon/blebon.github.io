@@ -5,10 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
-**[Mugicha NTU Ride](https://kabilen.tumblr.com/post/746968844699058176)**  2024-04-06 01:56:42
+**[Bruno Mars after party @Marquee](https://kabilen.tumblr.com/post/747033738362355713)**  2024-04-06 19:08:09
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[UGADI or YUGADI](https://www.lemauricien.com/le-mauricien/ugadi-or-yugadi/629943/)**  2024-04-05 12:02:53
+**[In the Name of Allah, the Most Gracious, the Most Merciful – RAMADAN, LAYLA-TUL-QADR & EID-UL-FITR : The Blessings Of A Lifetime](https://www.lemauricien.com/le-mauricien/in-the-name-of-allah-the-most-gracious-the-most-merciful-ramadan-layla-tul-qadr-eid-ul-fitr-the-blessings-of-a-lifetime/630099/)**  2024-04-06 13:01:46
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-04 09:58:10
