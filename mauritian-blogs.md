@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Nature’s Therapy in the Indian Ocean for Stress Awareness Month](https://blog.constancehotels.com/natures-therapy-in-the-indian-ocean-for-stress-awareness-month/)**  2024-04-08 08:00:00
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Bruno Mars after party @Marquee](https://kabilen.tumblr.com/post/747033738362355713)**  2024-04-06 19:08:09
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Offshore : SEDECO peut vous aider !](https://sedecobtob.blogspot.com/2024/03/offshore-sedeco-peut-vous-aider.html)**  2024-03-27 13:42:20
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Influencer Diary: India’s Heavenly Escapade to Constance Prince Maurice](https://blog.constancehotels.com/influencer-diary-indias-heavenly-escapade-to-constance-prince-maurice/)**  2024-03-27 07:00:00
 
 [Rani's Cuisine - Menus](https://raniscuisine.com/blogs/news)  
 **[On Tour in Tamil Nadu](https://raniscuisine.com/blogs/news/on-tour-in-tamil-nadu)**  2024-03-26 09:03:00
