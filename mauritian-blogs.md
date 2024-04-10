@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Little Anantasin](https://littleanantasin.wordpress.com)  
+**[The Philippines 2024](https://littleanantasin.wordpress.com/2024/04/10/the-philippines-2024/)**  2024-04-10 05:58:28
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Jealousy on higer-being](https://vintishgokool.blogspot.com/2024/04/jealousy-on-higer-being.html)**  2024-04-09 15:55:29
 
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[#Dealmaker, du nouveau chez Gibson & Hills](https://relocationmauritius.wordpress.com/2024/02/20/dealmaker-du-nouveau-chez-gibson-hills/)**  2024-02-20 08:05:21
-
-[Little Anantasin](https://littleanantasin.wordpress.com)  
-**[Rocklyn Ashram, Victoria](https://littleanantasin.wordpress.com/2024/01/28/rocklyn-ashram-victoria/)**  2024-01-28 01:24:40
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Hibiscus Orange Jam Recipe](https://veganlovlie.com/hibiscus-orange-jam-recipe/)**  2024-01-26 02:36:19
