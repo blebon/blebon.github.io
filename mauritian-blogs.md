@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Jealousy on higer-being](https://vintishgokool.blogspot.com/2024/04/jealousy-on-higer-being.html)**  2024-04-09 15:55:29
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Inspiration : Aux pays des Jeux Olympiques, jouons à la philatélie*](https://www.lemauricien.com/le-mauricien/inspiration-aux-pays-des-jeux-olympiques-jouons-a-la-philatelie/630282/)**  2024-04-08 12:32:45
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[1788](http://gadatagada-portfolio.blogspot.com/2024/03/1788.html)**  2024-03-26 06:56:27
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Planning & Schedule](https://vintishgokool.blogspot.com/2024/03/planning-schedule.html)**  2024-03-22 20:43:49
 
 [turbine.mu](https://turbine.mu)  
 **[Is Traditional marketing still relevant for Startups in 2024 ?](https://turbine.mu/blog/2024/03/22/is-traditional-marketing-still-relevant-for-startups-in-2024/)**  2024-03-22 04:03:04
