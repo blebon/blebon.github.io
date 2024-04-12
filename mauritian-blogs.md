@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rani's Cuisine - Menus](https://raniscuisine.com/blogs/news)  
+**[Theyyam: The dance where men embody gods.](https://raniscuisine.com/blogs/news/theyyam-the-dance-where-men-embody-gods)**  2024-04-11 14:24:24
+
+[NHQ Gallery](https://nhq12.blogspot.com/)  
+**[NHQ Gallery](https://nhq12.blogspot.com/2012/12/nhq-2012.html)**  2024-04-11 14:20:17
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Jealousy on Divine & Higher-Being](https://vintishgokool.blogspot.com/2024/04/jealousy-on-higer-being.html)**  2024-04-10 20:15:52
 
@@ -33,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Offshore : SEDECO peut vous aider !](https://sedecobtob.blogspot.com/2024/03/offshore-sedeco-peut-vous-aider.html)**  2024-03-27 13:42:20
-
-[Rani's Cuisine - Menus](https://raniscuisine.com/blogs/news)  
-**[On Tour in Tamil Nadu](https://raniscuisine.com/blogs/news/on-tour-in-tamil-nadu)**  2024-03-26 09:03:00
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[1788](http://gadatagada-portfolio.blogspot.com/2024/03/1788.html)**  2024-03-26 06:56:27
