@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Saigontex 2024](https://kabilen.tumblr.com/post/747622189955760128)**  2024-04-13 07:01:20
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Jealousy on Divine & Higher-Being](https://vintishgokool.blogspot.com/2024/04/jealousy-on-higer-being.html)**  2024-04-12 15:31:03
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Nature’s Therapy in the Indian Ocean for Stress Awareness Month](https://blog.constancehotels.com/natures-therapy-in-the-indian-ocean-for-stress-awareness-month/)**  2024-04-08 08:00:00
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Bruno Mars after party @Marquee](https://kabilen.tumblr.com/post/747033738362355713)**  2024-04-06 19:08:09
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-04 09:58:10
