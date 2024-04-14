@@ -22,6 +22,9 @@ permalink: /mauritian-blogs/
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[The Philippines 2024](https://littleanantasin.wordpress.com/2024/04/10/the-philippines-2024/)**  2024-04-10 05:58:28
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Kozelidir Person of the Year 2024](http://kozelidir.blogspot.com/2024/04/kozelidir-person-of-year-2024.html)**  2024-04-09 15:01:59
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Nature’s Therapy in the Indian Ocean for Stress Awareness Month](https://blog.constancehotels.com/natures-therapy-in-the-indian-ocean-for-stress-awareness-month/)**  2024-04-08 08:00:00
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Easter photoblogging: Port Louis](https://priscimon.com/blog/2024/03/31/easter-photoblogging-port-louis/)**  2024-03-31 18:41:36
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Anu Tiek En Palab Ki Abitie Fer Lor FPTP](http://kozelidir.blogspot.com/2024/03/anu-tiek-en-palab-ki-abitie-fer-lor-fptp.html)**  2024-03-27 16:58:51
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Offshore : SEDECO peut vous aider !](https://sedecobtob.blogspot.com/2024/03/offshore-sedeco-peut-vous-aider.html)**  2024-03-27 13:42:20
