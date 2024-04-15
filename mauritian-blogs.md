@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-15 11:08:52
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[ANOU KOZ PAROL NO 150 — Kreol Rodrige dan domenn profesionel : Gro plan lor Kour Administrasion ek Kominikasion](https://www.lemauricien.com/le-mauricien/anou-koz-parol-no-150-kreol-rodrige-dan-domenn-profesionel-gro-plan-lor-kour-administrasion-ek-kominikasion/630799/)**  2024-04-13 13:00:06
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Nature’s Therapy in the Indian Ocean for Stress Awareness Month](https://blog.constancehotels.com/natures-therapy-in-the-indian-ocean-for-stress-awareness-month/)**  2024-04-08 08:00:00
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-04 09:58:10
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Marrying Jenni in Stardew Valley](https://davidandjennilyn.com/2024/04/01/marrying-jenni-in-stardew-valley/)**  2024-04-02 03:10:12
