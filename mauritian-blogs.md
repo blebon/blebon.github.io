@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[The Jag!](https://morisk.blogspot.com/)  
-**[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-15 11:08:52
+[My life](https://myanonymouslife24.blogspot.com/)  
+**[2 more years lol](https://myanonymouslife24.blogspot.com/2024/04/2-more-years-lol.html)**  2024-04-15 13:48:09
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ANOU KOZ PAROL NO 150 — Kreol Rodrige dan domenn profesionel : Gro plan lor Kour Administrasion ek Kominikasion](https://www.lemauricien.com/le-mauricien/anou-koz-parol-no-150-kreol-rodrige-dan-domenn-profesionel-gro-plan-lor-kour-administrasion-ek-kominikasion/630799/)**  2024-04-13 13:00:06
+**[Sri Sockalingum Meenatchee Ammen Kovil : À la mémoire du swami Balasubramania  Nadharajaiyer Sarma](https://www.lemauricien.com/le-mauricien/sri-sockalingum-meenatchee-ammen-kovil-a-la-memoire-du-swami-balasubramania-nadharajaiyer-sarma/631076/)**  2024-04-15 12:01:35
+
+[The Jag!](https://morisk.blogspot.com/)  
+**[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-15 11:08:52
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Saigontex 2024](https://kabilen.tumblr.com/post/747622189955760128)**  2024-04-13 07:01:20
