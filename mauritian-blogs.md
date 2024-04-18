@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
+**[Learn more about our updated Terms of Service](https://shruticulturalgroup.blogspot.com/2024/04/learn-more-about-our-updated-terms-of.html)**  2024-04-17 22:18:57
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[INTERNATIONAL VOLUNTEERING IN SPORTS   –  The Greatest Show on Earth – And Making it Happen!](https://www.lemauricien.com/le-mauricien/international-volunteering-in-sports-the-greatest-show-on-earth-and-making-it-happen/631181/)**  2024-04-16 14:00:12
+**[Should Trade Unions be granted  the Exclusive Right to Labour Disputes?](https://www.lemauricien.com/le-mauricien/should-trade-unions-be-granted-the-exclusive-right-to-labour-disputes/631369/)**  2024-04-17 13:00:31
 
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[2 more years lol](https://myanonymouslife24.blogspot.com/2024/04/2-more-years-lol.html)**  2024-04-15 13:48:09
@@ -69,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Hibiscus Orange Jam Recipe](https://veganlovlie.com/hibiscus-orange-jam-recipe/)**  2024-01-26 02:36:19
-
-[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
-**[Don't Miss Out On Messages - ﻿InternationalCupid﻿ Membership Has Expired!](https://shruticulturalgroup.blogspot.com/2024/01/dont-miss-out-on-messages.html)**  2024-01-10 06:22:01
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Silence, on exécute à Gaza!](https://jeanmeedesveaux.blogspot.com/2023/12/silence-on-tue-gaza.html)**  2023-12-28 12:08:58
