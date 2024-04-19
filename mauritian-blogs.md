@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[General Elections 2024 : Political leaders can and must field more women candidates](https://www.lemauricien.com/le-mauricien/general-elections-2024-political-leaders-can-and-must-field-more-women-candidates/631483/)**  2024-04-18 12:01:00
+
+[Mike Sinnott's World](https://msinnott.net)  
+**[WARD 2024](https://msinnott.net/2024/04/18/ward-2024/)**  2024-04-18 11:44:03
+
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Learn more about our updated Terms of Service](https://shruticulturalgroup.blogspot.com/2024/04/learn-more-about-our-updated-terms-of.html)**  2024-04-17 22:18:57
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Should Trade Unions be granted  the Exclusive Right to Labour Disputes?](https://www.lemauricien.com/le-mauricien/should-trade-unions-be-granted-the-exclusive-right-to-labour-disputes/631369/)**  2024-04-17 13:00:31
 
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[2 more years lol](https://myanonymouslife24.blogspot.com/2024/04/2-more-years-lol.html)**  2024-04-15 13:48:09
@@ -87,9 +90,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Judicial Committee of the Privy Council (JCPC) : Surendra Dayal (Appellant) v Pravind Kumar Jugnauth and 7 others (Respondents) (Mauritius)](https://amarbheenick.blogspot.com/2023/10/judicial-committee-of-privy-council.html)**  2023-10-16 12:10:58
-
-[Mike Sinnott's World](https://msinnott.net)  
-**[Rare Contacts](https://msinnott.net/2023/10/14/rare-contacts/)**  2023-10-14 10:25:15
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Magsafe Accessories : PopSockets Wallet+ and PopGrips review](https://yashvinblogs.com/2023/10/11/magsafe-popsockets-wallet-popgrips/)**  2023-10-11 18:18:01
