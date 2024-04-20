@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[General Elections 2024 : Political leaders can and must field more women candidates](https://www.lemauricien.com/le-mauricien/general-elections-2024-political-leaders-can-and-must-field-more-women-candidates/631483/)**  2024-04-18 12:01:00
+**[Développement pharmaceutique : Ces neuf leviers de croissance pour booster l’industrie](https://www.lemauricien.com/le-mauricien/developpement-pharmaceutique-ces-neuf-leviers-de-croissance-pour-booster-lindustrie/631616/)**  2024-04-19 13:00:32
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Embracing Nature’s Splendour in the Seychelles](https://blog.constancehotels.com/embracing-natures-splendour-in-the-seychelles/)**  2024-04-19 08:00:00
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[WARD 2024](https://msinnott.net/2024/04/18/ward-2024/)**  2024-04-18 11:44:03
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Kozelidir Person of the Year 2024](http://kozelidir.blogspot.com/2024/04/kozelidir-person-of-year-2024.html)**  2024-04-09 15:01:59
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Nature’s Therapy in the Indian Ocean for Stress Awareness Month](https://blog.constancehotels.com/natures-therapy-in-the-indian-ocean-for-stress-awareness-month/)**  2024-04-08 08:00:00
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Marrying Jenni in Stardew Valley](https://davidandjennilyn.com/2024/04/01/marrying-jenni-in-stardew-valley/)**  2024-04-02 03:10:12
