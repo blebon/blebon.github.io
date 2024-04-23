@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[RAM NAVMI](https://www.lemauricien.com/le-mauricien/ram-navmi/631941/)**  2024-04-22 12:02:13
+
 [The Jag!](https://morisk.blogspot.com/)  
 **[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-21 12:27:19
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Développement pharmaceutique : Ces neuf leviers de croissance pour booster l’industrie](https://www.lemauricien.com/le-mauricien/developpement-pharmaceutique-ces-neuf-leviers-de-croissance-pour-booster-lindustrie/631616/)**  2024-04-19 13:00:32
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Embracing Nature’s Splendour in the Seychelles](https://blog.constancehotels.com/embracing-natures-splendour-in-the-seychelles/)**  2024-04-19 08:00:00
