@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[RAM NAVMI](https://www.lemauricien.com/le-mauricien/ram-navmi/631941/)**  2024-04-22 12:02:13
+**[Environment Bill and the inclusion of Strategic Environment Assessment in the Bill](https://www.lemauricien.com/le-mauricien/environment-bill-and-the-inclusion-of-strategic-environment-assessment-in-the-bill/632157/)**  2024-04-23 12:02:56
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Crime among the expatriate community](https://relocationmauritius.wordpress.com/2024/04/23/crime-among-the-expatriate-community/)**  2024-04-23 11:57:27
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-21 12:27:19
@@ -69,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Ciclone Eleanor (Zimbabwe)](https://mauritiuslapassionesisente.blogspot.com/2024/02/eleanor-zimbabwe.html)**  2024-02-20 16:39:23
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[#Dealmaker, du nouveau chez Gibson & Hills](https://relocationmauritius.wordpress.com/2024/02/20/dealmaker-du-nouveau-chez-gibson-hills/)**  2024-02-20 08:05:21
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Hibiscus Orange Jam Recipe](https://veganlovlie.com/hibiscus-orange-jam-recipe/)**  2024-01-26 02:36:19
