@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Top Instagram-Worthy Nature Spots at Constance Hotels & Resorts](https://blog.constancehotels.com/top-instagram-worthy-nature-spots-at-constance-hotels-resorts/)**  2024-04-24 08:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Environment Bill and the inclusion of Strategic Environment Assessment in the Bill](https://www.lemauricien.com/le-mauricien/environment-bill-and-the-inclusion-of-strategic-environment-assessment-in-the-bill/632157/)**  2024-04-23 12:02:56
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-21 12:27:19
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Embracing Nature’s Splendour in the Seychelles](https://blog.constancehotels.com/embracing-natures-splendour-in-the-seychelles/)**  2024-04-19 08:00:00
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[WARD 2024](https://msinnott.net/2024/04/18/ward-2024/)**  2024-04-18 11:44:03
