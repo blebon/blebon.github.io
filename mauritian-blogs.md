@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Azize Asgarally – dramaturge mauricien anglophone : du théâtre bourgeois au théâtre politique](https://www.lemauricien.com/le-mauricien/azize-asgarally-dramaturge-mauricien-anglophone-du-theatre-bourgeois-au-theatre-politique/632274/)**  2024-04-24 14:00:02
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Top Instagram-Worthy Nature Spots at Constance Hotels & Resorts](https://blog.constancehotels.com/top-instagram-worthy-nature-spots-at-constance-hotels-resorts/)**  2024-04-24 08:00:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Environment Bill and the inclusion of Strategic Environment Assessment in the Bill](https://www.lemauricien.com/le-mauricien/environment-bill-and-the-inclusion-of-strategic-environment-assessment-in-the-bill/632157/)**  2024-04-23 12:02:56
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Crime among the expatriate community](https://relocationmauritius.wordpress.com/2024/04/23/crime-among-the-expatriate-community/)**  2024-04-23 11:57:27
