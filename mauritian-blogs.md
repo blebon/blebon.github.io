@@ -7,6 +7,9 @@ permalink: /mauritian-blogs/
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Azize Asgarally – dramaturge mauricien anglophone : du théâtre bourgeois au théâtre politique](https://www.lemauricien.com/le-mauricien/azize-asgarally-dramaturge-mauricien-anglophone-du-theatre-bourgeois-au-theatre-politique/632274/)**  2024-04-24 14:00:02
 
+[English Speaking Union](https://www.esumauritius.org)  
+**[Book Launch by ESU Member](https://www.esumauritius.org/news/book-launch-by-esu-member/)**  2024-04-24 10:33:44
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Top Instagram-Worthy Nature Spots at Constance Hotels & Resorts](https://blog.constancehotels.com/top-instagram-worthy-nature-spots-at-constance-hotels-resorts/)**  2024-04-24 08:00:00
 
@@ -126,9 +129,6 @@ permalink: /mauritian-blogs/
 
 [Equator Lounge](https://equatorlounge.blogspot.com/)  
 **[Windows 10 - difference between product key and license key](https://equatorlounge.blogspot.com/2023/06/windows-10-difference-between-product.html)**  2023-06-29 07:01:45
-
-[English Speaking Union](https://www.esumauritius.org)  
-**[ESU National Spelling Bee Competition Finals 2023](https://www.esumauritius.org/national-spelling-bee-competition/finals-2023/)**  2023-06-19 08:24:33
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[A systemic knot](https://tchombo.blogspot.com/2023/06/a-systemic-knot.html)**  2023-06-15 17:39:58
