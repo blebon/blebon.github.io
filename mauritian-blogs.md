@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Le Jardin de la Compagnie: Resurrecting the Past](https://www.lemauricien.com/le-mauricien/le-jardin-de-la-compagnie-resurrecting-the-past/632404/)**  2024-04-25 12:01:58
+**[Landmark Events in the  Early Mauritian Labour Movement](https://www.lemauricien.com/le-mauricien/landmark-events-in-the-early-mauritian-labour-movement/632488/)**  2024-04-26 14:00:57
 
 [English Speaking Union](https://www.esumauritius.org)  
 **[Book Launch by ESU Member](https://www.esumauritius.org/news/book-launch-by-esu-member/)**  2024-04-24 10:33:44
