@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-28 08:06:37
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Le Père Arthé : « l’expérience interculturelle est toujours unique dans chaque couple mixte »](https://www.lemauricien.com/le-mauricien/le-pere-arthe-lexperience-interculturelle-est-toujours-unique-dans-chaque-couple-mixte/632615/)**  2024-04-27 12:01:05
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Crime among the expatriate community](https://relocationmauritius.wordpress.com/2024/04/23/crime-among-the-expatriate-community/)**  2024-04-23 11:57:27
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-21 12:27:19
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[WARD 2024](https://msinnott.net/2024/04/18/ward-2024/)**  2024-04-18 11:44:03
