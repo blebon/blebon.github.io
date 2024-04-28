@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Landmark Events in the  Early Mauritian Labour Movement](https://www.lemauricien.com/le-mauricien/landmark-events-in-the-early-mauritian-labour-movement/632488/)**  2024-04-26 14:00:57
+**[Le Père Arthé : « l’expérience interculturelle est toujours unique dans chaque couple mixte »](https://www.lemauricien.com/le-mauricien/le-pere-arthe-lexperience-interculturelle-est-toujours-unique-dans-chaque-couple-mixte/632615/)**  2024-04-27 12:01:05
 
 [English Speaking Union](https://www.esumauritius.org)  
 **[Book Launch by ESU Member](https://www.esumauritius.org/news/book-launch-by-esu-member/)**  2024-04-24 10:33:44
