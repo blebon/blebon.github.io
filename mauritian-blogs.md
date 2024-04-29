@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Happily Nineteen Years After](https://davidandjennilyn.com/2024/04/28/happily-nineteen-years-after/)**  2024-04-28 21:15:52
+
+[Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
+**[Talk on “Unlocking Operational Excellence: The Transformative Power of BPMN Tools”](https://lovvy.wordpress.com/2024/04/28/talk-on-unlocking-operational-excellence-the-transformative-power-of-bpmn-tools/)**  2024-04-28 19:34:21
+
 [The Jag!](https://morisk.blogspot.com/)  
 **[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-28 08:06:37
 
@@ -45,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Kozelidir Person of the Year 2024](http://kozelidir.blogspot.com/2024/04/kozelidir-person-of-year-2024.html)**  2024-04-09 15:01:59
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Marrying Jenni in Stardew Valley](https://davidandjennilyn.com/2024/04/01/marrying-jenni-in-stardew-valley/)**  2024-04-02 03:10:12
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Easter photoblogging: Port Louis](https://priscimon.com/blog/2024/03/31/easter-photoblogging-port-louis/)**  2024-03-31 18:41:36
@@ -114,9 +117,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Speaking at DevCon 2023: E-commerce Chatbot in Creole](https://nayarweb.com/blog/2023/speaking-at-devcon-2023-e-commerce-chatbot-in-creole/)**  2023-07-28 09:36:10
-
-[Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
-**[Java program to find the first non-repeating character in a string](https://lovvy.wordpress.com/2023/07/17/java-program-to-find-the-first-non-repeating-character-in-a-string/)**  2023-07-17 13:01:16
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[When old meets new](http://gadatagada.blogspot.com/2023/07/when-old-meets-new.html)**  2023-07-15 12:35:04
