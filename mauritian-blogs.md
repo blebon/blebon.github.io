@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[ENA SIME SORTI – BREATHEFREE 2.0 : Votre nouveau plan pour  vous libérer de la cigarette](https://www.lemauricien.com/le-mauricien/ena-sime-sorti-breathefree-2-0-votre-nouveau-plan-pour-vous-liberer-de-la-cigarette/632824/)**  2024-04-29 16:01:59
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happily Nineteen Years After](https://davidandjennilyn.com/2024/04/28/happily-nineteen-years-after/)**  2024-04-28 21:15:52
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-28 08:06:37
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Le Père Arthé : « l’expérience interculturelle est toujours unique dans chaque couple mixte »](https://www.lemauricien.com/le-mauricien/le-pere-arthe-lexperience-interculturelle-est-toujours-unique-dans-chaque-couple-mixte/632615/)**  2024-04-27 12:01:05
 
 [English Speaking Union](https://www.esumauritius.org)  
 **[Book Launch by ESU Member](https://www.esumauritius.org/news/book-launch-by-esu-member/)**  2024-04-24 10:33:44
