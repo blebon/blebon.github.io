@@ -136,7 +136,4 @@ permalink: /mauritian-blogs/
 [School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
 **[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-06-05 06:33:23
 
-[Leclézio](https://lleclezio.blogspot.com/)  
-**[Comment l'IA (Intelligence Artificielle) peut contribuer à aligner l'Intelligence Humaine (IH) sur une vision du Dieu Unique.](https://lleclezio.blogspot.com/2023/05/comment-lia-intelligence-artificielle_31.html)**  2023-06-01 06:59:20
-
 <div style="height:0;width:0;overflow:hidden;"></div>
