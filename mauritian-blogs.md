@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-02 18:00:32
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Contenu digital : une stratégie impactantee avec SEDECO](https://sedecobtob.blogspot.com/2024/05/contenu-digital-une-strategie.html)**  2024-05-02 15:45:33
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[ENA SIME SORTI – BREATHEFREE 2.0 : Votre nouveau plan pour  vous libérer de la cigarette](https://www.lemauricien.com/le-mauricien/ena-sime-sorti-breathefree-2-0-votre-nouveau-plan-pour-vous-liberer-de-la-cigarette/632824/)**  2024-04-29 16:01:59
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Talk on “Unlocking Operational Excellence: The Transformative Power of BPMN Tools”](https://lovvy.wordpress.com/2024/04/28/talk-on-unlocking-operational-excellence-the-transformative-power-of-bpmn-tools/)**  2024-04-28 19:34:21
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Subron Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/03/subron-statements-that-dont-survive.html)**  2024-04-28 08:06:37
 
 [English Speaking Union](https://www.esumauritius.org)  
 **[Book Launch by ESU Member](https://www.esumauritius.org/news/book-launch-by-esu-member/)**  2024-04-24 10:33:44
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Easter photoblogging: Port Louis](https://priscimon.com/blog/2024/03/31/easter-photoblogging-port-louis/)**  2024-03-31 18:41:36
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Offshore : SEDECO peut vous aider !](https://sedecobtob.blogspot.com/2024/03/offshore-sedeco-peut-vous-aider.html)**  2024-03-27 13:42:20
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[1788](http://gadatagada-portfolio.blogspot.com/2024/03/1788.html)**  2024-03-26 06:56:27
