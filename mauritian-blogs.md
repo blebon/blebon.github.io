@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mera Blog](https://nayarweb.com/blog)  
+**[I bought a Macbook Air M1 in 2023 instead of Asus Zenbook 14 OLED](https://nayarweb.com/blog/2024/i-bought-a-macbook-air-m1-in-2023-instead-of-asus-zenbook-14-oled/)**  2024-05-04 13:49:33
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Julien Gracq](https://www.lemauricien.com/le-mauricien/julien-gracq/633315/)**  2024-05-03 12:06:09
+**[Margaret Thatcher Première Ministre… C’était il y a 45 ans.](https://www.lemauricien.com/le-mauricien/margaret-thatcher-premiere-ministre-cetait-il-y-a-45-ans/633434/)**  2024-05-04 13:01:38
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-02 18:00:32
@@ -114,9 +117,6 @@ permalink: /mauritian-blogs/
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[A Day in the Life of a VMware Administrator](https://savourthemomentattechie.blogspot.com/2023/08/a-day-in-life-of-vmware-administrator.html)**  2023-08-12 04:20:14
-
-[Mera Blog](https://nayarweb.com/blog)  
-**[Speaking at DevCon 2023: E-commerce Chatbot in Creole](https://nayarweb.com/blog/2023/speaking-at-devcon-2023-e-commerce-chatbot-in-creole/)**  2023-07-28 09:36:10
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[When old meets new](http://gadatagada.blogspot.com/2023/07/when-old-meets-new.html)**  2023-07-15 12:35:04
