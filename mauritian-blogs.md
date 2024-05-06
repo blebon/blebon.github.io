@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Laparans](https://priscimon.com/blog/2024/05/05/laparans/)**  2024-05-05 11:43:20
+
 [Mera Blog](https://nayarweb.com/blog)  
 **[I bought a Macbook Air M1 in 2023 instead of Asus Zenbook 14 OLED](https://nayarweb.com/blog/2024/i-bought-a-macbook-air-m1-in-2023-instead-of-asus-zenbook-14-oled/)**  2024-05-04 13:49:33
 
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Kozelidir Person of the Year 2024](http://kozelidir.blogspot.com/2024/04/kozelidir-person-of-year-2024.html)**  2024-04-09 15:01:59
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Easter photoblogging: Port Louis](https://priscimon.com/blog/2024/03/31/easter-photoblogging-port-louis/)**  2024-03-31 18:41:36
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[1788](http://gadatagada-portfolio.blogspot.com/2024/03/1788.html)**  2024-03-26 06:56:27
