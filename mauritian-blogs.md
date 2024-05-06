@@ -133,7 +133,4 @@ permalink: /mauritian-blogs/
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[A systemic knot](https://tchombo.blogspot.com/2023/06/a-systemic-knot.html)**  2023-06-15 17:39:58
 
-[School education and assessment in a developing country: Issues and challenges](https://vhunma.blogspot.com/)  
-**[My Language ∝ My Science](https://vhunma.blogspot.com/2023/05/my-language-my-science.html)**  2023-06-05 06:33:23
-
 <div style="height:0;width:0;overflow:hidden;"></div>
