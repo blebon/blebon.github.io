@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Le choix de la Vie jusqu’au Bout](https://www.lemauricien.com/le-mauricien/le-choix-de-la-vie-jusquau-bout/633673/)**  2024-05-06 12:02:42
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Laparans](https://priscimon.com/blog/2024/05/05/laparans/)**  2024-05-05 11:43:20
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[I bought a Macbook Air M1 in 2023 instead of Asus Zenbook 14 OLED](https://nayarweb.com/blog/2024/i-bought-a-macbook-air-m1-in-2023-instead-of-asus-zenbook-14-oled/)**  2024-05-04 13:49:33
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Margaret Thatcher Première Ministre… C’était il y a 45 ans.](https://www.lemauricien.com/le-mauricien/margaret-thatcher-premiere-ministre-cetait-il-y-a-45-ans/633434/)**  2024-05-04 13:01:38
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-02 18:00:32
