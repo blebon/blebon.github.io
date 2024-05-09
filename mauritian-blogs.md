@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Rabindranath Tagore: a millennium in himself](https://www.lemauricien.com/le-mauricien/rabindranath-tagore-a-millennium-in-himself/633780/)**  2024-05-07 14:00:56
+**[Décryptage du séjour de Stéphane Séjourné en Afrique subsaharienne](https://www.lemauricien.com/le-mauricien/decryptage-du-sejour-de-stephane-sejourne-en-afrique-subsaharienne/633920/)**  2024-05-08 12:01:03
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Laparans](https://priscimon.com/blog/2024/05/05/laparans/)**  2024-05-05 11:43:20
@@ -14,7 +14,7 @@ permalink: /mauritian-blogs/
 **[I bought a Macbook Air M1 in 2023 instead of Asus Zenbook 14 OLED](https://nayarweb.com/blog/2024/i-bought-a-macbook-air-m1-in-2023-instead-of-asus-zenbook-14-oled/)**  2024-05-04 13:49:33
 
 [Dave Appadoo](https://daveappadoo.com/)  
-**[Deepfake and is seeing still believing?](https://daveappadoo.com/deepfake-and-is-seeing-still-believing/)**  2024-05-03 12:22:00
+**[Deepfake: is seeing still believing?](https://daveappadoo.com/deepfake-and-is-seeing-still-believing/)**  2024-05-03 12:22:00
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-02 18:00:32
