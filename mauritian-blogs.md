@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[A Wine Lover’s Guide to the Ultimate Retreat at Constance Hotels & Resorts](https://blog.constancehotels.com/a-wine-lovers-guide-to-the-ultimate-retreat-at-constance-hotels-resorts/)**  2024-05-09 08:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Décryptage du séjour de Stéphane Séjourné en Afrique subsaharienne](https://www.lemauricien.com/le-mauricien/decryptage-du-sejour-de-stephane-sejourne-en-afrique-subsaharienne/633920/)**  2024-05-08 12:01:03
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [English Speaking Union](https://www.esumauritius.org)  
 **[Book Launch by ESU Member](https://www.esumauritius.org/news/book-launch-by-esu-member/)**  2024-04-24 10:33:44
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Top Instagram-Worthy Nature Spots at Constance Hotels & Resorts](https://blog.constancehotels.com/top-instagram-worthy-nature-spots-at-constance-hotels-resorts/)**  2024-04-24 08:00:00
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Crime among the expatriate community](https://relocationmauritius.wordpress.com/2024/04/23/crime-among-the-expatriate-community/)**  2024-04-23 11:57:27
