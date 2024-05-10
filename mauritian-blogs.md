@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-09 11:28:05
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Wine Lover’s Guide to the Ultimate Retreat at Constance Hotels & Resorts](https://blog.constancehotels.com/a-wine-lovers-guide-to-the-ultimate-retreat-at-constance-hotels-resorts/)**  2024-05-09 08:00:00
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[Deepfake: is seeing still believing?](https://daveappadoo.com/deepfake-and-is-seeing-still-believing/)**  2024-05-03 12:22:00
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-02 18:00:32
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Contenu digital : une stratégie impactantee avec SEDECO](https://sedecobtob.blogspot.com/2024/05/contenu-digital-une-strategie.html)**  2024-05-02 15:45:33
