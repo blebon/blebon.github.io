@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Taking control of your diabetic destiny](https://www.lemauricien.com/le-mauricien/taking-control-of-your-diabetic-destiny/634028/)**  2024-05-09 14:00:07
+**[Pierre LOTI](https://www.lemauricien.com/le-mauricien/pierre-loti/634128/)**  2024-05-10 14:00:38
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-09 11:28:05
