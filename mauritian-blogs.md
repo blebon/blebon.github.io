@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Jürgen Klopp and the leading of Liverpool](https://zoomdr.blogspot.com/2024/05/jurgen-klopp-and-leading-of-liverpool.html)**  2024-05-11 08:43:57
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Pierre LOTI](https://www.lemauricien.com/le-mauricien/pierre-loti/634128/)**  2024-05-10 14:00:38
 
@@ -69,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Is Traditional marketing still relevant for Startups in 2024 ?](https://turbine.mu/blog/2024/03/22/is-traditional-marketing-still-relevant-for-startups-in-2024/)**  2024-03-22 04:03:04
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Frantz Fanon, iconic freedom fighter: “What we want is to move forward all the time, night and day, in the company of man, all men”](https://zoomdr.blogspot.com/2024/03/frantz-fanon-iconic-freedom-fighter.html)**  2024-03-19 08:10:15
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Better with Age](https://swanlady-impressions.blogspot.com/2024/03/better-with-age.html)**  2024-03-13 12:57:26
