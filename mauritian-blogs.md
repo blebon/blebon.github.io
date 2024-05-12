@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[An analysis of “The Protection and Promotion of the Rights of Persons with Disabilities Bill”](https://www.lemauricien.com/le-mauricien/an-analysis-of-the-protection-and-promotion-of-the-rights-of-persons-with-disabilities-bill/634332/)**  2024-05-11 12:03:15
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Jürgen Klopp and the leading of Liverpool](https://zoomdr.blogspot.com/2024/05/jurgen-klopp-and-leading-of-liverpool.html)**  2024-05-11 08:43:57
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Pierre LOTI](https://www.lemauricien.com/le-mauricien/pierre-loti/634128/)**  2024-05-10 14:00:38
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-09 11:28:05
