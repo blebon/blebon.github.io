@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dave Appadoo](https://daveappadoo.com/)  
+**[Essential Tips for Developing a Retrieval-Augmented Generation (RAG) Chatbot Pipeline](https://daveappadoo.com/things-to-look-out-for-when-building-a-retrieval-augmented-generation-rag-chatbot-pipeline/)**  2024-05-13 15:23:06
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[An analysis of “The Protection and Promotion of the Rights of Persons with Disabilities Bill”](https://www.lemauricien.com/le-mauricien/an-analysis-of-the-protection-and-promotion-of-the-rights-of-persons-with-disabilities-bill/634332/)**  2024-05-11 12:03:15
+**[TRANSPARENCE ET BONNE GOUVERNANCE     Quand la politique bafoue  les règles fondamentales de la démocratie](https://www.lemauricien.com/le-mauricien/transparence-et-bonne-gouvernance-quand-la-politique-bafoue-les-regles-fondamentales-de-la-democratie/634492/)**  2024-05-13 14:00:54
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Jürgen Klopp and the leading of Liverpool](https://zoomdr.blogspot.com/2024/05/jurgen-klopp-and-leading-of-liverpool.html)**  2024-05-11 08:43:57
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[I bought a Macbook Air M1 in 2023 instead of Asus Zenbook 14 OLED](https://nayarweb.com/blog/2024/i-bought-a-macbook-air-m1-in-2023-instead-of-asus-zenbook-14-oled/)**  2024-05-04 13:49:33
-
-[Dave Appadoo](https://daveappadoo.com/)  
-**[Deepfake: is seeing still believing?](https://daveappadoo.com/deepfake-and-is-seeing-still-believing/)**  2024-05-03 12:22:00
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Contenu digital : une stratégie impactantee avec SEDECO](https://sedecobtob.blogspot.com/2024/05/contenu-digital-une-strategie.html)**  2024-05-02 15:45:33
