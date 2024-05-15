@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Slimane à l’Eurovision : célèbre l’amour et la paix](https://www.lemauricien.com/le-mauricien/slimane-a-leurovision-celebre-lamour-et-la-paix/634627/)**  2024-05-14 12:01:08
+
 [Dave Appadoo](https://daveappadoo.com/)  
 **[Essential Tips for Developing a Retrieval-Augmented Generation (RAG) Chatbot Pipeline](https://daveappadoo.com/things-to-look-out-for-when-building-a-retrieval-augmented-generation-rag-chatbot-pipeline/)**  2024-05-13 15:23:06
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[TRANSPARENCE ET BONNE GOUVERNANCE     Quand la politique bafoue  les règles fondamentales de la démocratie](https://www.lemauricien.com/le-mauricien/transparence-et-bonne-gouvernance-quand-la-politique-bafoue-les-regles-fondamentales-de-la-democratie/634492/)**  2024-05-13 14:00:54
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Jürgen Klopp and the leading of Liverpool](https://zoomdr.blogspot.com/2024/05/jurgen-klopp-and-leading-of-liverpool.html)**  2024-05-11 08:43:57
