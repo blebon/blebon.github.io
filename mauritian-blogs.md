@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Slimane à l’Eurovision : célèbre l’amour et la paix](https://www.lemauricien.com/le-mauricien/slimane-a-leurovision-celebre-lamour-et-la-paix/634627/)**  2024-05-14 12:01:08
+**[HORNBEAM DREAMS](https://www.lemauricien.com/le-mauricien/hornbeam-dreams/634763/)**  2024-05-15 13:09:35
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[Essential Tips for Developing a Retrieval-Augmented Generation (RAG) Chatbot Pipeline](https://daveappadoo.com/things-to-look-out-for-when-building-a-retrieval-augmented-generation-rag-chatbot-pipeline/)**  2024-05-13 15:23:06
