@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[SMO : une expertise délocalisée avec SEDECO](https://sedecobtob.blogspot.com/2024/05/smo-une-expertise-delocalisee-avec.html)**  2024-05-16 14:42:22
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[HORNBEAM DREAMS](https://www.lemauricien.com/le-mauricien/hornbeam-dreams/634763/)**  2024-05-15 13:09:35
+**[Ayo Bondie!](https://www.lemauricien.com/le-mauricien/ayo-bondie/634893/)**  2024-05-16 13:00:05
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[Essential Tips for Developing a Retrieval-Augmented Generation (RAG) Chatbot Pipeline](https://daveappadoo.com/things-to-look-out-for-when-building-a-retrieval-augmented-generation-rag-chatbot-pipeline/)**  2024-05-13 15:23:06
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[I bought a Macbook Air M1 in 2023 instead of Asus Zenbook 14 OLED](https://nayarweb.com/blog/2024/i-bought-a-macbook-air-m1-in-2023-instead-of-asus-zenbook-14-oled/)**  2024-05-04 13:49:33
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Contenu digital : une stratégie impactantee avec SEDECO](https://sedecobtob.blogspot.com/2024/05/contenu-digital-une-strategie.html)**  2024-05-02 15:45:33
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happily Nineteen Years After](https://davidandjennilyn.com/2024/04/28/happily-nineteen-years-after/)**  2024-04-28 21:15:52
@@ -132,8 +132,5 @@ permalink: /mauritian-blogs/
 
 [Equator Lounge](https://equatorlounge.blogspot.com/)  
 **[Windows 10 - difference between product key and license key](https://equatorlounge.blogspot.com/2023/06/windows-10-difference-between-product.html)**  2023-06-29 07:01:45
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[A systemic knot](https://tchombo.blogspot.com/2023/06/a-systemic-knot.html)**  2023-06-15 17:39:58
 
 <div style="height:0;width:0;overflow:hidden;"></div>
