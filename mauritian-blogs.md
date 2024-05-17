@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-17 08:38:18
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Five Ways to Celebrate Life’s Milestones at Constance Hotels & Resorts](https://blog.constancehotels.com/five-ways-to-celebrate-lifes-milestones-at-constance-hotels-resorts/)**  2024-05-17 08:00:00
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SMO : une expertise délocalisée avec SEDECO](https://sedecobtob.blogspot.com/2024/05/smo-une-expertise-delocalisee-avec.html)**  2024-05-16 14:42:22
 
@@ -15,12 +21,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Jürgen Klopp and the leading of Liverpool](https://zoomdr.blogspot.com/2024/05/jurgen-klopp-and-leading-of-liverpool.html)**  2024-05-11 08:43:57
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-09 11:28:05
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[A Wine Lover’s Guide to the Ultimate Retreat at Constance Hotels & Resorts](https://blog.constancehotels.com/a-wine-lovers-guide-to-the-ultimate-retreat-at-constance-hotels-resorts/)**  2024-05-09 08:00:00
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Laparans](https://priscimon.com/blog/2024/05/05/laparans/)**  2024-05-05 11:43:20
