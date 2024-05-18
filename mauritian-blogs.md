@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2024/05/apres-avoir-critique-le-capitalisme.html)**  2024-05-17 23:55:02
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Exposition de gravures de Joëlle Rosalie Baya :  Femmes des îles, savoir-faire et traditions](https://www.lemauricien.com/le-mauricien/exposition-de-gravures-de-joelle-rosalie-baya-femmes-des-iles-savoir-faire-et-traditions/634959/)**  2024-05-17 14:00:20
+
 [The Jag!](https://morisk.blogspot.com/)  
 **[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-17 08:38:18
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SMO : une expertise délocalisée avec SEDECO](https://sedecobtob.blogspot.com/2024/05/smo-une-expertise-delocalisee-avec.html)**  2024-05-16 14:42:22
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Ayo Bondie!](https://www.lemauricien.com/le-mauricien/ayo-bondie/634893/)**  2024-05-16 13:00:05
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[Essential Tips for Developing a Retrieval-Augmented Generation (RAG) Chatbot Pipeline](https://daveappadoo.com/things-to-look-out-for-when-building-a-retrieval-augmented-generation-rag-chatbot-pipeline/)**  2024-05-13 15:23:06
