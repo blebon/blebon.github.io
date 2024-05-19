@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2024/05/apres-avoir-critique-le-capitalisme.html)**  2024-05-17 23:55:02
+[priscimon.com](https://priscimon.com/blog)  
+**[Fooling around with artificial lighting](https://priscimon.com/blog/2024/05/18/fooling-around-with-artificial-lighting/)**  2024-05-18 23:32:04
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Exposition de gravures de Joëlle Rosalie Baya :  Femmes des îles, savoir-faire et traditions](https://www.lemauricien.com/le-mauricien/exposition-de-gravures-de-joelle-rosalie-baya-femmes-des-iles-savoir-faire-et-traditions/634959/)**  2024-05-17 14:00:20
+**[JOURNÉE INTERNATIONALE DES MUSÉES, 18 MAI 2024](https://www.lemauricien.com/le-mauricien/journee-internationale-des-musees-18-mai-2024/635112/)**  2024-05-18 13:00:28
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2024/05/apres-avoir-critique-le-capitalisme.html)**  2024-05-17 23:55:02
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-17 08:38:18
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Jürgen Klopp and the leading of Liverpool](https://zoomdr.blogspot.com/2024/05/jurgen-klopp-and-leading-of-liverpool.html)**  2024-05-11 08:43:57
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Laparans](https://priscimon.com/blog/2024/05/05/laparans/)**  2024-05-05 11:43:20
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[I bought a Macbook Air M1 in 2023 instead of Asus Zenbook 14 OLED](https://nayarweb.com/blog/2024/i-bought-a-macbook-air-m1-in-2023-instead-of-asus-zenbook-14-oled/)**  2024-05-04 13:49:33
