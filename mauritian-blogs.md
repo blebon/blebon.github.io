@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[priscimon.com](https://priscimon.com/blog)  
-**[Fooling around with artificial lighting](https://priscimon.com/blog/2024/05/18/fooling-around-with-artificial-lighting/)**  2024-05-18 23:32:04
+[Yashvinblogs](https://yashvinblogs.com)  
+**[Temu in Mauritius – Is it worth the hype?](https://yashvinblogs.com/2024/05/20/temu-mauritius/)**  2024-05-20 17:25:22
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[JOURNÉE INTERNATIONALE DES MUSÉES, 18 MAI 2024](https://www.lemauricien.com/le-mauricien/journee-internationale-des-musees-18-mai-2024/635112/)**  2024-05-18 13:00:28
+**[AKP-152 – Bhagavad Gita Kouma li Ete : enn travay tradiksion monimantal an Kreol Morisien](https://www.lemauricien.com/le-mauricien/akp-152-bhagavad-gita-kou-li-ete-enn-travay-tradiksion-monimantal-an-kreol-morisien/635253/)**  2024-05-20 14:00:21
+
+[priscimon.com](https://priscimon.com/blog)  
+**[Fooling around with artificial lighting](https://priscimon.com/blog/2024/05/18/fooling-around-with-artificial-lighting/)**  2024-05-18 23:32:04
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2024/05/apres-avoir-critique-le-capitalisme.html)**  2024-05-17 23:55:02
@@ -105,9 +108,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Judicial Committee of the Privy Council (JCPC) : Surendra Dayal (Appellant) v Pravind Kumar Jugnauth and 7 others (Respondents) (Mauritius)](https://amarbheenick.blogspot.com/2023/10/judicial-committee-of-privy-council.html)**  2023-10-16 12:10:58
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[Magsafe Accessories : PopSockets Wallet+ and PopGrips review](https://yashvinblogs.com/2023/10/11/magsafe-popsockets-wallet-popgrips/)**  2023-10-11 18:18:01
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UOM students selected for the finals of the Africa Fact-Checking Awards 2023](https://comstudies.wordpress.com/2023/10/05/uom-students-selected-for-the-finals-of-the-africa-fact-checking-awards-2023/)**  2023-10-05 19:14:05
