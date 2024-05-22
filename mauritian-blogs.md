@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[World Celebrates Birth and Awakening of Lord Buddha](http://kozelidir.blogspot.com/2024/05/world-celebrates-birth-and-awakening-of.html)**  2024-05-21 18:26:14
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Externalisation chez SEDECO : maximisez votre temps et vos ressources](https://sedecobtob.blogspot.com/2024/05/externalisation-chez-sedeco-maximisez.html)**  2024-05-21 14:16:18
+
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Temu in Mauritius – Is it worth the hype?](https://yashvinblogs.com/2024/05/20/temu-mauritius/)**  2024-05-20 17:25:22
 
@@ -21,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Five Ways to Celebrate Life’s Milestones at Constance Hotels & Resorts](https://blog.constancehotels.com/five-ways-to-celebrate-lifes-milestones-at-constance-hotels-resorts/)**  2024-05-17 08:00:00
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[SMO : une expertise délocalisée avec SEDECO](https://sedecobtob.blogspot.com/2024/05/smo-une-expertise-delocalisee-avec.html)**  2024-05-16 14:42:22
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[Essential Tips for Developing a Retrieval-Augmented Generation (RAG) Chatbot Pipeline](https://daveappadoo.com/things-to-look-out-for-when-building-a-retrieval-augmented-generation-rag-chatbot-pipeline/)**  2024-05-13 15:23:06
@@ -69,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[The Philippines 2024](https://littleanantasin.wordpress.com/2024/04/10/the-philippines-2024/)**  2024-04-10 05:58:28
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Kozelidir Person of the Year 2024](http://kozelidir.blogspot.com/2024/04/kozelidir-person-of-year-2024.html)**  2024-04-09 15:01:59
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[1788](http://gadatagada-portfolio.blogspot.com/2024/03/1788.html)**  2024-03-26 06:56:27
