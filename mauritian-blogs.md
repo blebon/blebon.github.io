@@ -10,11 +10,11 @@ permalink: /mauritian-blogs/
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Externalisation chez SEDECO : maximisez votre temps et vos ressources](https://sedecobtob.blogspot.com/2024/05/externalisation-chez-sedeco-maximisez.html)**  2024-05-21 14:16:18
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[HONOURING THE LE MORNE MOUNTAIN MAROONS](https://www.lemauricien.com/le-mauricien/honouring-the-le-morne-mountain-maroons/635433/)**  2024-05-21 14:00:03
+
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Temu in Mauritius – Is it worth the hype?](https://yashvinblogs.com/2024/05/20/temu-mauritius/)**  2024-05-20 17:25:22
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[AKP-152 – Bhagavad Gita Kouma li Ete : enn travay tradiksion monimantal an Kreol Morisien](https://www.lemauricien.com/le-mauricien/akp-152-bhagavad-gita-kou-li-ete-enn-travay-tradiksion-monimantal-an-kreol-morisien/635253/)**  2024-05-20 14:00:21
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Fooling around with artificial lighting](https://priscimon.com/blog/2024/05/18/fooling-around-with-artificial-lighting/)**  2024-05-18 23:32:04
