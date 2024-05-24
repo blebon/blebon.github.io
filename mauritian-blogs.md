@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[La chanson d’un Gazaoul](https://www.lemauricien.com/le-mauricien/la-chanson-dun-gazaoul/635637/)**  2024-05-23 12:02:17
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Nailed it!](https://priscimon.com/blog/2024/05/22/nailed-it/)**  2024-05-22 23:54:16
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[History 1887 – Brawls at Government House: they came to blows](https://www.lemauricien.com/le-mauricien/history-1887-brawls-at-government-house-they-came-to-blows/635555/)**  2024-05-22 12:01:49
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[World Celebrates Birth and Awakening of Lord Buddha](http://kozelidir.blogspot.com/2024/05/world-celebrates-birth-and-awakening-of.html)**  2024-05-21 18:26:14
