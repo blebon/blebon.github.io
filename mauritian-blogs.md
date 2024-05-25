@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[La chanson d’un Gazaoul](https://www.lemauricien.com/le-mauricien/la-chanson-dun-gazaoul/635637/)**  2024-05-23 12:02:17
+**[Marital discord and childhood trauma in Anita Desai’s “Fire on the mountain”](https://www.lemauricien.com/le-mauricien/marital-discord-and-childhood-trauma-in-anita-desais-fire-on-the-mountain/635819/)**  2024-05-24 12:02:28
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Nailed it!](https://priscimon.com/blog/2024/05/22/nailed-it/)**  2024-05-22 23:54:16
