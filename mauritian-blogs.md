@@ -133,7 +133,4 @@ permalink: /mauritian-blogs/
 [Dr Reddy’s Journal](https://drreddy.wordpress.com)  
 **[TELUGU Ancestors ….Mauritius](https://drreddy.wordpress.com/2023/07/04/telugu-ancestors-mauritius/)**  2023-07-04 08:22:51
 
-[Equator Lounge](https://equatorlounge.blogspot.com/)  
-**[Windows 10 - difference between product key and license key](https://equatorlounge.blogspot.com/2023/06/windows-10-difference-between-product.html)**  2023-06-29 07:01:45
-
 <div style="height:0;width:0;overflow:hidden;"></div>
