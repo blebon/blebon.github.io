@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Remembering Professor Basdeo Bissoondoyal :  a vivacious and dynamic writer](https://www.lemauricien.com/le-mauricien/remembering-professor-basdeo-bissoondoyal-a-vivacious-and-dynamic-writer/636545/)**  2024-05-30 14:00:26
+**[New list of priority areas and actions to be adressed at Antigua for a new 30 year plan](https://www.lemauricien.com/en-une/new-list-of-priority-areas-and-actions-to-be-adressed-at-antigua-for-a-new-30-year-plan/636627/)**  2024-05-31 05:22:01
 
 [priscimon.com](https://priscimon.com/blog)  
 **[VueScan RAW + RT Film Negative = Good Colours](https://priscimon.com/blog/2024/05/25/vuescan-raw-rt-film-negative-good-colours/)**  2024-05-25 23:47:56
