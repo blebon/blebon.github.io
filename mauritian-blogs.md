@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Islamic Literature – SHEIKH SA’ADI SHIRAZI : The Other Great Sufi Master of SHIRAZ](https://www.lemauricien.com/le-mauricien/636324/636324/)**  2024-05-28 14:00:26
+**[Remembering Professor Basdeo Bissoondoyal :  a vivacious and dynamic writer](https://www.lemauricien.com/le-mauricien/remembering-professor-basdeo-bissoondoyal-a-vivacious-and-dynamic-writer/636545/)**  2024-05-30 14:00:26
 
 [priscimon.com](https://priscimon.com/blog)  
 **[VueScan RAW + RT Film Negative = Good Colours](https://priscimon.com/blog/2024/05/25/vuescan-raw-rt-film-negative-good-colours/)**  2024-05-25 23:47:56
