@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Communication digitale : divers canaux à exploiter avec SEDECO](https://sedecobtob.blogspot.com/2024/05/communication-digitale-divers-canaux.html)**  2024-05-31 15:25:50
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[New list of priority areas and actions to be adressed at Antigua for a new 30 year plan](https://www.lemauricien.com/en-une/new-list-of-priority-areas-and-actions-to-be-adressed-at-antigua-for-a-new-30-year-plan/636627/)**  2024-05-31 05:22:01
+**[Une vie sans tabac – Vous hésitez encore ?](https://www.lemauricien.com/le-mauricien/une-vie-sans-tabac-vous-hesitez-encore/636683/)**  2024-05-31 12:01:48
 
 [priscimon.com](https://priscimon.com/blog)  
 **[VueScan RAW + RT Film Negative = Good Colours](https://priscimon.com/blog/2024/05/25/vuescan-raw-rt-film-negative-good-colours/)**  2024-05-25 23:47:56
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[World Celebrates Birth and Awakening of Lord Buddha](http://kozelidir.blogspot.com/2024/05/world-celebrates-birth-and-awakening-of.html)**  2024-05-21 18:26:14
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Externalisation chez SEDECO : maximisez votre temps et vos ressources](https://sedecobtob.blogspot.com/2024/05/externalisation-chez-sedeco-maximisez.html)**  2024-05-21 14:16:18
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Temu in Mauritius – Is it worth the hype?](https://yashvinblogs.com/2024/05/20/temu-mauritius/)**  2024-05-20 17:25:22
