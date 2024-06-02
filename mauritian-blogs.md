@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Diversité culturelle, dialogue interculturel  et éducation à l’altérité](https://www.lemauricien.com/le-mauricien/diversite-culturelle-dialogue-interculturel-et-education-a-lalterite/636841/)**  2024-06-01 12:01:49
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Communication digitale : divers canaux à exploiter avec SEDECO](https://sedecobtob.blogspot.com/2024/05/communication-digitale-divers-canaux.html)**  2024-05-31 15:25:50
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Une vie sans tabac – Vous hésitez encore ?](https://www.lemauricien.com/le-mauricien/une-vie-sans-tabac-vous-hesitez-encore/636683/)**  2024-05-31 12:01:48
 
 [priscimon.com](https://priscimon.com/blog)  
 **[VueScan RAW + RT Film Negative = Good Colours](https://priscimon.com/blog/2024/05/25/vuescan-raw-rt-film-negative-good-colours/)**  2024-05-25 23:47:56
