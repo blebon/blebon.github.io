@@ -19,7 +19,7 @@ minima:
   social_links:
     - { platform: github,         user_url: "https://github.com/blebon" }
     - { platform: mastodon,       user_url: "https://mastodon.social/@blebon" }
-    - { platform: twitter,        user_url: "https://twitter.com/blebon" }
+    - { platform: x,              user_url: "https://x.com/blebon" }
 
     # GitLab instances
     # gitlab:
