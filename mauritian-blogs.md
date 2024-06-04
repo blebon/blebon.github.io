@@ -130,7 +130,4 @@ permalink: /mauritian-blogs/
 [* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
 **[Welcome Mason Mount](https://ritesh2103.wordpress.com/2023/07/05/welcome-mason-mount/)**  2023-07-05 13:47:59
 
-[Dr Reddy’s Journal](https://drreddy.wordpress.com)  
-**[TELUGU Ancestors ….Mauritius](https://drreddy.wordpress.com/2023/07/04/telugu-ancestors-mauritius/)**  2023-07-04 08:22:51
-
 <div style="height:0;width:0;overflow:hidden;"></div>
