@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Diversité culturelle, dialogue interculturel  et éducation à l’altérité](https://www.lemauricien.com/le-mauricien/diversite-culturelle-dialogue-interculturel-et-education-a-lalterite/636841/)**  2024-06-01 12:01:49
+**[Mieux comprendre l’importation parallèle  de médicaments dans le secteur privé à Maurice](https://www.lemauricien.com/le-mauricien/mieux-comprendre-limportation-parallele-de-medicaments-dans-le-secteur-prive-a-maurice/637046/)**  2024-06-03 12:05:45
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Communication digitale : divers canaux à exploiter avec SEDECO](https://sedecobtob.blogspot.com/2024/05/communication-digitale-divers-canaux.html)**  2024-05-31 15:25:50
