@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mieux comprendre l’importation parallèle  de médicaments dans le secteur privé à Maurice](https://www.lemauricien.com/le-mauricien/mieux-comprendre-limportation-parallele-de-medicaments-dans-le-secteur-prive-a-maurice/637046/)**  2024-06-03 12:05:45
+**[JOURNÉE MONDIALE DE L’ENVIRONNEMENT (5 juin 2024) – ‘Nou Later, Nou Lavenir’ , ‘Our Land, Our Future’, ‘Nos terres, Notre Avenir’](https://www.lemauricien.com/le-mauricien/journee-mondiale-de-lenvironnement-5-juin-2024-nou-later-nou-lavenir-our-land-our-future-nos-terres-notre-avenir/637192/)**  2024-06-04 14:00:01
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Communication digitale : divers canaux à exploiter avec SEDECO](https://sedecobtob.blogspot.com/2024/05/communication-digitale-divers-canaux.html)**  2024-05-31 15:25:50
