@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[JOURNÉE MONDIALE DE L’ENVIRONNEMENT (5 juin 2024) – ‘Nou Later, Nou Lavenir’ , ‘Our Land, Our Future’, ‘Nos terres, Notre Avenir’](https://www.lemauricien.com/le-mauricien/journee-mondiale-de-lenvironnement-5-juin-2024-nou-later-nou-lavenir-our-land-our-future-nos-terres-notre-avenir/637192/)**  2024-06-04 14:00:01
+**[JOURNÉE INTERNATIONALE DE L’ENVIRONNEMENT : Quel avenir pour nos sols? Quel avenir pour nous?](https://www.lemauricien.com/le-mauricien/journee-internationale-de-lenvironnement-quel-avenir-pour-nos-sols-quel-avenir-pour-nous/637288/)**  2024-06-05 13:00:59
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Communication digitale : divers canaux à exploiter avec SEDECO](https://sedecobtob.blogspot.com/2024/05/communication-digitale-divers-canaux.html)**  2024-05-31 15:25:50
@@ -126,8 +126,5 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[When old meets new](http://gadatagada.blogspot.com/2023/07/when-old-meets-new.html)**  2023-07-15 12:35:04
-
-[* Ritesh BlogZone *](https://ritesh2103.wordpress.com)  
-**[Welcome Mason Mount](https://ritesh2103.wordpress.com/2023/07/05/welcome-mason-mount/)**  2023-07-05 13:47:59
 
 <div style="height:0;width:0;overflow:hidden;"></div>
