@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[A Q&A with Robert Matombé, Turtle Manager at Constance Lemuria](https://blog.constancehotels.com/a-qa-with-robert-matombe-turtle-manager-at-constance-lemuria/)**  2024-06-06 08:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[JOURNÉE INTERNATIONALE DE L’ENVIRONNEMENT : Quel avenir pour nos sols? Quel avenir pour nous?](https://www.lemauricien.com/le-mauricien/journee-internationale-de-lenvironnement-quel-avenir-pour-nos-sols-quel-avenir-pour-nous/637288/)**  2024-06-05 13:00:59
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-17 08:38:18
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Five Ways to Celebrate Life’s Milestones at Constance Hotels & Resorts](https://blog.constancehotels.com/five-ways-to-celebrate-lifes-milestones-at-constance-hotels-resorts/)**  2024-05-17 08:00:00
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[Essential Tips for Developing a Retrieval-Augmented Generation (RAG) Chatbot Pipeline](https://daveappadoo.com/things-to-look-out-for-when-building-a-retrieval-augmented-generation-rag-chatbot-pipeline/)**  2024-05-13 15:23:06
