@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[A Q&A with Robert Matombé, Turtle Manager at Constance Lemuria](https://blog.constancehotels.com/a-qa-with-robert-matombe-turtle-manager-at-constance-lemuria/)**  2024-06-06 08:00:00
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Relation client : SEDECO vous propose d’optimiser votre service](https://sedecobtob.blogspot.com/2024/06/relation-client-sedeco-vous-propose.html)**  2024-06-06 17:09:47
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[JOURNÉE INTERNATIONALE DE L’ENVIRONNEMENT : Quel avenir pour nos sols? Quel avenir pour nous?](https://www.lemauricien.com/le-mauricien/journee-internationale-de-lenvironnement-quel-avenir-pour-nos-sols-quel-avenir-pour-nous/637288/)**  2024-06-05 13:00:59
+**[Private Medical Services – An Urgent  Need for an Ombudsperson](https://www.lemauricien.com/le-mauricien/private-medical-services-an-urgent-need-for-an-ombudsperson/637428/)**  2024-06-06 13:01:57
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Communication digitale : divers canaux à exploiter avec SEDECO](https://sedecobtob.blogspot.com/2024/05/communication-digitale-divers-canaux.html)**  2024-05-31 15:25:50
+[turbine.mu](https://turbine.mu)  
+**[Meet Leithycia Deschezeaux, founder of Lwé Li](https://turbine.mu/blog/2024/06/06/meet-leithycia-deschezeaux-founder-of-lwe-li/)**  2024-06-06 12:12:23
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[A Q&A with Robert Matombé, Turtle Manager at Constance Lemuria](https://blog.constancehotels.com/a-qa-with-robert-matombe-turtle-manager-at-constance-lemuria/)**  2024-06-06 08:00:00
 
 [priscimon.com](https://priscimon.com/blog)  
 **[VueScan RAW + RT Film Negative = Good Colours](https://priscimon.com/blog/2024/05/25/vuescan-raw-rt-film-negative-good-colours/)**  2024-05-25 23:47:56
@@ -75,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[1788](http://gadatagada-portfolio.blogspot.com/2024/03/1788.html)**  2024-03-26 06:56:27
-
-[turbine.mu](https://turbine.mu)  
-**[Is Traditional marketing still relevant for Startups in 2024 ?](https://turbine.mu/blog/2024/03/22/is-traditional-marketing-still-relevant-for-startups-in-2024/)**  2024-03-22 04:03:04
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Better with Age](https://swanlady-impressions.blogspot.com/2024/03/better-with-age.html)**  2024-03-13 12:57:26
