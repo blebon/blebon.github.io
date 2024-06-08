@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Rani's Cuisine - Menus](https://raniscuisine.com/blogs/news)  
-**[Indian Accent Restaurant, New Delhi!](https://raniscuisine.com/blogs/news/indian-accent-restaurant-new-delhi)**  2024-06-08 04:19:52
+**[Gian Lassi in Amritsar](https://raniscuisine.com/blogs/news/gian-lassi-in-amritsar)**  2024-06-08 05:13:40
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Celebrating You Today](https://swanlady-impressions.blogspot.com/2024/06/celebrating-you-today.html)**  2024-06-07 19:08:20
