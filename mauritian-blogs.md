@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Relation client : SEDECO vous propose d’optimiser votre service](https://sedecobtob.blogspot.com/2024/06/relation-client-sedeco-vous-propose.html)**  2024-06-06 17:09:47
+[Rani's Cuisine - Menus](https://raniscuisine.com/blogs/news)  
+**[Indian Accent Restaurant, New Delhi!](https://raniscuisine.com/blogs/news/indian-accent-restaurant-new-delhi)**  2024-06-08 04:19:52
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Celebrating You Today](https://swanlady-impressions.blogspot.com/2024/06/celebrating-you-today.html)**  2024-06-07 19:08:20
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Private Medical Services – An Urgent  Need for an Ombudsperson](https://www.lemauricien.com/le-mauricien/private-medical-services-an-urgent-need-for-an-ombudsperson/637428/)**  2024-06-06 13:01:57
+**[Réinventer l’île Maurice](https://www.lemauricien.com/le-mauricien/reinventer-lile-maurice/637505/)**  2024-06-07 14:00:53
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Relation client : SEDECO vous propose d’optimiser votre service](https://sedecobtob.blogspot.com/2024/06/relation-client-sedeco-vous-propose.html)**  2024-06-06 17:09:47
 
 [turbine.mu](https://turbine.mu)  
 **[Meet Leithycia Deschezeaux, founder of Lwé Li](https://turbine.mu/blog/2024/06/06/meet-leithycia-deschezeaux-founder-of-lwe-li/)**  2024-06-06 12:12:23
@@ -67,9 +73,6 @@ permalink: /mauritian-blogs/
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Jealousy on Divine & Higher-Being](https://vintishgokool.blogspot.com/2024/04/jealousy-on-higer-being.html)**  2024-04-12 15:31:03
 
-[Rani's Cuisine - Menus](https://raniscuisine.com/blogs/news)  
-**[Theyyam: The dance where men embody gods.](https://raniscuisine.com/blogs/news/theyyam-the-dance-where-men-embody-gods)**  2024-04-11 14:24:24
-
 [NHQ Gallery](https://nhq12.blogspot.com/)  
 **[NHQ Gallery](https://nhq12.blogspot.com/2012/12/nhq-2012.html)**  2024-04-11 14:20:17
 
@@ -78,9 +81,6 @@ permalink: /mauritian-blogs/
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[1788](http://gadatagada-portfolio.blogspot.com/2024/03/1788.html)**  2024-03-26 06:56:27
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Better with Age](https://swanlady-impressions.blogspot.com/2024/03/better-with-age.html)**  2024-03-13 12:57:26
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[There was a time...](https://flicenflac.blogspot.com/2024/02/there-was-time.html)**  2024-02-25 12:01:59
