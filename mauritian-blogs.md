@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Fiction-tragico-comique – Le Conte de Malaika  : Comme un jacuzzi dans la mer…](https://www.lemauricien.com/le-mauricien/fiction-tragico-comique-le-conte-de-malaika-comme-un-jacuzzi-dans-la-mer/637685/)**  2024-06-08 12:01:41
+
 [Rani's Cuisine - Menus](https://raniscuisine.com/blogs/news)  
 **[Gian Lassi in Amritsar](https://raniscuisine.com/blogs/news/gian-lassi-in-amritsar)**  2024-06-08 05:13:40
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Celebrating You Today](https://swanlady-impressions.blogspot.com/2024/06/celebrating-you-today.html)**  2024-06-07 19:08:20
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Réinventer l’île Maurice](https://www.lemauricien.com/le-mauricien/reinventer-lile-maurice/637505/)**  2024-06-07 14:00:53
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Relation client : SEDECO vous propose d’optimiser votre service](https://sedecobtob.blogspot.com/2024/06/relation-client-sedeco-vous-propose.html)**  2024-06-06 17:09:47
