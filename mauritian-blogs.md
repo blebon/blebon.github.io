@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Yashvinblogs](https://yashvinblogs.com)  
+**[Review of Dashcam Lingdu LD06](https://yashvinblogs.com/2024/06/09/dashcam-lingdu-ld06/)**  2024-06-09 06:23:13
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Fiction-tragico-comique – Le Conte de Malaika  : Comme un jacuzzi dans la mer…](https://www.lemauricien.com/le-mauricien/fiction-tragico-comique-le-conte-de-malaika-comme-un-jacuzzi-dans-la-mer/637685/)**  2024-06-08 12:01:41
 
@@ -22,14 +25,14 @@ permalink: /mauritian-blogs/
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[A Q&A with Robert Matombé, Turtle Manager at Constance Lemuria](https://blog.constancehotels.com/a-qa-with-robert-matombe-turtle-manager-at-constance-lemuria/)**  2024-06-06 08:00:00
 
+[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
+**[Lunch Time](http://gadatagada.blogspot.com/2024/06/lunch-time.html)**  2024-06-01 10:11:26
+
 [priscimon.com](https://priscimon.com/blog)  
 **[VueScan RAW + RT Film Negative = Good Colours](https://priscimon.com/blog/2024/05/25/vuescan-raw-rt-film-negative-good-colours/)**  2024-05-25 23:47:56
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[World Celebrates Birth and Awakening of Lord Buddha](http://kozelidir.blogspot.com/2024/05/world-celebrates-birth-and-awakening-of.html)**  2024-05-21 18:26:14
-
-[Yashvinblogs](https://yashvinblogs.com)  
-**[Temu in Mauritius – Is it worth the hype?](https://yashvinblogs.com/2024/05/20/temu-mauritius/)**  2024-05-20 17:25:22
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2024/05/apres-avoir-critique-le-capitalisme.html)**  2024-05-17 23:55:02
@@ -123,8 +126,5 @@ permalink: /mauritian-blogs/
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[A Day in the Life of a VMware Administrator](https://savourthemomentattechie.blogspot.com/2023/08/a-day-in-life-of-vmware-administrator.html)**  2023-08-12 04:20:14
-
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[When old meets new](http://gadatagada.blogspot.com/2023/07/when-old-meets-new.html)**  2023-07-15 12:35:04
 
 <div style="height:0;width:0;overflow:hidden;"></div>
