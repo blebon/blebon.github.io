@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Yashvinblogs](https://yashvinblogs.com)  
-**[Review of Dashcam Lingdu LD06](https://yashvinblogs.com/2024/06/09/dashcam-lingdu-ld06/)**  2024-06-09 06:23:13
+[priscimon.com](https://priscimon.com/blog)  
+**[A photo walk around Farnborough](https://priscimon.com/blog/2024/06/10/a-photo-walk-around-farnborough/)**  2024-06-10 21:50:45
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Fiction-tragico-comique – Le Conte de Malaika  : Comme un jacuzzi dans la mer…](https://www.lemauricien.com/le-mauricien/fiction-tragico-comique-le-conte-de-malaika-comme-un-jacuzzi-dans-la-mer/637685/)**  2024-06-08 12:01:41
+**[Sérénade : Arvin Ombika célèbre l’Amour](https://www.lemauricien.com/le-mauricien/serenade-arvin-ombika-celebre-lamour/637911/)**  2024-06-10 13:00:34
+
+[Yashvinblogs](https://yashvinblogs.com)  
+**[Review of Dashcam Lingdu LD06](https://yashvinblogs.com/2024/06/09/dashcam-lingdu-ld06/)**  2024-06-09 06:23:13
 
 [Rani's Cuisine - Menus](https://raniscuisine.com/blogs/news)  
 **[Gian Lassi in Amritsar](https://raniscuisine.com/blogs/news/gian-lassi-in-amritsar)**  2024-06-08 05:13:40
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Lunch Time](http://gadatagada.blogspot.com/2024/06/lunch-time.html)**  2024-06-01 10:11:26
-
-[priscimon.com](https://priscimon.com/blog)  
-**[VueScan RAW + RT Film Negative = Good Colours](https://priscimon.com/blog/2024/05/25/vuescan-raw-rt-film-negative-good-colours/)**  2024-05-25 23:47:56
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[World Celebrates Birth and Awakening of Lord Buddha](http://kozelidir.blogspot.com/2024/05/world-celebrates-birth-and-awakening-of.html)**  2024-05-21 18:26:14
