@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[priscimon.com](https://priscimon.com/blog)  
-**[A photo walk around Farnborough](https://priscimon.com/blog/2024/06/10/a-photo-walk-around-farnborough/)**  2024-06-10 21:50:45
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Summer Happies](https://davidandjennilyn.com/2024/06/11/summer-happies/)**  2024-06-12 03:28:55
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Sérénade : Arvin Ombika célèbre l’Amour](https://www.lemauricien.com/le-mauricien/serenade-arvin-ombika-celebre-lamour/637911/)**  2024-06-10 13:00:34
+**[Nurturing Sheep?](https://www.lemauricien.com/le-mauricien/nurturing-sheep/637988/)**  2024-06-11 12:01:59
+
+[priscimon.com](https://priscimon.com/blog)  
+**[A photo walk around Farnborough](https://priscimon.com/blog/2024/06/10/a-photo-walk-around-farnborough/)**  2024-06-10 21:50:45
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Review of Dashcam Lingdu LD06](https://yashvinblogs.com/2024/06/09/dashcam-lingdu-ld06/)**  2024-06-09 06:23:13
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[I bought a Macbook Air M1 in 2023 instead of Asus Zenbook 14 OLED](https://nayarweb.com/blog/2024/i-bought-a-macbook-air-m1-in-2023-instead-of-asus-zenbook-14-oled/)**  2024-05-04 13:49:33
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happily Nineteen Years After](https://davidandjennilyn.com/2024/04/28/happily-nineteen-years-after/)**  2024-04-28 21:15:52
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Talk on “Unlocking Operational Excellence: The Transformative Power of BPMN Tools”](https://lovvy.wordpress.com/2024/04/28/talk-on-unlocking-operational-excellence-the-transformative-power-of-bpmn-tools/)**  2024-04-28 19:34:21
