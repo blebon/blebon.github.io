@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Summer Happies](https://davidandjennilyn.com/2024/06/11/summer-happies/)**  2024-06-12 03:28:55
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Online scams in Mauritius](https://relocationmauritius.wordpress.com/2024/06/12/online-scams-in-mauritius/)**  2024-06-12 14:57:47
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Nurturing Sheep?](https://www.lemauricien.com/le-mauricien/nurturing-sheep/637988/)**  2024-06-11 12:01:59
+**[Exercice budgétaire 2024-2025 : le dernier coup de poker… ou non](https://www.lemauricien.com/le-mauricien/exercice-budgetaire-2024-2025-le-dernier-coup-de-poker-ou-non/638179/)**  2024-06-12 12:21:47
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Summer Happies](https://davidandjennilyn.com/2024/06/11/summer-happies/)**  2024-06-12 03:28:55
 
 [priscimon.com](https://priscimon.com/blog)  
 **[A photo walk around Farnborough](https://priscimon.com/blog/2024/06/10/a-photo-walk-around-farnborough/)**  2024-06-10 21:50:45
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [English Speaking Union](https://www.esumauritius.org)  
 **[Book Launch by ESU Member](https://www.esumauritius.org/news/book-launch-by-esu-member/)**  2024-04-24 10:33:44
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Crime among the expatriate community](https://relocationmauritius.wordpress.com/2024/04/23/crime-among-the-expatriate-community/)**  2024-04-23 11:57:27
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[WARD 2024](https://msinnott.net/2024/04/18/ward-2024/)**  2024-04-18 11:44:03
