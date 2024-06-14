@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Aperçus de l’esprit  de l’égalité des genres](https://www.lemauricien.com/le-mauricien/apercus-de-lesprit-de-legalite-des-genres/638322/)**  2024-06-13 12:02:26
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Online scams in Mauritius](https://relocationmauritius.wordpress.com/2024/06/12/online-scams-in-mauritius/)**  2024-06-12 14:57:47
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Exercice budgétaire 2024-2025 : le dernier coup de poker… ou non](https://www.lemauricien.com/le-mauricien/exercice-budgetaire-2024-2025-le-dernier-coup-de-poker-ou-non/638179/)**  2024-06-12 12:21:47
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Summer Happies](https://davidandjennilyn.com/2024/06/11/summer-happies/)**  2024-06-12 03:28:55
