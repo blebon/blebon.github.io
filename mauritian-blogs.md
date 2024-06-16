@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[La prosopopée de Fabricius  de Jean-Jacques Rousseau](https://www.lemauricien.com/le-mauricien/la-prosopopee-de-fabricius-de-jean-jacques-rousseau/638471/)**  2024-06-14 12:01:11
+**[La situation paradoxale de l’enseignement de la géographie à l’école](https://www.lemauricien.com/le-mauricien/638632/638632/)**  2024-06-15 12:11:31
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Online scams in Mauritius](https://relocationmauritius.wordpress.com/2024/06/12/online-scams-in-mauritius/)**  2024-06-12 14:57:47
