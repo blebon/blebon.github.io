@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Crafting the Ultimate Family Getaway at Constance Hotels & Resorts Luxury Resorts](https://blog.constancehotels.com/crafting-the-ultimate-family-getaway-at-constance-hotels-resorts-luxury-resorts/)**  2024-06-17 08:00:00
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Oops!](https://flicenflac.blogspot.com/2024/06/oops.html)**  2024-06-16 22:50:54
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Meet Leithycia Deschezeaux, founder of Lwé Li](https://turbine.mu/blog/2024/06/06/meet-leithycia-deschezeaux-founder-of-lwe-li/)**  2024-06-06 12:12:23
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[A Q&A with Robert Matombé, Turtle Manager at Constance Lemuria](https://blog.constancehotels.com/a-qa-with-robert-matombe-turtle-manager-at-constance-lemuria/)**  2024-06-06 08:00:00
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Lunch Time](http://gadatagada.blogspot.com/2024/06/lunch-time.html)**  2024-06-01 10:11:26
