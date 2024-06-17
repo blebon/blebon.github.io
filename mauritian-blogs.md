@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[Oops!](https://flicenflac.blogspot.com/2024/06/oops.html)**  2024-06-16 22:50:54
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[La situation paradoxale de l’enseignement de la géographie à l’école](https://www.lemauricien.com/le-mauricien/638632/638632/)**  2024-06-15 12:11:31
 
@@ -84,9 +87,6 @@ permalink: /mauritian-blogs/
 
 [Itinéraires au goût de fraise Tagada](http://gadatagada-portfolio.blogspot.com/)  
 **[1788](http://gadatagada-portfolio.blogspot.com/2024/03/1788.html)**  2024-03-26 06:56:27
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[There was a time...](https://flicenflac.blogspot.com/2024/02/there-was-time.html)**  2024-02-25 12:01:59
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Empowerment towards acceptance](https://tachah.blogspot.com/2024/02/empowerment-towards-acceptance.html)**  2024-02-20 18:26:57
