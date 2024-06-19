@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[Thomson Reuters Institute: 2024 Generative AI in Professional Services - Perceptions, Usage, and Impact on the Future of Work](https://amarbheenick.blogspot.com/2024/06/thomson-reuters-institute-2024.html)**  2024-06-18 15:14:36
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[De l’apport de la Femme,  et de ses revendications !](https://www.lemauricien.com/le-mauricien/638946/638946/)**  2024-06-18 14:00:39
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Crafting the Ultimate Family Getaway at Constance Hotels & Resorts Luxury Resorts](https://blog.constancehotels.com/crafting-the-ultimate-family-getaway-at-constance-hotels-resorts-luxury-resorts/)**  2024-06-17 08:00:00
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Oops!](https://flicenflac.blogspot.com/2024/06/oops.html)**  2024-06-16 22:50:54
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[La situation paradoxale de l’enseignement de la géographie à l’école](https://www.lemauricien.com/le-mauricien/638632/638632/)**  2024-06-15 12:11:31
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Online scams in Mauritius](https://relocationmauritius.wordpress.com/2024/06/12/online-scams-in-mauritius/)**  2024-06-12 14:57:47
@@ -108,9 +111,6 @@ permalink: /mauritian-blogs/
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[Book Now Artist: EL PLAGA](https://elplagaa.blogspot.com/2023/10/book-now-artist-el-plaga.html)**  2023-10-16 12:41:57
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Judicial Committee of the Privy Council (JCPC) : Surendra Dayal (Appellant) v Pravind Kumar Jugnauth and 7 others (Respondents) (Mauritius)](https://amarbheenick.blogspot.com/2023/10/judicial-committee-of-privy-council.html)**  2023-10-16 12:10:58
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[UOM students selected for the finals of the Africa Fact-Checking Awards 2023](https://comstudies.wordpress.com/2023/10/05/uom-students-selected-for-the-finals-of-the-africa-fact-checking-awards-2023/)**  2023-10-05 19:14:05
