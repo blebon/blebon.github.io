@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[In Memory of Dev Manraj](https://www.lemauricien.com/le-mauricien/in-memory-of-dev-manraj/639101/)**  2024-06-19 12:02:19
+
+[Mera Blog](https://nayarweb.com/blog)  
+**[Trip to Madagascar: What is Diurnal Air Temperature Variation?](https://nayarweb.com/blog/2024/trip-to-madagascar-what-is-diurnal-air-temperature-variation/)**  2024-06-19 11:59:33
+
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Thomson Reuters Institute: 2024 Generative AI in Professional Services - Perceptions, Usage, and Impact on the Future of Work](https://amarbheenick.blogspot.com/2024/06/thomson-reuters-institute-2024.html)**  2024-06-18 15:14:36
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[De l’apport de la Femme,  et de ses revendications !](https://www.lemauricien.com/le-mauricien/638946/638946/)**  2024-06-18 14:00:39
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Crafting the Ultimate Family Getaway at Constance Hotels & Resorts Luxury Resorts](https://blog.constancehotels.com/crafting-the-ultimate-family-getaway-at-constance-hotels-resorts-luxury-resorts/)**  2024-06-17 08:00:00
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Jürgen Klopp and the leading of Liverpool](https://zoomdr.blogspot.com/2024/05/jurgen-klopp-and-leading-of-liverpool.html)**  2024-05-11 08:43:57
-
-[Mera Blog](https://nayarweb.com/blog)  
-**[I bought a Macbook Air M1 in 2023 instead of Asus Zenbook 14 OLED](https://nayarweb.com/blog/2024/i-bought-a-macbook-air-m1-in-2023-instead-of-asus-zenbook-14-oled/)**  2024-05-04 13:49:33
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Talk on “Unlocking Operational Excellence: The Transformative Power of BPMN Tools”](https://lovvy.wordpress.com/2024/04/28/talk-on-unlocking-operational-excellence-the-transformative-power-of-bpmn-tools/)**  2024-04-28 19:34:21
