@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Aperol Day Party at Ce La Vie](https://kabilen.tumblr.com/post/753855237499076608)**  2024-06-21 02:12:58
+
+[Veganlovlie](https://veganlovlie.com)  
+**[Aubergine or Eggplant and Mushroom Lasagna](https://veganlovlie.com/aubergine-and-mushroom-lasagna/)**  2024-06-20 19:13:53
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[In Memory of Dev Manraj](https://www.lemauricien.com/le-mauricien/in-memory-of-dev-manraj/639101/)**  2024-06-19 12:02:19
+**[NON-FEE PAYING PRIVATE SECONDARY SCHOOL CRISIS : Grants Mechanism to Colleges : « Roulette Russe » against the Temple](https://www.lemauricien.com/le-mauricien/non-fee-paying-private-secondary-school-crisis-grants-mechanism-to-colleges-roulette-russe-against-the-temple/639235/)**  2024-06-20 13:00:38
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Trip to Madagascar: What is Diurnal Air Temperature Variation?](https://nayarweb.com/blog/2024/trip-to-madagascar-what-is-diurnal-air-temperature-variation/)**  2024-06-19 11:59:33
@@ -76,9 +82,6 @@ permalink: /mauritian-blogs/
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[2 more years lol](https://myanonymouslife24.blogspot.com/2024/04/2-more-years-lol.html)**  2024-04-15 13:48:09
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Saigontex 2024](https://kabilen.tumblr.com/post/747622189955760128)**  2024-04-13 07:01:20
-
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Jealousy on Divine & Higher-Being](https://vintishgokool.blogspot.com/2024/04/jealousy-on-higer-being.html)**  2024-04-12 15:31:03
 
@@ -96,9 +99,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Ciclone Eleanor (Zimbabwe)](https://mauritiuslapassionesisente.blogspot.com/2024/02/eleanor-zimbabwe.html)**  2024-02-20 16:39:23
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Hibiscus Orange Jam Recipe](https://veganlovlie.com/hibiscus-orange-jam-recipe/)**  2024-01-26 02:36:19
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Silence, on exécute à Gaza!](https://jeanmeedesveaux.blogspot.com/2023/12/silence-on-tue-gaza.html)**  2023-12-28 12:08:58
