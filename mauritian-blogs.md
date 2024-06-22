@@ -5,13 +5,16 @@ permalink: /mauritian-blogs/
 ---
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
-**[Aperol Day Party at Ce La Vie](https://kabilen.tumblr.com/post/753855237499076608)**  2024-06-21 02:12:58
+**[Cirque with Jay](https://kabilen.tumblr.com/post/753919937974845440)**  2024-06-21 19:21:21
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[10th International Day of Yoga – The timeless knowledge  that holds relevance today](https://www.lemauricien.com/le-mauricien/10th-international-day-of-yoga-the-timeless-knowledge-that-holds-relevance-today/639307/)**  2024-06-21 14:00:54
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[SEO : des services optimaux avec la société SEDECO](https://sedecobtob.blogspot.com/2024/06/seo-des-services-optimaux-avec-la.html)**  2024-06-21 13:00:14
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Aubergine or Eggplant and Mushroom Lasagna](https://veganlovlie.com/aubergine-and-mushroom-lasagna/)**  2024-06-20 19:13:53
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[NON-FEE PAYING PRIVATE SECONDARY SCHOOL CRISIS : Grants Mechanism to Colleges : « Roulette Russe » against the Temple](https://www.lemauricien.com/le-mauricien/non-fee-paying-private-secondary-school-crisis-grants-mechanism-to-colleges-roulette-russe-against-the-temple/639235/)**  2024-06-20 13:00:38
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Trip to Madagascar: What is Diurnal Air Temperature Variation?](https://nayarweb.com/blog/2024/trip-to-madagascar-what-is-diurnal-air-temperature-variation/)**  2024-06-19 11:59:33
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Celebrating You Today](https://swanlady-impressions.blogspot.com/2024/06/celebrating-you-today.html)**  2024-06-07 19:08:20
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Relation client : SEDECO vous propose d’optimiser votre service](https://sedecobtob.blogspot.com/2024/06/relation-client-sedeco-vous-propose.html)**  2024-06-06 17:09:47
 
 [turbine.mu](https://turbine.mu)  
 **[Meet Leithycia Deschezeaux, founder of Lwé Li](https://turbine.mu/blog/2024/06/06/meet-leithycia-deschezeaux-founder-of-lwe-li/)**  2024-06-06 12:12:23
