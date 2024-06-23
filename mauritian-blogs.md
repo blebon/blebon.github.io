@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[My ID, my identity?](https://www.lemauricien.com/le-mauricien/my-id-my-identity/639480/)**  2024-06-22 13:00:36
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Cirque with Jay](https://kabilen.tumblr.com/post/753919937974845440)**  2024-06-21 19:21:21
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[10th International Day of Yoga – The timeless knowledge  that holds relevance today](https://www.lemauricien.com/le-mauricien/10th-international-day-of-yoga-the-timeless-knowledge-that-holds-relevance-today/639307/)**  2024-06-21 14:00:54
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SEO : des services optimaux avec la société SEDECO](https://sedecobtob.blogspot.com/2024/06/seo-des-services-optimaux-avec-la.html)**  2024-06-21 13:00:14
