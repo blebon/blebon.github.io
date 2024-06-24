@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Five Features to Seek in Your Eco-Friendly Retreat](https://blog.constancehotels.com/five-features-to-seek-in-your-eco-friendly-retreat/)**  2024-06-24 08:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[My ID, my identity?](https://www.lemauricien.com/le-mauricien/my-id-my-identity/639480/)**  2024-06-22 13:00:36
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[Thomson Reuters Institute: 2024 Generative AI in Professional Services - Perceptions, Usage, and Impact on the Future of Work](https://amarbheenick.blogspot.com/2024/06/thomson-reuters-institute-2024.html)**  2024-06-18 15:14:36
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Crafting the Ultimate Family Getaway at Constance Hotels & Resorts Luxury Resorts](https://blog.constancehotels.com/crafting-the-ultimate-family-getaway-at-constance-hotels-resorts-luxury-resorts/)**  2024-06-17 08:00:00
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Oops!](https://flicenflac.blogspot.com/2024/06/oops.html)**  2024-06-16 22:50:54
