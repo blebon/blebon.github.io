@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Emmanuel Macron et la montée des extrêmes :  une énorme responsabilité](https://www.lemauricien.com/le-mauricien/emmanuel-macron-et-la-montee-des-extremes-une-enorme-responsabilite/639653/)**  2024-06-24 13:00:12
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Five Features to Seek in Your Eco-Friendly Retreat](https://blog.constancehotels.com/five-features-to-seek-in-your-eco-friendly-retreat/)**  2024-06-24 08:00:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[My ID, my identity?](https://www.lemauricien.com/le-mauricien/my-id-my-identity/639480/)**  2024-06-22 13:00:36
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Cirque with Jay](https://kabilen.tumblr.com/post/753919937974845440)**  2024-06-21 19:21:21
