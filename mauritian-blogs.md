@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Emmanuel Macron et la montée des extrêmes :  une énorme responsabilité](https://www.lemauricien.com/le-mauricien/emmanuel-macron-et-la-montee-des-extremes-une-enorme-responsabilite/639653/)**  2024-06-24 13:00:12
+**[Padayachy’s Fifth Budget – The Swan Song ?](https://www.lemauricien.com/le-mauricien/padayachys-fifth-budget-the-swan-song/639793/)**  2024-06-25 12:01:53
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Five Features to Seek in Your Eco-Friendly Retreat](https://blog.constancehotels.com/five-features-to-seek-in-your-eco-friendly-retreat/)**  2024-06-24 08:00:00
