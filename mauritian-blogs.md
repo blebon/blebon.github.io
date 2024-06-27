@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Women are from Venus, Men from Mars (ideologies broaden or narrow the gap)](https://zoomdr.blogspot.com/2024/06/women-are-from-venus-men-from-mars.html)**  2024-06-27 07:07:29
+
 [Amar](https://amarbheenick.blogspot.com/)  
 **[A blueprint for a coordinated minimum effective taxation standard for ultra-high-net-worth individuals](https://amarbheenick.blogspot.com/2024/06/a-blueprint-for-coordinated-minimum.html)**  2024-06-26 15:18:27
 
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[Essential Tips for Developing a Retrieval-Augmented Generation (RAG) Chatbot Pipeline](https://daveappadoo.com/things-to-look-out-for-when-building-a-retrieval-augmented-generation-rag-chatbot-pipeline/)**  2024-05-13 15:23:06
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Jürgen Klopp and the leading of Liverpool](https://zoomdr.blogspot.com/2024/05/jurgen-klopp-and-leading-of-liverpool.html)**  2024-05-11 08:43:57
 
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Talk on “Unlocking Operational Excellence: The Transformative Power of BPMN Tools”](https://lovvy.wordpress.com/2024/04/28/talk-on-unlocking-operational-excellence-the-transformative-power-of-bpmn-tools/)**  2024-04-28 19:34:21
