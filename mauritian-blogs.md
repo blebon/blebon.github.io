@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Amar](https://amarbheenick.blogspot.com/)  
+**[A blueprint for a coordinated minimum effective taxation standard for ultra-high-net-worth individuals](https://amarbheenick.blogspot.com/2024/06/a-blueprint-for-coordinated-minimum.html)**  2024-06-26 15:18:27
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Padayachy’s Fifth Budget – The Swan Song ?](https://www.lemauricien.com/le-mauricien/padayachys-fifth-budget-the-swan-song/639793/)**  2024-06-25 12:01:53
+**[History  : Jules Koenig’s motion seconded by Guy Forget… … lifted the suspension clamped down on Sookdeo Bissoondoyal (1948)](https://www.lemauricien.com/le-mauricien/history-jules-koenigs-motion-seconded-by-guy-forget-lifted-the-suspension-clamped-down-on-sookdeo-bissoondoyal-1948/639961/)**  2024-06-26 13:00:48
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Five Features to Seek in Your Eco-Friendly Retreat](https://blog.constancehotels.com/five-features-to-seek-in-your-eco-friendly-retreat/)**  2024-06-24 08:00:00
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Trip to Madagascar: What is Diurnal Air Temperature Variation?](https://nayarweb.com/blog/2024/trip-to-madagascar-what-is-diurnal-air-temperature-variation/)**  2024-06-19 11:59:33
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[Thomson Reuters Institute: 2024 Generative AI in Professional Services - Perceptions, Usage, and Impact on the Future of Work](https://amarbheenick.blogspot.com/2024/06/thomson-reuters-institute-2024.html)**  2024-06-18 15:14:36
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Oops!](https://flicenflac.blogspot.com/2024/06/oops.html)**  2024-06-16 22:50:54
