@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[NON-FEE PAYING PRIVATE SECONDARY SCHOOL CRISIS – Pax et concordia dimension under attack](https://www.lemauricien.com/le-mauricien/non-fee-paying-private-secondary-school-crisis-pax-et-concordia-dimension-under-attack/640067/)**  2024-06-27 14:00:03
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Women are from Venus, Men from Mars (ideologies broaden or narrow the gap)](https://zoomdr.blogspot.com/2024/06/women-are-from-venus-men-from-mars.html)**  2024-06-27 07:07:29
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[A blueprint for a coordinated minimum effective taxation standard for ultra-high-net-worth individuals](https://amarbheenick.blogspot.com/2024/06/a-blueprint-for-coordinated-minimum.html)**  2024-06-26 15:18:27
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[History  : Jules Koenig’s motion seconded by Guy Forget… … lifted the suspension clamped down on Sookdeo Bissoondoyal (1948)](https://www.lemauricien.com/le-mauricien/history-jules-koenigs-motion-seconded-by-guy-forget-lifted-the-suspension-clamped-down-on-sookdeo-bissoondoyal-1948/639961/)**  2024-06-26 13:00:48
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Five Features to Seek in Your Eco-Friendly Retreat](https://blog.constancehotels.com/five-features-to-seek-in-your-eco-friendly-retreat/)**  2024-06-24 08:00:00
