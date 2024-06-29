@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[LinkedIn : découvrez des services offshore sur la page de SEDECO](https://sedecobtob.blogspot.com/2024/06/linkedin-decouvrez-des-services.html)**  2024-06-28 14:24:10
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[NON-FEE PAYING PRIVATE SECONDARY SCHOOL CRISIS – Pax et concordia dimension under attack](https://www.lemauricien.com/le-mauricien/non-fee-paying-private-secondary-school-crisis-pax-et-concordia-dimension-under-attack/640067/)**  2024-06-27 14:00:03
+**[LUIGI PIRANDELLO, PRECURSOR OF CONTEMPORARY DRAMA](https://www.lemauricien.com/le-mauricien/luigi-pirandello-precursor-of-contemporary-drama/640211/)**  2024-06-28 14:00:34
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Women are from Venus, Men from Mars (ideologies broaden or narrow the gap)](https://zoomdr.blogspot.com/2024/06/women-are-from-venus-men-from-mars.html)**  2024-06-27 07:07:29
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Cirque with Jay](https://kabilen.tumblr.com/post/753919937974845440)**  2024-06-21 19:21:21
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[SEO : des services optimaux avec la société SEDECO](https://sedecobtob.blogspot.com/2024/06/seo-des-services-optimaux-avec-la.html)**  2024-06-21 13:00:14
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Aubergine or Eggplant and Mushroom Lasagna](https://veganlovlie.com/aubergine-and-mushroom-lasagna/)**  2024-06-20 19:13:53
