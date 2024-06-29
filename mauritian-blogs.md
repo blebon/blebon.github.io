@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[28.June.2024](https://kabilen.tumblr.com/post/754593149149724672)**  2024-06-29 05:41:45
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[LinkedIn : découvrez des services offshore sur la page de SEDECO](https://sedecobtob.blogspot.com/2024/06/linkedin-decouvrez-des-services.html)**  2024-06-28 14:24:10
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Five Features to Seek in Your Eco-Friendly Retreat](https://blog.constancehotels.com/five-features-to-seek-in-your-eco-friendly-retreat/)**  2024-06-24 08:00:00
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Cirque with Jay](https://kabilen.tumblr.com/post/753919937974845440)**  2024-06-21 19:21:21
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Aubergine or Eggplant and Mushroom Lasagna](https://veganlovlie.com/aubergine-and-mushroom-lasagna/)**  2024-06-20 19:13:53
