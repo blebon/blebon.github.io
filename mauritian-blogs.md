@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Celebrations at UB3](https://kabilen.tumblr.com/post/754684967754350592)**  2024-06-30 06:01:10
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Des chrétiens se mobilisent contre l’extrême droite](https://www.lemauricien.com/le-mauricien/des-chretiens-se-mobilisent-contre-lextreme-droite/640334/)**  2024-06-29 13:17:15
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[28.June.2024](https://kabilen.tumblr.com/post/754593149149724672)**  2024-06-29 05:41:45
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[LinkedIn : découvrez des services offshore sur la page de SEDECO](https://sedecobtob.blogspot.com/2024/06/linkedin-decouvrez-des-services.html)**  2024-06-28 14:24:10
