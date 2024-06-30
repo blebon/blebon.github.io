@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Des chrétiens se mobilisent contre l’extrême droite](https://www.lemauricien.com/le-mauricien/des-chretiens-se-mobilisent-contre-lextreme-droite/640334/)**  2024-06-29 13:17:15
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[28.June.2024](https://kabilen.tumblr.com/post/754593149149724672)**  2024-06-29 05:41:45
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[LinkedIn : découvrez des services offshore sur la page de SEDECO](https://sedecobtob.blogspot.com/2024/06/linkedin-decouvrez-des-services.html)**  2024-06-28 14:24:10
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LUIGI PIRANDELLO, PRECURSOR OF CONTEMPORARY DRAMA](https://www.lemauricien.com/le-mauricien/luigi-pirandello-precursor-of-contemporary-drama/640211/)**  2024-06-28 14:00:34
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Women are from Venus, Men from Mars (ideologies broaden or narrow the gap)](https://zoomdr.blogspot.com/2024/06/women-are-from-venus-men-from-mars.html)**  2024-06-27 07:07:29
