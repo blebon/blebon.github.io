@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[ReA Se En Parti Extrem Drwat](http://kozelidir.blogspot.com/2024/06/rea-se-en-parti-extrem-drwat.html)**  2024-06-30 13:02:58
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Celebrations at UB3](https://kabilen.tumblr.com/post/754684967754350592)**  2024-06-30 06:01:10
 
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Lunch Time](http://gadatagada.blogspot.com/2024/06/lunch-time.html)**  2024-06-01 10:11:26
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[World Celebrates Birth and Awakening of Lord Buddha](http://kozelidir.blogspot.com/2024/05/world-celebrates-birth-and-awakening-of.html)**  2024-05-21 18:26:14
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2024/05/apres-avoir-critique-le-capitalisme.html)**  2024-05-17 23:55:02
