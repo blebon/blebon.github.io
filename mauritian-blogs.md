@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Reversing Extinction: Innovative Approaches to Biodiversity Conservation - The DODO De-Extinction Project](https://facultyagriculture.blogspot.com/2024/07/reversing-extinction-innovative.html)**  2024-07-02 08:40:37
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LBImpactS Student Stories Episode 2: Lagoon  Clean-Up](https://www.lemauricien.com/le-mauricien/lbimpacts-student-stories-episode-2-lagoon-clean-up/640530/)**  2024-07-01 13:00:17
 
@@ -102,9 +105,6 @@ permalink: /mauritian-blogs/
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Silence, on exécute à Gaza!](https://jeanmeedesveaux.blogspot.com/2023/12/silence-on-tue-gaza.html)**  2023-12-28 12:08:58
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Ecopec Food Freshness Retainer (A natural coating to enhance the shelf-life of fresh fruits and vegetables)](https://facultyagriculture.blogspot.com/2023/12/ecopec-food-freshness-retainer-natural.html)**  2023-12-08 05:58:09
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴JOLLY'S ROCK à BUTTE A L'HERBE](https://mysweetmauritius.blogspot.com/2023/12/jollys-rock-butte-lherbe.html)**  2023-12-05 15:28:16
