@@ -5,10 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Reversing Extinction: Innovative Approaches to Biodiversity Conservation - The DODO De-Extinction Project](https://facultyagriculture.blogspot.com/2024/07/reversing-extinction-innovative.html)**  2024-07-02 08:40:37
+**[Revitalizing Agriculture in Mauritius: Challenges, Innovations, and the Role of Education](https://facultyagriculture.blogspot.com/2024/07/revitalizing-agriculture-in-mauritius.html)**  2024-07-02 14:05:59
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Sparkling Ornament](https://swanlady-impressions.blogspot.com/2024/07/sparkling-ornament.html)**  2024-07-02 13:46:52
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LBImpactS Student Stories Episode 2: Lagoon  Clean-Up](https://www.lemauricien.com/le-mauricien/lbimpacts-student-stories-episode-2-lagoon-clean-up/640530/)**  2024-07-01 13:00:17
+**[Pierre Dinan: A Man For All Seasons](https://www.lemauricien.com/le-mauricien/pierre-dinan-a-man-for-all-seasons/640656/)**  2024-07-02 13:00:26
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[ReA Se En Parti Extrem Drwat](http://kozelidir.blogspot.com/2024/06/rea-se-en-parti-extrem-drwat.html)**  2024-06-30 13:02:58
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Rani's Cuisine - Menus](https://raniscuisine.com/blogs/news)  
 **[Gian Lassi in Amritsar](https://raniscuisine.com/blogs/news/gian-lassi-in-amritsar)**  2024-06-08 05:13:40
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Celebrating You Today](https://swanlady-impressions.blogspot.com/2024/06/celebrating-you-today.html)**  2024-06-07 19:08:20
 
 [turbine.mu](https://turbine.mu)  
 **[Meet Leithycia Deschezeaux, founder of Lwé Li](https://turbine.mu/blog/2024/06/06/meet-leithycia-deschezeaux-founder-of-lwe-li/)**  2024-06-06 12:12:23
