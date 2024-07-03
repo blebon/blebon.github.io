@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Simin lalimir ?](https://tchombo.blogspot.com/2024/07/simin-lalimir.html)**  2024-07-03 11:02:47
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Revitalizing Agriculture in Mauritius: Challenges, Innovations, and the Role of Education](https://facultyagriculture.blogspot.com/2024/07/revitalizing-agriculture-in-mauritius.html)**  2024-07-02 14:05:59
 
