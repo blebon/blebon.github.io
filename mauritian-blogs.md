@@ -4,8 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[St. Andrew’s Garrison Church](https://priscimon.com/blog/2024/07/04/st-andrews-garrison-church/)**  2024-07-04 21:26:30
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Référencement naturel : SEDECO et ses services offshore qualitatifs](https://sedecobtob.blogspot.com/2024/07/referencement-naturel-sedeco-et-ses.html)**  2024-07-04 19:18:38
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Le danger ? Qu’est cela ?](https://www.lemauricien.com/le-mauricien/le-danger-quest-cela/640760/)**  2024-07-03 12:01:23
+**[Le trésor des « buses »…](https://www.lemauricien.com/le-mauricien/le-tresor-des-buses/640873/)**  2024-07-04 12:01:01
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Constance Hotels & Resorts Loyalty Programme: Echo Privilege Club](https://blog.constancehotels.com/constance-hotels-resorts-loyalty-programme-echo-privilege-club/)**  2024-07-04 12:00:00
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Simin lalimir ?](https://tchombo.blogspot.com/2024/07/simin-lalimir.html)**  2024-07-03 11:02:47
@@ -22,17 +31,11 @@ permalink: /mauritian-blogs/
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Celebrations at UB3](https://kabilen.tumblr.com/post/754684967754350592)**  2024-06-30 06:01:10
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[LinkedIn : découvrez des services offshore sur la page de SEDECO](https://sedecobtob.blogspot.com/2024/06/linkedin-decouvrez-des-services.html)**  2024-06-28 14:24:10
-
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Women are from Venus, Men from Mars (ideologies broaden or narrow the gap)](https://zoomdr.blogspot.com/2024/06/women-are-from-venus-men-from-mars.html)**  2024-06-27 07:07:29
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[A blueprint for a coordinated minimum effective taxation standard for ultra-high-net-worth individuals](https://amarbheenick.blogspot.com/2024/06/a-blueprint-for-coordinated-minimum.html)**  2024-06-26 15:18:27
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Five Features to Seek in Your Eco-Friendly Retreat](https://blog.constancehotels.com/five-features-to-seek-in-your-eco-friendly-retreat/)**  2024-06-24 08:00:00
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Aubergine or Eggplant and Mushroom Lasagna](https://veganlovlie.com/aubergine-and-mushroom-lasagna/)**  2024-06-20 19:13:53
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Summer Happies](https://davidandjennilyn.com/2024/06/11/summer-happies/)**  2024-06-12 03:28:55
-
-[priscimon.com](https://priscimon.com/blog)  
-**[A photo walk around Farnborough](https://priscimon.com/blog/2024/06/10/a-photo-walk-around-farnborough/)**  2024-06-10 21:50:45
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Review of Dashcam Lingdu LD06](https://yashvinblogs.com/2024/06/09/dashcam-lingdu-ld06/)**  2024-06-09 06:23:13
