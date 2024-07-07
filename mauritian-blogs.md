@@ -37,6 +37,9 @@ permalink: /mauritian-blogs/
 [Amar](https://amarbheenick.blogspot.com/)  
 **[A blueprint for a coordinated minimum effective taxation standard for ultra-high-net-worth individuals](https://amarbheenick.blogspot.com/2024/06/a-blueprint-for-coordinated-minimum.html)**  2024-06-26 15:18:27
 
+[Celeborn](http://blog.atwin.org/)  
+**[Running Powershell commands on a set of files](http://blog.atwin.org/2024/06/running-powershell-commands-on-set-of.html)**  2024-06-24 04:53:36
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Aubergine or Eggplant and Mushroom Lasagna](https://veganlovlie.com/aubergine-and-mushroom-lasagna/)**  2024-06-20 19:13:53
 
