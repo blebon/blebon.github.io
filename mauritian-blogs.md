@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Fractured lives in Arundhati Roy’s  : “The God of Small things”](https://www.lemauricien.com/le-mauricien/fractured-lives-in-arundhati-roys-the-god-of-small-things/641019/)**  2024-07-05 12:02:10
+**[Wintry Nostalgia Nailed](https://www.lemauricien.com/le-mauricien/wintry-nostalgia-nailed/641399/)**  2024-07-08 14:00:53
 
 [priscimon.com](https://priscimon.com/blog)  
 **[St. Andrew’s Garrison Church](https://priscimon.com/blog/2024/07/04/st-andrews-garrison-church/)**  2024-07-04 21:26:30
