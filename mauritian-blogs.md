@@ -4,8 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Pacific City 2024](https://davidandjennilyn.com/2024/07/09/pacific-city-2024/)**  2024-07-10 02:15:32
+
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Strawberries!](https://swanlady-impressions.blogspot.com/2024/07/strawberries.html)**  2024-07-09 16:45:29
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Wintry Nostalgia Nailed](https://www.lemauricien.com/le-mauricien/wintry-nostalgia-nailed/641399/)**  2024-07-08 14:00:53
+**[Je te dirai des mots](https://www.lemauricien.com/le-mauricien/je-te-dirai-des-mots/641606/)**  2024-07-09 14:00:44
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Why Constance Lemuria’s DIVA Restaurant is a Must-Try](https://blog.constancehotels.com/why-constance-lemurias-diva-restaurant-is-a-must-try/)**  2024-07-09 13:44:39
 
 [priscimon.com](https://priscimon.com/blog)  
 **[St. Andrew’s Garrison Church](https://priscimon.com/blog/2024/07/04/st-andrews-garrison-church/)**  2024-07-04 21:26:30
@@ -13,17 +22,11 @@ permalink: /mauritian-blogs/
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Référencement naturel : SEDECO et ses services offshore qualitatifs](https://sedecobtob.blogspot.com/2024/07/referencement-naturel-sedeco-et-ses.html)**  2024-07-04 19:18:38
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Constance Hotels & Resorts Loyalty Programme: Echo Privilege Club](https://blog.constancehotels.com/constance-hotels-resorts-loyalty-programme-echo-privilege-club/)**  2024-07-04 12:00:00
-
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Simin lalimir ?](https://tchombo.blogspot.com/2024/07/simin-lalimir.html)**  2024-07-03 11:02:47
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Revitalizing Agriculture in Mauritius: Challenges, Innovations, and the Role of Education](https://facultyagriculture.blogspot.com/2024/07/revitalizing-agriculture-in-mauritius.html)**  2024-07-02 14:05:59
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Sparkling Ornament](https://swanlady-impressions.blogspot.com/2024/07/sparkling-ornament.html)**  2024-07-02 13:46:52
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[ReA Se En Parti Extrem Drwat](http://kozelidir.blogspot.com/2024/06/rea-se-en-parti-extrem-drwat.html)**  2024-06-30 13:02:58
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Online scams in Mauritius](https://relocationmauritius.wordpress.com/2024/06/12/online-scams-in-mauritius/)**  2024-06-12 14:57:47
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Summer Happies](https://davidandjennilyn.com/2024/06/11/summer-happies/)**  2024-06-12 03:28:55
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Review of Dashcam Lingdu LD06](https://yashvinblogs.com/2024/06/09/dashcam-lingdu-ld06/)**  2024-06-09 06:23:13
