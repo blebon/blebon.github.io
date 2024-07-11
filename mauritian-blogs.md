@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Un monde fragile](https://www.lemauricien.com/le-mauricien/un-monde-fragile/641684/)**  2024-07-10 12:02:41
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Pacific City 2024](https://davidandjennilyn.com/2024/07/09/pacific-city-2024/)**  2024-07-10 02:15:32
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Strawberries!](https://swanlady-impressions.blogspot.com/2024/07/strawberries.html)**  2024-07-09 16:45:29
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Je te dirai des mots](https://www.lemauricien.com/le-mauricien/je-te-dirai-des-mots/641606/)**  2024-07-09 14:00:44
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Why Constance Lemuria’s DIVA Restaurant is a Must-Try](https://blog.constancehotels.com/why-constance-lemurias-diva-restaurant-is-a-must-try/)**  2024-07-09 13:44:39
