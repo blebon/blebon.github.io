@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Un monde fragile](https://www.lemauricien.com/le-mauricien/un-monde-fragile/641684/)**  2024-07-10 12:02:41
+**[LBImpactS Student Stories Episode 3: LBIS Recycling Centre](https://www.lemauricien.com/le-mauricien/lbimpacts-student-stories-episode-3-lbis-recycling-centre/641830/)**  2024-07-11 13:00:04
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Pacific City 2024](https://davidandjennilyn.com/2024/07/09/pacific-city-2024/)**  2024-07-10 02:15:32
