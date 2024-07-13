@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LBImpactS Student Stories Episode 3: LBIS Recycling Centre](https://www.lemauricien.com/le-mauricien/lbimpacts-student-stories-episode-3-lbis-recycling-centre/641830/)**  2024-07-11 13:00:04
+**[The Man behind “the Raman Effect”](https://www.lemauricien.com/le-mauricien/the-man-behind-the-raman-effect/641964/)**  2024-07-12 12:02:56
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Pacific City 2024](https://davidandjennilyn.com/2024/07/09/pacific-city-2024/)**  2024-07-10 02:15:32
@@ -129,8 +129,5 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Custard and Cherry Jam Phyllo Tartlets](https://everpeckish.com/custard-and-cherry-jam-phyllo-tartlets/?utm_source=rss&utm_medium=rss&utm_campaign=custard-and-cherry-jam-phyllo-tartlets)**  2023-08-13 12:51:45
-
-[Savour the moment](https://savourthemomentattechie.blogspot.com/)  
-**[A Day in the Life of a VMware Administrator](https://savourthemomentattechie.blogspot.com/2023/08/a-day-in-life-of-vmware-administrator.html)**  2023-08-12 04:20:14
 
 <div style="height:0;width:0;overflow:hidden;"></div>
