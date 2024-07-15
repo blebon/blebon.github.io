@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Happy 15th Birthday Violet](https://davidandjennilyn.com/2024/07/14/happy-15th-birthday-violet/)**  2024-07-15 02:56:00
+
+[UoM-Communication Studies](https://comstudies.wordpress.com)  
+**[Have the prices of basic commodities such as cheese and tuna really doubled in the past five years?](https://comstudies.wordpress.com/2024/07/14/have-the-prices-of-basic-commodities-such-as-cheese-and-tuna-really-doubled-in-the-past-five-years/)**  2024-07-14 13:00:05
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[The Man behind “the Raman Effect”](https://www.lemauricien.com/le-mauricien/the-man-behind-the-raman-effect/641964/)**  2024-07-12 12:02:56
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Pacific City 2024](https://davidandjennilyn.com/2024/07/09/pacific-city-2024/)**  2024-07-10 02:15:32
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Strawberries!](https://swanlady-impressions.blogspot.com/2024/07/strawberries.html)**  2024-07-09 16:45:29
@@ -118,16 +121,10 @@ permalink: /mauritian-blogs/
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[Book Now Artist: EL PLAGA](https://elplagaa.blogspot.com/2023/10/book-now-artist-el-plaga.html)**  2023-10-16 12:41:57
 
-[UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[UOM students selected for the finals of the Africa Fact-Checking Awards 2023](https://comstudies.wordpress.com/2023/10/05/uom-students-selected-for-the-finals-of-the-africa-fact-checking-awards-2023/)**  2023-10-05 19:14:05
-
 [Katia M](https://katiam.blog)  
 **[Northern islands of Madagascar](https://katiam.blog/2023/09/29/northern-islands-of-madagascar/)**  2023-09-29 15:07:45
 
 [Melancholies](https://faustianmatters.blogspot.com/)  
 **[Sanity](https://faustianmatters.blogspot.com/2023/09/sanity.html)**  2023-09-19 09:14:11
-
-[ever peckish](https://everpeckish.com)  
-**[Custard and Cherry Jam Phyllo Tartlets](https://everpeckish.com/custard-and-cherry-jam-phyllo-tartlets/?utm_source=rss&utm_medium=rss&utm_campaign=custard-and-cherry-jam-phyllo-tartlets)**  2023-08-13 12:51:45
 
 <div style="height:0;width:0;overflow:hidden;"></div>
