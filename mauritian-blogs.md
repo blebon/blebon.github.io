@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Golden Hour: Top 3 Sunset Spots at Constance Halaveli](https://blog.constancehotels.com/golden-hour-top-3-sunset-spots-at-constance-halaveli/)**  2024-07-16 08:18:43
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Découverte d’un trésor,  droit de propriété…](https://www.lemauricien.com/le-mauricien/decouverte-dun-tresor-droit-de-propriete/642405/)**  2024-07-15 12:01:37
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Strawberries!](https://swanlady-impressions.blogspot.com/2024/07/strawberries.html)**  2024-07-09 16:45:29
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Why Constance Lemuria’s DIVA Restaurant is a Must-Try](https://blog.constancehotels.com/why-constance-lemurias-diva-restaurant-is-a-must-try/)**  2024-07-09 13:44:39
 
 [priscimon.com](https://priscimon.com/blog)  
 **[St. Andrew’s Garrison Church](https://priscimon.com/blog/2024/07/04/st-andrews-garrison-church/)**  2024-07-04 21:26:30
