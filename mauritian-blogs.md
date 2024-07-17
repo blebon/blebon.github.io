@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Quick SG stopover catchup](https://kabilen.tumblr.com/post/756242847384109056)**  2024-07-17 10:43:00
+
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[Quick and Easy User Addition to AD Groups with PowerShell](https://savourthemomentattechie.blogspot.com/2024/07/blog-post.html)**  2024-07-16 14:17:13
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[ReA Se En Parti Extrem Drwat](http://kozelidir.blogspot.com/2024/06/rea-se-en-parti-extrem-drwat.html)**  2024-06-30 13:02:58
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Celebrations at UB3](https://kabilen.tumblr.com/post/754684967754350592)**  2024-06-30 06:01:10
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Women are from Venus, Men from Mars (ideologies broaden or narrow the gap)](https://zoomdr.blogspot.com/2024/06/women-are-from-venus-men-from-mars.html)**  2024-06-27 07:07:29
