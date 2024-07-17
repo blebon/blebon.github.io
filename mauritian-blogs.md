@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Golden Hour: Top 3 Sunset Spots at Constance Halaveli](https://blog.constancehotels.com/golden-hour-top-3-sunset-spots-at-constance-halaveli/)**  2024-07-16 08:18:43
+[Savour the moment](https://savourthemomentattechie.blogspot.com/)  
+**[Quick and Easy User Addition to AD Groups with PowerShell](https://savourthemomentattechie.blogspot.com/2024/07/blog-post.html)**  2024-07-16 14:17:13
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Découverte d’un trésor,  droit de propriété…](https://www.lemauricien.com/le-mauricien/decouverte-dun-tresor-droit-de-propriete/642405/)**  2024-07-15 12:01:37
+**[La Vème République : le naufrage institutionnel](https://www.lemauricien.com/le-mauricien/la-veme-republique-le-naufrage-institutionnel/642511/)**  2024-07-16 14:00:29
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Golden Hour: Top 3 Sunset Spots at Constance Halaveli](https://blog.constancehotels.com/golden-hour-top-3-sunset-spots-at-constance-halaveli/)**  2024-07-16 08:18:43
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 15th Birthday Violet](https://davidandjennilyn.com/2024/07/14/happy-15th-birthday-violet/)**  2024-07-15 02:56:00
