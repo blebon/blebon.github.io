@@ -4,14 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Island Haven : Urban Chaos to Serenity](https://relocationmauritius.wordpress.com/2024/07/17/island-haven-urban-chaos-to-serenity/)**  2024-07-17 18:48:18
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Web design : des sites personnalisés avec la société BPO SEDECO](https://sedecobtob.blogspot.com/2024/07/web-design-des-sites-personnalises-avec.html)**  2024-07-17 15:37:19
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[COMMEMORATING OUR HISTORY  – The Aapravasi Ghat World Heritage Site: A Unique Indentured Labour Site on UNESCO’s List](https://www.lemauricien.com/le-mauricien/commemorating-our-history-the-aapravasi-ghat-world-heritage-site-a-unique-indentured-labour-site-on-unescos-list/642631/)**  2024-07-17 13:00:02
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Quick SG stopover catchup](https://kabilen.tumblr.com/post/756242847384109056)**  2024-07-17 10:43:00
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[Quick and Easy User Addition to AD Groups with PowerShell](https://savourthemomentattechie.blogspot.com/2024/07/blog-post.html)**  2024-07-16 14:17:13
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[La Vème République : le naufrage institutionnel](https://www.lemauricien.com/le-mauricien/la-veme-republique-le-naufrage-institutionnel/642511/)**  2024-07-16 14:00:29
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Golden Hour: Top 3 Sunset Spots at Constance Halaveli](https://blog.constancehotels.com/golden-hour-top-3-sunset-spots-at-constance-halaveli/)**  2024-07-16 08:18:43
@@ -27,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[St. Andrew’s Garrison Church](https://priscimon.com/blog/2024/07/04/st-andrews-garrison-church/)**  2024-07-04 21:26:30
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Référencement naturel : SEDECO et ses services offshore qualitatifs](https://sedecobtob.blogspot.com/2024/07/referencement-naturel-sedeco-et-ses.html)**  2024-07-04 19:18:38
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Simin lalimir ?](https://tchombo.blogspot.com/2024/07/simin-lalimir.html)**  2024-07-03 11:02:47
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Oops!](https://flicenflac.blogspot.com/2024/06/oops.html)**  2024-06-16 22:50:54
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Online scams in Mauritius](https://relocationmauritius.wordpress.com/2024/06/12/online-scams-in-mauritius/)**  2024-06-12 14:57:47
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Review of Dashcam Lingdu LD06](https://yashvinblogs.com/2024/06/09/dashcam-lingdu-ld06/)**  2024-06-09 06:23:13
