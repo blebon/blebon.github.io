@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Qui peut parler pour les wetlands ?](https://www.lemauricien.com/le-mauricien/qui-peut-parler-pour-les-wetlands/642759/)**  2024-07-18 12:01:10
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Island Haven : Urban Chaos to Serenity](https://relocationmauritius.wordpress.com/2024/07/17/island-haven-urban-chaos-to-serenity/)**  2024-07-17 18:48:18
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Web design : des sites personnalisés avec la société BPO SEDECO](https://sedecobtob.blogspot.com/2024/07/web-design-des-sites-personnalises-avec.html)**  2024-07-17 15:37:19
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[COMMEMORATING OUR HISTORY  – The Aapravasi Ghat World Heritage Site: A Unique Indentured Labour Site on UNESCO’s List](https://www.lemauricien.com/le-mauricien/commemorating-our-history-the-aapravasi-ghat-world-heritage-site-a-unique-indentured-labour-site-on-unescos-list/642631/)**  2024-07-17 13:00:02
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Quick SG stopover catchup](https://kabilen.tumblr.com/post/756242847384109056)**  2024-07-17 10:43:00
