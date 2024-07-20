@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Shirley Wellard Universal film cassette](https://priscimon.com/blog/2024/07/19/shirley-wellard-universal-film-cassette/)**  2024-07-19 23:45:19
+
+[Savour the moment](https://savourthemomentattechie.blogspot.com/)  
+**[[Coding with python][Installing Flask App]](https://savourthemomentattechie.blogspot.com/2024/07/coding-with-pythoninstalling-flask-app.html)**  2024-07-19 21:54:59
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Qui peut parler pour les wetlands ?](https://www.lemauricien.com/le-mauricien/qui-peut-parler-pour-les-wetlands/642759/)**  2024-07-18 12:01:10
+**[Cataclop, cataclop… Quand j’écris ce sont surtout des images  que je cherche pour stimuler les mots…](https://www.lemauricien.com/le-mauricien/cataclop-cataclop-quand-jecris-ce-sont-surtout-des-images-que-je-cherche-pour-stimuler-les-mots/642884/)**  2024-07-19 13:00:41
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Island Haven : Urban Chaos to Serenity](https://relocationmauritius.wordpress.com/2024/07/17/island-haven-urban-chaos-to-serenity/)**  2024-07-17 18:48:18
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Quick SG stopover catchup](https://kabilen.tumblr.com/post/756242847384109056)**  2024-07-17 10:43:00
-
-[Savour the moment](https://savourthemomentattechie.blogspot.com/)  
-**[Quick and Easy User Addition to AD Groups with PowerShell](https://savourthemomentattechie.blogspot.com/2024/07/blog-post.html)**  2024-07-16 14:17:13
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Golden Hour: Top 3 Sunset Spots at Constance Halaveli](https://blog.constancehotels.com/golden-hour-top-3-sunset-spots-at-constance-halaveli/)**  2024-07-16 08:18:43
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Strawberries!](https://swanlady-impressions.blogspot.com/2024/07/strawberries.html)**  2024-07-09 16:45:29
-
-[priscimon.com](https://priscimon.com/blog)  
-**[St. Andrew’s Garrison Church](https://priscimon.com/blog/2024/07/04/st-andrews-garrison-church/)**  2024-07-04 21:26:30
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Simin lalimir ?](https://tchombo.blogspot.com/2024/07/simin-lalimir.html)**  2024-07-03 11:02:47
