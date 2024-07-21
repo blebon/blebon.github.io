@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Peggy Gou Singapore 19 Jul 24](https://kabilen.tumblr.com/post/756586038841016320)**  2024-07-21 05:37:53
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[A city under clouds](https://www.lemauricien.com/le-mauricien/a-city-under-clouds/643038/)**  2024-07-20 13:07:21
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Web design : des sites personnalisés avec la société BPO SEDECO](https://sedecobtob.blogspot.com/2024/07/web-design-des-sites-personnalises-avec.html)**  2024-07-17 15:37:19
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Quick SG stopover catchup](https://kabilen.tumblr.com/post/756242847384109056)**  2024-07-17 10:43:00
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Golden Hour: Top 3 Sunset Spots at Constance Halaveli](https://blog.constancehotels.com/golden-hour-top-3-sunset-spots-at-constance-halaveli/)**  2024-07-16 08:18:43
