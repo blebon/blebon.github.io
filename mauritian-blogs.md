@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[A city under clouds](https://www.lemauricien.com/le-mauricien/a-city-under-clouds/643038/)**  2024-07-20 13:07:21
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Shirley Wellard Universal film cassette](https://priscimon.com/blog/2024/07/19/shirley-wellard-universal-film-cassette/)**  2024-07-19 23:45:19
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Coding with python][Installing Flask App]](https://savourthemomentattechie.blogspot.com/2024/07/coding-with-pythoninstalling-flask-app.html)**  2024-07-19 21:54:59
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Cataclop, cataclop… Quand j’écris ce sont surtout des images  que je cherche pour stimuler les mots…](https://www.lemauricien.com/le-mauricien/cataclop-cataclop-quand-jecris-ce-sont-surtout-des-images-que-je-cherche-pour-stimuler-les-mots/642884/)**  2024-07-19 13:00:41
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Island Haven : Urban Chaos to Serenity](https://relocationmauritius.wordpress.com/2024/07/17/island-haven-urban-chaos-to-serenity/)**  2024-07-17 18:48:18
