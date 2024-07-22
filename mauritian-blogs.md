@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Unwind with Constance Lodges](https://blog.constancehotels.com/unwind-with-constance-lodges/)**  2024-07-22 10:46:26
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Please do not disturb…. the flow](https://tchombo.blogspot.com/2024/07/please-do-not-disturb-flow.html)**  2024-07-22 10:01:41
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Peggy Gou Singapore 19 Jul 24](https://kabilen.tumblr.com/post/756586038841016320)**  2024-07-21 05:37:53
 
@@ -22,9 +28,6 @@ permalink: /mauritian-blogs/
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Web design : des sites personnalisés avec la société BPO SEDECO](https://sedecobtob.blogspot.com/2024/07/web-design-des-sites-personnalises-avec.html)**  2024-07-17 15:37:19
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Golden Hour: Top 3 Sunset Spots at Constance Halaveli](https://blog.constancehotels.com/golden-hour-top-3-sunset-spots-at-constance-halaveli/)**  2024-07-16 08:18:43
-
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 15th Birthday Violet](https://davidandjennilyn.com/2024/07/14/happy-15th-birthday-violet/)**  2024-07-15 02:56:00
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Strawberries!](https://swanlady-impressions.blogspot.com/2024/07/strawberries.html)**  2024-07-09 16:45:29
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Simin lalimir ?](https://tchombo.blogspot.com/2024/07/simin-lalimir.html)**  2024-07-03 11:02:47
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Revitalizing Agriculture in Mauritius: Challenges, Innovations, and the Role of Education](https://facultyagriculture.blogspot.com/2024/07/revitalizing-agriculture-in-mauritius.html)**  2024-07-02 14:05:59
