@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
+**[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[AKP 153 : leritaz literer Dev Virahsawmy rakonte par limem atraver enn interview filme](https://www.lemauricien.com/le-mauricien/akp-153-leritaz-literer-dev-virahsawmy-rakonte-par-limem-atraver-enn-interview-filme/643284/)**  2024-07-22 12:01:06
 
