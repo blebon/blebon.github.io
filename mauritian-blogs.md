@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[AKP 153 : leritaz literer Dev Virahsawmy rakonte par limem atraver enn interview filme](https://www.lemauricien.com/le-mauricien/akp-153-leritaz-literer-dev-virahsawmy-rakonte-par-limem-atraver-enn-interview-filme/643284/)**  2024-07-22 12:01:06
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Unwind with Constance Lodges](https://blog.constancehotels.com/unwind-with-constance-lodges/)**  2024-07-22 10:46:26
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Peggy Gou Singapore 19 Jul 24](https://kabilen.tumblr.com/post/756586038841016320)**  2024-07-21 05:37:53
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[A city under clouds](https://www.lemauricien.com/le-mauricien/a-city-under-clouds/643038/)**  2024-07-20 13:07:21
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Shirley Wellard Universal film cassette](https://priscimon.com/blog/2024/07/19/shirley-wellard-universal-film-cassette/)**  2024-07-19 23:45:19
