@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
-**[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[BPO : des services qualitatifs avec la société offshore SEDECO](https://sedecobtob.blogspot.com/2024/07/bpo-des-services-qualitatifs-avec-la.html)**  2024-07-23 14:18:04
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[AKP 153 : leritaz literer Dev Virahsawmy rakonte par limem atraver enn interview filme](https://www.lemauricien.com/le-mauricien/akp-153-leritaz-literer-dev-virahsawmy-rakonte-par-limem-atraver-enn-interview-filme/643284/)**  2024-07-22 12:01:06
+**[Romain Gary](https://www.lemauricien.com/le-mauricien/romain-gary/643363/)**  2024-07-23 14:00:21
+
+[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
+**[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Unwind with Constance Lodges](https://blog.constancehotels.com/unwind-with-constance-lodges/)**  2024-07-22 10:46:26
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Island Haven : Urban Chaos to Serenity](https://relocationmauritius.wordpress.com/2024/07/17/island-haven-urban-chaos-to-serenity/)**  2024-07-17 18:48:18
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Web design : des sites personnalisés avec la société BPO SEDECO](https://sedecobtob.blogspot.com/2024/07/web-design-des-sites-personnalises-avec.html)**  2024-07-17 15:37:19
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 15th Birthday Violet](https://davidandjennilyn.com/2024/07/14/happy-15th-birthday-violet/)**  2024-07-15 02:56:00
