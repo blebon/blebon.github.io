@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Fancy-Fair à Paris : rencontres en coulisses avec des artistes](https://www.lemauricien.com/le-mauricien/fancy-fair-a-paris-rencontres-en-coulisses-avec-des-artistes/643476/)**  2024-07-24 12:01:31
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : des services qualitatifs avec la société offshore SEDECO](https://sedecobtob.blogspot.com/2024/07/bpo-des-services-qualitatifs-avec-la.html)**  2024-07-23 14:18:04
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Romain Gary](https://www.lemauricien.com/le-mauricien/romain-gary/643363/)**  2024-07-23 14:00:21
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
