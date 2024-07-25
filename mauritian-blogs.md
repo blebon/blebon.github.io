@@ -19,6 +19,9 @@ permalink: /mauritian-blogs/
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Please do not disturb…. the flow](https://tchombo.blogspot.com/2024/07/please-do-not-disturb-flow.html)**  2024-07-22 10:01:41
 
+[Mike Sinnott's World](https://msinnott.net)  
+**[Soldier and Sportsman](https://msinnott.net/2024/07/21/soldier-and-sportsman/)**  2024-07-21 11:19:23
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Peggy Gou Singapore 19 Jul 24](https://kabilen.tumblr.com/post/756586038841016320)**  2024-07-21 05:37:53
 
@@ -90,9 +93,6 @@ permalink: /mauritian-blogs/
 
 [English Speaking Union](https://www.esumauritius.org)  
 **[Book Launch by ESU Member](https://www.esumauritius.org/news/book-launch-by-esu-member/)**  2024-04-24 10:33:44
-
-[Mike Sinnott's World](https://msinnott.net)  
-**[WARD 2024](https://msinnott.net/2024/04/18/ward-2024/)**  2024-04-18 11:44:03
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Learn more about our updated Terms of Service](https://shruticulturalgroup.blogspot.com/2024/04/learn-more-about-our-updated-terms-of.html)**  2024-04-17 22:18:57
