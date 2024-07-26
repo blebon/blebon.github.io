@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[turbine.mu](https://turbine.mu)  
+**[Circular Transformation in Sustainable Tourism](https://turbine.mu/blog/2024/07/26/circular-transformation-in-sustainable-tourism/)**  2024-07-26 07:43:50
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Love](https://vintishgokool.blogspot.com/2024/07/love.html)**  2024-07-25 21:03:56
 
@@ -75,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [Rani's Cuisine - Menus](https://raniscuisine.com/blogs/news)  
 **[Gian Lassi in Amritsar](https://raniscuisine.com/blogs/news/gian-lassi-in-amritsar)**  2024-06-08 05:13:40
-
-[turbine.mu](https://turbine.mu)  
-**[Meet Leithycia Deschezeaux, founder of Lwé Li](https://turbine.mu/blog/2024/06/06/meet-leithycia-deschezeaux-founder-of-lwe-li/)**  2024-06-06 12:12:23
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Lunch Time](http://gadatagada.blogspot.com/2024/06/lunch-time.html)**  2024-06-01 10:11:26
