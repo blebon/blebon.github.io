@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Love](https://vintishgokool.blogspot.com/2024/07/love.html)**  2024-07-25 21:03:56
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Fancy-Fair à Paris : rencontres en coulisses avec des artistes](https://www.lemauricien.com/le-mauricien/fancy-fair-a-paris-rencontres-en-coulisses-avec-des-artistes/643476/)**  2024-07-24 12:01:31
+**[Campagne pour la Maison Blanche : course plus que jamais ouverte après le désistement de Biden !](https://www.lemauricien.com/le-mauricien/campagne-pour-la-maison-blanche-course-plus-que-jamais-ouverte-apres-le-desistement-de-biden/643615/)**  2024-07-25 12:02:17
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : des services qualitatifs avec la société offshore SEDECO](https://sedecobtob.blogspot.com/2024/07/bpo-des-services-qualitatifs-avec-la.html)**  2024-07-23 14:18:04
@@ -99,9 +102,6 @@ permalink: /mauritian-blogs/
 
 [My life](https://myanonymouslife24.blogspot.com/)  
 **[2 more years lol](https://myanonymouslife24.blogspot.com/2024/04/2-more-years-lol.html)**  2024-04-15 13:48:09
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Jealousy on Divine & Higher-Being](https://vintishgokool.blogspot.com/2024/04/jealousy-on-higer-being.html)**  2024-04-12 15:31:03
 
 [NHQ Gallery](https://nhq12.blogspot.com/)  
 **[NHQ Gallery](https://nhq12.blogspot.com/2012/12/nhq-2012.html)**  2024-04-11 14:20:17
