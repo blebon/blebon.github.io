@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[RELIGION  : The QUR’AN – the Sacred Book of Islam,  a matchless Literary Masterpiece in Arabic!](https://www.lemauricien.com/le-mauricien/religion-the-quran-the-sacred-book-of-islam-a-matchless-literary-masterpiece-in-arabic/643743/)**  2024-07-26 14:00:00
+
 [turbine.mu](https://turbine.mu)  
 **[Circular Transformation in Sustainable Tourism](https://turbine.mu/blog/2024/07/26/circular-transformation-in-sustainable-tourism/)**  2024-07-26 07:43:50
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Love](https://vintishgokool.blogspot.com/2024/07/love.html)**  2024-07-25 21:03:56
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Campagne pour la Maison Blanche : course plus que jamais ouverte après le désistement de Biden !](https://www.lemauricien.com/le-mauricien/campagne-pour-la-maison-blanche-course-plus-que-jamais-ouverte-apres-le-desistement-de-biden/643615/)**  2024-07-25 12:02:17
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[BPO : des services qualitatifs avec la société offshore SEDECO](https://sedecobtob.blogspot.com/2024/07/bpo-des-services-qualitatifs-avec-la.html)**  2024-07-23 14:18:04
