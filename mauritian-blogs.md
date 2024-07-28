@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Eski Plant Plis Kan Se En Bon Stratezi Pu Moris?](http://kozelidir.blogspot.com/2024/07/eski-plant-plis-kan-se-en-bon-stratezi.html)**  2024-07-27 16:26:32
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[RELIGION  : The QUR’AN – the Sacred Book of Islam,  a matchless Literary Masterpiece in Arabic!](https://www.lemauricien.com/le-mauricien/religion-the-quran-the-sacred-book-of-islam-a-matchless-literary-masterpiece-in-arabic/643743/)**  2024-07-26 14:00:00
+**[Women Bleed](https://www.lemauricien.com/le-mauricien/women-bleed/643880/)**  2024-07-27 11:30:24
 
 [turbine.mu](https://turbine.mu)  
 **[Circular Transformation in Sustainable Tourism](https://turbine.mu/blog/2024/07/26/circular-transformation-in-sustainable-tourism/)**  2024-07-26 07:43:50
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Revitalizing Agriculture in Mauritius: Challenges, Innovations, and the Role of Education](https://facultyagriculture.blogspot.com/2024/07/revitalizing-agriculture-in-mauritius.html)**  2024-07-02 14:05:59
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[ReA Se En Parti Extrem Drwat](http://kozelidir.blogspot.com/2024/06/rea-se-en-parti-extrem-drwat.html)**  2024-06-30 13:02:58
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Women are from Venus, Men from Mars (ideologies broaden or narrow the gap)](https://zoomdr.blogspot.com/2024/06/women-are-from-venus-men-from-mars.html)**  2024-06-27 07:07:29
