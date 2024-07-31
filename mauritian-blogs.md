@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Présence en ligne : SEDECO vous propose son service SEO](https://sedecobtob.blogspot.com/2024/07/presence-en-ligne-sedeco-vous-propose.html)**  2024-07-30 16:59:20
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Acte de création littéraire et engagement politique](https://www.lemauricien.com/le-mauricien/acte-de-creation-litteraire-et-engagement-politique/644096/)**  2024-07-29 13:00:37
+**[Ce que signifie l’arbitraire …](https://www.lemauricien.com/le-mauricien/ce-que-signifie-larbitraire/644157/)**  2024-07-30 14:00:22
 
 [turbine.mu](https://turbine.mu)  
 **[The Importance of Sustainable Agriculture & Circular Transformation in Mauritius](https://turbine.mu/blog/2024/07/29/the-importance-of-sustainable-agriculture-circular-transformation-in-mauritius/)**  2024-07-29 10:52:56
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Love](https://vintishgokool.blogspot.com/2024/07/love.html)**  2024-07-25 21:03:56
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[BPO : des services qualitatifs avec la société offshore SEDECO](https://sedecobtob.blogspot.com/2024/07/bpo-des-services-qualitatifs-avec-la.html)**  2024-07-23 14:18:04
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
