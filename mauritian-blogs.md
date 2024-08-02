@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Moris 31//jul//24](https://kabilen.tumblr.com/post/757539764798914560)**  2024-07-31 18:16:57
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Infogérance de qualité : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/08/infogerance-de-qualite-place-lexpertise.html)**  2024-08-01 19:30:03
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Voices and silences in teaching](https://www.lemauricien.com/le-mauricien/voices-and-silences-in-teaching/644322/)**  2024-07-31 12:01:43
+**[Ramanujam Sooriamoorthy, poète et philosophe,  de l’océan Indien, fait l’éloge du football brésilien…](https://www.lemauricien.com/le-mauricien/ramanujam-sooriamoorthy-poete-et-philosophe-de-locean-indien-fait-leloge-du-football-bresilien/644430/)**  2024-08-01 14:00:18
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Présence en ligne : SEDECO vous propose son service SEO](https://sedecobtob.blogspot.com/2024/07/presence-en-ligne-sedeco-vous-propose.html)**  2024-07-30 16:59:20
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Moris 31//jul//24](https://kabilen.tumblr.com/post/757539764798914560)**  2024-07-31 18:16:57
 
 [turbine.mu](https://turbine.mu)  
 **[The Importance of Sustainable Agriculture & Circular Transformation in Mauritius](https://turbine.mu/blog/2024/07/29/the-importance-of-sustainable-agriculture-circular-transformation-in-mauritius/)**  2024-07-29 10:52:56
