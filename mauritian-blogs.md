@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[IN THE CARIBBEAN  “They Came to Guyanese Shores”  Overview of Indentured Labour in British Guiana (South America)  during the Age of Indenture (1834-1928)](https://www.lemauricien.com/le-mauricien/in-the-caribbean-they-came-to-guyanese-shores-overview-of-indentured-labour-in-british-guiana-south-america-during-the-age-of-indenture-1834-1928/644593/)**  2024-08-03 07:18:51
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Key Questions Arising from the Discussion on ChatGPT in Academia](https://facultyagriculture.blogspot.com/2024/08/key-questions-arising-from-discussion.html)**  2024-08-02 17:04:50
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Message pour Aadi Padinettaam Perukku Vizhaa 2024](https://www.lemauricien.com/le-mauricien/message-pour-aadi-padinettaam-perukku-vizhaa-2024/644571/)**  2024-08-02 14:34:42
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Infogérance de qualité : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/08/infogerance-de-qualite-place-lexpertise.html)**  2024-08-01 19:30:03
