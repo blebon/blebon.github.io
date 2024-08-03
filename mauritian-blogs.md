@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Infogérance de qualité : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/08/infogerance-de-qualite-place-lexpertise.html)**  2024-08-01 19:30:03
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Key Questions Arising from the Discussion on ChatGPT in Academia](https://facultyagriculture.blogspot.com/2024/08/key-questions-arising-from-discussion.html)**  2024-08-02 17:04:50
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Ramanujam Sooriamoorthy, poète et philosophe,  de l’océan Indien, fait l’éloge du football brésilien…](https://www.lemauricien.com/le-mauricien/ramanujam-sooriamoorthy-poete-et-philosophe-de-locean-indien-fait-leloge-du-football-bresilien/644430/)**  2024-08-01 14:00:18
+**[Message pour Aadi Padinettaam Perukku Vizhaa 2024](https://www.lemauricien.com/le-mauricien/message-pour-aadi-padinettaam-perukku-vizhaa-2024/644571/)**  2024-08-02 14:34:42
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Infogérance de qualité : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/08/infogerance-de-qualite-place-lexpertise.html)**  2024-08-01 19:30:03
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Moris 31//jul//24](https://kabilen.tumblr.com/post/757539764798914560)**  2024-07-31 18:16:57
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Strawberries!](https://swanlady-impressions.blogspot.com/2024/07/strawberries.html)**  2024-07-09 16:45:29
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Revitalizing Agriculture in Mauritius: Challenges, Innovations, and the Role of Education](https://facultyagriculture.blogspot.com/2024/07/revitalizing-agriculture-in-mauritius.html)**  2024-07-02 14:05:59
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Women are from Venus, Men from Mars (ideologies broaden or narrow the gap)](https://zoomdr.blogspot.com/2024/06/women-are-from-venus-men-from-mars.html)**  2024-06-27 07:07:29
