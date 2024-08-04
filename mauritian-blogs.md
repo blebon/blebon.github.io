@@ -7,6 +7,9 @@ permalink: /mauritian-blogs/
 [priscimon.com](https://priscimon.com/blog)  
 **[Farnborough International Airshow 2024 on film](https://priscimon.com/blog/2024/08/03/farnborough-international-airshow-2024-on-film/)**  2024-08-03 16:41:25
 
+[ever peckish](https://everpeckish.com)  
+**[Mauritian fried noodles- mine frire](https://everpeckish.com/mauritian-fried-noodles-mine-frire/?utm_source=rss&utm_medium=rss&utm_campaign=mauritian-fried-noodles-mine-frire)**  2024-08-03 14:15:13
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[IN THE CARIBBEAN  “They Came to Guyanese Shores”  Overview of Indentured Labour in British Guiana (South America)  during the Age of Indenture (1834-1928)](https://www.lemauricien.com/le-mauricien/in-the-caribbean-they-came-to-guyanese-shores-overview-of-indentured-labour-in-british-guiana-south-america-during-the-age-of-indenture-1834-1928/644593/)**  2024-08-03 07:18:51
 
