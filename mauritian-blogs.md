@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Suddenly, Mastering QM Becomes Fun](http://kozelidir.blogspot.com/2024/08/suddenly-mastering-qm-becomes-fun.html)**  2024-08-04 20:12:04
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Farnborough International Airshow 2024 on film](https://priscimon.com/blog/2024/08/03/farnborough-international-airshow-2024-on-film/)**  2024-08-03 16:41:25
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[The Importance of Sustainable Agriculture & Circular Transformation in Mauritius](https://turbine.mu/blog/2024/07/29/the-importance-of-sustainable-agriculture-circular-transformation-in-mauritius/)**  2024-07-29 10:52:56
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Eski Plant Plis Kan Se En Bon Stratezi Pu Moris?](http://kozelidir.blogspot.com/2024/07/eski-plant-plis-kan-se-en-bon-stratezi.html)**  2024-07-27 16:26:32
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Love](https://vintishgokool.blogspot.com/2024/07/love.html)**  2024-07-25 21:03:56
