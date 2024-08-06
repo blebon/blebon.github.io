@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Five Reasons to Join Echo Privilege Club](https://blog.constancehotels.com/five-reasons-to-join-echo-privilege-club/)**  2024-08-06 10:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Message pour Aadi Padinettaam Perukku Vizhaa 2024 : de la pérennité des voeux du mariage tamoul](https://www.lemauricien.com/le-mauricien/message-pour-aadi-padinettaam-perukku-vizhaa-2024-de-la-perennite-des-voeux-du-mariage-tamoul/644839/)**  2024-08-05 12:02:35
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Unwind with Constance Lodges](https://blog.constancehotels.com/unwind-with-constance-lodges/)**  2024-07-22 10:46:26
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Please do not disturb…. the flow](https://tchombo.blogspot.com/2024/07/please-do-not-disturb-flow.html)**  2024-07-22 10:01:41
