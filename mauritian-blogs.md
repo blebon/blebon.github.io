@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Five Reasons to Join Echo Privilege Club](https://blog.constancehotels.com/five-reasons-to-join-echo-privilege-club/)**  2024-08-06 10:00:00
+[No Title](https://vintishgokool.blogspot.com/)  
+**[A world of money system](https://vintishgokool.blogspot.com/2024/08/a-world-of-money-system.html)**  2024-08-06 19:51:55
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Message pour Aadi Padinettaam Perukku Vizhaa 2024 : de la pérennité des voeux du mariage tamoul](https://www.lemauricien.com/le-mauricien/message-pour-aadi-padinettaam-perukku-vizhaa-2024-de-la-perennite-des-voeux-du-mariage-tamoul/644839/)**  2024-08-05 12:02:35
+**[P.D. James and The Hidden  Realities of The Soul](https://www.lemauricien.com/le-mauricien/p-d-james-and-the-hidden-realities-of-the-soul/644974/)**  2024-08-06 12:01:56
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Five Reasons to Join Echo Privilege Club](https://blog.constancehotels.com/five-reasons-to-join-echo-privilege-club/)**  2024-08-06 10:00:00
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Suddenly, Mastering QM Becomes Fun](http://kozelidir.blogspot.com/2024/08/suddenly-mastering-qm-becomes-fun.html)**  2024-08-04 20:12:04
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[The Importance of Sustainable Agriculture & Circular Transformation in Mauritius](https://turbine.mu/blog/2024/07/29/the-importance-of-sustainable-agriculture-circular-transformation-in-mauritius/)**  2024-07-29 10:52:56
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Love](https://vintishgokool.blogspot.com/2024/07/love.html)**  2024-07-25 21:03:56
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
