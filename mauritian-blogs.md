@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[No Title](https://vintishgokool.blogspot.com/)  
-**[A world of money system](https://vintishgokool.blogspot.com/2024/08/a-world-of-money-system.html)**  2024-08-06 19:51:55
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[8//8 8.8](https://kabilen.tumblr.com/post/758215014802931712)**  2024-08-08 05:09:45
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[P.D. James and The Hidden  Realities of The Soul](https://www.lemauricien.com/le-mauricien/p-d-james-and-the-hidden-realities-of-the-soul/644974/)**  2024-08-06 12:01:56
+**[Les Racines du ciel à la mémoire de Philippe Suret](https://www.lemauricien.com/le-mauricien/les-racines-du-ciel-a-la-memoire-de-philippe-suret/645041/)**  2024-08-07 14:00:13
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[A world of money system](https://vintishgokool.blogspot.com/2024/08/a-world-of-money-system.html)**  2024-08-06 19:51:55
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Five Reasons to Join Echo Privilege Club](https://blog.constancehotels.com/five-reasons-to-join-echo-privilege-club/)**  2024-08-06 10:00:00
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Infogérance de qualité : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/08/infogerance-de-qualite-place-lexpertise.html)**  2024-08-01 19:30:03
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Moris 31//jul//24](https://kabilen.tumblr.com/post/757539764798914560)**  2024-07-31 18:16:57
 
 [turbine.mu](https://turbine.mu)  
 **[The Importance of Sustainable Agriculture & Circular Transformation in Mauritius](https://turbine.mu/blog/2024/07/29/the-importance-of-sustainable-agriculture-circular-transformation-in-mauritius/)**  2024-07-29 10:52:56
