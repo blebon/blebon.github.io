@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Polémique, la Cène en scène sur la Seine ? « La parodie du religieux a toujours fait partie de la culture populaire française »](https://zoomdr.blogspot.com/2024/08/polemique-la-cene-en-scene-sur-la-seine.html)**  2024-08-08 08:03:15
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[8//8 8.8](https://kabilen.tumblr.com/post/758215014802931712)**  2024-08-08 05:09:45
 
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Strawberries!](https://swanlady-impressions.blogspot.com/2024/07/strawberries.html)**  2024-07-09 16:45:29
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Women are from Venus, Men from Mars (ideologies broaden or narrow the gap)](https://zoomdr.blogspot.com/2024/06/women-are-from-venus-men-from-mars.html)**  2024-06-27 07:07:29
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[A blueprint for a coordinated minimum effective taxation standard for ultra-high-net-worth individuals](https://amarbheenick.blogspot.com/2024/06/a-blueprint-for-coordinated-minimum.html)**  2024-06-26 15:18:27
