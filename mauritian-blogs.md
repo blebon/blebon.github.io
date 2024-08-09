@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[turbine.mu](https://turbine.mu)  
+**[Driving Sustainable Innovation: The Greenwave Innovation Challenge](https://turbine.mu/blog/2024/08/09/driving-sustainable-innovation-the-greenwave-innovation-challenge/)**  2024-08-09 05:06:15
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Polémique, la Cène en scène sur la Seine ? « La parodie du religieux a toujours fait partie de la culture populaire française »](https://zoomdr.blogspot.com/2024/08/polemique-la-cene-en-scene-sur-la-seine.html)**  2024-08-08 08:03:15
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Infogérance de qualité : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/08/infogerance-de-qualite-place-lexpertise.html)**  2024-08-01 19:30:03
-
-[turbine.mu](https://turbine.mu)  
-**[The Importance of Sustainable Agriculture & Circular Transformation in Mauritius](https://turbine.mu/blog/2024/07/29/the-importance-of-sustainable-agriculture-circular-transformation-in-mauritius/)**  2024-07-29 10:52:56
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
