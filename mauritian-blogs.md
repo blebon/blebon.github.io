@@ -4,6 +4,15 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Prestataire offshore : SEDECO améliore votre visibilité sur le Web](https://sedecobtob.blogspot.com/2024/08/prestataire-offshore-sedeco-ameliore.html)**  2024-08-09 20:54:01
+
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[Matelot! Gogot pou faner la! 🤦🏽‍♂️](https://flicenflac.blogspot.com/2024/08/matelot-gogot-pou-faner-la.html)**  2024-08-09 19:18:30
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[LETTRE OUVERTE AU PREMIER MINISTRE ET AU MINISTRE DE LA JUSTICE](https://www.lemauricien.com/le-mauricien/lettre-ouverte-au-premier-ministre-et-au-ministre-de-la-justice/645233/)**  2024-08-09 13:00:48
+
 [turbine.mu](https://turbine.mu)  
 **[Driving Sustainable Innovation: The Greenwave Innovation Challenge](https://turbine.mu/blog/2024/08/09/driving-sustainable-innovation-the-greenwave-innovation-challenge/)**  2024-08-09 05:06:15
 
@@ -12,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[8//8 8.8](https://kabilen.tumblr.com/post/758215014802931712)**  2024-08-08 05:09:45
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Les Racines du ciel à la mémoire de Philippe Suret](https://www.lemauricien.com/le-mauricien/les-racines-du-ciel-a-la-memoire-de-philippe-suret/645041/)**  2024-08-07 14:00:13
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[A world of money system](https://vintishgokool.blogspot.com/2024/08/a-world-of-money-system.html)**  2024-08-06 19:51:55
@@ -33,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Key Questions Arising from the Discussion on ChatGPT in Academia](https://facultyagriculture.blogspot.com/2024/08/key-questions-arising-from-discussion.html)**  2024-08-02 17:04:50
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Infogérance de qualité : place à l’expertise de SEDECO](https://sedecobtob.blogspot.com/2024/08/infogerance-de-qualite-place-lexpertise.html)**  2024-08-01 19:30:03
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
@@ -72,9 +75,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Trip to Madagascar: What is Diurnal Air Temperature Variation?](https://nayarweb.com/blog/2024/trip-to-madagascar-what-is-diurnal-air-temperature-variation/)**  2024-06-19 11:59:33
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Oops!](https://flicenflac.blogspot.com/2024/06/oops.html)**  2024-06-16 22:50:54
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Review of Dashcam Lingdu LD06](https://yashvinblogs.com/2024/06/09/dashcam-lingdu-ld06/)**  2024-06-09 06:23:13
