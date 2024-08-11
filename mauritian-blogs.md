@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Shirley Wellard film cassette in pictures](https://priscimon.com/blog/2024/08/10/shirley-wellard-film-cassette-in-pictures/)**  2024-08-10 15:05:46
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[LE GRAND DENOUEMENT EST PROCHE](https://www.lemauricien.com/le-mauricien/le-grand-denouement-est-proche/645342/)**  2024-08-10 13:03:28
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Prestataire offshore : SEDECO améliore votre visibilité sur le Web](https://sedecobtob.blogspot.com/2024/08/prestataire-offshore-sedeco-ameliore.html)**  2024-08-09 20:54:01
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Matelot! Gogot pou faner la! 🤦🏽‍♂️](https://flicenflac.blogspot.com/2024/08/matelot-gogot-pou-faner-la.html)**  2024-08-09 19:18:30
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LETTRE OUVERTE AU PREMIER MINISTRE ET AU MINISTRE DE LA JUSTICE](https://www.lemauricien.com/le-mauricien/lettre-ouverte-au-premier-ministre-et-au-ministre-de-la-justice/645233/)**  2024-08-09 13:00:48
 
 [turbine.mu](https://turbine.mu)  
 **[Driving Sustainable Innovation: The Greenwave Innovation Challenge](https://turbine.mu/blog/2024/08/09/driving-sustainable-innovation-the-greenwave-innovation-challenge/)**  2024-08-09 05:06:15
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Suddenly, Mastering QM Becomes Fun](http://kozelidir.blogspot.com/2024/08/suddenly-mastering-qm-becomes-fun.html)**  2024-08-04 20:12:04
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Farnborough International Airshow 2024 on film](https://priscimon.com/blog/2024/08/03/farnborough-international-airshow-2024-on-film/)**  2024-08-03 16:41:25
 
 [ever peckish](https://everpeckish.com)  
 **[Mauritian fried noodles- mine frire](https://everpeckish.com/mauritian-fried-noodles-mine-frire/?utm_source=rss&utm_medium=rss&utm_campaign=mauritian-fried-noodles-mine-frire)**  2024-08-03 14:15:13
