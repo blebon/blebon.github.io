@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Discover Your Perfect Getaway: Mauritius or Maldives?](https://blog.constancehotels.com/discover-your-perfect-getaway-mauritius-or-maldives/)**  2024-08-12 09:00:00
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Portland Bridge Pedal 2024](https://davidandjennilyn.com/2024/08/11/portland-bridge-pedal-2024/)**  2024-08-12 07:29:19
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Shirley Wellard film cassette in pictures](https://priscimon.com/blog/2024/08/10/shirley-wellard-film-cassette-in-pictures/)**  2024-08-10 15:05:46
 
@@ -28,9 +34,6 @@ permalink: /mauritian-blogs/
 [No Title](https://vintishgokool.blogspot.com/)  
 **[A world of money system](https://vintishgokool.blogspot.com/2024/08/a-world-of-money-system.html)**  2024-08-06 19:51:55
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Five Reasons to Join Echo Privilege Club](https://blog.constancehotels.com/five-reasons-to-join-echo-privilege-club/)**  2024-08-06 10:00:00
-
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Suddenly, Mastering QM Becomes Fun](http://kozelidir.blogspot.com/2024/08/suddenly-mastering-qm-becomes-fun.html)**  2024-08-04 20:12:04
 
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Island Haven : Urban Chaos to Serenity](https://relocationmauritius.wordpress.com/2024/07/17/island-haven-urban-chaos-to-serenity/)**  2024-07-17 18:48:18
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy 15th Birthday Violet](https://davidandjennilyn.com/2024/07/14/happy-15th-birthday-violet/)**  2024-07-15 02:56:00
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Have the prices of basic commodities such as cheese and tuna really doubled in the past five years?](https://comstudies.wordpress.com/2024/07/14/have-the-prices-of-basic-commodities-such-as-cheese-and-tuna-really-doubled-in-the-past-five-years/)**  2024-07-14 13:00:05
