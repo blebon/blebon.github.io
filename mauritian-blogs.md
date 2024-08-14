@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Sécurité routière : qui veut la fin veut les moyens…](https://www.lemauricien.com/le-mauricien/securite-routiere-qui-veut-la-fin-veut-les-moyens/645486/)**  2024-08-12 14:00:21
+**[Jean-Christophe Carel : L’Art Optique au coeur de Bourdeaux](https://www.lemauricien.com/le-mauricien/jean-christophe-carel-lart-optique-au-coeur-de-bourdeaux/645648/)**  2024-08-14 05:00:00
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discover Your Perfect Getaway: Mauritius or Maldives?](https://blog.constancehotels.com/discover-your-perfect-getaway-mauritius-or-maldives/)**  2024-08-12 09:00:00
