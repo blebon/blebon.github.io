@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Présence en ligne : SEDECO propose différents services optimisés](https://sedecobtob.blogspot.com/2024/08/presence-en-ligne-sedeco-propose.html)**  2024-08-14 19:49:01
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Jean-Christophe Carel : L’Art Optique au coeur de Bourdeaux](https://www.lemauricien.com/le-mauricien/jean-christophe-carel-lart-optique-au-coeur-de-bourdeaux/645648/)**  2024-08-14 05:00:00
+**[SYSTÈME DE GOUVERNANCE : La démocratie en otage, sauvons-la !](https://www.lemauricien.com/le-mauricien/systeme-de-gouvernance-la-democratie-en-otage-sauvons-la/645764/)**  2024-08-14 13:00:36
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discover Your Perfect Getaway: Mauritius or Maldives?](https://blog.constancehotels.com/discover-your-perfect-getaway-mauritius-or-maldives/)**  2024-08-12 09:00:00
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Shirley Wellard film cassette in pictures](https://priscimon.com/blog/2024/08/10/shirley-wellard-film-cassette-in-pictures/)**  2024-08-10 15:05:46
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Prestataire offshore : SEDECO améliore votre visibilité sur le Web](https://sedecobtob.blogspot.com/2024/08/prestataire-offshore-sedeco-ameliore.html)**  2024-08-09 20:54:01
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Matelot! Gogot pou faner la! 🤦🏽‍♂️](https://flicenflac.blogspot.com/2024/08/matelot-gogot-pou-faner-la.html)**  2024-08-09 19:18:30
