@@ -5,13 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [No Title](https://vintishgokool.blogspot.com/)  
-**[Nowadays Devotee](https://vintishgokool.blogspot.com/2024/08/nowadays-devotee.html)**  2024-08-16 07:12:32
+**[Chances](https://vintishgokool.blogspot.com/2024/08/chances.html)**  2024-08-16 20:05:35
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Henri de Montherlant](https://www.lemauricien.com/le-mauricien/henri-de-montherlant/645901/)**  2024-08-16 12:01:26
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Présence en ligne : SEDECO propose différents services optimisés](https://sedecobtob.blogspot.com/2024/08/presence-en-ligne-sedeco-propose.html)**  2024-08-14 19:49:01
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[SYSTÈME DE GOUVERNANCE : La démocratie en otage, sauvons-la !](https://www.lemauricien.com/le-mauricien/systeme-de-gouvernance-la-democratie-en-otage-sauvons-la/645764/)**  2024-08-14 13:00:36
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discover Your Perfect Getaway: Mauritius or Maldives?](https://blog.constancehotels.com/discover-your-perfect-getaway-mauritius-or-maldives/)**  2024-08-12 09:00:00
