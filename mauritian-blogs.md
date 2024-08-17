@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[History and Remembrance : UNESCO’s International Day for the Slave Trade  and the Mauritian Context](https://www.lemauricien.com/le-mauricien/history-and-remembrance-unescos-international-day-for-the-slave-trade-and-the-mauritian-context/646022/)**  2024-08-17 09:01:16
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Chances](https://vintishgokool.blogspot.com/2024/08/chances.html)**  2024-08-16 20:05:35
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Henri de Montherlant](https://www.lemauricien.com/le-mauricien/henri-de-montherlant/645901/)**  2024-08-16 12:01:26
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Présence en ligne : SEDECO propose différents services optimisés](https://sedecobtob.blogspot.com/2024/08/presence-en-ligne-sedeco-propose.html)**  2024-08-14 19:49:01
