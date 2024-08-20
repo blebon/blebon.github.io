@@ -133,7 +133,4 @@ permalink: /mauritian-blogs/
 [Katia M](https://katiam.blog)  
 **[Northern islands of Madagascar](https://katiam.blog/2023/09/29/northern-islands-of-madagascar/)**  2023-09-29 15:07:45
 
-[Melancholies](https://faustianmatters.blogspot.com/)  
-**[Sanity](https://faustianmatters.blogspot.com/2023/09/sanity.html)**  2023-09-19 09:14:11
-
 <div style="height:0;width:0;overflow:hidden;"></div>
