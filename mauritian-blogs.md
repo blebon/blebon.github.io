@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Meet A 94-year-old Who Has A Gift For the PM](http://kozelidir.blogspot.com/2024/08/meet-94-year-old-who-has-gift-for-pm.html)**  2024-08-20 16:23:30
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Kidney Health](https://www.lemauricien.com/le-mauricien/kidney-health/646317/)**  2024-08-19 12:03:07
+**[Inspiration : Valse éthérée au jardin olympique](https://www.lemauricien.com/le-mauricien/inspiration-valse-etheree-au-jardin-olympique/646424/)**  2024-08-20 12:01:18
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Chances](https://vintishgokool.blogspot.com/2024/08/chances.html)**  2024-08-16 20:05:35
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[8//8 8.8](https://kabilen.tumblr.com/post/758215014802931712)**  2024-08-08 05:09:45
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Suddenly, Mastering QM Becomes Fun](http://kozelidir.blogspot.com/2024/08/suddenly-mastering-qm-becomes-fun.html)**  2024-08-04 20:12:04
 
 [ever peckish](https://everpeckish.com)  
 **[Mauritian fried noodles- mine frire](https://everpeckish.com/mauritian-fried-noodles-mine-frire/?utm_source=rss&utm_medium=rss&utm_campaign=mauritian-fried-noodles-mine-frire)**  2024-08-03 14:15:13
