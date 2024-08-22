@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Five Experiences to Create the Most Unforgettable Indian Ocean Getaway](https://blog.constancehotels.com/five-experiences-to-create-the-most-unforgettable-indian-ocean-getaway/)**  2024-08-22 09:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Le joug du stationnement sauvage](https://www.lemauricien.com/le-mauricien/le-joug-du-stationnement-sauvage/646509/)**  2024-08-21 12:01:17
+**[SCALING NEW HEIGHTS FOR WOMEN AND GIRLS  WITH BLEEDING DISORDERS IN MAURITIUS](https://www.lemauricien.com/le-mauricien/scaling-new-heights-for-women-and-girls-with-bleeding-disorders-in-mauritius/646606/)**  2024-08-22 08:53:28
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet A 94-year-old Who Has A Gift For the PM](http://kozelidir.blogspot.com/2024/08/meet-94-year-old-who-has-gift-for-pm.html)**  2024-08-20 16:23:30
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Présence en ligne : SEDECO propose différents services optimisés](https://sedecobtob.blogspot.com/2024/08/presence-en-ligne-sedeco-propose.html)**  2024-08-14 19:49:01
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Discover Your Perfect Getaway: Mauritius or Maldives?](https://blog.constancehotels.com/discover-your-perfect-getaway-mauritius-or-maldives/)**  2024-08-12 09:00:00
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Portland Bridge Pedal 2024](https://davidandjennilyn.com/2024/08/11/portland-bridge-pedal-2024/)**  2024-08-12 07:29:19
