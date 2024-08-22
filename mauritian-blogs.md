@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Le joug du stationnement sauvage](https://www.lemauricien.com/le-mauricien/le-joug-du-stationnement-sauvage/646509/)**  2024-08-21 12:01:17
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet A 94-year-old Who Has A Gift For the PM](http://kozelidir.blogspot.com/2024/08/meet-94-year-old-who-has-gift-for-pm.html)**  2024-08-20 16:23:30
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Inspiration : Valse éthérée au jardin olympique](https://www.lemauricien.com/le-mauricien/inspiration-valse-etheree-au-jardin-olympique/646424/)**  2024-08-20 12:01:18
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Chances](https://vintishgokool.blogspot.com/2024/08/chances.html)**  2024-08-16 20:05:35
