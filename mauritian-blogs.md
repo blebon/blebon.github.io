@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Five Experiences to Create the Most Unforgettable Indian Ocean Getaway](https://blog.constancehotels.com/five-experiences-to-create-the-most-unforgettable-indian-ocean-getaway/)**  2024-08-22 09:00:00
+[Mera Blog](https://nayarweb.com/blog)  
+**[Breaking Even on FUNDKISS after 5 Years.](https://nayarweb.com/blog/2024/breaking-even-on-fundkiss-after-5-years/)**  2024-08-23 22:59:14
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[SCALING NEW HEIGHTS FOR WOMEN AND GIRLS  WITH BLEEDING DISORDERS IN MAURITIUS](https://www.lemauricien.com/le-mauricien/scaling-new-heights-for-women-and-girls-with-bleeding-disorders-in-mauritius/646606/)**  2024-08-22 08:53:28
+**[JOURNEE INTERNATIONALE DU SOUVENIR DE LA TRAITE NEGRIERE ET SON ABOLITION – Esclavage : la Mer et la forêt](https://www.lemauricien.com/le-mauricien/journee-internationale-du-souvenir-de-la-traite-negriere-et-son-abolition-esclavage-la-mer-et-la-foret/646766/)**  2024-08-23 13:00:46
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Five Experiences to Create the Most Unforgettable Indian Ocean Getaway](https://blog.constancehotels.com/five-experiences-to-create-the-most-unforgettable-indian-ocean-getaway/)**  2024-08-22 09:00:00
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet A 94-year-old Who Has A Gift For the PM](http://kozelidir.blogspot.com/2024/08/meet-94-year-old-who-has-gift-for-pm.html)**  2024-08-20 16:23:30
@@ -72,9 +75,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Aubergine or Eggplant and Mushroom Lasagna](https://veganlovlie.com/aubergine-and-mushroom-lasagna/)**  2024-06-20 19:13:53
-
-[Mera Blog](https://nayarweb.com/blog)  
-**[Trip to Madagascar: What is Diurnal Air Temperature Variation?](https://nayarweb.com/blog/2024/trip-to-madagascar-what-is-diurnal-air-temperature-variation/)**  2024-06-19 11:59:33
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[Review of Dashcam Lingdu LD06](https://yashvinblogs.com/2024/06/09/dashcam-lingdu-ld06/)**  2024-06-09 06:23:13
