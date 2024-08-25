@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Oahu 2024](https://davidandjennilyn.com/2024/08/24/oahu-2024/)**  2024-08-24 18:28:48
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[God, Fate & Actions](https://vintishgokool.blogspot.com/2024/08/god-fate-actions.html)**  2024-08-24 15:46:39
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Hommage à Benoit Espitalier-Noël – Sportif qui porta tout haut, dans plusieurs disciplines, le drapeau mauricien](https://www.lemauricien.com/le-mauricien/hommage-a-benoit-espitalier-noel-sportif-qui-porta-tout-haut-dans-plusieurs-disciplines-le-drapeau-mauricien/646877/)**  2024-08-24 11:01:42
 
@@ -16,14 +22,8 @@ permalink: /mauritian-blogs/
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet A 94-year-old Who Has A Gift For the PM](http://kozelidir.blogspot.com/2024/08/meet-94-year-old-who-has-gift-for-pm.html)**  2024-08-20 16:23:30
 
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Chances](https://vintishgokool.blogspot.com/2024/08/chances.html)**  2024-08-16 20:05:35
-
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Présence en ligne : SEDECO propose différents services optimisés](https://sedecobtob.blogspot.com/2024/08/presence-en-ligne-sedeco-propose.html)**  2024-08-14 19:49:01
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Portland Bridge Pedal 2024](https://davidandjennilyn.com/2024/08/11/portland-bridge-pedal-2024/)**  2024-08-12 07:29:19
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Shirley Wellard film cassette in pictures](https://priscimon.com/blog/2024/08/10/shirley-wellard-film-cassette-in-pictures/)**  2024-08-10 15:05:46
