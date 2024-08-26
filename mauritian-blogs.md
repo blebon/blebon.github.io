@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Mru 2024](https://kabilen.tumblr.com/post/759862543390031872)**  2024-08-26 09:36:31
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Oahu 2024](https://davidandjennilyn.com/2024/08/24/oahu-2024/)**  2024-08-24 18:28:48
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Polémique, la Cène en scène sur la Seine ? « La parodie du religieux a toujours fait partie de la culture populaire française »](https://zoomdr.blogspot.com/2024/08/polemique-la-cene-en-scene-sur-la-seine.html)**  2024-08-08 08:03:15
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[8//8 8.8](https://kabilen.tumblr.com/post/758215014802931712)**  2024-08-08 05:09:45
 
 [ever peckish](https://everpeckish.com)  
 **[Mauritian fried noodles- mine frire](https://everpeckish.com/mauritian-fried-noodles-mine-frire/?utm_source=rss&utm_medium=rss&utm_campaign=mauritian-fried-noodles-mine-frire)**  2024-08-03 14:15:13
