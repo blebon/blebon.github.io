@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Alexandre Dumas](https://www.lemauricien.com/le-mauricien/alexandre-dumaslexandre-dumas/647032/)**  2024-08-26 12:02:36
+**[Kristin Surak : Golden Visas and the value  of citizenship in a globalised world](https://www.lemauricien.com/le-mauricien/kristin-surak-golden-visas-and-the-value-of-citizenship-in-a-globalised-world/647168/)**  2024-08-27 14:00:31
+
+[turbine.mu](https://turbine.mu)  
+**[Mastering Positive Disruption: Strategies from Manish Bundhun’s Workshop](https://turbine.mu/blog/2024/08/27/mastering-positive-disruption-strategies-from-manish-bundhuns-workshop/)**  2024-08-27 13:22:44
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Mru 2024](https://kabilen.tumblr.com/post/759862543390031872)**  2024-08-26 09:36:31
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Matelot! Gogot pou faner la! 🤦🏽‍♂️](https://flicenflac.blogspot.com/2024/08/matelot-gogot-pou-faner-la.html)**  2024-08-09 19:18:30
-
-[turbine.mu](https://turbine.mu)  
-**[Driving Sustainable Innovation: The Greenwave Innovation Challenge](https://turbine.mu/blog/2024/08/09/driving-sustainable-innovation-the-greenwave-innovation-challenge/)**  2024-08-09 05:06:15
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Polémique, la Cène en scène sur la Seine ? « La parodie du religieux a toujours fait partie de la culture populaire française »](https://zoomdr.blogspot.com/2024/08/polemique-la-cene-en-scene-sur-la-seine.html)**  2024-08-08 08:03:15
