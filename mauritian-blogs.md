@@ -4,20 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[GB Days Indonesia Aug 2024](https://kabilen.tumblr.com/post/760194217122447360)**  2024-08-30 01:28:20
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Interview & Questioning](https://vintishgokool.blogspot.com/2024/08/interview-questioning.html)**  2024-08-29 20:05:42
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Kristin Surak : Golden Visas and the value  of citizenship in a globalised world](https://www.lemauricien.com/le-mauricien/kristin-surak-golden-visas-and-the-value-of-citizenship-in-a-globalised-world/647168/)**  2024-08-27 14:00:31
+**[Bahai Convention Centre : le rôle de la jeunesse dans la transformation de la société](https://www.lemauricien.com/le-mauricien/bahai-convention-centre-le-role-de-la-jeunesse-dans-la-transformation-de-la-societe/647470/)**  2024-08-29 12:02:10
 
 [turbine.mu](https://turbine.mu)  
 **[Mastering Positive Disruption: Strategies from Manish Bundhun’s Workshop](https://turbine.mu/blog/2024/08/27/mastering-positive-disruption-strategies-from-manish-bundhuns-workshop/)**  2024-08-27 13:22:44
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Mru 2024](https://kabilen.tumblr.com/post/759862543390031872)**  2024-08-26 09:36:31
-
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Oahu 2024](https://davidandjennilyn.com/2024/08/24/oahu-2024/)**  2024-08-24 18:28:48
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[God, Fate & Actions](https://vintishgokool.blogspot.com/2024/08/god-fate-actions.html)**  2024-08-24 15:46:39
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Breaking Even on FUNDKISS after 5 Years.](https://nayarweb.com/blog/2024/breaking-even-on-fundkiss-after-5-years/)**  2024-08-23 22:59:14
