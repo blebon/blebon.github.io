@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Whose Police and Why Protest? –  Embrace the Values from Thiruvalluvar’s Kural](https://www.lemauricien.com/le-mauricien/whose-police-and-why-protest-embrace-the-values-from-thiruvalluvars-kural/647548/)**  2024-08-30 13:00:09
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[GB Days Indonesia Aug 2024](https://kabilen.tumblr.com/post/760194217122447360)**  2024-08-30 01:28:20
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Interview & Questioning](https://vintishgokool.blogspot.com/2024/08/interview-questioning.html)**  2024-08-29 20:05:42
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Bahai Convention Centre : le rôle de la jeunesse dans la transformation de la société](https://www.lemauricien.com/le-mauricien/bahai-convention-centre-le-role-de-la-jeunesse-dans-la-transformation-de-la-societe/647470/)**  2024-08-29 12:02:10
 
 [turbine.mu](https://turbine.mu)  
 **[Mastering Positive Disruption: Strategies from Manish Bundhun’s Workshop](https://turbine.mu/blog/2024/08/27/mastering-positive-disruption-strategies-from-manish-bundhuns-workshop/)**  2024-08-27 13:22:44
@@ -129,8 +129,5 @@ permalink: /mauritian-blogs/
 
 [EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
 **[Book Now Artist: EL PLAGA](https://elplagaa.blogspot.com/2023/10/book-now-artist-el-plaga.html)**  2023-10-16 12:41:57
-
-[Katia M](https://katiam.blog)  
-**[Northern islands of Madagascar](https://katiam.blog/2023/09/29/northern-islands-of-madagascar/)**  2023-09-29 15:07:45
 
 <div style="height:0;width:0;overflow:hidden;"></div>
