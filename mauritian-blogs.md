@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[APRÈS LA DÉCONSTRUCTION ?!](https://www.lemauricien.com/le-mauricien/apres-la-deconstruction/647897/)**  2024-09-02 13:00:42
+**[Imagining Sustainable Futures for the Common Good](https://www.lemauricien.com/le-mauricien/imagining-sustainable-futures-for-the-common-good/648038/)**  2024-09-03 07:46:59
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Marvel United: Multiverse Begins](https://davidandjennilyn.com/2024/09/01/marvel-united-multiverse-begins/)**  2024-09-01 22:20:23
