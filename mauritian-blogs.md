@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Internet Gratuit : Un cadeau empoisonné ?](https://www.lemauricien.com/le-mauricien/internet-gratuit-un-cadeau-empoisonne/648251/)**  2024-09-04 13:04:27
-
 [David and Jennilyn](https://davidandjennilyn.com)  
-**[Soaked In SpongeBob](https://davidandjennilyn.com/2024/09/03/soaked-in-spongebob/)**  2024-09-04 04:00:00
+**[A Pan and Hook](https://davidandjennilyn.com/2024/09/05/a-pan-and-hook/)**  2024-09-06 04:00:00
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Présence en ligne : confiez l’optimisation de votre site à SEDECO](https://sedecobtob.blogspot.com/2024/09/presence-en-ligne-confiez-loptimisation.html)**  2024-09-05 18:18:14
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Who will speak for her ?](https://www.lemauricien.com/le-mauricien/who-will-speak-for-her/648324/)**  2024-09-05 12:01:30
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[GB Days Indonesia Aug 2024](https://kabilen.tumblr.com/post/760194217122447360)**  2024-08-30 01:28:20
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet A 94-year-old Who Has A Gift For the PM](http://kozelidir.blogspot.com/2024/08/meet-94-year-old-who-has-gift-for-pm.html)**  2024-08-20 16:23:30
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Présence en ligne : SEDECO propose différents services optimisés](https://sedecobtob.blogspot.com/2024/08/presence-en-ligne-sedeco-propose.html)**  2024-08-14 19:49:01
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Shirley Wellard film cassette in pictures](https://priscimon.com/blog/2024/08/10/shirley-wellard-film-cassette-in-pictures/)**  2024-08-10 15:05:46
