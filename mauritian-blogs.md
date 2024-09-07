@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Reflecting on Democracy: The Challenges of Peaceful Assembly in Mauritius](https://www.lemauricien.com/le-mauricien/reflecting-on-democracy-the-challenges-of-peaceful-assembly-in-mauritius/648609/)**  2024-09-07 09:57:46
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Fleur de Moringa](https://kabilen.tumblr.com/post/760930381519323136)**  2024-09-07 04:29:21
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Everlasting Lessons](https://davidandjennilyn.com/2024/09/06/everlasting-lessons/)**  2024-09-07 04:00:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Redefining Prostitution : The Wolf and The Lamb](https://www.lemauricien.com/le-mauricien/redefining-prostitution-the-wolf-and-the-lamb/648488/)**  2024-09-06 14:00:36
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Perfect luxury adventure at Constance Belle Mare Plage](https://blog.constancehotels.com/crafting-the-perfect-luxury-adventure-at-constance-belle-mare-plage/)**  2024-09-06 11:30:00
