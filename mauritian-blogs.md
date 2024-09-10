@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Reflecting on Democracy: The Challenges of Peaceful Assembly in Mauritius](https://www.lemauricien.com/le-mauricien/reflecting-on-democracy-the-challenges-of-peaceful-assembly-in-mauritius/648609/)**  2024-09-07 09:57:46
+**[R.K.Narayan, the master of irony](https://www.lemauricien.com/le-mauricien/r-k-narayan-the-master-of-irony/648869/)**  2024-09-09 13:00:36
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Fleur de Moringa](https://kabilen.tumblr.com/post/760930381519323136)**  2024-09-07 04:29:21
