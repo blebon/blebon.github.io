@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[R.K.Narayan, the master of irony](https://www.lemauricien.com/le-mauricien/r-k-narayan-the-master-of-irony/648869/)**  2024-09-09 13:00:36
+**[L’empire immobile](https://www.lemauricien.com/le-mauricien/lempire-immobile/648999/)**  2024-09-10 13:00:50
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Appels : profitez d’une gestion optimale avec la société SEDECO](https://sedecobtob.blogspot.com/2024/09/appels-profitez-dune-gestion-optimale.html)**  2024-09-10 12:21:39
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Fleur de Moringa](https://kabilen.tumblr.com/post/760930381519323136)**  2024-09-07 04:29:21
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Perfect luxury adventure at Constance Belle Mare Plage](https://blog.constancehotels.com/crafting-the-perfect-luxury-adventure-at-constance-belle-mare-plage/)**  2024-09-06 11:30:00
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Présence en ligne : confiez l’optimisation de votre site à SEDECO](https://sedecobtob.blogspot.com/2024/09/presence-en-ligne-confiez-loptimisation.html)**  2024-09-05 18:18:14
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Interview & Questioning](https://vintishgokool.blogspot.com/2024/08/interview-questioning.html)**  2024-08-29 20:05:42
