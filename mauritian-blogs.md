@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Discovering the best-kept secrets of the Indian Ocean](https://blog.constancehotels.com/discovering-the-best-kept-secrets-of-the-indian-ocean/)**  2024-09-12 09:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Lettre ouverte : À la mémoire et à l’intention du Capitaine Robert Nairac, soldat de l’ombre à l’étoffe d’un héros](https://www.lemauricien.com/le-mauricien/lettre-ouverte-a-la-memoire-et-a-lintention-du-capitaine-robert-nairac-soldat-de-lombre-a-letoffe-dun-heros/649120/)**  2024-09-11 12:01:03
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Everlasting Lessons](https://davidandjennilyn.com/2024/09/06/everlasting-lessons/)**  2024-09-07 04:00:00
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Perfect luxury adventure at Constance Belle Mare Plage](https://blog.constancehotels.com/crafting-the-perfect-luxury-adventure-at-constance-belle-mare-plage/)**  2024-09-06 11:30:00
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Interview & Questioning](https://vintishgokool.blogspot.com/2024/08/interview-questioning.html)**  2024-08-29 20:05:42
