@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[L’empire immobile](https://www.lemauricien.com/le-mauricien/lempire-immobile/648999/)**  2024-09-10 13:00:50
+**[Lettre ouverte : À la mémoire et à l’intention du Capitaine Robert Nairac, soldat de l’ombre à l’étoffe d’un héros](https://www.lemauricien.com/le-mauricien/lettre-ouverte-a-la-memoire-et-a-lintention-du-capitaine-robert-nairac-soldat-de-lombre-a-letoffe-dun-heros/649120/)**  2024-09-11 12:01:03
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Appels : profitez d’une gestion optimale avec la société SEDECO](https://sedecobtob.blogspot.com/2024/09/appels-profitez-dune-gestion-optimale.html)**  2024-09-10 12:21:39
