@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Winning your restaurant game in Mauritius](https://relocationmauritius.wordpress.com/2024/09/13/winning-your-restaurant-game-in-mauritius/)**  2024-09-13 05:26:49
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[B to B : SEDECO oeuvre pour la satisfaction client](https://sedecobtob.blogspot.com/2024/09/b-to-b-sedeco-uvre-pour-la-satisfaction.html)**  2024-09-12 16:38:50
 
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Coding with python][Installing Flask App]](https://savourthemomentattechie.blogspot.com/2024/07/coding-with-pythoninstalling-flask-app.html)**  2024-07-19 21:54:59
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Island Haven : Urban Chaos to Serenity](https://relocationmauritius.wordpress.com/2024/07/17/island-haven-urban-chaos-to-serenity/)**  2024-07-17 18:48:18
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Have the prices of basic commodities such as cheese and tuna really doubled in the past five years?](https://comstudies.wordpress.com/2024/07/14/have-the-prices-of-basic-commodities-such-as-cheese-and-tuna-really-doubled-in-the-past-five-years/)**  2024-07-14 13:00:05
