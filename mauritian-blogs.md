@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Discovering the best-kept secrets of the Indian Ocean](https://blog.constancehotels.com/discovering-the-best-kept-secrets-of-the-indian-ocean/)**  2024-09-12 09:00:00
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[B to B : SEDECO oeuvre pour la satisfaction client](https://sedecobtob.blogspot.com/2024/09/b-to-b-sedeco-uvre-pour-la-satisfaction.html)**  2024-09-12 16:38:50
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Lettre ouverte : À la mémoire et à l’intention du Capitaine Robert Nairac, soldat de l’ombre à l’étoffe d’un héros](https://www.lemauricien.com/le-mauricien/lettre-ouverte-a-la-memoire-et-a-lintention-du-capitaine-robert-nairac-soldat-de-lombre-a-letoffe-dun-heros/649120/)**  2024-09-11 12:01:03
+**[Penser Gaza – la radicalité du Bien et du Mal](https://www.lemauricien.com/le-mauricien/penser-gaza-la-radicalite-du-bien-et-du-mal/649243/)**  2024-09-12 13:00:40
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Appels : profitez d’une gestion optimale avec la société SEDECO](https://sedecobtob.blogspot.com/2024/09/appels-profitez-dune-gestion-optimale.html)**  2024-09-10 12:21:39
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Discovering the best-kept secrets of the Indian Ocean](https://blog.constancehotels.com/discovering-the-best-kept-secrets-of-the-indian-ocean/)**  2024-09-12 09:00:00
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Fleur de Moringa](https://kabilen.tumblr.com/post/760930381519323136)**  2024-09-07 04:29:21
