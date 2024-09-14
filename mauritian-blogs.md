@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[PERSPECTIVES ON THE ENGLISH LANGUAGE IN THE MAURITIAN CONTEXT](https://www.lemauricien.com/le-mauricien/perspectives-on-the-english-language-in-the-mauritian-context/649483/)**  2024-09-14 07:18:50
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Shikar](https://kabilen.tumblr.com/post/761567355839152128)**  2024-09-14 05:13:47
+
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Stripes](https://swanlady-impressions.blogspot.com/2024/09/birthday-stripes.html)**  2024-09-13 13:26:06
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Exploring ancestral language Hindi : The Symbol of Inclusivity and Unity](https://www.lemauricien.com/le-mauricien/exploring-ancestral-language-hindi-the-symbol-of-inclusivity-and-unity/649407/)**  2024-09-13 12:01:25
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Boom!](https://flicenflac.blogspot.com/2024/09/boom.html)**  2024-09-13 11:54:26
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discovering the best-kept secrets of the Indian Ocean](https://blog.constancehotels.com/discovering-the-best-kept-secrets-of-the-indian-ocean/)**  2024-09-12 09:00:00
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Fleur de Moringa](https://kabilen.tumblr.com/post/760930381519323136)**  2024-09-07 04:29:21
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Everlasting Lessons](https://davidandjennilyn.com/2024/09/06/everlasting-lessons/)**  2024-09-07 04:00:00
