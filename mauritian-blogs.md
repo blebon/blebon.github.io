@@ -4,14 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
+**[Birthday Stripes](https://swanlady-impressions.blogspot.com/2024/09/birthday-stripes.html)**  2024-09-13 13:26:06
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Exploring ancestral language Hindi : The Symbol of Inclusivity and Unity](https://www.lemauricien.com/le-mauricien/exploring-ancestral-language-hindi-the-symbol-of-inclusivity-and-unity/649407/)**  2024-09-13 12:01:25
+
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[Boom!](https://flicenflac.blogspot.com/2024/09/boom.html)**  2024-09-13 11:54:26
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Winning your restaurant game in Mauritius](https://relocationmauritius.wordpress.com/2024/09/13/winning-your-restaurant-game-in-mauritius/)**  2024-09-13 05:26:49
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[B to B : SEDECO oeuvre pour la satisfaction client](https://sedecobtob.blogspot.com/2024/09/b-to-b-sedeco-uvre-pour-la-satisfaction.html)**  2024-09-12 16:38:50
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Penser Gaza – la radicalité du Bien et du Mal](https://www.lemauricien.com/le-mauricien/penser-gaza-la-radicalite-du-bien-et-du-mal/649243/)**  2024-09-12 13:00:40
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discovering the best-kept secrets of the Indian Ocean](https://blog.constancehotels.com/discovering-the-best-kept-secrets-of-the-indian-ocean/)**  2024-09-12 09:00:00
@@ -37,9 +43,6 @@ permalink: /mauritian-blogs/
 [priscimon.com](https://priscimon.com/blog)  
 **[Shirley Wellard film cassette in pictures](https://priscimon.com/blog/2024/08/10/shirley-wellard-film-cassette-in-pictures/)**  2024-08-10 15:05:46
 
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Matelot! Gogot pou faner la! 🤦🏽‍♂️](https://flicenflac.blogspot.com/2024/08/matelot-gogot-pou-faner-la.html)**  2024-08-09 19:18:30
-
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Polémique, la Cène en scène sur la Seine ? « La parodie du religieux a toujours fait partie de la culture populaire française »](https://zoomdr.blogspot.com/2024/08/polemique-la-cene-en-scene-sur-la-seine.html)**  2024-08-08 08:03:15
 
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Have the prices of basic commodities such as cheese and tuna really doubled in the past five years?](https://comstudies.wordpress.com/2024/07/14/have-the-prices-of-basic-commodities-such-as-cheese-and-tuna-really-doubled-in-the-past-five-years/)**  2024-07-14 13:00:05
-
-[Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
-**[Strawberries!](https://swanlady-impressions.blogspot.com/2024/07/strawberries.html)**  2024-07-09 16:45:29
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[A blueprint for a coordinated minimum effective taxation standard for ultra-high-net-worth individuals](https://amarbheenick.blogspot.com/2024/06/a-blueprint-for-coordinated-minimum.html)**  2024-06-26 15:18:27
