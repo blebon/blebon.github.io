@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[SEDECO booste votre stratégie digitale via l’intégration de contenus](https://sedecobtob.blogspot.com/2024/09/sedeco-booste-votre-strategie-digitale.html)**  2024-09-16 14:47:27
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[PERSPECTIVES ON THE ENGLISH LANGUAGE IN THE MAURITIAN CONTEXT](https://www.lemauricien.com/le-mauricien/perspectives-on-the-english-language-in-the-mauritian-context/649483/)**  2024-09-14 07:18:50
+**[Michel Barnier Premier ministre : quelle majorité et quelle direction ?](https://www.lemauricien.com/le-mauricien/michel-barnier-premier-ministre-quelle-majorite-et-quelle-direction/649787/)**  2024-09-16 12:00:16
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Shikar](https://kabilen.tumblr.com/post/761567355839152128)**  2024-09-14 05:13:47
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Winning your restaurant game in Mauritius](https://relocationmauritius.wordpress.com/2024/09/13/winning-your-restaurant-game-in-mauritius/)**  2024-09-13 05:26:49
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[B to B : SEDECO oeuvre pour la satisfaction client](https://sedecobtob.blogspot.com/2024/09/b-to-b-sedeco-uvre-pour-la-satisfaction.html)**  2024-09-12 16:38:50
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discovering the best-kept secrets of the Indian Ocean](https://blog.constancehotels.com/discovering-the-best-kept-secrets-of-the-indian-ocean/)**  2024-09-12 09:00:00
@@ -126,8 +126,5 @@ permalink: /mauritian-blogs/
 
 [My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
 **[🌴🇲🇺🌴JOLLY'S ROCK à BUTTE A L'HERBE](https://mysweetmauritius.blogspot.com/2023/12/jollys-rock-butte-lherbe.html)**  2023-12-05 15:28:16
-
-[EL PLAGA: public figure](https://elplagaa.blogspot.com/)  
-**[Book Now Artist: EL PLAGA](https://elplagaa.blogspot.com/2023/10/book-now-artist-el-plaga.html)**  2023-10-16 12:41:57
 
 <div style="height:0;width:0;overflow:hidden;"></div>
