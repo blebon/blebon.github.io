@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[18 September 2024  124th Birth Anniversary of SSR : In remembrance of a valiant soul with immense faith in Mauritianism](https://www.lemauricien.com/le-mauricien/18-september-2024-124th-birth-anniversary-of-ssr-in-remembrance-of-a-valiant-soul-with-immense-faith-in-mauritianism/649988/)**  2024-09-17 12:01:57
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SEDECO booste votre stratégie digitale via l’intégration de contenus](https://sedecobtob.blogspot.com/2024/09/sedeco-booste-votre-strategie-digitale.html)**  2024-09-16 14:47:27
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Michel Barnier Premier ministre : quelle majorité et quelle direction ?](https://www.lemauricien.com/le-mauricien/michel-barnier-premier-ministre-quelle-majorite-et-quelle-direction/649787/)**  2024-09-16 12:00:16
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Shikar](https://kabilen.tumblr.com/post/761567355839152128)**  2024-09-14 05:13:47
