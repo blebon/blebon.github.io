@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Honeymoon heaven: The ultimate romantic journey](https://blog.constancehotels.com/honeymoon-heaven-the-ultimate-romantic-journey/)**  2024-09-19 09:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Centenaire de Naissance  : À la mémoire de Radhamaney Poonoosamy (1924-2008), première femme ministre de Maurice](https://www.lemauricien.com/le-mauricien/centenaire-de-naissance-a-la-memoire-de-radhamaney-poonoosamy-1924-2008-premiere-femme-ministre-de-maurice/650125/)**  2024-09-18 13:00:09
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Winning your restaurant game in Mauritius](https://relocationmauritius.wordpress.com/2024/09/13/winning-your-restaurant-game-in-mauritius/)**  2024-09-13 05:26:49
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Discovering the best-kept secrets of the Indian Ocean](https://blog.constancehotels.com/discovering-the-best-kept-secrets-of-the-indian-ocean/)**  2024-09-12 09:00:00
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Everlasting Lessons](https://davidandjennilyn.com/2024/09/06/everlasting-lessons/)**  2024-09-07 04:00:00
