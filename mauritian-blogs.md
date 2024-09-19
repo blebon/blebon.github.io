@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[18 September 2024  124th Birth Anniversary of SSR : In remembrance of a valiant soul with immense faith in Mauritianism](https://www.lemauricien.com/le-mauricien/18-september-2024-124th-birth-anniversary-of-ssr-in-remembrance-of-a-valiant-soul-with-immense-faith-in-mauritianism/649988/)**  2024-09-17 12:01:57
+**[Centenaire de Naissance  : À la mémoire de Radhamaney Poonoosamy (1924-2008), première femme ministre de Maurice](https://www.lemauricien.com/le-mauricien/centenaire-de-naissance-a-la-memoire-de-radhamaney-poonoosamy-1924-2008-premiere-femme-ministre-de-maurice/650125/)**  2024-09-18 13:00:09
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SEDECO booste votre stratégie digitale via l’intégration de contenus](https://sedecobtob.blogspot.com/2024/09/sedeco-booste-votre-strategie-digitale.html)**  2024-09-16 14:47:27
