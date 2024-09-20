@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Honeymoon heaven: The ultimate romantic journey](https://blog.constancehotels.com/honeymoon-heaven-the-ultimate-romantic-journey/)**  2024-09-19 09:00:00
+[turbine.mu](https://turbine.mu)  
+**[Presenting our partner TGH Holdings & its implication with Turbine startups](https://turbine.mu/blog/2024/09/19/presenting-our-partner-tgh-holdings-its-implication-with-turbine-startups/)**  2024-09-19 13:01:24
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Centenaire de Naissance  : À la mémoire de Radhamaney Poonoosamy (1924-2008), première femme ministre de Maurice](https://www.lemauricien.com/le-mauricien/centenaire-de-naissance-a-la-memoire-de-radhamaney-poonoosamy-1924-2008-premiere-femme-ministre-de-maurice/650125/)**  2024-09-18 13:00:09
+**[Local colour in Ramesh Ramdoyal’s short stories](https://www.lemauricien.com/le-mauricien/local-colour-in-ramesh-ramdoyals-short-stories/650271/)**  2024-09-19 12:27:31
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Honeymoon heaven: The ultimate romantic journey](https://blog.constancehotels.com/honeymoon-heaven-the-ultimate-romantic-journey/)**  2024-09-19 09:00:00
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SEDECO booste votre stratégie digitale via l’intégration de contenus](https://sedecobtob.blogspot.com/2024/09/sedeco-booste-votre-strategie-digitale.html)**  2024-09-16 14:47:27
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Interview & Questioning](https://vintishgokool.blogspot.com/2024/08/interview-questioning.html)**  2024-08-29 20:05:42
-
-[turbine.mu](https://turbine.mu)  
-**[Mastering Positive Disruption: Strategies from Manish Bundhun’s Workshop](https://turbine.mu/blog/2024/08/27/mastering-positive-disruption-strategies-from-manish-bundhuns-workshop/)**  2024-08-27 13:22:44
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Breaking Even on FUNDKISS after 5 Years.](https://nayarweb.com/blog/2024/breaking-even-on-fundkiss-after-5-years/)**  2024-08-23 22:59:14
