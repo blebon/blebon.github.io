@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[ESCLAVAGE ET RÉSISTANCE – Pour une société solidaire, juste et résiliente,  et une mémoire collective réconciliée !](https://www.lemauricien.com/le-mauricien/esclavage-et-resistance-pour-une-societe-solidaire-juste-et-resiliente-et-une-memoire-collective-reconciliee/650331/)**  2024-09-20 12:00:19
+
 [turbine.mu](https://turbine.mu)  
 **[Presenting our partner TGH Holdings & its implication with Turbine startups](https://turbine.mu/blog/2024/09/19/presenting-our-partner-tgh-holdings-its-implication-with-turbine-startups/)**  2024-09-19 13:01:24
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Local colour in Ramesh Ramdoyal’s short stories](https://www.lemauricien.com/le-mauricien/local-colour-in-ramesh-ramdoyals-short-stories/650271/)**  2024-09-19 12:27:31
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Honeymoon heaven: The ultimate romantic journey](https://blog.constancehotels.com/honeymoon-heaven-the-ultimate-romantic-journey/)**  2024-09-19 09:00:00
