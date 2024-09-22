@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ESCLAVAGE ET RÉSISTANCE – Pour une société solidaire, juste et résiliente,  et une mémoire collective réconciliée !](https://www.lemauricien.com/le-mauricien/esclavage-et-resistance-pour-une-societe-solidaire-juste-et-resiliente-et-une-memoire-collective-reconciliee/650331/)**  2024-09-20 12:00:19
+**[Dire/écrire chez Maunick : Apologie de la parole poétique](https://www.lemauricien.com/le-mauricien/dire-ecrire-chez-maunick-apologie-de-la-parole-poetique/650546/)**  2024-09-21 12:04:14
 
 [turbine.mu](https://turbine.mu)  
 **[Presenting our partner TGH Holdings & its implication with Turbine startups](https://turbine.mu/blog/2024/09/19/presenting-our-partner-tgh-holdings-its-implication-with-turbine-startups/)**  2024-09-19 13:01:24
