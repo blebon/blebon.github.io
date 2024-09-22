@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[F1 post party](https://kabilen.tumblr.com/post/762292097491550208)**  2024-09-22 05:13:14
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Dire/écrire chez Maunick : Apologie de la parole poétique](https://www.lemauricien.com/le-mauricien/dire-ecrire-chez-maunick-apologie-de-la-parole-poetique/650546/)**  2024-09-21 12:04:14
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[SEDECO booste votre stratégie digitale via l’intégration de contenus](https://sedecobtob.blogspot.com/2024/09/sedeco-booste-votre-strategie-digitale.html)**  2024-09-16 14:47:27
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Shikar](https://kabilen.tumblr.com/post/761567355839152128)**  2024-09-14 05:13:47
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Stripes](https://swanlady-impressions.blogspot.com/2024/09/birthday-stripes.html)**  2024-09-13 13:26:06
