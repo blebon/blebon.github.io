@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Ni empathie, ni justice](https://tchombo.blogspot.com/2024/09/ni-empathie-ni-justice.html)**  2024-09-25 10:10:28
+
+[Amar](https://amarbheenick.blogspot.com/)  
+**[The Global Financial Centres Index 36 (GFCI)](https://amarbheenick.blogspot.com/2024/09/the-global-financial-centres-index-36.html)**  2024-09-25 09:51:51
+
 [priscimon.com](https://priscimon.com/blog)  
 **[You win some, you lose some](https://priscimon.com/blog/2024/09/24/you-win-some-you-lose-some/)**  2024-09-24 20:57:26
 
@@ -55,9 +61,6 @@ permalink: /mauritian-blogs/
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
 
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Please do not disturb…. the flow](https://tchombo.blogspot.com/2024/07/please-do-not-disturb-flow.html)**  2024-07-22 10:01:41
-
 [Mike Sinnott's World](https://msinnott.net)  
 **[Soldier and Sportsman](https://msinnott.net/2024/07/21/soldier-and-sportsman/)**  2024-07-21 11:19:23
 
@@ -66,9 +69,6 @@ permalink: /mauritian-blogs/
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Have the prices of basic commodities such as cheese and tuna really doubled in the past five years?](https://comstudies.wordpress.com/2024/07/14/have-the-prices-of-basic-commodities-such-as-cheese-and-tuna-really-doubled-in-the-past-five-years/)**  2024-07-14 13:00:05
-
-[Amar](https://amarbheenick.blogspot.com/)  
-**[A blueprint for a coordinated minimum effective taxation standard for ultra-high-net-worth individuals](https://amarbheenick.blogspot.com/2024/06/a-blueprint-for-coordinated-minimum.html)**  2024-06-26 15:18:27
 
 [Celeborn](http://blog.atwin.org/)  
 **[Running Powershell commands on a set of files](http://blog.atwin.org/2024/06/running-powershell-commands-on-set-of.html)**  2024-06-24 04:53:36
