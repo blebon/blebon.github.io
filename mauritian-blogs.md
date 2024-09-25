@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[You win some, you lose some](https://priscimon.com/blog/2024/09/24/you-win-some-you-lose-some/)**  2024-09-24 20:57:26
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Développement web : SEDECO est un partenaire de confiance](https://sedecobtob.blogspot.com/2024/09/developpement-web-sedeco-est-un.html)**  2024-09-24 16:35:49
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[A Culture of Peace : Women Parliamentarians  as Peace Builders](https://www.lemauricien.com/le-mauricien/a-culture-of-peace-women-parliamentarians-as-peace-builders/650832/)**  2024-09-24 07:21:36
 
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Honeymoon heaven: The ultimate romantic journey](https://blog.constancehotels.com/honeymoon-heaven-the-ultimate-romantic-journey/)**  2024-09-19 09:00:00
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[SEDECO booste votre stratégie digitale via l’intégration de contenus](https://sedecobtob.blogspot.com/2024/09/sedeco-booste-votre-strategie-digitale.html)**  2024-09-16 14:47:27
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Stripes](https://swanlady-impressions.blogspot.com/2024/09/birthday-stripes.html)**  2024-09-13 13:26:06
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet A 94-year-old Who Has A Gift For the PM](http://kozelidir.blogspot.com/2024/08/meet-94-year-old-who-has-gift-for-pm.html)**  2024-08-20 16:23:30
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Shirley Wellard film cassette in pictures](https://priscimon.com/blog/2024/08/10/shirley-wellard-film-cassette-in-pictures/)**  2024-08-10 15:05:46
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Polémique, la Cène en scène sur la Seine ? « La parodie du religieux a toujours fait partie de la culture populaire française »](https://zoomdr.blogspot.com/2024/08/polemique-la-cene-en-scene-sur-la-seine.html)**  2024-08-08 08:03:15
