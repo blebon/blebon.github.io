@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Eric and Gretchen](https://davidandjennilyn.com/2024/09/26/eric-and-gretchen/)**  2024-09-27 04:49:41
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Un triomphe en bronze, un éclat en or](https://www.lemauricien.com/le-mauricien/un-triomphe-en-bronze-un-eclat-en-or/651131/)**  2024-09-26 12:02:55
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Ni empathie, ni justice](https://tchombo.blogspot.com/2024/09/ni-empathie-ni-justice.html)**  2024-09-26 09:30:23
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Secret](https://vintishgokool.blogspot.com/2024/09/secret.html)**  2024-09-26 09:26:57
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Business Mauritius : quand la résistance révèle l’ingratitude](https://www.lemauricien.com/le-mauricien/business-mauritius-quand-la-resistance-revele-lingratitude/650985/)**  2024-09-25 13:00:51
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 36 (GFCI)](https://amarbheenick.blogspot.com/2024/09/the-global-financial-centres-index-36.html)**  2024-09-25 09:51:51
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Winning your restaurant game in Mauritius](https://relocationmauritius.wordpress.com/2024/09/13/winning-your-restaurant-game-in-mauritius/)**  2024-09-13 05:26:49
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Everlasting Lessons](https://davidandjennilyn.com/2024/09/06/everlasting-lessons/)**  2024-09-07 04:00:00
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Breaking Even on FUNDKISS after 5 Years.](https://nayarweb.com/blog/2024/breaking-even-on-fundkiss-after-5-years/)**  2024-08-23 22:59:14
