@@ -5,10 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [David and Jennilyn](https://davidandjennilyn.com)  
-**[Eric and Gretchen](https://davidandjennilyn.com/2024/09/26/eric-and-gretchen/)**  2024-09-27 04:49:41
+**[Astoria Column](https://davidandjennilyn.com/2024/09/27/astoria-column/)**  2024-09-27 16:49:00
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Web design : optez pour un service de qualité avec SEDECO](https://sedecobtob.blogspot.com/2024/09/web-design-optez-pour-un-service-de.html)**  2024-09-27 15:07:10
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Un triomphe en bronze, un éclat en or](https://www.lemauricien.com/le-mauricien/un-triomphe-en-bronze-un-eclat-en-or/651131/)**  2024-09-26 12:02:55
+**[On a bien entendu résonner le rire chazalien ! Gage que Malcolm était bien là](https://www.lemauricien.com/le-mauricien/on-a-bien-entendu-resonner-le-rire-chazalien-gage-que-malcolm-etait-bien-la/651276/)**  2024-09-27 12:01:18
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Ni empathie, ni justice](https://tchombo.blogspot.com/2024/09/ni-empathie-ni-justice.html)**  2024-09-26 09:30:23
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[You win some, you lose some](https://priscimon.com/blog/2024/09/24/you-win-some-you-lose-some/)**  2024-09-24 20:57:26
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Développement web : SEDECO est un partenaire de confiance](https://sedecobtob.blogspot.com/2024/09/developpement-web-sedeco-est-un.html)**  2024-09-24 16:35:49
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[F1 post party](https://kabilen.tumblr.com/post/762292097491550208)**  2024-09-22 05:13:14
