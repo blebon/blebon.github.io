@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Linux User Group of Mauritius](https://lugm.org)  
+**[Splitting a large text file on every blank line](https://www.noulakaz.net/2024/10/03/splitting-a-large-text-file-on-every-blank-line/)**  2024-10-03 06:58:30
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 17th Birthday Kadie!](https://davidandjennilyn.com/2024/10/02/happy-17th-birthday-kadie/)**  2024-10-02 21:03:00
 
