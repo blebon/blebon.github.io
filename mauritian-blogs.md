@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mike Sinnott's World](https://msinnott.net)  
+**[Chagos Archipelago](https://msinnott.net/2024/10/04/chagos-archipelago-2/)**  2024-10-04 04:21:23
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[En marge de la journée mondiale des enseignants : Conversation à bâtons rompus chez Baudelaire*](https://www.lemauricien.com/le-mauricien/en-marge-de-la-journee-mondiale-des-enseignants-conversation-a-batons-rompus-chez-baudelaire/652018/)**  2024-10-03 13:00:09
+
 [Linux User Group of Mauritius](https://lugm.org)  
 **[Splitting a large text file on every blank line](https://www.noulakaz.net/2024/10/03/splitting-a-large-text-file-on-every-blank-line/)**  2024-10-03 06:58:30
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 17th Birthday Kadie!](https://davidandjennilyn.com/2024/10/02/happy-17th-birthday-kadie/)**  2024-10-02 21:03:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ÉTONNANT CHAZAL !](https://www.lemauricien.com/le-mauricien/etonnant-chazal/651925/)**  2024-10-02 13:00:32
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Web design : optez pour un service de qualité avec SEDECO](https://sedecobtob.blogspot.com/2024/09/web-design-optez-pour-un-service-de.html)**  2024-10-02 03:33:00
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
-
-[Mike Sinnott's World](https://msinnott.net)  
-**[Soldier and Sportsman](https://msinnott.net/2024/07/21/soldier-and-sportsman/)**  2024-07-21 11:19:23
 
 [Savour the moment](https://savourthemomentattechie.blogspot.com/)  
 **[[Coding with python][Installing Flask App]](https://savourthemomentattechie.blogspot.com/2024/07/coding-with-pythoninstalling-flask-app.html)**  2024-07-19 21:54:59
