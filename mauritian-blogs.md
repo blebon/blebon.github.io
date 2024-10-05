@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Teachers’ Daughter  (on World Teachers’ Day   and for my late parents)](https://www.lemauricien.com/le-mauricien/teachers-daughter-on-world-teachers-day-and-for-my-late-parents/652189/)**  2024-10-04 12:14:30
+
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[NSW and ACT Roadtrip](https://littleanantasin.wordpress.com/2024/10/04/nsw-and-act-roadtrip/)**  2024-10-04 10:12:01
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Chagos Archipelago](https://msinnott.net/2024/10/04/chagos-archipelago-2/)**  2024-10-04 04:21:23
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[En marge de la journée mondiale des enseignants : Conversation à bâtons rompus chez Baudelaire*](https://www.lemauricien.com/le-mauricien/en-marge-de-la-journee-mondiale-des-enseignants-conversation-a-batons-rompus-chez-baudelaire/652018/)**  2024-10-03 13:00:09
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[Splitting a large text file on every blank line](https://www.noulakaz.net/2024/10/03/splitting-a-large-text-file-on-every-blank-line/)**  2024-10-03 06:58:30
