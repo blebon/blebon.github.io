@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Teachers’ Daughter  (on World Teachers’ Day   and for my late parents)](https://www.lemauricien.com/le-mauricien/teachers-daughter-on-world-teachers-day-and-for-my-late-parents/652189/)**  2024-10-04 12:14:30
+**[LETTRE OUVERTE : À ceux qui prétendent nous diriger… Tout n’est pas acceptable en politique,  sachons nous indigner et nous réinventer !](https://www.lemauricien.com/le-mauricien/lettre-ouverte-a-ceux-qui-pretendent-nous-diriger-tout-nest-pas-acceptable-en-politique-sachons-nous-indigner-et-nous-reinventer/652319/)**  2024-10-05 08:03:31
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[NSW and ACT Roadtrip](https://littleanantasin.wordpress.com/2024/10/04/nsw-and-act-roadtrip/)**  2024-10-04 10:12:01
