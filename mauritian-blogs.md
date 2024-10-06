@@ -7,6 +7,9 @@ permalink: /mauritian-blogs/
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LETTRE OUVERTE : À ceux qui prétendent nous diriger… Tout n’est pas acceptable en politique,  sachons nous indigner et nous réinventer !](https://www.lemauricien.com/le-mauricien/lettre-ouverte-a-ceux-qui-pretendent-nous-diriger-tout-nest-pas-acceptable-en-politique-sachons-nous-indigner-et-nous-reinventer/652319/)**  2024-10-05 08:03:31
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Voter Survey for GE2024 Goes Live](http://kozelidir.blogspot.com/2024/10/voter-survey-for-ge2024-goes-live.html)**  2024-10-04 11:36:15
+
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[NSW and ACT Roadtrip](https://littleanantasin.wordpress.com/2024/10/04/nsw-and-act-roadtrip/)**  2024-10-04 10:12:01
 
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Breaking Even on FUNDKISS after 5 Years.](https://nayarweb.com/blog/2024/breaking-even-on-fundkiss-after-5-years/)**  2024-08-23 22:59:14
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Meet A 94-year-old Who Has A Gift For the PM](http://kozelidir.blogspot.com/2024/08/meet-94-year-old-who-has-gift-for-pm.html)**  2024-08-20 16:23:30
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Polémique, la Cène en scène sur la Seine ? « La parodie du religieux a toujours fait partie de la culture populaire française »](https://zoomdr.blogspot.com/2024/08/polemique-la-cene-en-scene-sur-la-seine.html)**  2024-08-08 08:03:15
