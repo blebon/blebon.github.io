@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[conversations](https://enconversation.wordpress.com)  
+**[Elections 2024](https://enconversation.wordpress.com/2024/10/07/elections-2024/)**  2024-10-07 06:20:46
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LETTRE OUVERTE : À ceux qui prétendent nous diriger… Tout n’est pas acceptable en politique,  sachons nous indigner et nous réinventer !](https://www.lemauricien.com/le-mauricien/lettre-ouverte-a-ceux-qui-pretendent-nous-diriger-tout-nest-pas-acceptable-en-politique-sachons-nous-indigner-et-nous-reinventer/652319/)**  2024-10-05 08:03:31
 
