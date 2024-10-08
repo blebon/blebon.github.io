@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Discover 5 must-do experiences at Constance Hotels & Resorts](https://blog.constancehotels.com/discover-5-must-do-experiences-at-constance-hotels-resorts/)**  2024-10-08 08:55:54
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Anou Koz Parol, N° 156 : Gro-plan lor Kreol Rodrige tel ki li paret dan Rapor Lortograf Repiblik Moris (2024)](https://www.lemauricien.com/le-mauricien/anou-koz-parol-n-156-gro-plan-lor-kreol-rodrige-tel-ki-li-paret-dan-rapor-lortograf-repiblik-moris-2024/652553/)**  2024-10-07 12:15:09
 
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Presenting our partner TGH Holdings & its implication with Turbine startups](https://turbine.mu/blog/2024/09/19/presenting-our-partner-tgh-holdings-its-implication-with-turbine-startups/)**  2024-09-19 13:01:24
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Honeymoon heaven: The ultimate romantic journey](https://blog.constancehotels.com/honeymoon-heaven-the-ultimate-romantic-journey/)**  2024-09-19 09:00:00
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Stripes](https://swanlady-impressions.blogspot.com/2024/09/birthday-stripes.html)**  2024-09-13 13:26:06
