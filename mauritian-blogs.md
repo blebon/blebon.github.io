@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Anou Koz Parol, N° 156 : Gro-plan lor Kreol Rodrige tel ki li paret dan Rapor Lortograf Repiblik Moris (2024)](https://www.lemauricien.com/le-mauricien/anou-koz-parol-n-156-gro-plan-lor-kreol-rodrige-tel-ki-li-paret-dan-rapor-lortograf-repiblik-moris-2024/652553/)**  2024-10-07 12:15:09
+
 [conversations](https://enconversation.wordpress.com)  
 **[Elections 2024](https://enconversation.wordpress.com/2024/10/07/elections-2024/)**  2024-10-07 06:20:46
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LETTRE OUVERTE : À ceux qui prétendent nous diriger… Tout n’est pas acceptable en politique,  sachons nous indigner et nous réinventer !](https://www.lemauricien.com/le-mauricien/lettre-ouverte-a-ceux-qui-pretendent-nous-diriger-tout-nest-pas-acceptable-en-politique-sachons-nous-indigner-et-nous-reinventer/652319/)**  2024-10-05 08:03:31
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Voter Survey for GE2024 Goes Live](http://kozelidir.blogspot.com/2024/10/voter-survey-for-ge2024-goes-live.html)**  2024-10-04 11:36:15
