@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The Chagos: a Colonial Legacy, a Tragic Trajectory](https://www.lemauricien.com/le-mauricien/the-chagos-a-colonial-legacy-a-tragic-trajectory/652673/)**  2024-10-08 12:01:25
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discover 5 must-do experiences at Constance Hotels & Resorts](https://blog.constancehotels.com/discover-5-must-do-experiences-at-constance-hotels-resorts/)**  2024-10-08 08:55:54
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou Koz Parol, N° 156 : Gro-plan lor Kreol Rodrige tel ki li paret dan Rapor Lortograf Repiblik Moris (2024)](https://www.lemauricien.com/le-mauricien/anou-koz-parol-n-156-gro-plan-lor-kreol-rodrige-tel-ki-li-paret-dan-rapor-lortograf-repiblik-moris-2024/652553/)**  2024-10-07 12:15:09
 
 [conversations](https://enconversation.wordpress.com)  
 **[Elections 2024](https://enconversation.wordpress.com/2024/10/07/elections-2024/)**  2024-10-07 06:20:46
