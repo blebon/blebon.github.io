@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[An insight into Food Safety Culture versus Food Safety](https://facultyagriculture.blogspot.com/2024/10/an-insight-into-food-safety-culture.html)**  2024-10-09 15:25:14
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Chagos: a Colonial Legacy, a Tragic Trajectory](https://www.lemauricien.com/le-mauricien/the-chagos-a-colonial-legacy-a-tragic-trajectory/652673/)**  2024-10-08 12:01:25
+**[“Paradise Regained?”:  The Genesis of the Settlement of the Chagos Archipelago](https://www.lemauricien.com/le-mauricien/paradise-regained-the-genesis-of-the-settlement-of-the-chagos-archipelago/652833/)**  2024-10-09 13:00:00
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discover 5 must-do experiences at Constance Hotels & Resorts](https://blog.constancehotels.com/discover-5-must-do-experiences-at-constance-hotels-resorts/)**  2024-10-08 08:55:54
@@ -66,9 +69,6 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Mauritian fried noodles- mine frire](https://everpeckish.com/mauritian-fried-noodles-mine-frire/?utm_source=rss&utm_medium=rss&utm_campaign=mauritian-fried-noodles-mine-frire)**  2024-08-03 14:15:13
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Key Questions Arising from the Discussion on ChatGPT in Academia](https://facultyagriculture.blogspot.com/2024/08/key-questions-arising-from-discussion.html)**  2024-08-02 17:04:50
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
