@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[turbine.mu](https://turbine.mu)  
+**[Meet Turbine’s Newest Coaches: Guiding the Next Wave of Innovators](https://turbine.mu/blog/2024/10/11/meet-turbines-newest-coaches-guiding-the-next-wave-of-innovators/)**  2024-10-11 06:13:37
+
+[Mike Sinnott's World](https://msinnott.net)  
+**[Chagos Controversy](https://msinnott.net/2024/10/10/chagos-controversy/)**  2024-10-10 20:23:01
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[An insight into Food Safety Culture versus Food Safety](https://facultyagriculture.blogspot.com/2024/10/an-insight-into-food-safety-culture.html)**  2024-10-10 15:45:12
 
@@ -25,9 +31,6 @@ permalink: /mauritian-blogs/
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Unchained Melody](https://tchombo.blogspot.com/2024/09/unchained-melody.html)**  2024-10-04 06:26:17
 
-[Mike Sinnott's World](https://msinnott.net)  
-**[Chagos Archipelago](https://msinnott.net/2024/10/04/chagos-archipelago-2/)**  2024-10-04 04:21:23
-
 [Linux User Group of Mauritius](https://lugm.org)  
 **[Splitting a large text file on every blank line](https://www.noulakaz.net/2024/10/03/splitting-a-large-text-file-on-every-blank-line/)**  2024-10-03 06:58:30
 
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[F1 post party](https://kabilen.tumblr.com/post/762292097491550208)**  2024-09-22 05:13:14
-
-[turbine.mu](https://turbine.mu)  
-**[Presenting our partner TGH Holdings & its implication with Turbine startups](https://turbine.mu/blog/2024/09/19/presenting-our-partner-tgh-holdings-its-implication-with-turbine-startups/)**  2024-09-19 13:01:24
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Stripes](https://swanlady-impressions.blogspot.com/2024/09/birthday-stripes.html)**  2024-09-13 13:26:06
