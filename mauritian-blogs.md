@@ -5,10 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[An insight into Food Safety Culture versus Food Safety](https://facultyagriculture.blogspot.com/2024/10/an-insight-into-food-safety-culture.html)**  2024-10-09 15:25:14
+**[An insight into Food Safety Culture versus Food Safety](https://facultyagriculture.blogspot.com/2024/10/an-insight-into-food-safety-culture.html)**  2024-10-10 15:45:12
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[“Paradise Regained?”:  The Genesis of the Settlement of the Chagos Archipelago](https://www.lemauricien.com/le-mauricien/paradise-regained-the-genesis-of-the-settlement-of-the-chagos-archipelago/652833/)**  2024-10-09 13:00:00
+**[Resistance to Alternatives](https://www.lemauricien.com/le-mauricien/resistance-to-alternatives/652955/)**  2024-10-10 12:00:22
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discover 5 must-do experiences at Constance Hotels & Resorts](https://blog.constancehotels.com/discover-5-must-do-experiences-at-constance-hotels-resorts/)**  2024-10-08 08:55:54
