@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[10 Novembre 2024: enjeux d’une élection et les raisons d’un vote](https://www.lemauricien.com/le-mauricien/10-novembre-2024-enjeux-dune-election-et-les-raisons-dun-vote/653084/)**  2024-10-11 12:00:45
+
 [turbine.mu](https://turbine.mu)  
 **[Meet Turbine’s Newest Coaches: Guiding the Next Wave of Innovators](https://turbine.mu/blog/2024/10/11/meet-turbines-newest-coaches-guiding-the-next-wave-of-innovators/)**  2024-10-11 06:13:37
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[An insight into Food Safety Culture versus Food Safety](https://facultyagriculture.blogspot.com/2024/10/an-insight-into-food-safety-culture.html)**  2024-10-10 15:45:12
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Resistance to Alternatives](https://www.lemauricien.com/le-mauricien/resistance-to-alternatives/652955/)**  2024-10-10 12:00:22
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discover 5 must-do experiences at Constance Hotels & Resorts](https://blog.constancehotels.com/discover-5-must-do-experiences-at-constance-hotels-resorts/)**  2024-10-08 08:55:54
