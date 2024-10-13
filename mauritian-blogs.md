@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Offshore : SEDECO et ses solutions optimisées](https://sedecobtob.blogspot.com/2024/10/offshore-sedeco-et-ses-solutions.html)**  2024-10-12 12:05:23
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[10 Novembre 2024: enjeux d’une élection et les raisons d’un vote](https://www.lemauricien.com/le-mauricien/10-novembre-2024-enjeux-dune-election-et-les-raisons-dun-vote/653084/)**  2024-10-11 12:00:45
+**[De l’esclavage…](https://www.lemauricien.com/le-mauricien/de-lesclavage/653201/)**  2024-10-12 12:01:41
 
 [turbine.mu](https://turbine.mu)  
 **[Meet Turbine’s Newest Coaches: Guiding the Next Wave of Innovators](https://turbine.mu/blog/2024/10/11/meet-turbines-newest-coaches-guiding-the-next-wave-of-innovators/)**  2024-10-11 06:13:37
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 17th Birthday Kadie!](https://davidandjennilyn.com/2024/10/02/happy-17th-birthday-kadie/)**  2024-10-02 21:03:00
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Web design : optez pour un service de qualité avec SEDECO](https://sedecobtob.blogspot.com/2024/09/web-design-optez-pour-un-service-de.html)**  2024-10-02 03:33:00
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Secret](https://vintishgokool.blogspot.com/2024/09/secret.html)**  2024-09-26 09:26:57
