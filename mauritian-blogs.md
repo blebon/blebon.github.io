@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[ever peckish](https://everpeckish.com)  
+**[Toasted milk burfi](https://everpeckish.com/toasted-milk-burfi/?utm_source=rss&utm_medium=rss&utm_campaign=toasted-milk-burfi)**  2024-10-13 18:19:05
+
+[Mera Blog](https://nayarweb.com/blog)  
+**[Key Rate is down to 4% from 4.5% in Mauritius. Should you rejoice?](https://nayarweb.com/blog/2024/key-rate-is-down-to-4-from-4-5-in-mauritius-should-you-rejoice/)**  2024-10-13 13:57:22
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Offshore : SEDECO et ses solutions optimisées](https://sedecobtob.blogspot.com/2024/10/offshore-sedeco-et-ses-solutions.html)**  2024-10-12 12:05:23
 
@@ -61,14 +67,8 @@ permalink: /mauritian-blogs/
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Winning your restaurant game in Mauritius](https://relocationmauritius.wordpress.com/2024/09/13/winning-your-restaurant-game-in-mauritius/)**  2024-09-13 05:26:49
 
-[Mera Blog](https://nayarweb.com/blog)  
-**[Breaking Even on FUNDKISS after 5 Years.](https://nayarweb.com/blog/2024/breaking-even-on-fundkiss-after-5-years/)**  2024-08-23 22:59:14
-
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Polémique, la Cène en scène sur la Seine ? « La parodie du religieux a toujours fait partie de la culture populaire française »](https://zoomdr.blogspot.com/2024/08/polemique-la-cene-en-scene-sur-la-seine.html)**  2024-08-08 08:03:15
-
-[ever peckish](https://everpeckish.com)  
-**[Mauritian fried noodles- mine frire](https://everpeckish.com/mauritian-fried-noodles-mine-frire/?utm_source=rss&utm_medium=rss&utm_campaign=mauritian-fried-noodles-mine-frire)**  2024-08-03 14:15:13
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
