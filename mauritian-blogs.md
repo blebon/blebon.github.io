@@ -7,6 +7,9 @@ permalink: /mauritian-blogs/
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[GE2024 Ep1: Dernie Traizon Navin Ramgoolam](http://kozelidir.blogspot.com/2024/10/ge2024-ep1-dernie-traizon-navin.html)**  2024-10-14 16:55:50
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[MULK RAJ ANAND: The Rise of a Social Conscience](https://www.lemauricien.com/le-mauricien/mulk-raj-anand-the-rise-of-a-social-conscience/653560/)**  2024-10-14 08:30:57
+
 [ever peckish](https://everpeckish.com)  
 **[Toasted milk burfi](https://everpeckish.com/toasted-milk-burfi/?utm_source=rss&utm_medium=rss&utm_campaign=toasted-milk-burfi)**  2024-10-13 18:19:05
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Offshore : SEDECO et ses solutions optimisées](https://sedecobtob.blogspot.com/2024/10/offshore-sedeco-et-ses-solutions.html)**  2024-10-12 12:05:23
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[De l’esclavage…](https://www.lemauricien.com/le-mauricien/de-lesclavage/653201/)**  2024-10-12 12:01:41
 
 [turbine.mu](https://turbine.mu)  
 **[Meet Turbine’s Newest Coaches: Guiding the Next Wave of Innovators](https://turbine.mu/blog/2024/10/11/meet-turbines-newest-coaches-guiding-the-next-wave-of-innovators/)**  2024-10-11 06:13:37
