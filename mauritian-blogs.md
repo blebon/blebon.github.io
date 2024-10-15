@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[GE2024 Ep1: Dernie Traizon Navin Ramgoolam](http://kozelidir.blogspot.com/2024/10/ge2024-ep1-dernie-traizon-navin.html)**  2024-10-14 16:55:50
+
 [ever peckish](https://everpeckish.com)  
 **[Toasted milk burfi](https://everpeckish.com/toasted-milk-burfi/?utm_source=rss&utm_medium=rss&utm_campaign=toasted-milk-burfi)**  2024-10-13 18:19:05
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [conversations](https://enconversation.wordpress.com)  
 **[Elections 2024](https://enconversation.wordpress.com/2024/10/07/elections-2024/)**  2024-10-07 06:20:46
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Voter Survey for GE2024 Goes Live](http://kozelidir.blogspot.com/2024/10/voter-survey-for-ge2024-goes-live.html)**  2024-10-04 11:36:15
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[NSW and ACT Roadtrip](https://littleanantasin.wordpress.com/2024/10/04/nsw-and-act-roadtrip/)**  2024-10-04 10:12:01
