@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[GE2024 Ep1: Dernie Traizon Navin Ramgoolam](http://kozelidir.blogspot.com/2024/10/ge2024-ep1-dernie-traizon-navin.html)**  2024-10-14 16:55:50
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Embracing Uncertainty and Cultivating Resilience: An Address to Agriculture Graduates](https://facultyagriculture.blogspot.com/2024/10/embracing-uncertainty-and-cultivating.html)**  2024-10-15 16:02:25
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[MULK RAJ ANAND: The Rise of a Social Conscience](https://www.lemauricien.com/le-mauricien/mulk-raj-anand-the-rise-of-a-social-conscience/653560/)**  2024-10-14 08:30:57
+**[L’accord entre Maurice et le Royaume-Uni  sur les Chagos : Victoire historique ou trahison ?](https://www.lemauricien.com/le-mauricien/laccord-entre-maurice-et-le-royaume-uni-sur-les-chagos-victoire-historique-ou-trahison/653557/)**  2024-10-15 12:00:07
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[GE2024 Ep1: Dernie Traizon Navin Ramgoolam](http://kozelidir.blogspot.com/2024/10/ge2024-ep1-dernie-traizon-navin.html)**  2024-10-14 16:55:50
 
 [ever peckish](https://everpeckish.com)  
 **[Toasted milk burfi](https://everpeckish.com/toasted-milk-burfi/?utm_source=rss&utm_medium=rss&utm_campaign=toasted-milk-burfi)**  2024-10-13 18:19:05
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Chagos Controversy](https://msinnott.net/2024/10/10/chagos-controversy/)**  2024-10-10 20:23:01
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[An insight into Food Safety Culture versus Food Safety](https://facultyagriculture.blogspot.com/2024/10/an-insight-into-food-safety-culture.html)**  2024-10-10 15:45:12
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discover 5 must-do experiences at Constance Hotels & Resorts](https://blog.constancehotels.com/discover-5-must-do-experiences-at-constance-hotels-resorts/)**  2024-10-08 08:55:54
