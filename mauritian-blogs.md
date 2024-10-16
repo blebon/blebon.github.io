@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[3 must-try restaurants at Constance Hotels & Resorts](https://blog.constancehotels.com/3-must-try-restaurants-at-constance-hotels-resorts/)**  2024-10-16 09:31:32
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Embracing Uncertainty and Cultivating Resilience: An Address to Agriculture Graduates](https://facultyagriculture.blogspot.com/2024/10/embracing-uncertainty-and-cultivating.html)**  2024-10-15 16:02:25
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Chagos Controversy](https://msinnott.net/2024/10/10/chagos-controversy/)**  2024-10-10 20:23:01
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Discover 5 must-do experiences at Constance Hotels & Resorts](https://blog.constancehotels.com/discover-5-must-do-experiences-at-constance-hotels-resorts/)**  2024-10-08 08:55:54
 
 [conversations](https://enconversation.wordpress.com)  
 **[Elections 2024](https://enconversation.wordpress.com/2024/10/07/elections-2024/)**  2024-10-07 06:20:46
