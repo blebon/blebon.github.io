@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[PROMISES AND LIES – A Man’s World – Why Bother  with Women in Politics?](https://www.lemauricien.com/le-mauricien/promises-and-lies-a-mans-world-why-bother-with-women-in-politics/653834/)**  2024-10-17 12:00:19
+
 [imathsit](https://imathsit.blogspot.com/)  
 **[Numbers Part 1](https://imathsit.blogspot.com/2021/12/numbers-part-1.html)**  2024-10-17 03:05:07
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Démocratie 2.0, augmentée par le ‘RIPC’ : Citoyens, vous faites trembler vos politiciens !](https://www.lemauricien.com/le-mauricien/democratie-2-0-augmentee-par-le-ripc-citoyens-vous-faites-trembler-vos-politiciens/653715/)**  2024-10-16 12:33:19
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[3 must-try restaurants at Constance Hotels & Resorts](https://blog.constancehotels.com/3-must-try-restaurants-at-constance-hotels-resorts/)**  2024-10-16 09:31:32
