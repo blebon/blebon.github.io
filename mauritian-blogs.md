@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[PROMISES AND LIES – A Man’s World – Why Bother  with Women in Politics?](https://www.lemauricien.com/le-mauricien/promises-and-lies-a-mans-world-why-bother-with-women-in-politics/653834/)**  2024-10-17 12:00:19
+**[Bondie! Kot mo bout?](https://www.lemauricien.com/le-mauricien/bondie-kot-mo-bout/653979/)**  2024-10-18 12:01:39
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[Numbers Part 1](https://imathsit.blogspot.com/2021/12/numbers-part-1.html)**  2024-10-17 03:05:07
