@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[Facepalm](https://flicenflac.blogspot.com/2024/10/facepalm.html)**  2024-10-19 17:25:56
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Bondie! Kot mo bout?](https://www.lemauricien.com/le-mauricien/bondie-kot-mo-bout/653979/)**  2024-10-18 12:01:39
 
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Stripes](https://swanlady-impressions.blogspot.com/2024/09/birthday-stripes.html)**  2024-09-13 13:26:06
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Boom!](https://flicenflac.blogspot.com/2024/09/boom.html)**  2024-09-13 11:54:26
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Winning your restaurant game in Mauritius](https://relocationmauritius.wordpress.com/2024/09/13/winning-your-restaurant-game-in-mauritius/)**  2024-09-13 05:26:49
