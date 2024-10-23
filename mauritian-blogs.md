@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Book That Makes Mauritian Voters Smart As Hell Published](https://morisk.blogspot.com/2024/10/book-that-makes-mauritian-voters-smart.html)**  2024-10-22 12:34:36
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Anou Koz Parol 157 – Bann lianaz néna ant Moris ek La Rényon :  ‘Anou lir detrwa parol depi Larenion’](https://www.lemauricien.com/le-mauricien/anou-koz-parol-157-bann-lianaz-nena-ant-moris-ek-la-renyon-anou-lir-detrwa-parol-depi-larenion/654308/)**  2024-10-21 13:00:44
 
@@ -99,9 +102,6 @@ permalink: /mauritian-blogs/
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2024/05/apres-avoir-critique-le-capitalisme.html)**  2024-05-17 23:55:02
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Analiz Vin Mezir Far Lalians Ptr/MMM](https://morisk.blogspot.com/2024/05/analiz-vin-mezir-far-lalians-ptrmmm.html)**  2024-05-17 08:38:18
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[Essential Tips for Developing a Retrieval-Augmented Generation (RAG) Chatbot Pipeline](https://daveappadoo.com/things-to-look-out-for-when-building-a-retrieval-augmented-generation-rag-chatbot-pipeline/)**  2024-05-13 15:23:06
