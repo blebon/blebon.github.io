@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Winter romance in paradise: Indian Ocean getaways for couples](https://blog.constancehotels.com/winter-romance-in-paradise-indian-ocean-getaways-for-couples/)**  2024-10-24 08:32:30
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Soyons réalistes !](https://www.lemauricien.com/le-mauricien/soyons-realistes/654516/)**  2024-10-23 13:38:13
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[Numbers Part 1](https://imathsit.blogspot.com/2021/12/numbers-part-1.html)**  2024-10-17 03:05:07
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[3 must-try restaurants at Constance Hotels & Resorts](https://blog.constancehotels.com/3-must-try-restaurants-at-constance-hotels-resorts/)**  2024-10-16 09:31:32
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Embracing Uncertainty and Cultivating Resilience: An Address to Agriculture Graduates](https://facultyagriculture.blogspot.com/2024/10/embracing-uncertainty-and-cultivating.html)**  2024-10-15 16:02:25
