@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Know Your Candidate (KYC):  Why Applying a Compliance Mindset  to Elections Could Benefit the Nation](https://www.lemauricien.com/le-mauricien/know-your-candidate-kyc-why-applying-a-compliance-mindset-to-elections-could-benefit-the-nation/654624/)**  2024-10-24 13:29:59
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Winter romance in paradise: Indian Ocean getaways for couples](https://blog.constancehotels.com/winter-romance-in-paradise-indian-ocean-getaways-for-couples/)**  2024-10-24 08:32:30
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Soyons réalistes !](https://www.lemauricien.com/le-mauricien/soyons-realistes/654516/)**  2024-10-23 13:38:13
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Book That Makes Mauritian Voters Smart As Hell Published](https://morisk.blogspot.com/2024/10/book-that-makes-mauritian-voters-smart.html)**  2024-10-22 12:34:36
