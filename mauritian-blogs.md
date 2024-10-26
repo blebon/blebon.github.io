@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Know Your Candidate (KYC):  Why Applying a Compliance Mindset  to Elections Could Benefit the Nation](https://www.lemauricien.com/le-mauricien/know-your-candidate-kyc-why-applying-a-compliance-mindset-to-elections-could-benefit-the-nation/654624/)**  2024-10-24 13:29:59
+**[The Old Labourers’ Quarters of Trianon](https://www.lemauricien.com/le-mauricien/the-old-labourers-quarters-of-trianon/654719/)**  2024-10-25 12:01:52
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Winter romance in paradise: Indian Ocean getaways for couples](https://blog.constancehotels.com/winter-romance-in-paradise-indian-ocean-getaways-for-couples/)**  2024-10-24 08:32:30
