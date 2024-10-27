@@ -16,6 +16,9 @@ permalink: /mauritian-blogs/
 [The Jag!](https://morisk.blogspot.com/)  
 **[Book That Makes Mauritian Voters Smart As Hell Published](https://morisk.blogspot.com/2024/10/book-that-makes-mauritian-voters-smart.html)**  2024-10-22 12:34:36
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Book That Makes Mauritian Voters Smart As Hell Published](http://kozelidir.blogspot.com/2024/10/book-that-makes-mauritian-voters-smart.html)**  2024-10-22 12:30:07
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Facepalm](https://flicenflac.blogspot.com/2024/10/facepalm.html)**  2024-10-19 17:25:56
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Embracing Uncertainty and Cultivating Resilience: An Address to Agriculture Graduates](https://facultyagriculture.blogspot.com/2024/10/embracing-uncertainty-and-cultivating.html)**  2024-10-15 16:02:25
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[GE2024 Ep1: Dernie Traizon Navin Ramgoolam](http://kozelidir.blogspot.com/2024/10/ge2024-ep1-dernie-traizon-navin.html)**  2024-10-14 16:55:50
 
 [ever peckish](https://everpeckish.com)  
 **[Toasted milk burfi](https://everpeckish.com/toasted-milk-burfi/?utm_source=rss&utm_medium=rss&utm_campaign=toasted-milk-burfi)**  2024-10-13 18:19:05
