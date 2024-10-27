@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Alain Ramanisun &amp; Laura Beg Live in SG 2024](https://kabilen.tumblr.com/post/765456913113792512)**  2024-10-27 02:36:38
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[The Old Labourers’ Quarters of Trianon](https://www.lemauricien.com/le-mauricien/the-old-labourers-quarters-of-trianon/654719/)**  2024-10-25 12:01:52
 
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[You win some, you lose some](https://priscimon.com/blog/2024/09/24/you-win-some-you-lose-some/)**  2024-09-24 20:57:26
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[F1 post party](https://kabilen.tumblr.com/post/762292097491550208)**  2024-09-22 05:13:14
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Stripes](https://swanlady-impressions.blogspot.com/2024/09/birthday-stripes.html)**  2024-09-13 13:26:06
