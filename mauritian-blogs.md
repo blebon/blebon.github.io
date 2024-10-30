@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Ramgoolam Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/10/ramgoolam-statements-that-dont-survive.html)**  2024-10-29 20:17:15
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Littératures, politiques et identités : Quel pays me demandez-vous ?*](https://www.lemauricien.com/le-mauricien/litteratures-politiques-et-identites-quel-pays-me-demandez-vous/655251/)**  2024-10-29 11:01:33
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Winter romance in paradise: Indian Ocean getaways for couples](https://blog.constancehotels.com/winter-romance-in-paradise-indian-ocean-getaways-for-couples/)**  2024-10-24 08:32:30
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Book That Makes Mauritian Voters Smart As Hell Published](https://morisk.blogspot.com/2024/10/book-that-makes-mauritian-voters-smart.html)**  2024-10-22 12:34:36
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Book That Makes Mauritian Voters Smart As Hell Published](http://kozelidir.blogspot.com/2024/10/book-that-makes-mauritian-voters-smart.html)**  2024-10-22 12:30:07
