@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[The Jag!](https://morisk.blogspot.com/)  
-**[Ramgoolam Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/10/ramgoolam-statements-that-dont-survive.html)**  2024-10-29 20:17:15
-
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Littératures, politiques et identités : Quel pays me demandez-vous ?*](https://www.lemauricien.com/le-mauricien/litteratures-politiques-et-identites-quel-pays-me-demandez-vous/655251/)**  2024-10-29 11:01:33
+**[LA LANGUE KREOL, OUTIL DE RÉINSERTION SOCIALE  La contribution de Dev Virahsawmy remémorée](https://www.lemauricien.com/le-mauricien/la-langue-kreol-outil-de-reinsertion-sociale-la-contribution-de-dev-virahsawmy-rememoree/655316/)**  2024-10-30 11:00:05
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Ce flux continu indispensable](https://tchombo.blogspot.com/2024/10/ce-flux-continu-indispensable.html)**  2024-10-30 10:43:10
+
+[The Jag!](https://morisk.blogspot.com/)  
+**[Ramgoolam Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/10/ramgoolam-statements-that-dont-survive.html)**  2024-10-30 09:50:28
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Recluse](https://vintishgokool.blogspot.com/2024/10/recluse-bestial.html)**  2024-10-27 17:01:11
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[NSW and ACT Roadtrip](https://littleanantasin.wordpress.com/2024/10/04/nsw-and-act-roadtrip/)**  2024-10-04 10:12:01
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Unchained Melody](https://tchombo.blogspot.com/2024/09/unchained-melody.html)**  2024-10-04 06:26:17
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[Splitting a large text file on every blank line](https://www.noulakaz.net/2024/10/03/splitting-a-large-text-file-on-every-blank-line/)**  2024-10-03 06:58:30
