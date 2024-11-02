@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Stagione Cicloni 2023/2024](https://mauritiuslapassionesisente.blogspot.com/2024/11/stagione-cicloni-20232024.html)**  2024-11-01 14:31:23
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LA LANGUE KREOL, OUTIL DE RÉINSERTION SOCIALE  La contribution de Dev Virahsawmy remémorée](https://www.lemauricien.com/le-mauricien/la-langue-kreol-outil-de-reinsertion-sociale-la-contribution-de-dev-virahsawmy-rememoree/655316/)**  2024-10-30 11:00:05
+**[Démonstration de force ou aveu de faiblesse ?](https://www.lemauricien.com/opinions/demonstration-de-force-ou-aveu-de-faiblesse/655534/)**  2024-11-01 14:00:18
+
+[Mike Sinnott's World](https://msinnott.net)  
+**[Social Net Suspended](https://msinnott.net/2024/11/01/social-net-suspended/)**  2024-11-01 07:25:30
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Ce flux continu indispensable](https://tchombo.blogspot.com/2024/10/ce-flux-continu-indispensable.html)**  2024-10-30 10:43:10
@@ -45,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [turbine.mu](https://turbine.mu)  
 **[Meet Turbine’s Newest Coaches: Guiding the Next Wave of Innovators](https://turbine.mu/blog/2024/10/11/meet-turbines-newest-coaches-guiding-the-next-wave-of-innovators/)**  2024-10-11 06:13:37
-
-[Mike Sinnott's World](https://msinnott.net)  
-**[Chagos Controversy](https://msinnott.net/2024/10/10/chagos-controversy/)**  2024-10-10 20:23:01
 
 [conversations](https://enconversation.wordpress.com)  
 **[Elections 2024](https://enconversation.wordpress.com/2024/10/07/elections-2024/)**  2024-10-07 06:20:46
@@ -126,9 +129,6 @@ permalink: /mauritian-blogs/
 
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Empowerment towards acceptance](https://tachah.blogspot.com/2024/02/empowerment-towards-acceptance.html)**  2024-02-20 18:26:57
-
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Ciclone Eleanor (Zimbabwe)](https://mauritiuslapassionesisente.blogspot.com/2024/02/eleanor-zimbabwe.html)**  2024-02-20 16:39:23
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Silence, on exécute à Gaza!](https://jeanmeedesveaux.blogspot.com/2023/12/silence-on-tue-gaza.html)**  2023-12-28 12:08:58
