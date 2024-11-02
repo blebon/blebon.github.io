@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Stagione Cicloni 2023/2024](https://mauritiuslapassionesisente.blogspot.com/2024/11/stagione-cicloni-20232024.html)**  2024-11-01 14:31:23
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[SONA in Singapore Nov 2024](https://kabilen.tumblr.com/post/766017451304648704)**  2024-11-02 07:06:09
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Démonstration de force ou aveu de faiblesse ?](https://www.lemauricien.com/opinions/demonstration-de-force-ou-aveu-de-faiblesse/655534/)**  2024-11-01 14:00:18
+**[Mauritius has gone mad!](https://www.lemauricien.com/opinions/mauritius-has-gone-mad/655553/)**  2024-11-02 05:52:18
+
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Stagione Cicloni 2023/2024](https://mauritiuslapassionesisente.blogspot.com/2024/11/stagione-cicloni-20232024.html)**  2024-11-01 14:31:23
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Social Net Suspended](https://msinnott.net/2024/11/01/social-net-suspended/)**  2024-11-01 07:25:30
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Recluse](https://vintishgokool.blogspot.com/2024/10/recluse-bestial.html)**  2024-10-27 17:01:11
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Alain Ramanisun &amp; Laura Beg Live in SG 2024](https://kabilen.tumblr.com/post/765456913113792512)**  2024-10-27 02:36:38
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Winter romance in paradise: Indian Ocean getaways for couples](https://blog.constancehotels.com/winter-romance-in-paradise-indian-ocean-getaways-for-couples/)**  2024-10-24 08:32:30
