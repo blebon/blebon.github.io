@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Dignity](https://vintishgokool.blogspot.com/2024/11/dignity.html)**  2024-11-03 04:59:52
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[SONA in Singapore Nov 2024](https://kabilen.tumblr.com/post/766017451304648704)**  2024-11-02 07:06:09
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Ramgoolam Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/10/ramgoolam-statements-that-dont-survive.html)**  2024-10-30 09:50:28
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Recluse](https://vintishgokool.blogspot.com/2024/10/recluse-bestial.html)**  2024-10-27 17:01:11
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Winter romance in paradise: Indian Ocean getaways for couples](https://blog.constancehotels.com/winter-romance-in-paradise-indian-ocean-getaways-for-couples/)**  2024-10-24 08:32:30
