@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [No Title](https://vintishgokool.blogspot.com/)  
-**[Dignity](https://vintishgokool.blogspot.com/2024/11/dignity.html)**  2024-11-03 04:59:52
+**[Money Power](https://vintishgokool.blogspot.com/2024/11/money-power.html)**  2024-11-03 15:05:54
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[SONA in Singapore Nov 2024](https://kabilen.tumblr.com/post/766017451304648704)**  2024-11-02 07:06:09
