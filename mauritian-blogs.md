@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Moris: the bigger picture](https://tchombo.blogspot.com/2024/11/moris-bigger-picture.html)**  2024-11-04 09:05:37
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money Power](https://vintishgokool.blogspot.com/2024/11/money-power.html)**  2024-11-03 15:05:54
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Social Net Suspended](https://msinnott.net/2024/11/01/social-net-suspended/)**  2024-11-01 07:25:30
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Ce flux continu indispensable](https://tchombo.blogspot.com/2024/10/ce-flux-continu-indispensable.html)**  2024-10-30 10:43:10
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Ramgoolam Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/10/ramgoolam-statements-that-dont-survive.html)**  2024-10-30 09:50:28
