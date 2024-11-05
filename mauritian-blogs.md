@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The electoral campaign – some thoughts](https://www.lemauricien.com/le-mauricien/the-electoral-campaign-some-thoughts/655958/)**  2024-11-05 11:00:37
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Moris: the bigger picture](https://tchombo.blogspot.com/2024/11/moris-bigger-picture.html)**  2024-11-04 09:05:37
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[SONA in Singapore Nov 2024](https://kabilen.tumblr.com/post/766017451304648704)**  2024-11-02 07:06:09
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mauritius has gone mad!](https://www.lemauricien.com/opinions/mauritius-has-gone-mad/655553/)**  2024-11-02 05:52:18
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Stagione Cicloni 2023/2024](https://mauritiuslapassionesisente.blogspot.com/2024/11/stagione-cicloni-20232024.html)**  2024-11-01 14:31:23
