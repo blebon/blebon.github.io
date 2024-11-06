@@ -7,6 +7,9 @@ permalink: /mauritian-blogs/
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[The electoral campaign – some thoughts](https://www.lemauricien.com/le-mauricien/the-electoral-campaign-some-thoughts/655958/)**  2024-11-05 11:00:37
 
+[priscimon.com](https://priscimon.com/blog)  
+**[October snapshots](https://priscimon.com/blog/2024/11/05/october-snapshots/)**  2024-11-05 10:02:30
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Moris: the bigger picture](https://tchombo.blogspot.com/2024/11/moris-bigger-picture.html)**  2024-11-04 09:05:37
 
@@ -66,9 +69,6 @@ permalink: /mauritian-blogs/
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 36 (GFCI)](https://amarbheenick.blogspot.com/2024/09/the-global-financial-centres-index-36.html)**  2024-09-25 09:51:51
-
-[priscimon.com](https://priscimon.com/blog)  
-**[You win some, you lose some](https://priscimon.com/blog/2024/09/24/you-win-some-you-lose-some/)**  2024-09-24 20:57:26
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Stripes](https://swanlady-impressions.blogspot.com/2024/09/birthday-stripes.html)**  2024-09-13 13:26:06
@@ -132,8 +132,5 @@ permalink: /mauritian-blogs/
 
 [Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
 **[Silence, on exécute à Gaza!](https://jeanmeedesveaux.blogspot.com/2023/12/silence-on-tue-gaza.html)**  2023-12-28 12:08:58
-
-[My Sweet Mauritius](https://mysweetmauritius.blogspot.com/)  
-**[🌴🇲🇺🌴JOLLY'S ROCK à BUTTE A L'HERBE](https://mysweetmauritius.blogspot.com/2023/12/jollys-rock-butte-lherbe.html)**  2023-12-05 15:28:16
 
 <div style="height:0;width:0;overflow:hidden;"></div>
