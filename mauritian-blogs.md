@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Moris: the bigger picture](https://tchombo.blogspot.com/2024/11/moris-bigger-picture.html)**  2024-11-06 17:07:42
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The electoral campaign – some thoughts](https://www.lemauricien.com/le-mauricien/the-electoral-campaign-some-thoughts/655958/)**  2024-11-05 11:00:37
+**[Quand il est mort, le poète…](https://www.lemauricien.com/le-mauricien/quand-il-est-mort-le-poete/656132/)**  2024-11-06 11:40:03
 
 [priscimon.com](https://priscimon.com/blog)  
 **[October snapshots](https://priscimon.com/blog/2024/11/05/october-snapshots/)**  2024-11-05 10:02:30
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Moris: the bigger picture](https://tchombo.blogspot.com/2024/11/moris-bigger-picture.html)**  2024-11-04 09:05:37
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money Power](https://vintishgokool.blogspot.com/2024/11/money-power.html)**  2024-11-03 15:05:54
