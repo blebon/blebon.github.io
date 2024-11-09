@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Market Therapy](https://kabilen.tumblr.com/post/766648893360553984)**  2024-11-09 06:22:39
+
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discover ultimate relaxation at Constance Hotels & resorts](https://blog.constancehotels.com/discover-ultimate-relaxation-at-constance-hotels-resorts/)**  2024-11-08 08:00:00
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money Power](https://vintishgokool.blogspot.com/2024/11/money-power.html)**  2024-11-03 15:05:54
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[SONA in Singapore Nov 2024](https://kabilen.tumblr.com/post/766017451304648704)**  2024-11-02 07:06:09
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Stagione Cicloni 2023/2024](https://mauritiuslapassionesisente.blogspot.com/2024/11/stagione-cicloni-20232024.html)**  2024-11-01 14:31:23
