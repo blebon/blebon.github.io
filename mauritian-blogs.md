@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Discover ultimate relaxation at Constance Hotels & resorts](https://blog.constancehotels.com/discover-ultimate-relaxation-at-constance-hotels-resorts/)**  2024-11-08 08:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LETTRE OUVERTE AUX MAURICIENS – Élections générales 2024, Ile Maurice](https://www.lemauricien.com/le-mauricien/lettre-ouverte-aux-mauriciens-elections-generales-2024-ile-maurice/656194/)**  2024-11-07 11:00:24
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Ramgoolam Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/10/ramgoolam-statements-that-dont-survive.html)**  2024-10-30 09:50:28
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Winter romance in paradise: Indian Ocean getaways for couples](https://blog.constancehotels.com/winter-romance-in-paradise-indian-ocean-getaways-for-couples/)**  2024-10-24 08:32:30
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Book That Makes Mauritian Voters Smart As Hell Published](http://kozelidir.blogspot.com/2024/10/book-that-makes-mauritian-voters-smart.html)**  2024-10-22 12:30:07
