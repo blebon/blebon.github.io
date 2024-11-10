@@ -4,20 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Pictures from Saturday walk](https://priscimon.com/blog/2024/11/09/pictures-from-saturday-walk/)**  2024-11-09 19:05:29
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Market Therapy](https://kabilen.tumblr.com/post/766648893360553984)**  2024-11-09 06:22:39
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discover ultimate relaxation at Constance Hotels & resorts](https://blog.constancehotels.com/discover-ultimate-relaxation-at-constance-hotels-resorts/)**  2024-11-08 08:00:00
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Try try until you succeed](http://ghoorunneha.blogspot.com/2024/11/try-try-until-you-succeed.html)**  2024-11-08 03:19:31
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LETTRE OUVERTE AUX MAURICIENS – Élections générales 2024, Ile Maurice](https://www.lemauricien.com/le-mauricien/lettre-ouverte-aux-mauriciens-elections-generales-2024-ile-maurice/656194/)**  2024-11-07 11:00:24
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Moris: the bigger picture](https://tchombo.blogspot.com/2024/11/moris-bigger-picture.html)**  2024-11-06 17:07:42
-
-[priscimon.com](https://priscimon.com/blog)  
-**[October snapshots](https://priscimon.com/blog/2024/11/05/october-snapshots/)**  2024-11-05 10:02:30
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money Power](https://vintishgokool.blogspot.com/2024/11/money-power.html)**  2024-11-03 15:05:54
