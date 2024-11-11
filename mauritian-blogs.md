@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [priscimon.com](https://priscimon.com/blog)  
-**[Pictures from Saturday walk](https://priscimon.com/blog/2024/11/09/pictures-from-saturday-walk/)**  2024-11-09 19:05:29
+**[Sunday photoblog](https://priscimon.com/blog/2024/11/10/sunday-photoblog/)**  2024-11-10 15:34:18
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Market Therapy](https://kabilen.tumblr.com/post/766648893360553984)**  2024-11-09 06:22:39
