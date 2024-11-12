@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Hope](http://ghoorunneha.blogspot.com/2024/11/hope.html)**  2024-11-11 17:18:42
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Sunday photoblog](https://priscimon.com/blog/2024/11/10/sunday-photoblog/)**  2024-11-10 15:34:18
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discover ultimate relaxation at Constance Hotels & resorts](https://blog.constancehotels.com/discover-ultimate-relaxation-at-constance-hotels-resorts/)**  2024-11-08 08:00:00
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Try try until you succeed](http://ghoorunneha.blogspot.com/2024/11/try-try-until-you-succeed.html)**  2024-11-08 03:19:31
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LETTRE OUVERTE AUX MAURICIENS – Élections générales 2024, Ile Maurice](https://www.lemauricien.com/le-mauricien/lettre-ouverte-aux-mauriciens-elections-generales-2024-ile-maurice/656194/)**  2024-11-07 11:00:24
