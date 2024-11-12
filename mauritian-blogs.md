@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Lessons of a 10 November ESSONS OF A 10 NOVEMBER](https://www.lemauricien.com/le-mauricien/lessons-of-a-10-november-essons-of-a-10-november/656482/)**  2024-11-12 08:29:40
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Hope](http://ghoorunneha.blogspot.com/2024/11/hope.html)**  2024-11-11 17:18:42
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Discover ultimate relaxation at Constance Hotels & resorts](https://blog.constancehotels.com/discover-ultimate-relaxation-at-constance-hotels-resorts/)**  2024-11-08 08:00:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LETTRE OUVERTE AUX MAURICIENS – Élections générales 2024, Ile Maurice](https://www.lemauricien.com/le-mauricien/lettre-ouverte-aux-mauriciens-elections-generales-2024-ile-maurice/656194/)**  2024-11-07 11:00:24
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Moris: the bigger picture](https://tchombo.blogspot.com/2024/11/moris-bigger-picture.html)**  2024-11-06 17:07:42
