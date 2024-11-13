@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[General Elections 2024 : The Sinking Sun Empire](https://www.lemauricien.com/le-mauricien/general-elections-2024-the-sinking-sun-empire/656615/)**  2024-11-13 11:00:35
+
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Embrace each day](http://ghoorunneha.blogspot.com/2024/11/embrace-each-day.html)**  2024-11-13 05:14:36
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Elects New Government in Historic Landslide Victory](https://relocationmauritius.wordpress.com/2024/11/12/mauritius-elects-new-government-in-historic-landslide-victory/)**  2024-11-12 16:32:11
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Gestion de la relation client : SEDECO et ses divers services BPO](https://sedecobtob.blogspot.com/2024/11/gestion-de-la-relation-client-sedeco-et.html)**  2024-11-12 13:47:50
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Le Pouvoir de la patience](http://ghoorunneha.blogspot.com/2024/11/le-pouvoir-de-la-patience.html)**  2024-11-12 10:48:53
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Lessons of a 10 November](https://www.lemauricien.com/le-mauricien/lessons-of-a-10-november-essons-of-a-10-november/656482/)**  2024-11-12 08:29:40
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Sunday photoblog](https://priscimon.com/blog/2024/11/10/sunday-photoblog/)**  2024-11-10 15:34:18
