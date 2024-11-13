@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Lessons of a 10 November ESSONS OF A 10 NOVEMBER](https://www.lemauricien.com/le-mauricien/lessons-of-a-10-november-essons-of-a-10-november/656482/)**  2024-11-12 08:29:40
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Mauritius Elects New Government in Historic Landslide Victory](https://relocationmauritius.wordpress.com/2024/11/12/mauritius-elects-new-government-in-historic-landslide-victory/)**  2024-11-12 16:32:11
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Gestion de la relation client : SEDECO et ses divers services BPO](https://sedecobtob.blogspot.com/2024/11/gestion-de-la-relation-client-sedeco-et.html)**  2024-11-12 13:47:50
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Hope](http://ghoorunneha.blogspot.com/2024/11/hope.html)**  2024-11-11 17:18:42
+**[Le Pouvoir de la patience](http://ghoorunneha.blogspot.com/2024/11/le-pouvoir-de-la-patience.html)**  2024-11-12 10:48:53
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Lessons of a 10 November](https://www.lemauricien.com/le-mauricien/lessons-of-a-10-november-essons-of-a-10-november/656482/)**  2024-11-12 08:29:40
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Sunday photoblog](https://priscimon.com/blog/2024/11/10/sunday-photoblog/)**  2024-11-10 15:34:18
@@ -52,9 +58,6 @@ permalink: /mauritian-blogs/
 [Mera Blog](https://nayarweb.com/blog)  
 **[Key Rate is down to 4% from 4.5% in Mauritius. Should you rejoice?](https://nayarweb.com/blog/2024/key-rate-is-down-to-4-from-4-5-in-mauritius-should-you-rejoice/)**  2024-10-13 13:57:22
 
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Offshore : SEDECO et ses solutions optimisées](https://sedecobtob.blogspot.com/2024/10/offshore-sedeco-et-ses-solutions.html)**  2024-10-12 12:05:23
-
 [turbine.mu](https://turbine.mu)  
 **[Meet Turbine’s Newest Coaches: Guiding the Next Wave of Innovators](https://turbine.mu/blog/2024/10/11/meet-turbines-newest-coaches-guiding-the-next-wave-of-innovators/)**  2024-10-11 06:13:37
 
@@ -75,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Stripes](https://swanlady-impressions.blogspot.com/2024/09/birthday-stripes.html)**  2024-09-13 13:26:06
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Winning your restaurant game in Mauritius](https://relocationmauritius.wordpress.com/2024/09/13/winning-your-restaurant-game-in-mauritius/)**  2024-09-13 05:26:49
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Polémique, la Cène en scène sur la Seine ? « La parodie du religieux a toujours fait partie de la culture populaire française »](https://zoomdr.blogspot.com/2024/08/polemique-la-cene-en-scene-sur-la-seine.html)**  2024-08-08 08:03:15
