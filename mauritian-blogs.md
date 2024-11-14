@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[IMPACT OF TECHNOLOGY](http://ghoorunneha.blogspot.com/2024/11/impact-of-technology.html)**  2024-11-13 11:45:22
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[General Elections 2024 : The Sinking Sun Empire](https://www.lemauricien.com/le-mauricien/general-elections-2024-the-sinking-sun-empire/656615/)**  2024-11-13 11:00:35
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Embrace each day](http://ghoorunneha.blogspot.com/2024/11/embrace-each-day.html)**  2024-11-13 05:14:36
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Elects New Government in Historic Landslide Victory](https://relocationmauritius.wordpress.com/2024/11/12/mauritius-elects-new-government-in-historic-landslide-victory/)**  2024-11-12 16:32:11
