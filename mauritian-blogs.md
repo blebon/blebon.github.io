@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[IMPACT OF TECHNOLOGY](http://ghoorunneha.blogspot.com/2024/11/impact-of-technology.html)**  2024-11-13 11:45:22
+**[Keep your focus clear](http://ghoorunneha.blogspot.com/2024/11/keep-your-focus-clear.html)**  2024-11-14 09:57:12
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[The ultimate lodge honeymoon destinations for 2025](https://blog.constancehotels.com/the-ultimate-lodge-honeymoon-destinations-for-2025/)**  2024-11-14 08:16:00
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[General Elections 2024 : The Sinking Sun Empire](https://www.lemauricien.com/le-mauricien/general-elections-2024-the-sinking-sun-empire/656615/)**  2024-11-13 11:00:35
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Market Therapy](https://kabilen.tumblr.com/post/766648893360553984)**  2024-11-09 06:22:39
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[Discover ultimate relaxation at Constance Hotels & resorts](https://blog.constancehotels.com/discover-ultimate-relaxation-at-constance-hotels-resorts/)**  2024-11-08 08:00:00
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Moris: the bigger picture](https://tchombo.blogspot.com/2024/11/moris-bigger-picture.html)**  2024-11-06 17:07:42
