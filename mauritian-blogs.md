@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[À la Ministre de l’Education sortante et au prochain ministre : Nous faisons face à une catastrophe pédagogique](https://www.lemauricien.com/le-mauricien/a-la-ministre-de-leducation-sortante-et-au-prochain-ministre-nous-faisons-face-a-une-catastrophe-pedagogique/656822/)**  2024-11-15 11:03:18
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Isha Passed Away](https://flicenflac.blogspot.com/2024/11/isha-passed-away.html)**  2024-11-14 19:59:18
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Une plume ou trois croix tracées  à l’encre de nos espoirs…](https://www.lemauricien.com/le-mauricien/une-plume-ou-trois-croix-tracees-a-lencre-de-nos-espoirs/656730/)**  2024-11-14 11:01:58
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Keep your focus clear](http://ghoorunneha.blogspot.com/2024/11/keep-your-focus-clear.html)**  2024-11-14 09:57:12
