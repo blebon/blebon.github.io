@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[Isha Passed Away](https://flicenflac.blogspot.com/2024/11/isha-passed-away.html)**  2024-11-14 19:59:18
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Une plume ou trois croix tracées  à l’encre de nos espoirs…](https://www.lemauricien.com/le-mauricien/une-plume-ou-trois-croix-tracees-a-lencre-de-nos-espoirs/656730/)**  2024-11-14 11:01:58
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Keep your focus clear](http://ghoorunneha.blogspot.com/2024/11/keep-your-focus-clear.html)**  2024-11-14 09:57:12
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The ultimate lodge honeymoon destinations for 2025](https://blog.constancehotels.com/the-ultimate-lodge-honeymoon-destinations-for-2025/)**  2024-11-14 08:16:00
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[General Elections 2024 : The Sinking Sun Empire](https://www.lemauricien.com/le-mauricien/general-elections-2024-the-sinking-sun-empire/656615/)**  2024-11-13 11:00:35
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Elects New Government in Historic Landslide Victory](https://relocationmauritius.wordpress.com/2024/11/12/mauritius-elects-new-government-in-historic-landslide-victory/)**  2024-11-12 16:32:11
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Book That Makes Mauritian Voters Smart As Hell Published](http://kozelidir.blogspot.com/2024/10/book-that-makes-mauritian-voters-smart.html)**  2024-10-22 12:30:07
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Facepalm](https://flicenflac.blogspot.com/2024/10/facepalm.html)**  2024-10-19 17:25:56
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[Numbers Part 1](https://imathsit.blogspot.com/2021/12/numbers-part-1.html)**  2024-10-17 03:05:07
