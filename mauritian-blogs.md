@@ -4,23 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Ciclone Behki  (eSwatini)](https://mauritiuslapassionesisente.blogspot.com/2024/11/ciclone-behki-eswatini.html)**  2024-11-15 18:40:34
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Contenu digital : SEDECO a plusieurs cordes à son arc !](https://sedecobtob.blogspot.com/2024/11/contenu-digital-sedeco-plusieurs-cordes.html)**  2024-11-15 15:40:47
+
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Nature](http://ghoorunneha.blogspot.com/2024/11/nature.html)**  2024-11-15 11:47:39
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[À la Ministre de l’Education sortante et au prochain ministre : Nous faisons face à une catastrophe pédagogique](https://www.lemauricien.com/le-mauricien/a-la-ministre-de-leducation-sortante-et-au-prochain-ministre-nous-faisons-face-a-une-catastrophe-pedagogique/656822/)**  2024-11-15 11:03:18
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Isha Passed Away](https://flicenflac.blogspot.com/2024/11/isha-passed-away.html)**  2024-11-14 19:59:18
 
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Keep your focus clear](http://ghoorunneha.blogspot.com/2024/11/keep-your-focus-clear.html)**  2024-11-14 09:57:12
-
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[The ultimate lodge honeymoon destinations for 2025](https://blog.constancehotels.com/the-ultimate-lodge-honeymoon-destinations-for-2025/)**  2024-11-14 08:16:00
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Elects New Government in Historic Landslide Victory](https://relocationmauritius.wordpress.com/2024/11/12/mauritius-elects-new-government-in-historic-landslide-victory/)**  2024-11-12 16:32:11
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Gestion de la relation client : SEDECO et ses divers services BPO](https://sedecobtob.blogspot.com/2024/11/gestion-de-la-relation-client-sedeco-et.html)**  2024-11-12 13:47:50
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Sunday photoblog](https://priscimon.com/blog/2024/11/10/sunday-photoblog/)**  2024-11-10 15:34:18
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money Power](https://vintishgokool.blogspot.com/2024/11/money-power.html)**  2024-11-03 15:05:54
-
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Stagione Cicloni 2023/2024](https://mauritiuslapassionesisente.blogspot.com/2024/11/stagione-cicloni-20232024.html)**  2024-11-01 14:31:23
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Social Net Suspended](https://msinnott.net/2024/11/01/social-net-suspended/)**  2024-11-01 07:25:30
