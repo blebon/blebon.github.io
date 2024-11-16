@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The Cycle of Power](https://www.lemauricien.com/le-mauricien/the-cycle-of-power/656947/)**  2024-11-16 09:05:45
+
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Ciclone Behki  (eSwatini)](https://mauritiuslapassionesisente.blogspot.com/2024/11/ciclone-behki-eswatini.html)**  2024-11-15 18:40:34
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Nature](http://ghoorunneha.blogspot.com/2024/11/nature.html)**  2024-11-15 11:47:39
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[À la Ministre de l’Education sortante et au prochain ministre : Nous faisons face à une catastrophe pédagogique](https://www.lemauricien.com/le-mauricien/a-la-ministre-de-leducation-sortante-et-au-prochain-ministre-nous-faisons-face-a-une-catastrophe-pedagogique/656822/)**  2024-11-15 11:03:18
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Isha Passed Away](https://flicenflac.blogspot.com/2024/11/isha-passed-away.html)**  2024-11-14 19:59:18
