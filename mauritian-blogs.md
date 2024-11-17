@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
+**[Ciclone Behki (eSwatini) Aggiornamento I](https://mauritiuslapassionesisente.blogspot.com/2024/11/ciclone-behki-eswatini-aggiornamento-i.html)**  2024-11-16 17:18:07
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[The Cycle of Power](https://www.lemauricien.com/le-mauricien/the-cycle-of-power/656947/)**  2024-11-16 09:05:45
-
-[Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
-**[Ciclone Behki  (eSwatini)](https://mauritiuslapassionesisente.blogspot.com/2024/11/ciclone-behki-eswatini.html)**  2024-11-15 18:40:34
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Contenu digital : SEDECO a plusieurs cordes à son arc !](https://sedecobtob.blogspot.com/2024/11/contenu-digital-sedeco-plusieurs-cordes.html)**  2024-11-15 15:40:47
