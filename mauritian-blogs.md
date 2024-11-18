@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Beauty of the Beast](https://davidandjennilyn.com/2024/11/17/beauty-of-the-beast/)**  2024-11-17 23:36:55
+
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Ciclone Behki (eSwatini) Aggiornamento I](https://mauritiuslapassionesisente.blogspot.com/2024/11/ciclone-behki-eswatini-aggiornamento-i.html)**  2024-11-16 17:18:07
 
@@ -69,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Linux User Group of Mauritius](https://lugm.org)  
 **[Splitting a large text file on every blank line](https://www.noulakaz.net/2024/10/03/splitting-a-large-text-file-on-every-blank-line/)**  2024-10-03 06:58:30
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy 17th Birthday Kadie!](https://davidandjennilyn.com/2024/10/02/happy-17th-birthday-kadie/)**  2024-10-02 21:03:00
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 36 (GFCI)](https://amarbheenick.blogspot.com/2024/09/the-global-financial-centres-index-36.html)**  2024-09-25 09:51:51
