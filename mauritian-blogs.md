@@ -4,17 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Nous, le peuple mauricien](https://www.lemauricien.com/le-mauricien/nous-le-peuple-mauricien/657242/)**  2024-11-19 11:01:29
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Stay Strong](http://ghoorunneha.blogspot.com/2024/11/stay-strong.html)**  2024-11-18 19:49:18
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Beauty of the Beast](https://davidandjennilyn.com/2024/11/17/beauty-of-the-beast/)**  2024-11-17 23:36:55
 
+[Mike Sinnott's World](https://msinnott.net)  
+**[Vox Populi](https://msinnott.net/2024/11/17/vox-populi/)**  2024-11-17 17:09:44
+
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Ciclone Behki (eSwatini) Aggiornamento I](https://mauritiuslapassionesisente.blogspot.com/2024/11/ciclone-behki-eswatini-aggiornamento-i.html)**  2024-11-16 17:18:07
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Cycle of Power](https://www.lemauricien.com/le-mauricien/the-cycle-of-power/656947/)**  2024-11-16 09:05:45
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Contenu digital : SEDECO a plusieurs cordes à son arc !](https://sedecobtob.blogspot.com/2024/11/contenu-digital-sedeco-plusieurs-cordes.html)**  2024-11-15 15:40:47
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money Power](https://vintishgokool.blogspot.com/2024/11/money-power.html)**  2024-11-03 15:05:54
-
-[Mike Sinnott's World](https://msinnott.net)  
-**[Social Net Suspended](https://msinnott.net/2024/11/01/social-net-suspended/)**  2024-11-01 07:25:30
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Ramgoolam Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/10/ramgoolam-statements-that-dont-survive.html)**  2024-10-30 09:50:28
