@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Stay Strong](http://ghoorunneha.blogspot.com/2024/11/stay-strong.html)**  2024-11-18 19:49:18
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Beauty of the Beast](https://davidandjennilyn.com/2024/11/17/beauty-of-the-beast/)**  2024-11-17 23:36:55
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Contenu digital : SEDECO a plusieurs cordes à son arc !](https://sedecobtob.blogspot.com/2024/11/contenu-digital-sedeco-plusieurs-cordes.html)**  2024-11-15 15:40:47
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Nature](http://ghoorunneha.blogspot.com/2024/11/nature.html)**  2024-11-15 11:47:39
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Isha Passed Away](https://flicenflac.blogspot.com/2024/11/isha-passed-away.html)**  2024-11-14 19:59:18
