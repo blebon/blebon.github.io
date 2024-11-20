@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The Insidious and Sinister Ramifications of Amendment 2 of 1982 to Section 113](https://www.lemauricien.com/le-mauricien/the-insidious-and-sinister-ramifications-of-amendment-2-of-1982-to-section-113/657360/)**  2024-11-20 11:00:52
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[You are not here to fade](http://ghoorunneha.blogspot.com/2024/11/you-are-not-here-to-fade.html)**  2024-11-19 11:50:46
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Nous, le peuple mauricien](https://www.lemauricien.com/le-mauricien/nous-le-peuple-mauricien/657242/)**  2024-11-19 11:01:29
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Beauty of the Beast](https://davidandjennilyn.com/2024/11/17/beauty-of-the-beast/)**  2024-11-17 23:36:55
