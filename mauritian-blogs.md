@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Insidious and Sinister Ramifications of Amendment 2 of 1982 to Section 113](https://www.lemauricien.com/le-mauricien/the-insidious-and-sinister-ramifications-of-amendment-2-of-1982-to-section-113/657360/)**  2024-11-20 11:00:52
+**[Les élections en cinq mots](https://www.lemauricien.com/le-mauricien/les-elections-en-cinq-mots/657484/)**  2024-11-21 11:00:18
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[You are not here to fade](http://ghoorunneha.blogspot.com/2024/11/you-are-not-here-to-fade.html)**  2024-11-19 11:50:46
