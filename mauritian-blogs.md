@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Open letter to Gavin Glover SC](https://www.lemauricien.com/le-mauricien/open-letter-to-gavin-glover-sc/657587/)**  2024-11-22 11:00:44
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[France’s Atomic Legacy in Algeria](https://zoomdr.blogspot.com/2024/11/chahrazade-douah-is-french-algerian.html)**  2024-11-22 09:38:23
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Stand tall and step forward](http://ghoorunneha.blogspot.com/2024/11/stand-tall-and-step-forward.html)**  2024-11-21 11:29:08
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Les élections en cinq mots](https://www.lemauricien.com/le-mauricien/les-elections-en-cinq-mots/657484/)**  2024-11-21 11:00:18
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Beauty of the Beast](https://davidandjennilyn.com/2024/11/17/beauty-of-the-beast/)**  2024-11-17 23:36:55
@@ -78,9 +81,6 @@ permalink: /mauritian-blogs/
 
 [Swanlady Impressions](https://swanlady-impressions.blogspot.com/)  
 **[Birthday Stripes](https://swanlady-impressions.blogspot.com/2024/09/birthday-stripes.html)**  2024-09-13 13:26:06
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Polémique, la Cène en scène sur la Seine ? « La parodie du religieux a toujours fait partie de la culture populaire française »](https://zoomdr.blogspot.com/2024/08/polemique-la-cene-en-scene-sur-la-seine.html)**  2024-08-08 08:03:15
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Ethical dilemmas or just plain ignorance?](https://meeraappadoo.wordpress.com/2024/07/23/ethical-dilemmas-or-just-plain-ignorance/)**  2024-07-23 06:44:41
