@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Stand tall and step forward](http://ghoorunneha.blogspot.com/2024/11/stand-tall-and-step-forward.html)**  2024-11-21 11:29:08
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Les élections en cinq mots](https://www.lemauricien.com/le-mauricien/les-elections-en-cinq-mots/657484/)**  2024-11-21 11:00:18
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[You are not here to fade](http://ghoorunneha.blogspot.com/2024/11/you-are-not-here-to-fade.html)**  2024-11-19 11:50:46
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Beauty of the Beast](https://davidandjennilyn.com/2024/11/17/beauty-of-the-beast/)**  2024-11-17 23:36:55
