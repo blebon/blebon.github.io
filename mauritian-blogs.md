@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Communication digitale : des podcasts optimisés avec SEDECO](https://sedecobtob.blogspot.com/2024/11/communication-digitale-des-podcasts.html)**  2024-11-22 15:57:28
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Open letter to Gavin Glover SC](https://www.lemauricien.com/le-mauricien/open-letter-to-gavin-glover-sc/657587/)**  2024-11-22 11:00:44
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Ciclone Behki (eSwatini) Aggiornamento I](https://mauritiuslapassionesisente.blogspot.com/2024/11/ciclone-behki-eswatini-aggiornamento-i.html)**  2024-11-16 17:18:07
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Contenu digital : SEDECO a plusieurs cordes à son arc !](https://sedecobtob.blogspot.com/2024/11/contenu-digital-sedeco-plusieurs-cordes.html)**  2024-11-15 15:40:47
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Isha Passed Away](https://flicenflac.blogspot.com/2024/11/isha-passed-away.html)**  2024-11-14 19:59:18
