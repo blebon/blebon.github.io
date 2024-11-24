@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mera Blog](https://nayarweb.com/blog)  
+**[Using AI to Catch a Thief in Flic-en-Flac](https://nayarweb.com/blog/2024/using-ai-to-catch-a-thief-in-flic-en-flac/)**  2024-11-24 08:46:54
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Joseph Tsang Mang Kin : A towering figure](https://www.lemauricien.com/le-mauricien/joseph-tsang-mang-kin-a-towering-figure/657748/)**  2024-11-23 09:46:15
 
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Toasted milk burfi](https://everpeckish.com/toasted-milk-burfi/?utm_source=rss&utm_medium=rss&utm_campaign=toasted-milk-burfi)**  2024-10-13 18:19:05
-
-[Mera Blog](https://nayarweb.com/blog)  
-**[Key Rate is down to 4% from 4.5% in Mauritius. Should you rejoice?](https://nayarweb.com/blog/2024/key-rate-is-down-to-4-from-4-5-in-mauritius-should-you-rejoice/)**  2024-10-13 13:57:22
 
 [turbine.mu](https://turbine.mu)  
 **[Meet Turbine’s Newest Coaches: Guiding the Next Wave of Innovators](https://turbine.mu/blog/2024/10/11/meet-turbines-newest-coaches-guiding-the-next-wave-of-innovators/)**  2024-10-11 06:13:37
