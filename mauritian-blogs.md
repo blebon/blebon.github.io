@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[The Most Important Island on the Planet](https://www.lemauricien.com/le-mauricien/the-most-important-island-on-the-planet/657907/)**  2024-11-25 11:00:42
+
+[Constance Hotels Blog](https://blog.constancehotels.com)  
+**[Transformational trips: Your dream 2025 retreat in the Indian Ocean](https://blog.constancehotels.com/transformational-trips-your-dream-2025-retreat-in-the-indian-ocean/)**  2024-11-25 07:30:00
+
 [Mera Blog](https://nayarweb.com/blog)  
 **[Using AI to Catch a Thief in Flic-en-Flac](https://nayarweb.com/blog/2024/using-ai-to-catch-a-thief-in-flic-en-flac/)**  2024-11-24 08:46:54
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Joseph Tsang Mang Kin : A towering figure](https://www.lemauricien.com/le-mauricien/joseph-tsang-mang-kin-a-towering-figure/657748/)**  2024-11-23 09:46:15
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Communication digitale : des podcasts optimisés avec SEDECO](https://sedecobtob.blogspot.com/2024/11/communication-digitale-des-podcasts.html)**  2024-11-22 15:57:28
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Isha Passed Away](https://flicenflac.blogspot.com/2024/11/isha-passed-away.html)**  2024-11-14 19:59:18
-
-[Constance Hotels Blog](https://blog.constancehotels.com)  
-**[The ultimate lodge honeymoon destinations for 2025](https://blog.constancehotels.com/the-ultimate-lodge-honeymoon-destinations-for-2025/)**  2024-11-14 08:16:00
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Elects New Government in Historic Landslide Victory](https://relocationmauritius.wordpress.com/2024/11/12/mauritius-elects-new-government-in-historic-landslide-victory/)**  2024-11-12 16:32:11
