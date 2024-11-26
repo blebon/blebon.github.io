@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The Most Important Island on the Planet](https://www.lemauricien.com/le-mauricien/the-most-important-island-on-the-planet/657907/)**  2024-11-25 11:00:42
+**[Mauritius 2024 Elections: A Stark Reminder of Gender Imbalance in Political Representation](https://www.lemauricien.com/le-mauricien/mauritius-2024-elections-a-stark-reminder-of-gender-imbalance-in-political-representation/658042/)**  2024-11-26 11:00:18
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Transformational trips: Your dream 2025 retreat in the Indian Ocean](https://blog.constancehotels.com/transformational-trips-your-dream-2025-retreat-in-the-indian-ocean/)**  2024-11-25 07:30:00
