@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Noir et blanc](https://www.lemauricien.com/le-mauricien/noir-et-blanc/658164/)**  2024-11-27 11:00:50
+**[The “Mystik Festival”](https://www.lemauricien.com/le-mauricien/the-mystik-festival/658286/)**  2024-11-28 11:02:34
+
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Clara Pretus, neurologist: ‘There are evil agents who are profiting by generating this nervousness’](https://zoomdr.blogspot.com/2024/11/clara-pretus-neurologist-there-are-evil.html)**  2024-11-28 09:19:38
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Transformational trips: Your dream 2025 retreat in the Indian Ocean](https://blog.constancehotels.com/transformational-trips-your-dream-2025-retreat-in-the-indian-ocean/)**  2024-11-25 07:30:00
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Communication digitale : des podcasts optimisés avec SEDECO](https://sedecobtob.blogspot.com/2024/11/communication-digitale-des-podcasts.html)**  2024-11-22 15:57:28
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[France’s Atomic Legacy in Algeria](https://zoomdr.blogspot.com/2024/11/chahrazade-douah-is-french-algerian.html)**  2024-11-22 09:38:23
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Stand tall and step forward](http://ghoorunneha.blogspot.com/2024/11/stand-tall-and-step-forward.html)**  2024-11-21 11:29:08
