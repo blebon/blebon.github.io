@@ -133,7 +133,4 @@ permalink: /mauritian-blogs/
 [Reflection Corner](https://tachah.blogspot.com/)  
 **[Empowerment towards acceptance](https://tachah.blogspot.com/2024/02/empowerment-towards-acceptance.html)**  2024-02-20 18:26:57
 
-[Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
-**[Silence, on exécute à Gaza!](https://jeanmeedesveaux.blogspot.com/2023/12/silence-on-tue-gaza.html)**  2023-12-28 12:08:58
-
 <div style="height:0;width:0;overflow:hidden;"></div>
