@@ -73,9 +73,6 @@ permalink: /mauritian-blogs/
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[NSW and ACT Roadtrip](https://littleanantasin.wordpress.com/2024/10/04/nsw-and-act-roadtrip/)**  2024-10-04 10:12:01
 
-[Linux User Group of Mauritius](https://lugm.org)  
-**[Splitting a large text file on every blank line](https://www.noulakaz.net/2024/10/03/splitting-a-large-text-file-on-every-blank-line/)**  2024-10-03 06:58:30
-
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 36 (GFCI)](https://amarbheenick.blogspot.com/2024/09/the-global-financial-centres-index-36.html)**  2024-09-25 09:51:51
 
