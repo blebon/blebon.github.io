@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[The “Mystik Festival”](https://www.lemauricien.com/le-mauricien/the-mystik-festival/658286/)**  2024-11-28 11:02:34
+**[Mauritius’ 60-0 Sweep : A Double-Edged Sword and Test for Democracy](https://www.lemauricien.com/le-mauricien/mauritius-60-0-sweep-a-double-edged-sword-and-test-for-democracy/658402/)**  2024-11-29 11:01:03
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Clara Pretus, neurologist: ‘There are evil agents who are profiting by generating this nervousness’](https://zoomdr.blogspot.com/2024/11/clara-pretus-neurologist-there-are-evil.html)**  2024-11-28 09:19:38
