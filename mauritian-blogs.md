@@ -7,6 +7,9 @@ permalink: /mauritian-blogs/
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Mauritius’ 60-0 Sweep : A Double-Edged Sword and Test for Democracy](https://www.lemauricien.com/le-mauricien/mauritius-60-0-sweep-a-double-edged-sword-and-test-for-democracy/658402/)**  2024-11-29 11:01:03
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[DANCE LIKE NEVER BEFORE](http://ghoorunneha.blogspot.com/2024/11/dance-like-never-before.html)**  2024-11-28 17:12:52
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Clara Pretus, neurologist: ‘There are evil agents who are profiting by generating this nervousness’](https://zoomdr.blogspot.com/2024/11/clara-pretus-neurologist-there-are-evil.html)**  2024-11-28 09:19:38
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Communication digitale : des podcasts optimisés avec SEDECO](https://sedecobtob.blogspot.com/2024/11/communication-digitale-des-podcasts.html)**  2024-11-22 15:57:28
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Stand tall and step forward](http://ghoorunneha.blogspot.com/2024/11/stand-tall-and-step-forward.html)**  2024-11-21 11:29:08
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Beauty of the Beast](https://davidandjennilyn.com/2024/11/17/beauty-of-the-beast/)**  2024-11-17 23:36:55
@@ -72,6 +72,9 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[NSW and ACT Roadtrip](https://littleanantasin.wordpress.com/2024/10/04/nsw-and-act-roadtrip/)**  2024-10-04 10:12:01
+
+[Linux User Group of Mauritius](https://lugm.org)  
+**[Splitting a large text file on every blank line](https://www.noulakaz.net/2024/10/03/splitting-a-large-text-file-on-every-blank-line/)**  2024-10-03 06:58:30
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 36 (GFCI)](https://amarbheenick.blogspot.com/2024/09/the-global-financial-centres-index-36.html)**  2024-09-25 09:51:51
