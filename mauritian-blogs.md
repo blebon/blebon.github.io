@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[ever peckish](https://everpeckish.com)  
+**[Boulettes pomme de terre- Mauritian potato croquettes](https://everpeckish.com/boulettes-pomme-de-terre-mauritian-potato-croquettes/?utm_source=rss&utm_medium=rss&utm_campaign=boulettes-pomme-de-terre-mauritian-potato-croquettes)**  2024-12-01 11:04:47
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Mauritius’ 60-0 Sweep : A Double-Edged Sword and Test for Democracy](https://www.lemauricien.com/le-mauricien/mauritius-60-0-sweep-a-double-edged-sword-and-test-for-democracy/658402/)**  2024-11-29 11:01:03
 
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Embracing Uncertainty and Cultivating Resilience: An Address to Agriculture Graduates](https://facultyagriculture.blogspot.com/2024/10/embracing-uncertainty-and-cultivating.html)**  2024-10-15 16:02:25
-
-[ever peckish](https://everpeckish.com)  
-**[Toasted milk burfi](https://everpeckish.com/toasted-milk-burfi/?utm_source=rss&utm_medium=rss&utm_campaign=toasted-milk-burfi)**  2024-10-13 18:19:05
 
 [turbine.mu](https://turbine.mu)  
 **[Meet Turbine’s Newest Coaches: Guiding the Next Wave of Innovators](https://turbine.mu/blog/2024/10/11/meet-turbines-newest-coaches-guiding-the-next-wave-of-innovators/)**  2024-10-11 06:13:37
