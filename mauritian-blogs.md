@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Ramgoolam Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/10/ramgoolam-statements-that-dont-survive.html)**  2024-12-01 17:07:35
+
 [ever peckish](https://everpeckish.com)  
 **[Boulettes pomme de terre- Mauritian potato croquettes](https://everpeckish.com/boulettes-pomme-de-terre-mauritian-potato-croquettes/?utm_source=rss&utm_medium=rss&utm_campaign=boulettes-pomme-de-terre-mauritian-potato-croquettes)**  2024-12-01 11:04:47
 
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money Power](https://vintishgokool.blogspot.com/2024/11/money-power.html)**  2024-11-03 15:05:54
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Ramgoolam Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/10/ramgoolam-statements-that-dont-survive.html)**  2024-10-30 09:50:28
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Book That Makes Mauritian Voters Smart As Hell Published](http://kozelidir.blogspot.com/2024/10/book-that-makes-mauritian-voters-smart.html)**  2024-10-22 12:30:07
