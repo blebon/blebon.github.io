@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Seeds of rebellion  in Lindsey Collen’s “Mutiny”](https://www.lemauricien.com/le-mauricien/seeds-of-rebellion-in-lindsey-collens-mutiny/658690/)**  2024-12-02 10:37:06
+
 [The Jag!](https://morisk.blogspot.com/)  
 **[Ramgoolam Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/10/ramgoolam-statements-that-dont-survive.html)**  2024-12-01 17:07:35
 
 [ever peckish](https://everpeckish.com)  
 **[Boulettes pomme de terre- Mauritian potato croquettes](https://everpeckish.com/boulettes-pomme-de-terre-mauritian-potato-croquettes/?utm_source=rss&utm_medium=rss&utm_campaign=boulettes-pomme-de-terre-mauritian-potato-croquettes)**  2024-12-01 11:04:47
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Mauritius’ 60-0 Sweep : A Double-Edged Sword and Test for Democracy](https://www.lemauricien.com/le-mauricien/mauritius-60-0-sweep-a-double-edged-sword-and-test-for-democracy/658402/)**  2024-11-29 11:01:03
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[DANCE LIKE NEVER BEFORE](http://ghoorunneha.blogspot.com/2024/11/dance-like-never-before.html)**  2024-11-28 17:12:52
