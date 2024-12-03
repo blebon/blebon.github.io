@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Croyez en votre Decision](http://ghoorunneha.blogspot.com/2024/12/croyez-en-votre-decision.html)**  2024-12-02 11:54:09
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Seeds of rebellion  in Lindsey Collen’s “Mutiny”](https://www.lemauricien.com/le-mauricien/seeds-of-rebellion-in-lindsey-collens-mutiny/658690/)**  2024-12-02 10:37:06
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Boulettes pomme de terre- Mauritian potato croquettes](https://everpeckish.com/boulettes-pomme-de-terre-mauritian-potato-croquettes/?utm_source=rss&utm_medium=rss&utm_campaign=boulettes-pomme-de-terre-mauritian-potato-croquettes)**  2024-12-01 11:04:47
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[DANCE LIKE NEVER BEFORE](http://ghoorunneha.blogspot.com/2024/11/dance-like-never-before.html)**  2024-11-28 17:12:52
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Clara Pretus, neurologist: ‘There are evil agents who are profiting by generating this nervousness’](https://zoomdr.blogspot.com/2024/11/clara-pretus-neurologist-there-are-evil.html)**  2024-11-28 09:19:38
