@@ -5,10 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Croyez en votre Decision](http://ghoorunneha.blogspot.com/2024/12/croyez-en-votre-decision.html)**  2024-12-02 11:54:09
+**[Saisis Ta Chance](http://ghoorunneha.blogspot.com/2024/12/saisis-ta-chance.html)**  2024-12-03 12:17:16
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Seeds of rebellion  in Lindsey Collen’s “Mutiny”](https://www.lemauricien.com/le-mauricien/seeds-of-rebellion-in-lindsey-collens-mutiny/658690/)**  2024-12-02 10:37:06
+**[Enn manier pret serman … e si nou ti kapav ena enn vre repiblik, ti pou ena enn prestasion serman morisien](https://www.lemauricien.com/le-mauricien/enn-manier-pret-serman-e-si-nou-ti-kapav-ena-enn-vre-repiblik-ti-pou-ena-enn-prestasion-serman-morisien/658833/)**  2024-12-03 11:03:03
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Ramgoolam Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/10/ramgoolam-statements-that-dont-survive.html)**  2024-12-01 17:07:35
