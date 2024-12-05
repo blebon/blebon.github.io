@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Bosses don’t care about your Ivy League degree anymore](https://zoomdr.blogspot.com/2024/12/bosses-dont-care-about-your-ivy-league.html)**  2024-12-05 09:09:32
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Liberated, but…](https://www.lemauricien.com/le-mauricien/liberated-but/658932/)**  2024-12-04 11:02:59
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Boulettes pomme de terre- Mauritian potato croquettes](https://everpeckish.com/boulettes-pomme-de-terre-mauritian-potato-croquettes/?utm_source=rss&utm_medium=rss&utm_campaign=boulettes-pomme-de-terre-mauritian-potato-croquettes)**  2024-12-01 11:04:47
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Clara Pretus, neurologist: ‘There are evil agents who are profiting by generating this nervousness’](https://zoomdr.blogspot.com/2024/11/clara-pretus-neurologist-there-are-evil.html)**  2024-11-28 09:19:38
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Transformational trips: Your dream 2025 retreat in the Indian Ocean](https://blog.constancehotels.com/transformational-trips-your-dream-2025-retreat-in-the-indian-ocean/)**  2024-11-25 07:30:00
