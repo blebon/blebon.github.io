@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Anjali ROM r&eacute;ception nov 2024](https://kabilen.tumblr.com/post/769103620686888961)**  2024-12-06 08:39:29
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Celebration of Rafi’s Birth Centenary](https://www.lemauricien.com/le-mauricien/celebration-of-rafis-birth-centenary/659003/)**  2024-12-05 11:00:08
 
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Sunday photoblog](https://priscimon.com/blog/2024/11/10/sunday-photoblog/)**  2024-11-10 15:34:18
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Market Therapy](https://kabilen.tumblr.com/post/766648893360553984)**  2024-11-09 06:22:39
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Moris: the bigger picture](https://tchombo.blogspot.com/2024/11/moris-bigger-picture.html)**  2024-11-06 17:07:42
