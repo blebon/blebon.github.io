@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Celebration of Rafi’s Birth Centenary](https://www.lemauricien.com/le-mauricien/celebration-of-rafis-birth-centenary/659003/)**  2024-12-05 11:00:08
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Bosses don’t care about your Ivy League degree anymore](https://zoomdr.blogspot.com/2024/12/bosses-dont-care-about-your-ivy-league.html)**  2024-12-05 09:09:32
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Liberated, but…](https://www.lemauricien.com/le-mauricien/liberated-but/658932/)**  2024-12-04 11:02:59
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Saisis Ta Chance](http://ghoorunneha.blogspot.com/2024/12/saisis-ta-chance.html)**  2024-12-03 12:17:16
