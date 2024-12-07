@@ -1,5 +1,13 @@
 {
   "names": {
-    "blebon": "edb55b53e0dba0d9f3051e52670b7e149fa7bcdeed2e14b27f91cb9b430263dc"
+    "blebon": "16898ea0159227a7aa39c0606d76618e96657ccd965037768a21fa802d6af0c9"
+  },
+  "relays": {
+    "16898ea0159227a7aa39c0606d76618e96657ccd965037768a21fa802d6af0c9": [
+      "wss://relay.primal.net/",
+      "wss://purplepag.es/",
+      "wss://relay.nostr.band/",
+      "wss://nostr.petrkr.net/willow",
+    ]
   }
 }
