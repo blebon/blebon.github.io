@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Reconstruire Le Mauricianisme : Regards d’un entrepreneur en événementiel](https://www.lemauricien.com/le-mauricien/reconstruire-le-mauricianisme-regards-dun-entrepreneur-en-evenementiel/659128/)**  2024-12-06 11:01:20
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Anjali ROM r&eacute;ception nov 2024](https://kabilen.tumblr.com/post/769103620686888961)**  2024-12-06 08:39:29
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Celebration of Rafi’s Birth Centenary](https://www.lemauricien.com/le-mauricien/celebration-of-rafis-birth-centenary/659003/)**  2024-12-05 11:00:08
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Bosses don’t care about your Ivy League degree anymore](https://zoomdr.blogspot.com/2024/12/bosses-dont-care-about-your-ivy-league.html)**  2024-12-05 09:09:32
