@@ -13,6 +13,9 @@ permalink: /mauritian-blogs/
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Bosses don’t care about your Ivy League degree anymore](https://zoomdr.blogspot.com/2024/12/bosses-dont-care-about-your-ivy-league.html)**  2024-12-05 09:09:32
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Ramgoolam Appoints Toxic Bean-Counter As BoM Governor](http://kozelidir.blogspot.com/2024/11/ramgoolam-appoints-toxic-bean-counter.html)**  2024-12-04 17:09:14
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Saisis Ta Chance](http://ghoorunneha.blogspot.com/2024/12/saisis-ta-chance.html)**  2024-12-03 12:17:16
 
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Money Power](https://vintishgokool.blogspot.com/2024/11/money-power.html)**  2024-11-03 15:05:54
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Book That Makes Mauritian Voters Smart As Hell Published](http://kozelidir.blogspot.com/2024/10/book-that-makes-mauritian-voters-smart.html)**  2024-10-22 12:30:07
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[Numbers Part 1](https://imathsit.blogspot.com/2021/12/numbers-part-1.html)**  2024-10-17 03:05:07
