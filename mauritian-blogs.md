@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Last pictures of 2024](https://priscimon.com/blog/2024/12/09/last-pictures-of-2024/)**  2024-12-09 19:31:27
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Couz visit](https://kabilen.tumblr.com/post/769201697400700928)**  2024-12-07 10:38:22
 
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Elects New Government in Historic Landslide Victory](https://relocationmauritius.wordpress.com/2024/11/12/mauritius-elects-new-government-in-historic-landslide-victory/)**  2024-11-12 16:32:11
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Sunday photoblog](https://priscimon.com/blog/2024/11/10/sunday-photoblog/)**  2024-11-10 15:34:18
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Moris: the bigger picture](https://tchombo.blogspot.com/2024/11/moris-bigger-picture.html)**  2024-11-06 17:07:42
