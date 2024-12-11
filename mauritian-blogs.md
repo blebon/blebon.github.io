@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Anou Koz Parol 158 – Zourne Internasional Drwa Imin : Deklarasion Iniversel bann Drwa Imin, aksesib ofisielman an Kreol Morisien](https://www.lemauricien.com/le-mauricien/anou-koz-parol-158-zourne-internasional-drwa-imin-deklarasion-iniversel-bann-drwa-imin-aksesib-ofisielman-an-kreol-morisien/659563/)**  2024-12-10 11:01:02
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Last pictures of 2024](https://priscimon.com/blog/2024/12/09/last-pictures-of-2024/)**  2024-12-09 19:31:27
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Couz visit](https://kabilen.tumblr.com/post/769201697400700928)**  2024-12-07 10:38:22
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ANDRÉ MALRAUX (1901-1976)](https://www.lemauricien.com/le-mauricien/andre-malraux-1901-1976/659229/)**  2024-12-07 09:11:16
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Bosses don’t care about your Ivy League degree anymore](https://zoomdr.blogspot.com/2024/12/bosses-dont-care-about-your-ivy-league.html)**  2024-12-05 09:09:32
