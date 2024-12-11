@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Happy 13th Birthday Bruce!](https://davidandjennilyn.com/2024/12/11/happy-13th-birthday-bruce/)**  2024-12-11 11:00:00
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Anou Koz Parol 158 – Zourne Internasional Drwa Imin : Deklarasion Iniversel bann Drwa Imin, aksesib ofisielman an Kreol Morisien](https://www.lemauricien.com/le-mauricien/anou-koz-parol-158-zourne-internasional-drwa-imin-deklarasion-iniversel-bann-drwa-imin-aksesib-ofisielman-an-kreol-morisien/659563/)**  2024-12-10 11:01:02
 
@@ -37,9 +40,6 @@ permalink: /mauritian-blogs/
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Communication digitale : des podcasts optimisés avec SEDECO](https://sedecobtob.blogspot.com/2024/11/communication-digitale-des-podcasts.html)**  2024-11-22 15:57:28
 
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Beauty of the Beast](https://davidandjennilyn.com/2024/11/17/beauty-of-the-beast/)**  2024-11-17 23:36:55
-
 [Mike Sinnott's World](https://msinnott.net)  
 **[Vox Populi](https://msinnott.net/2024/11/17/vox-populi/)**  2024-11-17 17:09:44
 
@@ -72,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[NSW and ACT Roadtrip](https://littleanantasin.wordpress.com/2024/10/04/nsw-and-act-roadtrip/)**  2024-10-04 10:12:01
-
-[Linux User Group of Mauritius](https://lugm.org)  
-**[Splitting a large text file on every blank line](https://www.noulakaz.net/2024/10/03/splitting-a-large-text-file-on-every-blank-line/)**  2024-10-03 06:58:30
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 36 (GFCI)](https://amarbheenick.blogspot.com/2024/09/the-global-financial-centres-index-36.html)**  2024-09-25 09:51:51
