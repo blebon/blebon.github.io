@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Purrrrlouissss](https://kabilen.tumblr.com/post/769617648668622849)**  2024-12-12 00:49:44
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[COMMÉMORATION : Deux activités pour marquer l’arrivée des Tamouls bâtisseurs](https://www.lemauricien.com/le-mauricien/commemoration-deux-activites-pour-marquer-larrivee-des-tamouls-batisseurs/659661/)**  2024-12-11 11:00:36
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 13th Birthday Bruce!](https://davidandjennilyn.com/2024/12/11/happy-13th-birthday-bruce/)**  2024-12-11 11:00:00
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Anou Koz Parol 158 – Zourne Internasional Drwa Imin : Deklarasion Iniversel bann Drwa Imin, aksesib ofisielman an Kreol Morisien](https://www.lemauricien.com/le-mauricien/anou-koz-parol-158-zourne-internasional-drwa-imin-deklarasion-iniversel-bann-drwa-imin-aksesib-ofisielman-an-kreol-morisien/659563/)**  2024-12-10 11:01:02
-
 [priscimon.com](https://priscimon.com/blog)  
 **[Last pictures of 2024](https://priscimon.com/blog/2024/12/09/last-pictures-of-2024/)**  2024-12-09 19:31:27
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Couz visit](https://kabilen.tumblr.com/post/769201697400700928)**  2024-12-07 10:38:22
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Bosses don’t care about your Ivy League degree anymore](https://zoomdr.blogspot.com/2024/12/bosses-dont-care-about-your-ivy-league.html)**  2024-12-05 09:09:32
@@ -72,6 +72,9 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[NSW and ACT Roadtrip](https://littleanantasin.wordpress.com/2024/10/04/nsw-and-act-roadtrip/)**  2024-10-04 10:12:01
+
+[Linux User Group of Mauritius](https://lugm.org)  
+**[Splitting a large text file on every blank line](https://www.noulakaz.net/2024/10/03/splitting-a-large-text-file-on-every-blank-line/)**  2024-10-03 06:58:30
 
 [Amar](https://amarbheenick.blogspot.com/)  
 **[The Global Financial Centres Index 36 (GFCI)](https://amarbheenick.blogspot.com/2024/09/the-global-financial-centres-index-36.html)**  2024-09-25 09:51:51
