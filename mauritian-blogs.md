@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Purrrrlouissss](https://kabilen.tumblr.com/post/769617648668622849)**  2024-12-12 00:49:44
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Visibilité sur Internet : faites auditer votre site par SEDECO](https://sedecobtob.blogspot.com/2024/12/visibilite-sur-internet-faites-auditer.html)**  2024-12-12 16:16:28
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[COMMÉMORATION : Deux activités pour marquer l’arrivée des Tamouls bâtisseurs](https://www.lemauricien.com/le-mauricien/commemoration-deux-activites-pour-marquer-larrivee-des-tamouls-batisseurs/659661/)**  2024-12-11 11:00:36
+**[La kayfabe de la politique mauricienne,  notre triste réalité](https://www.lemauricien.com/le-mauricien/la-kayfabe-de-la-politique-mauricienne-notre-triste-realite/659768/)**  2024-12-12 12:00:06
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Purrrrlouissss](https://kabilen.tumblr.com/post/769617648668622849)**  2024-12-12 00:49:44
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 13th Birthday Bruce!](https://davidandjennilyn.com/2024/12/11/happy-13th-birthday-bruce/)**  2024-12-11 11:00:00
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Using AI to Catch a Thief in Flic-en-Flac](https://nayarweb.com/blog/2024/using-ai-to-catch-a-thief-in-flic-en-flac/)**  2024-11-24 08:46:54
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Communication digitale : des podcasts optimisés avec SEDECO](https://sedecobtob.blogspot.com/2024/11/communication-digitale-des-podcasts.html)**  2024-11-22 15:57:28
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Vox Populi](https://msinnott.net/2024/11/17/vox-populi/)**  2024-11-17 17:09:44
