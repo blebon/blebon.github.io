@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Managing people : Paying lip service or having the heart in the right place ? Ideals and realities…](https://www.lemauricien.com/le-mauricien/managing-people-paying-lip-service-or-having-the-heart-in-the-right-place-ideals-and-realities/659863/)**  2024-12-13 11:01:40
+
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Visibilité sur Internet : faites auditer votre site par SEDECO](https://sedecobtob.blogspot.com/2024/12/visibilite-sur-internet-faites-auditer.html)**  2024-12-12 16:16:28
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[La kayfabe de la politique mauricienne,  notre triste réalité](https://www.lemauricien.com/le-mauricien/la-kayfabe-de-la-politique-mauricienne-notre-triste-realite/659768/)**  2024-12-12 12:00:06
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Purrrrlouissss](https://kabilen.tumblr.com/post/769617648668622849)**  2024-12-12 00:49:44
