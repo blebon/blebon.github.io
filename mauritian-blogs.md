@@ -4,20 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Scanning old negatives](https://priscimon.com/blog/2024/12/14/scanning-old-negatives/)**  2024-12-14 20:39:26
+
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Christmas tree 2024](https://kabilen.tumblr.com/post/769852132829642752)**  2024-12-14 14:56:46
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Managing people : Paying lip service or having the heart in the right place ? Ideals and realities…](https://www.lemauricien.com/le-mauricien/managing-people-paying-lip-service-or-having-the-heart-in-the-right-place-ideals-and-realities/659863/)**  2024-12-13 11:01:40
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Visibilité sur Internet : faites auditer votre site par SEDECO](https://sedecobtob.blogspot.com/2024/12/visibilite-sur-internet-faites-auditer.html)**  2024-12-12 16:16:28
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Purrrrlouissss](https://kabilen.tumblr.com/post/769617648668622849)**  2024-12-12 00:49:44
-
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Happy 13th Birthday Bruce!](https://davidandjennilyn.com/2024/12/11/happy-13th-birthday-bruce/)**  2024-12-11 11:00:00
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Last pictures of 2024](https://priscimon.com/blog/2024/12/09/last-pictures-of-2024/)**  2024-12-09 19:31:27
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Bosses don’t care about your Ivy League degree anymore](https://zoomdr.blogspot.com/2024/12/bosses-dont-care-about-your-ivy-league.html)**  2024-12-05 09:09:32
