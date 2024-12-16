@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[ever peckish](https://everpeckish.com)  
+**[Gingerbread cookies](https://everpeckish.com/gingerbread-cookies/?utm_source=rss&utm_medium=rss&utm_campaign=gingerbread-cookies)**  2024-12-15 14:03:29
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Scanning old negatives](https://priscimon.com/blog/2024/12/14/scanning-old-negatives/)**  2024-12-14 20:39:26
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Ramgoolam Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2024/10/ramgoolam-statements-that-dont-survive.html)**  2024-12-01 17:07:35
-
-[ever peckish](https://everpeckish.com)  
-**[Boulettes pomme de terre- Mauritian potato croquettes](https://everpeckish.com/boulettes-pomme-de-terre-mauritian-potato-croquettes/?utm_source=rss&utm_medium=rss&utm_campaign=boulettes-pomme-de-terre-mauritian-potato-croquettes)**  2024-12-01 11:04:47
 
 [Constance Hotels Blog](https://blog.constancehotels.com)  
 **[Transformational trips: Your dream 2025 retreat in the Indian Ocean](https://blog.constancehotels.com/transformational-trips-your-dream-2025-retreat-in-the-indian-ocean/)**  2024-11-25 07:30:00
