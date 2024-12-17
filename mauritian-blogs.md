@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[A mad person](https://vintishgokool.blogspot.com/2024/12/a-mad-person.html)**  2024-12-16 18:25:07
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Chagos : perdi dan bwa dan la kour ?](https://www.lemauricien.com/le-mauricien/chagos-perdi-dan-bwa-dan-la-kour/660136/)**  2024-12-16 11:01:37
 
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Moris: the bigger picture](https://tchombo.blogspot.com/2024/11/moris-bigger-picture.html)**  2024-11-06 17:07:42
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Money Power](https://vintishgokool.blogspot.com/2024/11/money-power.html)**  2024-11-03 15:05:54
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[Numbers Part 1](https://imathsit.blogspot.com/2021/12/numbers-part-1.html)**  2024-10-17 03:05:07
