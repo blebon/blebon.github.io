@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Rethinking Sustainability:  Enter the Inner Development Goals](https://www.lemauricien.com/le-mauricien/rethinking-sustainability-enter-the-inner-development-goals/660258/)**  2024-12-17 11:00:57
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[A mad person](https://vintishgokool.blogspot.com/2024/12/a-mad-person.html)**  2024-12-16 18:25:07
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Chagos : perdi dan bwa dan la kour ?](https://www.lemauricien.com/le-mauricien/chagos-perdi-dan-bwa-dan-la-kour/660136/)**  2024-12-16 11:01:37
 
 [ever peckish](https://everpeckish.com)  
 **[Gingerbread cookies](https://everpeckish.com/gingerbread-cookies/?utm_source=rss&utm_medium=rss&utm_campaign=gingerbread-cookies)**  2024-12-15 14:03:29
