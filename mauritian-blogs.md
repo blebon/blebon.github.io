@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[The Curious Child](https://davidandjennilyn.com/2024/12/19/the-curious-child/)**  2024-12-19 17:43:40
+
+[Sedeco](https://sedecobtob.blogspot.com/)  
+**[Marketing en ligne : optimisation qualitative avec SEDECO](https://sedecobtob.blogspot.com/2024/12/marketing-en-ligne-optimisation.html)**  2024-12-19 13:12:28
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Rethinking Sustainability:  Enter the Inner Development Goals](https://www.lemauricien.com/le-mauricien/rethinking-sustainability-enter-the-inner-development-goals/660258/)**  2024-12-17 11:00:57
+**[Tribute to professor Ramesh Dutt Ramdoyal](https://www.lemauricien.com/le-mauricien/tribute-to-professor-ramesh-dutt-ramdoyal/660505/)**  2024-12-19 11:00:21
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[A mad person](https://vintishgokool.blogspot.com/2024/12/a-mad-person.html)**  2024-12-16 18:25:07
@@ -18,12 +24,6 @@ permalink: /mauritian-blogs/
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Christmas tree 2024](https://kabilen.tumblr.com/post/769852132829642752)**  2024-12-14 14:56:46
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Visibilité sur Internet : faites auditer votre site par SEDECO](https://sedecobtob.blogspot.com/2024/12/visibilite-sur-internet-faites-auditer.html)**  2024-12-12 16:16:28
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy 13th Birthday Bruce!](https://davidandjennilyn.com/2024/12/11/happy-13th-birthday-bruce/)**  2024-12-11 11:00:00
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Bosses don’t care about your Ivy League degree anymore](https://zoomdr.blogspot.com/2024/12/bosses-dont-care-about-your-ivy-league.html)**  2024-12-05 09:09:32
