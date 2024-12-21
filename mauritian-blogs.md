@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Holiday season 2024](https://kabilen.tumblr.com/post/770404507614068736)**  2024-12-20 17:16:32
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[FORUM SOLIDAIRE –  Droit à l’éducation : Pérenniser l’action de terrain de Future Hope](https://www.lemauricien.com/le-mauricien/forum-solidaire-droit-a-leducation-perenniser-laction-de-terrain-de-future-hope/660567/)**  2024-12-20 11:00:13
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[The Curious Child](https://davidandjennilyn.com/2024/12/19/the-curious-child/)**  2024-12-19 17:43:40
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing en ligne : optimisation qualitative avec SEDECO](https://sedecobtob.blogspot.com/2024/12/marketing-en-ligne-optimisation.html)**  2024-12-19 13:12:28
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Tribute to professor Ramesh Dutt Ramdoyal](https://www.lemauricien.com/le-mauricien/tribute-to-professor-ramesh-dutt-ramdoyal/660505/)**  2024-12-19 11:00:21
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[A mad person](https://vintishgokool.blogspot.com/2024/12/a-mad-person.html)**  2024-12-16 18:25:07
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Scanning old negatives](https://priscimon.com/blog/2024/12/14/scanning-old-negatives/)**  2024-12-14 20:39:26
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Christmas tree 2024](https://kabilen.tumblr.com/post/769852132829642752)**  2024-12-14 14:56:46
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Bosses don’t care about your Ivy League degree anymore](https://zoomdr.blogspot.com/2024/12/bosses-dont-care-about-your-ivy-league.html)**  2024-12-05 09:09:32
