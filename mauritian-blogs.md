@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Christmas with Papaoutaix 2024](https://kabilen.tumblr.com/post/770617534553767936)**  2024-12-23 01:42:30
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[« False hopes and early betrayal”](https://www.lemauricien.com/le-mauricien/false-hopes-and-early-betrayal/660725/)**  2024-12-21 11:04:01
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Holiday season 2024](https://kabilen.tumblr.com/post/770404507614068736)**  2024-12-20 17:16:32
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[The Curious Child](https://davidandjennilyn.com/2024/12/19/the-curious-child/)**  2024-12-19 17:43:40
