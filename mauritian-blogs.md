@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Wheat Wars and Regenerative Agriculture](https://facultyagriculture.blogspot.com/2024/12/wheat-wars-and-regenerative-agriculture.html)**  2024-12-23 05:43:49
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Christmas with Papaoutaix 2024](https://kabilen.tumblr.com/post/770617534553767936)**  2024-12-23 01:42:30
 
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [imathsit](https://imathsit.blogspot.com/)  
 **[Numbers Part 1](https://imathsit.blogspot.com/2021/12/numbers-part-1.html)**  2024-10-17 03:05:07
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Embracing Uncertainty and Cultivating Resilience: An Address to Agriculture Graduates](https://facultyagriculture.blogspot.com/2024/10/embracing-uncertainty-and-cultivating.html)**  2024-10-15 16:02:25
 
 [turbine.mu](https://turbine.mu)  
 **[Meet Turbine’s Newest Coaches: Guiding the Next Wave of Innovators](https://turbine.mu/blog/2024/10/11/meet-turbines-newest-coaches-guiding-the-next-wave-of-innovators/)**  2024-10-11 06:13:37
