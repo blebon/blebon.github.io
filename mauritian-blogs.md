@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Wheat Wars and Regenerative Agriculture](https://facultyagriculture.blogspot.com/2024/12/wheat-wars-and-regenerative-agriculture.html)**  2024-12-23 05:43:49
+**[Wheat Wars and Regenerative Agriculture](https://facultyagriculture.blogspot.com/2024/12/wheat-wars-and-regenerative-agriculture.html)**  2024-12-23 11:51:44
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Christmas with Papaoutaix 2024](https://kabilen.tumblr.com/post/770617534553767936)**  2024-12-23 01:42:30
