@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Christmas Day 2024](https://kabilen.tumblr.com/post/770876770602876928)**  2024-12-25 22:22:57
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Merry Christmas!](https://davidandjennilyn.com/2024/12/25/merry-christmas-7/)**  2024-12-25 17:00:00
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Wheat Wars and Regenerative Agriculture](https://facultyagriculture.blogspot.com/2024/12/wheat-wars-and-regenerative-agriculture.html)**  2024-12-23 11:51:44
 
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Christmas with Papaoutaix 2024](https://kabilen.tumblr.com/post/770617534553767936)**  2024-12-23 01:42:30
-
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[« False hopes and early betrayal”](https://www.lemauricien.com/le-mauricien/false-hopes-and-early-betrayal/660725/)**  2024-12-21 11:04:01
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[The Curious Child](https://davidandjennilyn.com/2024/12/19/the-curious-child/)**  2024-12-19 17:43:40
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing en ligne : optimisation qualitative avec SEDECO](https://sedecobtob.blogspot.com/2024/12/marketing-en-ligne-optimisation.html)**  2024-12-19 13:12:28
