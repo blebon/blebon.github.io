@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Noël, le choix de l’espérance](https://www.lemauricien.com/le-mauricien/noel-le-choix-de-lesperance/661031/)**  2024-12-26 04:42:08
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Christmas Day 2024](https://kabilen.tumblr.com/post/770876770602876928)**  2024-12-25 22:22:57
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Wheat Wars and Regenerative Agriculture](https://facultyagriculture.blogspot.com/2024/12/wheat-wars-and-regenerative-agriculture.html)**  2024-12-23 11:51:44
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[« False hopes and early betrayal”](https://www.lemauricien.com/le-mauricien/false-hopes-and-early-betrayal/660725/)**  2024-12-21 11:04:01
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing en ligne : optimisation qualitative avec SEDECO](https://sedecobtob.blogspot.com/2024/12/marketing-en-ligne-optimisation.html)**  2024-12-19 13:12:28
