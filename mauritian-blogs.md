@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Boxing Day Meal](https://kabilen.tumblr.com/post/770997056596754432)**  2024-12-27 06:14:50
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Affronter notre humanité : une autre manière de lire « Toufann »](https://www.lemauricien.com/le-mauricien/affronter-notre-humanite-une-autre-maniere-de-lire-toufann/661096/)**  2024-12-26 12:05:50
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Christmas Day 2024](https://kabilen.tumblr.com/post/770876770602876928)**  2024-12-25 22:22:57
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Merry Christmas!](https://davidandjennilyn.com/2024/12/25/merry-christmas-7/)**  2024-12-25 17:00:00
