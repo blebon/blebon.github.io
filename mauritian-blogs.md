@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Noël, le choix de l’espérance](https://www.lemauricien.com/le-mauricien/noel-le-choix-de-lesperance/661031/)**  2024-12-26 04:42:08
+**[Affronter notre humanité : une autre manière de lire « Toufann »](https://www.lemauricien.com/le-mauricien/affronter-notre-humanite-une-autre-maniere-de-lire-toufann/661096/)**  2024-12-26 12:05:50
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Christmas Day 2024](https://kabilen.tumblr.com/post/770876770602876928)**  2024-12-25 22:22:57
