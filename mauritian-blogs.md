@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Judge](https://vintishgokool.blogspot.com/2024/12/judge.html)**  2024-12-28 19:48:25
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[IA turns 25](http://kozelidir.blogspot.com/2024/12/on-12-december-1999-investment.html)**  2024-12-28 18:44:30
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Noel avec les Pillays](https://kabilen.tumblr.com/post/771077265223204864)**  2024-12-28 03:29:43
 
@@ -19,9 +25,6 @@ permalink: /mauritian-blogs/
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing en ligne : optimisation qualitative avec SEDECO](https://sedecobtob.blogspot.com/2024/12/marketing-en-ligne-optimisation.html)**  2024-12-19 13:12:28
 
-[No Title](https://vintishgokool.blogspot.com/)  
-**[A mad person](https://vintishgokool.blogspot.com/2024/12/a-mad-person.html)**  2024-12-16 18:25:07
-
 [ever peckish](https://everpeckish.com)  
 **[Gingerbread cookies](https://everpeckish.com/gingerbread-cookies/?utm_source=rss&utm_medium=rss&utm_campaign=gingerbread-cookies)**  2024-12-15 14:03:29
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Bosses don’t care about your Ivy League degree anymore](https://zoomdr.blogspot.com/2024/12/bosses-dont-care-about-your-ivy-league.html)**  2024-12-05 09:09:32
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Ramgoolam Appoints Toxic Bean-Counter As BoM Governor](http://kozelidir.blogspot.com/2024/11/ramgoolam-appoints-toxic-bean-counter.html)**  2024-12-04 17:09:14
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Saisis Ta Chance](http://ghoorunneha.blogspot.com/2024/12/saisis-ta-chance.html)**  2024-12-03 12:17:16
