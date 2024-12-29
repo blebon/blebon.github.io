@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[ZMdA Team Christmas Dinner](https://kabilen.tumblr.com/post/771190072939823104)**  2024-12-29 09:22:45
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Judge](https://vintishgokool.blogspot.com/2024/12/judge.html)**  2024-12-28 19:48:25
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[IA turns 25](http://kozelidir.blogspot.com/2024/12/on-12-december-1999-investment.html)**  2024-12-28 18:44:30
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[Noel avec les Pillays](https://kabilen.tumblr.com/post/771077265223204864)**  2024-12-28 03:29:43
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Les Trois Devoirs d’un Roi…](https://www.lemauricien.com/le-mauricien/les-trois-devoirs-dun-roi/661164/)**  2024-12-27 11:02:04
