@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[Goodbye Isha 😭](https://flicenflac.blogspot.com/2024/12/goodbye-isha.html)**  2024-12-29 13:13:42
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[ZMdA Team Christmas Dinner](https://kabilen.tumblr.com/post/771190072939823104)**  2024-12-29 09:22:45
 
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Mauritius...la passione si sente](https://mauritiuslapassionesisente.blogspot.com/)  
 **[Ciclone Behki (eSwatini) Aggiornamento I](https://mauritiuslapassionesisente.blogspot.com/2024/11/ciclone-behki-eswatini-aggiornamento-i.html)**  2024-11-16 17:18:07
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Isha Passed Away](https://flicenflac.blogspot.com/2024/11/isha-passed-away.html)**  2024-11-14 19:59:18
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Elects New Government in Historic Landslide Victory](https://relocationmauritius.wordpress.com/2024/11/12/mauritius-elects-new-government-in-historic-landslide-victory/)**  2024-11-12 16:32:11
