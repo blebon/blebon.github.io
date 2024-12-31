@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[View of London skyline from Caesar’s Camp](https://priscimon.com/blog/2024/12/31/view-of-london-skyline-from-caesars-camp/)**  2024-12-30 23:52:34
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Goodbye Isha 😭](https://flicenflac.blogspot.com/2024/12/goodbye-isha.html)**  2024-12-30 09:36:46
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Gingerbread cookies](https://everpeckish.com/gingerbread-cookies/?utm_source=rss&utm_medium=rss&utm_campaign=gingerbread-cookies)**  2024-12-15 14:03:29
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Scanning old negatives](https://priscimon.com/blog/2024/12/14/scanning-old-negatives/)**  2024-12-14 20:39:26
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Bosses don’t care about your Ivy League degree anymore](https://zoomdr.blogspot.com/2024/12/bosses-dont-care-about-your-ivy-league.html)**  2024-12-05 09:09:32
