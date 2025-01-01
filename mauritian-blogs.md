@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[ever peckish](https://everpeckish.com)  
+**[Mango pineapple margarita](https://everpeckish.com/mango-pineapple-margarita/?utm_source=rss&utm_medium=rss&utm_campaign=mango-pineapple-margarita)**  2024-12-31 09:45:24
+
 [priscimon.com](https://priscimon.com/blog)  
 **[View of London skyline from Caesar’s Camp](https://priscimon.com/blog/2024/12/31/view-of-london-skyline-from-caesars-camp/)**  2024-12-30 23:52:34
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Marketing en ligne : optimisation qualitative avec SEDECO](https://sedecobtob.blogspot.com/2024/12/marketing-en-ligne-optimisation.html)**  2024-12-19 13:12:28
-
-[ever peckish](https://everpeckish.com)  
-**[Gingerbread cookies](https://everpeckish.com/gingerbread-cookies/?utm_source=rss&utm_medium=rss&utm_campaign=gingerbread-cookies)**  2024-12-15 14:03:29
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Bosses don’t care about your Ivy League degree anymore](https://zoomdr.blogspot.com/2024/12/bosses-dont-care-about-your-ivy-league.html)**  2024-12-05 09:09:32
