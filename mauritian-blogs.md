@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[kabilen sornum](https://kabilen.tumblr.com/)  
+**[Cari bouc NY 2025 meal](https://kabilen.tumblr.com/post/771521808756359168)**  2025-01-02 01:15:33
+
 [ever peckish](https://everpeckish.com)  
 **[Mango pineapple margarita](https://everpeckish.com/mango-pineapple-margarita/?utm_source=rss&utm_medium=rss&utm_campaign=mango-pineapple-margarita)**  2024-12-31 09:45:24
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Goodbye Isha 😭](https://flicenflac.blogspot.com/2024/12/goodbye-isha.html)**  2024-12-30 09:36:46
-
-[kabilen sornum](https://kabilen.tumblr.com/)  
-**[ZMdA Team Christmas Dinner](https://kabilen.tumblr.com/post/771190072939823104)**  2024-12-29 09:22:45
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Judge](https://vintishgokool.blogspot.com/2024/12/judge.html)**  2024-12-28 19:48:25
