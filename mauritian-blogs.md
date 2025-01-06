@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[J.M Coetzee : The Difficulty of confronting the pain and suffering of human lives](https://www.lemauricien.com/le-mauricien/j-m-coetzee-the-difficulty-of-confronting-the-pain-and-suffering-of-human-lives/661848/)**  2025-01-06 11:02:38
+
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2025/01/je-reprends-ce-blog-apres-une-longue.html)**  2025-01-05 22:43:57
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[IA turns 25](http://kozelidir.blogspot.com/2024/12/on-12-december-1999-investment.html)**  2024-12-28 18:44:30
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Les Trois Devoirs d’un Roi…](https://www.lemauricien.com/le-mauricien/les-trois-devoirs-dun-roi/661164/)**  2024-12-27 11:02:04
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Wheat Wars and Regenerative Agriculture](https://facultyagriculture.blogspot.com/2024/12/wheat-wars-and-regenerative-agriculture.html)**  2024-12-23 11:51:44
