@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2025/01/je-reprends-ce-blog-apres-une-longue.html)**  2025-01-05 22:43:57
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[What Happened in 2024?](https://davidandjennilyn.com/2025/01/05/what-happened-in-2024/)**  2025-01-05 16:56:13
+
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Starting 2025](https://kabilen.tumblr.com/post/771794973830070272)**  2025-01-05 01:37:24
 
@@ -24,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Les Trois Devoirs d’un Roi…](https://www.lemauricien.com/le-mauricien/les-trois-devoirs-dun-roi/661164/)**  2024-12-27 11:02:04
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Merry Christmas!](https://davidandjennilyn.com/2024/12/25/merry-christmas-7/)**  2024-12-25 17:00:00
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Wheat Wars and Regenerative Agriculture](https://facultyagriculture.blogspot.com/2024/12/wheat-wars-and-regenerative-agriculture.html)**  2024-12-23 11:51:44
@@ -105,9 +108,6 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Lunch Time](http://gadatagada.blogspot.com/2024/06/lunch-time.html)**  2024-06-01 10:11:26
-
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2024/05/apres-avoir-critique-le-capitalisme.html)**  2024-05-17 23:55:02
 
 [Dave Appadoo](https://daveappadoo.com/)  
 **[Essential Tips for Developing a Retrieval-Augmented Generation (RAG) Chatbot Pipeline](https://daveappadoo.com/things-to-look-out-for-when-building-a-retrieval-augmented-generation-rag-chatbot-pipeline/)**  2024-05-13 15:23:06
