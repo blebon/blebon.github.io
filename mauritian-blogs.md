@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2025/01/ce-que-jai-ecrit-hier-pas-grand-chose.html)**  2025-01-07 01:03:23
-
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[J.M Coetzee : The Difficulty of confronting the pain and suffering of human lives](https://www.lemauricien.com/le-mauricien/j-m-coetzee-the-difficulty-of-confronting-the-pain-and-suffering-of-human-lives/661848/)**  2025-01-06 11:02:38
+**[A New Dawn](https://www.lemauricien.com/le-mauricien/a-new-dawn-2/661961/)**  2025-01-07 11:01:32
 
 [David and Jennilyn](https://davidandjennilyn.com)  
-**[What Happened in 2024?](https://davidandjennilyn.com/2025/01/05/what-happened-in-2024/)**  2025-01-05 16:56:13
+**[A Charmed Life](https://davidandjennilyn.com/2025/01/06/a-charmed-life/)**  2025-01-07 05:51:57
+
+[sunshine](https://sooriamoorthy.blogspot.com/)  
+**[No title](https://sooriamoorthy.blogspot.com/2025/01/ce-que-jai-ecrit-hier-pas-grand-chose.html)**  2025-01-07 01:03:23
 
 [kabilen sornum](https://kabilen.tumblr.com/)  
 **[Starting 2025](https://kabilen.tumblr.com/post/771794973830070272)**  2025-01-05 01:37:24
