@@ -35,11 +35,6 @@ h1, h2, h3, h4, ul dl dt {
   text-align: left;
 }
 
-.resume {
-  position: relative;
-  padding: 10px 20px;
-}
-
 blockquote a {
   color: #1D1313;
   -webkit-transition: color 0.3s linear;
@@ -232,11 +227,6 @@ dl em {
 @media (min-width: 1000px) {
   .container {
     width: 100%;
-  }
-  .resume {
-    margin: 0 auto;
-    padding: 40px 50px;
-    width: 912px;
   }
   blockquote {
     top: 40px;
