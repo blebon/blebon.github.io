@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 # Bruno Lebon
-## Computational Fluid Dynamics Engineer
+## Senior Software Engineer
 
 > [blebon.com](https://blebon.com)    
 > [20u3zfyy@anonaddy.me](mailto:20u3zfyy@anonaddy.me)
@@ -14,20 +14,20 @@ permalink: /resume/
 
 ### Technical
 
-1. OpenFOAM
-1. Python
-1. Fortran
+1. C++
+1. Golang
+1. Kubernetes
 1. Linux
 1. Git
-1. Salome
-1. Paraview
-1. Matplotlib
+1. gRPC
+1. Infrastructure as code
+1. Distributed systems
 
 ------
 
 ### Experience
 
-**Brunel University London** *Research Fellow II* __2017 to present__    
+**Brunel University London** *Research Fellow II* __2017 to 2023__    
 	Developed multiphase models for high-shear and ultrasonic direct-chill casting of aluminium billets. Implemented these models in OpenFOAM and validated them against experiments.    
 	Assisted in administrating the department's Tier 3 high performance computing facility (Centos 7) including compiling open source software packages (OpenFOAM, VASP) and assisting fellows and doctoral students in submitting jobs.    
 	Teaching computational fluid dynamics (CFD) to metallurgy PhD students.    
