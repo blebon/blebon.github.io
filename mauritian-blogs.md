@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Labour Turns 90 in A Depressing Atmosphere](http://kozelidir.blogspot.com/2026/02/labour-turns-90-in-depressing-atmosphere.html)**  2026-02-23 08:27:03
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Epstein Files : Mauritius and the Peripheral Exposure of Global Investigations.](https://relocationmauritius.wordpress.com/2026/02/09/epstein-files-mauritius-and-the-peripheral-exposure-of-global-investigations/)**  2026-02-09 06:11:18
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[L’accès au juge administratif : étude comparée des garanties procédurales en droits français et anglais](https://dookhy.blogspot.com/2026/02/lacces-au-juge-administratif-etude.html)**  2026-02-07 17:11:02
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Dose of PR Would Create Chronic Political Instability](http://kozelidir.blogspot.com/2026/02/dose-of-pr-would-create-chronic.html)**  2026-02-07 16:31:28
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[My Dad Passed Away](https://flicenflac.blogspot.com/2026/02/my-dad-passed-away.html)**  2026-02-06 19:47:32
