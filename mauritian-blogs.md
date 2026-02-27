@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Precision Agriculture in the Climate Change Era](https://facultyagriculture.blogspot.com/2026/02/precision-agriculture-in-climate-change.html)**  2026-02-27 05:06:33
+**[Precision Agriculture in the Climate Change Era](https://facultyagriculture.blogspot.com/2026/02/precision-agriculture-in-climate-change.html)**  2026-02-27 05:12:35
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Four Great Books To Download On Your Apple Device](http://kozelidir.blogspot.com/2026/02/four-of-books-to-download-on-your-apple.html)**  2026-02-25 12:07:22
