@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
-**[State of Economy Pan Fer Nu Vin Mwins Kuyon](http://kozelidir.blogspot.com/2026/02/state-of-economy-pan-fer-nu-vin-mwins.html)**  2026-02-27 10:45:45
+**[State of Economy Pan Fer Nu Vin Mwins Kuyon](http://kozelidir.blogspot.com/2026/02/state-of-economy-pan-fer-nu-vin-mwins.html)**  2026-02-28 07:37:54
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Precision Agriculture in the Climate Change Era](https://facultyagriculture.blogspot.com/2026/02/precision-agriculture-in-climate-change.html)**  2026-02-27 05:12:35
