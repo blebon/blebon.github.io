@@ -85,7 +85,4 @@ permalink: /mauritian-blogs/
 [Sedeco](https://sedecobtob.blogspot.com/)  
 **[Appel à facture : un service performant avec SEDECO](https://sedecobtob.blogspot.com/2025/04/appel-facture-un-service-performant.html)**  2025-04-10 17:49:28
 
-[Jean-Mée Desveaux](https://jeanmeedesveaux.blogspot.com/)  
-**[From the frying pan...](https://jeanmeedesveaux.blogspot.com/2024/11/from-frying-pan.html)**  2025-04-02 10:52:15
-
 <div style="height:0;width:0;overflow:hidden;"></div>
