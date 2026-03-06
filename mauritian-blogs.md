@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Thank u](http://ghoorunneha.blogspot.com/2026/03/thank-u.html)**  2026-03-06 06:33:21
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[State of Economy Pan Fer Nu Vin Mwins Kuyon](http://kozelidir.blogspot.com/2026/02/state-of-economy-pan-fer-nu-vin-mwins.html)**  2026-02-28 07:37:54
 
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Fixing the FPTP : Tweaking a souped-up version of the best electoral system in the world](https://www.lemauricien.com/le-mauricien/fixing-the-fptp-tweaking-a-souped-up-version-of-the-best-electoral-system-in-the-world/693531/)**  2025-12-10 12:00:48
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[CREATE YOUR OWN WORLD OF HAPPINESS](http://ghoorunneha.blogspot.com/2025/12/create-your-own-world-of-happiness.html)**  2025-12-10 08:49:23
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Book Which Improves An Amazing Electoral System Published](https://morisk.blogspot.com/2025/12/book-which-improves-amazing-electoral.html)**  2025-12-05 06:08:28
