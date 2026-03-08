@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Artificial intelligence (AI)](https://vintishgokool.blogspot.com/2026/03/artificial-intelligence-ai.html)**  2026-03-07 17:02:10
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Thank u](http://ghoorunneha.blogspot.com/2026/03/thank-u.html)**  2026-03-06 06:33:21
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Beyond words](https://priscimon.com/blog/2026/01/11/beyond-words/)**  2026-01-11 16:12:01
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Favorite Celebrity](https://vintishgokool.blogspot.com/2026/01/favorite-celebrity.html)**  2026-01-07 06:21:06
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Vegan Orange and Cranberry Victoria Sponge](https://veganlovlie.com/cranberry-victoria-sponge/)**  2025-12-29 18:35:36
