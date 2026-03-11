@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Intuitively, the argument that digital media is dumbing us down is plausible but....](https://zoomdr.blogspot.com/2026/03/intuitively-argument-that-digital-media.html)**  2026-03-11 08:31:03
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Artificial intelligence (AI)](https://vintishgokool.blogspot.com/2026/03/artificial-intelligence-ai.html)**  2026-03-07 17:02:10
 
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[DUBAI CHOCOLATE STYLE BARFI](https://nashbakery.blogspot.com/2025/07/dubai-chocolate-style-barfi.html)**  2025-08-03 16:13:18
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Slaves in the Islamic world have often found opportunities for social and financial advancement](https://zoomdr.blogspot.com/2025/08/slaves-in-islamic-world-have-often.html)**  2025-08-03 09:14:49
 
 [turbine.mu](https://turbine.mu)  
 **[Let the Expert Speak: 5 Sales & Tech Questions with Marc Israel](https://turbine.mu/let-the-expert-speak-5-sales-tech-questions-with-marc-israel/)**  2025-07-14 12:50:01
