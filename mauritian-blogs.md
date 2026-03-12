@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[State of Economy Pan Fer Nu Vin Mwins Kuyon](http://kozelidir.blogspot.com/2026/02/state-of-economy-pan-fer-nu-vin-mwins.html)**  2026-03-12 07:48:32
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Intuitively, the argument that digital media is dumbing us down is plausible but....](https://zoomdr.blogspot.com/2026/03/intuitively-argument-that-digital-media.html)**  2026-03-11 08:31:03
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Thank u](http://ghoorunneha.blogspot.com/2026/03/thank-u.html)**  2026-03-06 06:33:21
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[State of Economy Pan Fer Nu Vin Mwins Kuyon](http://kozelidir.blogspot.com/2026/02/state-of-economy-pan-fer-nu-vin-mwins.html)**  2026-02-28 07:37:54
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Precision Agriculture in the Climate Change Era](https://facultyagriculture.blogspot.com/2026/02/precision-agriculture-in-climate-change.html)**  2026-02-27 05:12:35
