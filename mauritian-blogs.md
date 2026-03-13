@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[State of Economy Pan Fer Nu Vin Mwins Kuyon](http://kozelidir.blogspot.com/2026/02/state-of-economy-pan-fer-nu-vin-mwins.html)**  2026-03-13 06:43:22
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Homestyle Chickpea and Vegetable Patties](https://veganlovlie.com/chickpea-vegetable-patties/)**  2026-03-12 15:37:42
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[State of Economy Pan Fer Nu Vin Mwins Kuyon](http://kozelidir.blogspot.com/2026/02/state-of-economy-pan-fer-nu-vin-mwins.html)**  2026-03-12 07:48:32
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Intuitively, the argument that digital media is dumbing us down is plausible but....](https://zoomdr.blogspot.com/2026/03/intuitively-argument-that-digital-media.html)**  2026-03-11 08:31:03
