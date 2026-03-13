@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[Homestyle Chickpea and Vegetable Patties](https://veganlovlie.com/chickpea-vegetable-patties/)**  2026-03-12 15:37:42
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[State of Economy Pan Fer Nu Vin Mwins Kuyon](http://kozelidir.blogspot.com/2026/02/state-of-economy-pan-fer-nu-vin-mwins.html)**  2026-03-12 07:48:32
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Beyond words](https://priscimon.com/blog/2026/01/11/beyond-words/)**  2026-01-11 16:12:01
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Vegan Orange and Cranberry Victoria Sponge](https://veganlovlie.com/cranberry-victoria-sponge/)**  2025-12-29 18:35:36
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Import/Export Flaw in ERPNext. Why?](https://nayarweb.com/blog/2025/import-export-flaw-in-erpnext-why/)**  2025-12-17 07:41:03
@@ -81,8 +81,5 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Un système éducatif qui permet de rester debout dans la dignité](https://tchombo.blogspot.com/2025/04/un-systeme-educatif-qui-permet-de.html)**  2025-04-15 18:08:56
-
-[Sedeco](https://sedecobtob.blogspot.com/)  
-**[Appel à facture : un service performant avec SEDECO](https://sedecobtob.blogspot.com/2025/04/appel-facture-un-service-performant.html)**  2025-04-10 17:49:28
 
 <div style="height:0;width:0;overflow:hidden;"></div>
