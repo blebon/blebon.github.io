@@ -79,7 +79,4 @@ permalink: /mauritian-blogs/
 [Mike Sinnott's World](https://msinnott.net)  
 **[Zombies Walk](https://msinnott.net/2025/05/21/zombies-walk/)**  2025-05-21 18:55:09
 
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Un système éducatif qui permet de rester debout dans la dignité](https://tchombo.blogspot.com/2025/04/un-systeme-educatif-qui-permet-de.html)**  2025-04-15 18:08:56
-
 <div style="height:0;width:0;overflow:hidden;"></div>
