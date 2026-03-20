@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[From Mauritius to Sicily: Insights from the Rattenuti Poultry Farm](https://facultyagriculture.blogspot.com/2026/03/from-mauritius-to-sicily-insights-from.html)**  2026-03-18 14:26:03
+**[Visit to the Institute of Marine Biology in Trapani, Italy](https://facultyagriculture.blogspot.com/2026/03/visit-to-institute-of-marine-biology-in.html)**  2026-03-19 14:41:49
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[State of Economy Pan Fer Nu Vin Mwins Kuyon](http://kozelidir.blogspot.com/2026/02/state-of-economy-pan-fer-nu-vin-mwins.html)**  2026-03-13 06:43:22
