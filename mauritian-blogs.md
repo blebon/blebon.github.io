@@ -4,11 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[It's no longer a strange world](https://flicenflac.blogspot.com/2026/03/its-no-longer-strange-world.html)**  2026-03-23 07:28:10
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Willows Withstanding the Wind](https://davidandjennilyn.com/2026/03/22/willows-withstanding-the-wind/)**  2026-03-22 14:51:20
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Out and about again](https://priscimon.com/blog/2026/03/22/out-and-about-again/)**  2026-03-22 14:40:06
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[J’ai vraiment peur pour notre beau pays](https://www.lemauricien.com/actualites/jai-vraiment-peur-pour-notre-beau-pays/702134/)**  2026-03-20 06:45:20
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Visit to the Institute of Marine Biology in Trapani, Italy](https://facultyagriculture.blogspot.com/2026/03/visit-to-institute-of-marine-biology-in.html)**  2026-03-19 14:41:49
@@ -34,9 +40,6 @@ permalink: /mauritian-blogs/
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[L’accès au juge administratif : étude comparée des garanties procédurales en droits français et anglais](https://dookhy.blogspot.com/2026/02/lacces-au-juge-administratif-etude.html)**  2026-02-07 17:11:02
 
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[My Dad Passed Away](https://flicenflac.blogspot.com/2026/02/my-dad-passed-away.html)**  2026-02-06 19:47:32
-
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bright](https://littleanantasin.wordpress.com/2026/01/22/bright/)**  2026-01-22 08:20:58
 
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Mauritius Animal Welfare Crisis: A system Failure!](https://meeraappadoo.wordpress.com/2025/12/13/current-animal-welfare-ecosystem-in-mauritius-not-a-failure-of-compassion-but-the-failure-of-systems/)**  2025-12-13 16:32:54
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Fixing the FPTP : Tweaking a souped-up version of the best electoral system in the world](https://www.lemauricien.com/le-mauricien/fixing-the-fptp-tweaking-a-souped-up-version-of-the-best-electoral-system-in-the-world/693531/)**  2025-12-10 12:00:48
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Book Which Improves An Amazing Electoral System Published](https://morisk.blogspot.com/2025/12/book-which-improves-amazing-electoral.html)**  2025-12-05 06:08:28
