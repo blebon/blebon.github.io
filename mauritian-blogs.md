@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Visit to the Animal Genomics Laboratory of the Department of Agriculture, Palermo University](https://facultyagriculture.blogspot.com/2026/03/visit-to-animal-genomics-laboratory-of.html)**  2026-03-24 10:48:32
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[It's no longer a strange world](https://flicenflac.blogspot.com/2026/03/its-no-longer-strange-world.html)**  2026-03-23 07:28:10
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[J’ai vraiment peur pour notre beau pays](https://www.lemauricien.com/actualites/jai-vraiment-peur-pour-notre-beau-pays/702134/)**  2026-03-20 06:45:20
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Visit to the Institute of Marine Biology in Trapani, Italy](https://facultyagriculture.blogspot.com/2026/03/visit-to-institute-of-marine-biology-in.html)**  2026-03-19 14:41:49
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[State of Economy Pan Fer Nu Vin Mwins Kuyon](http://kozelidir.blogspot.com/2026/02/state-of-economy-pan-fer-nu-vin-mwins.html)**  2026-03-13 06:43:22
