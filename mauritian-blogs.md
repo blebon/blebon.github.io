@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[Cannellini Bean Dip with Mushrooms and Sweetcorn](https://veganlovlie.com/cannellini-bean-dip/)**  2026-03-24 22:09:25
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Visit to the Animal Genomics Laboratory of the Department of Agriculture, Palermo University](https://facultyagriculture.blogspot.com/2026/03/visit-to-animal-genomics-laboratory-of.html)**  2026-03-24 10:48:32
+**[The Evolution of Veterinary Medicine: From Clinical Practice to Biological Intelligence](https://facultyagriculture.blogspot.com/2026/03/the-evolution-of-veterinary-medicine.html)**  2026-03-24 12:15:00
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[It's no longer a strange world](https://flicenflac.blogspot.com/2026/03/its-no-longer-strange-world.html)**  2026-03-23 07:28:10
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[State of Economy Pan Fer Nu Vin Mwins Kuyon](http://kozelidir.blogspot.com/2026/02/state-of-economy-pan-fer-nu-vin-mwins.html)**  2026-03-13 06:43:22
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Homestyle Chickpea and Vegetable Patties](https://veganlovlie.com/chickpea-vegetable-patties/)**  2026-03-12 15:37:42
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Intuitively, the argument that digital media is dumbing us down is plausible but....](https://zoomdr.blogspot.com/2026/03/intuitively-argument-that-digital-media.html)**  2026-03-11 08:31:03
