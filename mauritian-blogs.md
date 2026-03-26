@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[70 An De Sela Moris Ti A En Gran Turnan](http://kozelidir.blogspot.com/2026/03/70-de-sela-moris-ti-en-gran-turnan.html)**  2026-03-25 18:07:02
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Portland Winter Light Festival 2026](https://davidandjennilyn.com/2026/03/25/portland-winter-light-festival-2026/)**  2026-03-25 15:21:50
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Teaching mobility at the University of Palermo (UNIPA)](https://facultyagriculture.blogspot.com/2026/03/teaching-mobility-at-university-of.html)**  2026-03-25 10:37:41
 
@@ -13,17 +19,11 @@ permalink: /mauritian-blogs/
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[It's no longer a strange world](https://flicenflac.blogspot.com/2026/03/its-no-longer-strange-world.html)**  2026-03-23 07:28:10
 
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Willows Withstanding the Wind](https://davidandjennilyn.com/2026/03/22/willows-withstanding-the-wind/)**  2026-03-22 14:51:20
-
 [priscimon.com](https://priscimon.com/blog)  
 **[Out and about again](https://priscimon.com/blog/2026/03/22/out-and-about-again/)**  2026-03-22 14:40:06
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[J’ai vraiment peur pour notre beau pays](https://www.lemauricien.com/actualites/jai-vraiment-peur-pour-notre-beau-pays/702134/)**  2026-03-20 06:45:20
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[State of Economy Pan Fer Nu Vin Mwins Kuyon](http://kozelidir.blogspot.com/2026/02/state-of-economy-pan-fer-nu-vin-mwins.html)**  2026-03-13 06:43:22
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Intuitively, the argument that digital media is dumbing us down is plausible but....](https://zoomdr.blogspot.com/2026/03/intuitively-argument-that-digital-media.html)**  2026-03-11 08:31:03
