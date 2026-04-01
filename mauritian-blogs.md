@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[No title](https://facultyagriculture.blogspot.com/2026/03/deans-message-faculty-of-agriculture.html)**  2026-03-31 14:20:15
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Is Standing at a Crossroads — And the Clock Is Ticking](https://relocationmauritius.wordpress.com/2026/03/27/mauritius-is-standing-at-a-crossroads-and-the-clock-is-ticking/)**  2026-03-27 11:57:40
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Portland Winter Light Festival 2026](https://davidandjennilyn.com/2026/03/25/portland-winter-light-festival-2026/)**  2026-03-25 15:21:50
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Teaching mobility at the University of Palermo (UNIPA)](https://facultyagriculture.blogspot.com/2026/03/teaching-mobility-at-university-of.html)**  2026-03-25 10:37:41
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Cannellini Bean Dip with Mushrooms and Sweetcorn](https://veganlovlie.com/cannellini-bean-dip/)**  2026-03-24 22:09:25
