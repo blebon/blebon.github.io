@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[No title](https://facultyagriculture.blogspot.com/2026/03/deans-message-faculty-of-agriculture.html)**  2026-03-31 14:20:15
+**[Build a career that feeds the world!!! - The Role of the Faculty of Agriculture](https://facultyagriculture.blogspot.com/2026/04/build-career-that-feeds-world-role-of.html)**  2026-04-01 09:46:43
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Is Standing at a Crossroads — And the Clock Is Ticking](https://relocationmauritius.wordpress.com/2026/03/27/mauritius-is-standing-at-a-crossroads-and-the-clock-is-ticking/)**  2026-03-27 11:57:40
