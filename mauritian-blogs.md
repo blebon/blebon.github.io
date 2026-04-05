@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[It's no longer a strange world](https://flicenflac.blogspot.com/2026/03/its-no-longer-strange-world.html)**  2026-04-05 04:34:44
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Lentil Kalia Curry with Eggplant](https://veganlovlie.com/lentil-kalia-curry/)**  2026-04-01 23:05:43
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Portland Winter Light Festival 2026](https://davidandjennilyn.com/2026/03/25/portland-winter-light-festival-2026/)**  2026-03-25 15:21:50
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[It's no longer a strange world](https://flicenflac.blogspot.com/2026/03/its-no-longer-strange-world.html)**  2026-03-23 07:28:10
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Out and about again](https://priscimon.com/blog/2026/03/22/out-and-about-again/)**  2026-03-22 14:40:06
