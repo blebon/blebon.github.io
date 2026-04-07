@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[For Gen Z brains are the new boobs.The era of dumbing down is over](https://zoomdr.blogspot.com/2026/04/it-is-thinking-as-well-as-reading-that.html)**  2026-04-07 11:06:17
+
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Life](http://ghoorunneha.blogspot.com/2026/04/life.html)**  2026-04-07 06:46:18
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[No title](https://facultyagriculture.blogspot.com/2026/04/root-earth-green-1b4332-leaf-green.html)**  2026-04-06 13:03:27
 
@@ -28,14 +34,8 @@ permalink: /mauritian-blogs/
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[J’ai vraiment peur pour notre beau pays](https://www.lemauricien.com/actualites/jai-vraiment-peur-pour-notre-beau-pays/702134/)**  2026-03-20 06:45:20
 
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Intuitively, the argument that digital media is dumbing us down is plausible but....](https://zoomdr.blogspot.com/2026/03/intuitively-argument-that-digital-media.html)**  2026-03-11 08:31:03
-
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Artificial intelligence (AI)](https://vintishgokool.blogspot.com/2026/03/artificial-intelligence-ai.html)**  2026-03-07 17:02:10
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Thank u](http://ghoorunneha.blogspot.com/2026/03/thank-u.html)**  2026-03-06 06:33:21
 
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[L’accès au juge administratif : étude comparée des garanties procédurales en droits français et anglais](https://dookhy.blogspot.com/2026/02/lacces-au-juge-administratif-etude.html)**  2026-02-07 17:11:02
