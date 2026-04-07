@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[No title](https://facultyagriculture.blogspot.com/2026/04/root-earth-green-1b4332-leaf-green.html)**  2026-04-06 13:03:27
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[It's no longer a strange world](https://flicenflac.blogspot.com/2026/03/its-no-longer-strange-world.html)**  2026-04-05 04:34:44
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Lentil Kalia Curry with Eggplant](https://veganlovlie.com/lentil-kalia-curry/)**  2026-04-01 23:05:43
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Build a career that feeds the world!!! - The Role of the Faculty of Agriculture](https://facultyagriculture.blogspot.com/2026/04/build-career-that-feeds-world-role-of.html)**  2026-04-01 09:46:43
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Is Standing at a Crossroads — And the Clock Is Ticking](https://relocationmauritius.wordpress.com/2026/03/27/mauritius-is-standing-at-a-crossroads-and-the-clock-is-ticking/)**  2026-03-27 11:57:40
