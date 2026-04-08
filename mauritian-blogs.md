@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[When Geopolitics Hits Home: What the Strait of Hormuz Crisis Really Means for Mauritius SMEs](https://relocationmauritius.wordpress.com/2026/04/07/when-geopolitics-hits-home-what-the-strait-of-hormuz-crisis-really-means-for-mauritius-smes/)**  2026-04-07 12:58:43
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[For Gen Z brains are the new boobs.The era of dumbing down is over](https://zoomdr.blogspot.com/2026/04/it-is-thinking-as-well-as-reading-that.html)**  2026-04-07 11:06:17
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Lentil Kalia Curry with Eggplant](https://veganlovlie.com/lentil-kalia-curry/)**  2026-04-01 23:05:43
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Mauritius Is Standing at a Crossroads — And the Clock Is Ticking](https://relocationmauritius.wordpress.com/2026/03/27/mauritius-is-standing-at-a-crossroads-and-the-clock-is-ticking/)**  2026-03-27 11:57:40
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[70 An De Sela Moris Ti A En Gran Turnan](http://kozelidir.blogspot.com/2026/03/70-de-sela-moris-ti-en-gran-turnan.html)**  2026-03-25 18:07:02
