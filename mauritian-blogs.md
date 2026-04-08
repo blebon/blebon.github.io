@@ -22,6 +22,9 @@ permalink: /mauritian-blogs/
 [Veganlovlie](https://veganlovlie.com)  
 **[Lentil Kalia Curry with Eggplant](https://veganlovlie.com/lentil-kalia-curry/)**  2026-04-01 23:05:43
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[EN MARGE DU 5 AVRIL : Pâques, une invitation à l’accueil de nos vulnérabilités](https://www.lemauricien.com/actualites/en-marge-du-5-avril-paques-une-invitation-a-laccueil-de-nos-vulnerabilites/703330/)**  2026-04-01 07:50:19
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[70 An De Sela Moris Ti A En Gran Turnan](http://kozelidir.blogspot.com/2026/03/70-de-sela-moris-ti-en-gran-turnan.html)**  2026-03-25 18:07:02
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Out and about again](https://priscimon.com/blog/2026/03/22/out-and-about-again/)**  2026-03-22 14:40:06
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[J’ai vraiment peur pour notre beau pays](https://www.lemauricien.com/actualites/jai-vraiment-peur-pour-notre-beau-pays/702134/)**  2026-03-20 06:45:20
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Artificial intelligence (AI)](https://vintishgokool.blogspot.com/2026/03/artificial-intelligence-ai.html)**  2026-03-07 17:02:10
