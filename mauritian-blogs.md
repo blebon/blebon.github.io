@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Don't trust again](http://ghoorunneha.blogspot.com/2026/04/dont-trust-again.html)**  2026-04-09 06:54:31
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[When Geopolitics Hits Home: What the Strait of Hormuz Crisis Really Means for Mauritius SMEs](https://relocationmauritius.wordpress.com/2026/04/07/when-geopolitics-hits-home-what-the-strait-of-hormuz-crisis-really-means-for-mauritius-smes/)**  2026-04-07 12:58:43
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[For Gen Z brains are the new boobs.The era of dumbing down is over](https://zoomdr.blogspot.com/2026/04/it-is-thinking-as-well-as-reading-that.html)**  2026-04-07 11:06:17
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Life](http://ghoorunneha.blogspot.com/2026/04/life.html)**  2026-04-07 06:46:18
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[No title](https://facultyagriculture.blogspot.com/2026/04/root-earth-green-1b4332-leaf-green.html)**  2026-04-06 13:03:27
