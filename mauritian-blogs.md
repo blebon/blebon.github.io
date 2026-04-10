@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Not Obvious](https://vintishgokool.blogspot.com/2026/04/not-obvious.html)**  2026-04-09 20:23:54
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Don't trust again](http://ghoorunneha.blogspot.com/2026/04/dont-trust-again.html)**  2026-04-09 06:54:31
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Out and about again](https://priscimon.com/blog/2026/03/22/out-and-about-again/)**  2026-03-22 14:40:06
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Artificial intelligence (AI)](https://vintishgokool.blogspot.com/2026/03/artificial-intelligence-ai.html)**  2026-03-07 17:02:10
 
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[L’accès au juge administratif : étude comparée des garanties procédurales en droits français et anglais](https://dookhy.blogspot.com/2026/02/lacces-au-juge-administratif-etude.html)**  2026-02-07 17:11:02
