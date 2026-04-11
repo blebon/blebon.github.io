@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[Soft Whole Wheat Pita Bread (Oven Baked)](https://veganlovlie.com/whole-wheat-pita-bread/)**  2026-04-11 04:30:31
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[She was never weak](http://ghoorunneha.blogspot.com/2026/04/she-was-never-weak.html)**  2026-04-10 06:50:15
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[It's no longer a strange world](https://flicenflac.blogspot.com/2026/03/its-no-longer-strange-world.html)**  2026-04-05 04:34:44
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Lentil Kalia Curry with Eggplant](https://veganlovlie.com/lentil-kalia-curry/)**  2026-04-01 23:05:43
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[EN MARGE DU 5 AVRIL : Pâques, une invitation à l’accueil de nos vulnérabilités](https://www.lemauricien.com/actualites/en-marge-du-5-avril-paques-une-invitation-a-laccueil-de-nos-vulnerabilites/703330/)**  2026-04-01 07:50:19
