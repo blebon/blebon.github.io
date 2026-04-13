@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[A promise](http://ghoorunneha.blogspot.com/2026/04/a-promise.html)**  2026-04-12 12:32:19
+
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[DUBAI CHOCOLATE STYLE BARFI](https://nashbakery.blogspot.com/2025/07/dubai-chocolate-style-barfi.html)**  2026-04-11 10:53:39
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Soft Whole Wheat Pita Bread (Oven Baked)](https://veganlovlie.com/whole-wheat-pita-bread/)**  2026-04-11 04:30:31
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[She was never weak](http://ghoorunneha.blogspot.com/2026/04/she-was-never-weak.html)**  2026-04-10 06:50:15
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Not Obvious](https://vintishgokool.blogspot.com/2026/04/not-obvious.html)**  2026-04-09 20:23:54
