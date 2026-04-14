@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[The power of let go](http://ghoorunneha.blogspot.com/2026/04/the-power-of-let-go.html)**  2026-04-13 18:41:00
+**[A positive mindset](http://ghoorunneha.blogspot.com/2026/04/a-positive-mindset.html)**  2026-04-14 06:42:22
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[DUBAI CHOCOLATE STYLE BARFI](https://nashbakery.blogspot.com/2025/07/dubai-chocolate-style-barfi.html)**  2026-04-11 10:53:39
