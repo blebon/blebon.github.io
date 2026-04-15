@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
+**[After the break....](http://vcilt.blogspot.com/2026/04/after-break.html)**  2026-04-15 07:25:06
+
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[A dream?](https://flicenflac.blogspot.com/2026/04/a-dream.html)**  2026-04-15 07:12:02
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[A positive mindset](http://ghoorunneha.blogspot.com/2026/04/a-positive-mindset.html)**  2026-04-14 06:42:22
 
@@ -24,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[No title](https://facultyagriculture.blogspot.com/2026/04/root-earth-green-1b4332-leaf-green.html)**  2026-04-06 13:03:27
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[It's no longer a strange world](https://flicenflac.blogspot.com/2026/03/its-no-longer-strange-world.html)**  2026-04-05 04:34:44
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[EN MARGE DU 5 AVRIL : Pâques, une invitation à l’accueil de nos vulnérabilités](https://www.lemauricien.com/actualites/en-marge-du-5-avril-paques-une-invitation-a-laccueil-de-nos-vulnerabilites/703330/)**  2026-04-01 07:50:19
