@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
+**[THE World University Rankings](http://vcilt.blogspot.com/2026/04/the-world-university-rankings.html)**  2026-04-16 20:40:39
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Being the last love is beyond](http://ghoorunneha.blogspot.com/2026/04/being-last-love-is-beyond.html)**  2026-04-16 06:49:45
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Why Mauritius Is Africa’s Premier Business Destination in 2026: A Complete Guide for Global Investors](https://relocationmauritius.wordpress.com/2026/04/16/why-mauritius-is-africas-premier-business-destination-in-2026-a-complete-guide-for-global-investors/)**  2026-04-16 06:45:09
-
-[21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
-**[After the break....](http://vcilt.blogspot.com/2026/04/after-break.html)**  2026-04-15 07:25:06
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[A dream?](https://flicenflac.blogspot.com/2026/04/a-dream.html)**  2026-04-15 07:12:02
