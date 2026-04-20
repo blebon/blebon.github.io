@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[CEO](http://ghoorunneha.blogspot.com/2026/04/ceo.html)**  2026-04-20 06:42:46
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Belated Easter photos](https://priscimon.com/blog/2026/04/19/belated-easter-photos/)**  2026-04-19 19:21:24
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Strength](http://ghoorunneha.blogspot.com/2026/04/strength.html)**  2026-04-19 15:24:39
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[ACMA Dance West Spring 2026 Concert](https://davidandjennilyn.com/2026/04/18/acma-dance-west-spring-2026-concert/)**  2026-04-19 04:19:16
