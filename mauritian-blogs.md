@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[ACMA Dance West Spring 2026 Concert](https://davidandjennilyn.com/2026/04/18/acma-dance-west-spring-2026-concert/)**  2026-04-19 04:19:16
+[priscimon.com](https://priscimon.com/blog)  
+**[Belated Easter photos](https://priscimon.com/blog/2026/04/19/belated-easter-photos/)**  2026-04-19 19:21:24
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[One day](http://ghoorunneha.blogspot.com/2026/04/one-day.html)**  2026-04-17 12:30:24
+**[Strength](http://ghoorunneha.blogspot.com/2026/04/strength.html)**  2026-04-19 15:24:39
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[ACMA Dance West Spring 2026 Concert](https://davidandjennilyn.com/2026/04/18/acma-dance-west-spring-2026-concert/)**  2026-04-19 04:19:16
 
 [21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
 **[THE World University Rankings](http://vcilt.blogspot.com/2026/04/the-world-university-rankings.html)**  2026-04-16 20:40:39
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[70 An De Sela Moris Ti A En Gran Turnan](http://kozelidir.blogspot.com/2026/03/70-de-sela-moris-ti-en-gran-turnan.html)**  2026-03-25 18:07:02
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Out and about again](https://priscimon.com/blog/2026/03/22/out-and-about-again/)**  2026-03-22 14:40:06
 
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[L’accès au juge administratif : étude comparée des garanties procédurales en droits français et anglais](https://dookhy.blogspot.com/2026/02/lacces-au-juge-administratif-etude.html)**  2026-02-07 17:11:02
