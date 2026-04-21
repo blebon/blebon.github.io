@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
-**[From Practice to Policy: Rethinking Micro-Credentials in Higher Education](http://vcilt.blogspot.com/2026/04/from-practice-to-policy-rethinking.html)**  2026-04-20 16:45:23
-
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[CEO](http://ghoorunneha.blogspot.com/2026/04/ceo.html)**  2026-04-20 06:42:46
+**[Beauty of Nature](http://ghoorunneha.blogspot.com/2026/04/beauty-of-nature.html)**  2026-04-21 06:18:43
+
+[21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
+**[From Practice to Policy: Rethinking Micro-Credentials in Higher Education](http://vcilt.blogspot.com/2026/04/from-practice-to-policy-rethinking.html)**  2026-04-21 06:06:05
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Belated Easter photos](https://priscimon.com/blog/2026/04/19/belated-easter-photos/)**  2026-04-19 19:21:24
