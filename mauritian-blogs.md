@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
+**[From Practice to Policy: Rethinking Micro-Credentials in Higher Education](http://vcilt.blogspot.com/2026/04/from-practice-to-policy-rethinking.html)**  2026-04-20 16:45:23
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[CEO](http://ghoorunneha.blogspot.com/2026/04/ceo.html)**  2026-04-20 06:42:46
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[ACMA Dance West Spring 2026 Concert](https://davidandjennilyn.com/2026/04/18/acma-dance-west-spring-2026-concert/)**  2026-04-19 04:19:16
-
-[21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
-**[THE World University Rankings](http://vcilt.blogspot.com/2026/04/the-world-university-rankings.html)**  2026-04-16 20:40:39
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Why Mauritius Is Africa’s Premier Business Destination in 2026: A Complete Guide for Global Investors](https://relocationmauritius.wordpress.com/2026/04/16/why-mauritius-is-africas-premier-business-destination-in-2026-a-complete-guide-for-global-investors/)**  2026-04-16 06:45:09
