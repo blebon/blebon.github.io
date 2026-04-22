@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[The quiet love](http://ghoorunneha.blogspot.com/2026/04/the-quiet-love.html)**  2026-04-22 06:46:42
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Lemon Herb Pickled Mushrooms](https://veganlovlie.com/lemon-herb-pickled-mushrooms/)**  2026-04-21 16:01:08
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Beauty of Nature](http://ghoorunneha.blogspot.com/2026/04/beauty-of-nature.html)**  2026-04-21 06:18:43
 
 [21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
 **[From Practice to Policy: Rethinking Micro-Credentials in Higher Education](http://vcilt.blogspot.com/2026/04/from-practice-to-policy-rethinking.html)**  2026-04-21 06:06:05
