@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[Lemon Herb Pickled Mushrooms](https://veganlovlie.com/lemon-herb-pickled-mushrooms/)**  2026-04-21 16:01:08
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Beauty of Nature](http://ghoorunneha.blogspot.com/2026/04/beauty-of-nature.html)**  2026-04-21 06:18:43
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[DUBAI CHOCOLATE STYLE BARFI](https://nashbakery.blogspot.com/2025/07/dubai-chocolate-style-barfi.html)**  2026-04-11 10:53:39
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Soft Whole Wheat Pita Bread (Oven Baked)](https://veganlovlie.com/whole-wheat-pita-bread/)**  2026-04-11 04:30:31
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Not Obvious](https://vintishgokool.blogspot.com/2026/04/not-obvious.html)**  2026-04-09 20:23:54
