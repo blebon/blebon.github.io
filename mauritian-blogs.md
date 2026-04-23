@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[The quiet love](http://ghoorunneha.blogspot.com/2026/04/the-quiet-love.html)**  2026-04-22 06:46:42
+**[Motherhood](http://ghoorunneha.blogspot.com/2026/04/motherhood.html)**  2026-04-22 18:50:20
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Lemon Herb Pickled Mushrooms](https://veganlovlie.com/lemon-herb-pickled-mushrooms/)**  2026-04-21 16:01:08
@@ -78,8 +78,5 @@ permalink: /mauritian-blogs/
 
 [sunshine](https://sooriamoorthy.blogspot.com/)  
 **[No title](https://sooriamoorthy.blogspot.com/2025/06/tout-le-monde-affirmait-avec-une-fort.html)**  2025-06-08 07:07:59
-
-[Mike Sinnott's World](https://msinnott.net)  
-**[Zombies Walk](https://msinnott.net/2025/05/21/zombies-walk/)**  2025-05-21 18:55:09
 
 <div style="height:0;width:0;overflow:hidden;"></div>
