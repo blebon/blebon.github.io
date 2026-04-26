@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[No title](https://facultyagriculture.blogspot.com/2026/04/national-research-week-2026-future.html)**  2026-04-25 10:07:36
+**[Navigating University Futures in the Age of Polycrisis](https://facultyagriculture.blogspot.com/2026/04/navigating-university-futures-in-age-of.html)**  2026-04-25 16:31:54
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Mauritius: A House of Cards?](https://tchombo.blogspot.com/2026/04/mauritius-house-of-cards.html)**  2026-04-25 11:23:24
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[The silent secret of a man](http://ghoorunneha.blogspot.com/2026/04/the-silent-secret-of-man.html)**  2026-04-24 18:06:37
