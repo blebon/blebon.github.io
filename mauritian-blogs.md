@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Mauritius: A House of Cards?](https://tchombo.blogspot.com/2026/04/mauritius-house-of-cards.html)**  2026-04-27 10:28:34
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[National AI Strategy and Digital Transformation](https://facultyagriculture.blogspot.com/2026/04/national-ai-strategy-digital.html)**  2026-04-26 13:59:26
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Mauritius: A House of Cards?](https://tchombo.blogspot.com/2026/04/mauritius-house-of-cards.html)**  2026-04-26 09:00:43
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[The silent secret of a man](http://ghoorunneha.blogspot.com/2026/04/the-silent-secret-of-man.html)**  2026-04-24 18:06:37
