@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Moris Gayn Plis Delo Ki Bizin](http://kozelidir.blogspot.com/2026/04/moris-gayn-plis-delo-ki-bizin.html)**  2026-04-28 09:12:42
+
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[The power of prayer](http://ghoorunneha.blogspot.com/2026/04/the-power-of-prayer.html)**  2026-04-28 06:53:32
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[From Passive Consumers to Critical Thinkers: Navigating AI in Higher Education](https://facultyagriculture.blogspot.com/2026/04/from-passive-consumers-to-critical.html)**  2026-04-27 11:58:16
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauritius: A House of Cards?](https://tchombo.blogspot.com/2026/04/mauritius-house-of-cards.html)**  2026-04-27 10:28:34
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[The silent secret of a man](http://ghoorunneha.blogspot.com/2026/04/the-silent-secret-of-man.html)**  2026-04-24 18:06:37
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Lemon Herb Pickled Mushrooms](https://veganlovlie.com/lemon-herb-pickled-mushrooms/)**  2026-04-21 16:01:08
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[EN MARGE DU 5 AVRIL : Pâques, une invitation à l’accueil de nos vulnérabilités](https://www.lemauricien.com/actualites/en-marge-du-5-avril-paques-une-invitation-a-laccueil-de-nos-vulnerabilites/703330/)**  2026-04-01 07:50:19
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[70 An De Sela Moris Ti A En Gran Turnan](http://kozelidir.blogspot.com/2026/03/70-de-sela-moris-ti-en-gran-turnan.html)**  2026-03-25 18:07:02
 
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[L’accès au juge administratif : étude comparée des garanties procédurales en droits français et anglais](https://dookhy.blogspot.com/2026/02/lacces-au-juge-administratif-etude.html)**  2026-02-07 17:11:02
