@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Forget the ones who hurt you](http://ghoorunneha.blogspot.com/2026/04/forget-ones-who-hurt-you.html)**  2026-04-29 18:32:37
+
+[UoM-Communication Studies](https://comstudies.wordpress.com)  
+**[Résultats de la School Certificate : Le système éducatif mauricien ment-il aux élèves et aux parents ?](https://comstudies.wordpress.com/2026/04/29/resultats-de-la-school-certificate-le-systeme-educatif-mauricien-ment-il-aux-eleves-et-aux-parents/)**  2026-04-29 18:30:13
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Moris Gayn Plis Delo Ki Bizin](http://kozelidir.blogspot.com/2026/04/moris-gayn-plis-delo-ki-bizin.html)**  2026-04-28 09:12:42
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[The power of prayer](http://ghoorunneha.blogspot.com/2026/04/the-power-of-prayer.html)**  2026-04-28 06:53:32
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[From Passive Consumers to Critical Thinkers: Navigating AI in Higher Education](https://facultyagriculture.blogspot.com/2026/04/from-passive-consumers-to-critical.html)**  2026-04-27 11:58:16
