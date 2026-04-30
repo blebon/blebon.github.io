@@ -5,10 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Forget the ones who hurt you](http://ghoorunneha.blogspot.com/2026/04/forget-ones-who-hurt-you.html)**  2026-04-29 18:32:37
+**[His presence](http://ghoorunneha.blogspot.com/2026/04/his-presence.html)**  2026-04-30 06:59:59
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[Résultats de la School Certificate : Le système éducatif mauricien ment-il aux élèves et aux parents ?](https://comstudies.wordpress.com/2026/04/29/resultats-de-la-school-certificate-le-systeme-educatif-mauricien-ment-il-aux-eleves-et-aux-parents/)**  2026-04-29 18:30:13
+**[Ce que révèlent dix ans de performances dans le cluster scientifique](https://comstudies.wordpress.com/2026/04/30/ce-que-revelent-dix-ans-de-performances-dans-le-cluster-scientifique/)**  2026-04-30 06:46:18
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Moris Gayn Plis Delo Ki Bizin](http://kozelidir.blogspot.com/2026/04/moris-gayn-plis-delo-ki-bizin.html)**  2026-04-28 09:12:42
