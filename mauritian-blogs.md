@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[No title](https://facultyagriculture.blogspot.com/2026/05/erasmus-how-student-mobilities-are.html)**  2026-05-01 15:54:14
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[His presence](http://ghoorunneha.blogspot.com/2026/04/his-presence.html)**  2026-04-30 06:59:59
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Moris Gayn Plis Delo Ki Bizin](http://kozelidir.blogspot.com/2026/04/moris-gayn-plis-delo-ki-bizin.html)**  2026-04-28 09:12:42
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[From Passive Consumers to Critical Thinkers: Navigating AI in Higher Education](https://facultyagriculture.blogspot.com/2026/04/from-passive-consumers-to-critical.html)**  2026-04-27 11:58:16
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauritius: A House of Cards?](https://tchombo.blogspot.com/2026/04/mauritius-house-of-cards.html)**  2026-04-27 10:28:34
