@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Bird antics](https://priscimon.com/blog/2026/05/02/bird-antics/)**  2026-05-02 18:16:53
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[No title](https://facultyagriculture.blogspot.com/2026/05/erasmus-how-student-mobilities-are.html)**  2026-05-01 15:54:14
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
 **[From Practice to Policy: Rethinking Micro-Credentials in Higher Education](http://vcilt.blogspot.com/2026/04/from-practice-to-policy-rethinking.html)**  2026-04-21 06:06:05
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Belated Easter photos](https://priscimon.com/blog/2026/04/19/belated-easter-photos/)**  2026-04-19 19:21:24
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[ACMA Dance West Spring 2026 Concert](https://davidandjennilyn.com/2026/04/18/acma-dance-west-spring-2026-concert/)**  2026-04-19 04:19:16
