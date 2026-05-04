@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[License](https://vintishgokool.blogspot.com/2026/05/license.html)**  2026-05-03 20:43:06
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Never forget your childhood](http://ghoorunneha.blogspot.com/2026/05/never-forget-your-childhood.html)**  2026-05-03 09:57:37
 
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[DUBAI CHOCOLATE STYLE BARFI](https://nashbakery.blogspot.com/2025/07/dubai-chocolate-style-barfi.html)**  2026-04-11 10:53:39
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Not Obvious](https://vintishgokool.blogspot.com/2026/04/not-obvious.html)**  2026-04-09 20:23:54
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[For Gen Z brains are the new boobs.The era of dumbing down is over](https://zoomdr.blogspot.com/2026/04/it-is-thinking-as-well-as-reading-that.html)**  2026-04-07 11:06:17
