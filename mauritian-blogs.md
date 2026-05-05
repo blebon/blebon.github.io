@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[The Goodbye](http://ghoorunneha.blogspot.com/2026/05/the-goodbye.html)**  2026-05-05 06:21:32
+
+[Veganlovlie](https://veganlovlie.com)  
+**[Crispy Tempeh Tomato Stir-Fried Noodles (Vegan)](https://veganlovlie.com/tomato-stir-fried-noodles-vegan/)**  2026-05-05 05:08:22
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[License](https://vintishgokool.blogspot.com/2026/05/license.html)**  2026-05-03 20:43:06
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Never forget your childhood](http://ghoorunneha.blogspot.com/2026/05/never-forget-your-childhood.html)**  2026-05-03 09:57:37
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Bird antics](https://priscimon.com/blog/2026/05/02/bird-antics/)**  2026-05-02 18:16:53
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Mauritius: A House of Cards?](https://tchombo.blogspot.com/2026/04/mauritius-house-of-cards.html)**  2026-04-27 10:28:34
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Lemon Herb Pickled Mushrooms](https://veganlovlie.com/lemon-herb-pickled-mushrooms/)**  2026-04-21 16:01:08
 
 [21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
 **[From Practice to Policy: Rethinking Micro-Credentials in Higher Education](http://vcilt.blogspot.com/2026/04/from-practice-to-policy-rethinking.html)**  2026-04-21 06:06:05
