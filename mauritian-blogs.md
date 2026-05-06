@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[No title](https://facultyagriculture.blogspot.com/2026/05/ai-in-education-navigating-future-of.html)**  2026-05-05 16:47:22
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[The Goodbye](http://ghoorunneha.blogspot.com/2026/05/the-goodbye.html)**  2026-05-05 06:21:32
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Bird antics](https://priscimon.com/blog/2026/05/02/bird-antics/)**  2026-05-02 18:16:53
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[No title](https://facultyagriculture.blogspot.com/2026/05/erasmus-how-student-mobilities-are.html)**  2026-05-01 15:54:14
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Ce que révèlent dix ans de performances dans le cluster scientifique](https://comstudies.wordpress.com/2026/04/30/ce-que-revelent-dix-ans-de-performances-dans-le-cluster-scientifique/)**  2026-04-30 06:46:18
