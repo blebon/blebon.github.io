@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mera Blog](https://nayarweb.com/blog)  
+**[Getting ready for PyCon US 2026. Here’s how 2025 edition went for me.](https://nayarweb.com/blog/2026/getting-ready-for-pycon-us-2026-heres-how-2025-edition-went-for-me/)**  2026-05-09 16:42:45
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Childhood](http://ghoorunneha.blogspot.com/2026/05/childhood.html)**  2026-05-07 21:08:21
 
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bright](https://littleanantasin.wordpress.com/2026/01/22/bright/)**  2026-01-22 08:20:58
-
-[Mera Blog](https://nayarweb.com/blog)  
-**[Import/Export Flaw in ERPNext. Why?](https://nayarweb.com/blog/2025/import-export-flaw-in-erpnext-why/)**  2025-12-17 07:41:03
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Mauritius Animal Welfare Crisis: A system Failure!](https://meeraappadoo.wordpress.com/2025/12/13/current-animal-welfare-ecosystem-in-mauritius-not-a-failure-of-compassion-but-the-failure-of-systems/)**  2025-12-13 16:32:54
