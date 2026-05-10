@@ -82,7 +82,4 @@ permalink: /mauritian-blogs/
 [Blog trotteur](https://patoutafeca.blogspot.com/)  
 **[Partie 2: Oracle APEX avec Ollama](https://patoutafeca.blogspot.com/2025/06/partie-2-oracle-apex-avec-ollama.html)**  2025-06-09 15:46:20
 
-[sunshine](https://sooriamoorthy.blogspot.com/)  
-**[No title](https://sooriamoorthy.blogspot.com/2025/06/tout-le-monde-affirmait-avec-une-fort.html)**  2025-06-08 07:07:59
-
 <div style="height:0;width:0;overflow:hidden;"></div>
