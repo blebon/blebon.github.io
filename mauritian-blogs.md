@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Europe Day 2026: Faculty of Agriculture Showcases Erasmus+ Partnership with University of Palermo](https://facultyagriculture.blogspot.com/2026/05/europe-day-2026-faculty-of-agriculture.html)**  2026-05-11 05:07:44
+**[Europe Day 2026: Faculty of Agriculture of the UoM Showcases Erasmus+ Partnership with University of Palermo](https://facultyagriculture.blogspot.com/2026/05/europe-day-2026-faculty-of-agriculture.html)**  2026-05-11 05:19:57
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Bricks Cascade 2026](https://davidandjennilyn.com/2026/05/10/bricks-cascade-2026/)**  2026-05-10 16:59:16
