@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Europe Day 2026: Faculty of Agriculture Showcases Erasmus+ Partnership with University of Palermo](https://facultyagriculture.blogspot.com/2026/05/europe-day-2026-faculty-of-agriculture.html)**  2026-05-11 05:07:44
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Bricks Cascade 2026](https://davidandjennilyn.com/2026/05/10/bricks-cascade-2026/)**  2026-05-10 16:59:16
+
 [Mera Blog](https://nayarweb.com/blog)  
 **[Getting ready for PyCon US 2026. Here’s how 2025 edition went for me.](https://nayarweb.com/blog/2026/getting-ready-for-pycon-us-2026-heres-how-2025-edition-went-for-me/)**  2026-05-09 16:42:45
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[L’ANEF devant le juge administratif : la consécration contentieuse d’une obligation d’effectivité du service public numérique](https://dookhy.blogspot.com/2026/05/lanef-devant-le-juge-administratif-la.html)**  2026-05-06 07:10:57
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[No title](https://facultyagriculture.blogspot.com/2026/05/ai-in-education-navigating-future-of.html)**  2026-05-05 16:47:22
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Crispy Tempeh Tomato Stir-Fried Noodles (Vegan)](https://veganlovlie.com/tomato-stir-fried-noodles-vegan/)**  2026-05-05 05:08:22
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
 **[From Practice to Policy: Rethinking Micro-Credentials in Higher Education](http://vcilt.blogspot.com/2026/04/from-practice-to-policy-rethinking.html)**  2026-04-21 06:06:05
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[ACMA Dance West Spring 2026 Concert](https://davidandjennilyn.com/2026/04/18/acma-dance-west-spring-2026-concert/)**  2026-04-19 04:19:16
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Why Mauritius Is Africa’s Premier Business Destination in 2026: A Complete Guide for Global Investors](https://relocationmauritius.wordpress.com/2026/04/16/why-mauritius-is-africas-premier-business-destination-in-2026-a-complete-guide-for-global-investors/)**  2026-04-16 06:45:09
