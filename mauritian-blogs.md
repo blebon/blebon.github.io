@@ -79,7 +79,4 @@ permalink: /mauritian-blogs/
 [turbine.mu](https://turbine.mu)  
 **[Let the Expert Speak: 5 Sales & Tech Questions with Marc Israel](https://turbine.mu/let-the-expert-speak-5-sales-tech-questions-with-marc-israel/)**  2025-07-14 12:50:01
 
-[Blog trotteur](https://patoutafeca.blogspot.com/)  
-**[Partie 2: Oracle APEX avec Ollama](https://patoutafeca.blogspot.com/2025/06/partie-2-oracle-apex-avec-ollama.html)**  2025-06-09 15:46:20
-
 <div style="height:0;width:0;overflow:hidden;"></div>
