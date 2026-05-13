@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Why him](http://ghoorunneha.blogspot.com/2026/05/why-him.html)**  2026-05-12 18:38:28
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Europe Day 2026: Faculty of Agriculture of the UoM Showcases Erasmus+ Partnership with University of Palermo](https://facultyagriculture.blogspot.com/2026/05/europe-day-2026-faculty-of-agriculture.html)**  2026-05-11 05:19:57
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Getting ready for PyCon US 2026. Here’s how 2025 edition went for me.](https://nayarweb.com/blog/2026/getting-ready-for-pycon-us-2026-heres-how-2025-edition-went-for-me/)**  2026-05-09 16:42:45
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Childhood](http://ghoorunneha.blogspot.com/2026/05/childhood.html)**  2026-05-07 21:08:21
 
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[L’ANEF devant le juge administratif : la consécration contentieuse d’une obligation d’effectivité du service public numérique](https://dookhy.blogspot.com/2026/05/lanef-devant-le-juge-administratif-la.html)**  2026-05-06 07:10:57
