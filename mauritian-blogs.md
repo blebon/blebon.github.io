@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[Rasta Pasta with Jerk Tofu (Vegan, No Bell Peppers)](https://veganlovlie.com/rasta-pasta-jerk-tofu-no-bell-peppers/)**  2026-05-15 16:54:21
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Materialising Today Through Speaking Into Tomorrow!](https://flicenflac.blogspot.com/2026/05/materialising-today-through-speaking.html)**  2026-05-14 03:10:27
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Homemade Preserved Lemons with Peppercorns and Chilli](https://veganlovlie.com/homemade-preserved-lemons/)**  2026-05-13 21:53:21
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Europe Day 2026: Faculty of Agriculture of the UoM Showcases Erasmus+ Partnership with University of Palermo](https://facultyagriculture.blogspot.com/2026/05/europe-day-2026-faculty-of-agriculture.html)**  2026-05-13 14:14:35
