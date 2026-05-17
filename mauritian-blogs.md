@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[priscimon.com](https://priscimon.com/blog)  
+**[Plans do not survive breakfast](https://priscimon.com/blog/2026/05/16/plans-do-not-survive-breakfast/)**  2026-05-16 18:08:35
+
+[Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
+**[La requête en relèvement d’une interdiction du territoire français](https://dookhy.blogspot.com/2026/05/la-requete-en-relevement-dune.html)**  2026-05-16 16:29:48
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Rasta Pasta with Jerk Tofu (Vegan, No Bell Peppers)](https://veganlovlie.com/rasta-pasta-jerk-tofu-no-bell-peppers/)**  2026-05-15 16:54:21
 
@@ -22,14 +28,8 @@ permalink: /mauritian-blogs/
 [Mera Blog](https://nayarweb.com/blog)  
 **[Getting ready for PyCon US 2026. Here’s how 2025 edition went for me.](https://nayarweb.com/blog/2026/getting-ready-for-pycon-us-2026-heres-how-2025-edition-went-for-me/)**  2026-05-09 16:42:45
 
-[Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
-**[L’ANEF devant le juge administratif : la consécration contentieuse d’une obligation d’effectivité du service public numérique](https://dookhy.blogspot.com/2026/05/lanef-devant-le-juge-administratif-la.html)**  2026-05-06 07:10:57
-
 [No Title](https://vintishgokool.blogspot.com/)  
 **[License](https://vintishgokool.blogspot.com/2026/05/license.html)**  2026-05-03 20:43:06
-
-[priscimon.com](https://priscimon.com/blog)  
-**[Bird antics](https://priscimon.com/blog/2026/05/02/bird-antics/)**  2026-05-02 18:16:53
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Ce que révèlent dix ans de performances dans le cluster scientifique](https://comstudies.wordpress.com/2026/04/30/ce-que-revelent-dix-ans-de-performances-dans-le-cluster-scientifique/)**  2026-04-30 06:46:18
