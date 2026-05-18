@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[How to Set Up a Company in Mauritius: The Definitive Step-by-Step Guide for Foreign Investors (2026)](https://relocationmauritius.wordpress.com/2026/05/18/how-to-set-up-a-company-in-mauritius-the-definitive-step-by-step-guide-for-foreign-investors-2026/)**  2026-05-18 05:37:06
+
 [priscimon.com](https://priscimon.com/blog)  
 **[Plans do not survive breakfast](https://priscimon.com/blog/2026/05/16/plans-do-not-survive-breakfast/)**  2026-05-16 18:08:35
 
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
 **[From Practice to Policy: Rethinking Micro-Credentials in Higher Education](http://vcilt.blogspot.com/2026/04/from-practice-to-policy-rethinking.html)**  2026-04-21 06:06:05
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Why Mauritius Is Africa’s Premier Business Destination in 2026: A Complete Guide for Global Investors](https://relocationmauritius.wordpress.com/2026/04/16/why-mauritius-is-africas-premier-business-destination-in-2026-a-complete-guide-for-global-investors/)**  2026-04-16 06:45:09
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[DUBAI CHOCOLATE STYLE BARFI](https://nashbakery.blogspot.com/2025/07/dubai-chocolate-style-barfi.html)**  2026-04-11 10:53:39
