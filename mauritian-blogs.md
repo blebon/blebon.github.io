@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[UoM-Communication Studies](https://comstudies.wordpress.com)  
+**[Do Local Enterprises Still Contribute 40% to National Production in Mauritius?](https://comstudies.wordpress.com/2026/05/20/do-local-enterprises-still-contribute-40-to-national-production-in-mauritius/)**  2026-05-20 18:20:25
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Maurice, une réalité qui saute aux yeux](https://tchombo.blogspot.com/2026/05/maurice-une-realite-qui-saute-aux-yeux.html)**  2026-05-20 13:01:14
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[How to Set Up a Company in Mauritius: The Definitive Step-by-Step Guide for Foreign Investors (2026)](https://relocationmauritius.wordpress.com/2026/05/18/how-to-set-up-a-company-in-mauritius-the-definitive-step-by-step-guide-for-foreign-investors-2026/)**  2026-05-18 05:37:06
 
@@ -34,14 +40,8 @@ permalink: /mauritian-blogs/
 [No Title](https://vintishgokool.blogspot.com/)  
 **[License](https://vintishgokool.blogspot.com/2026/05/license.html)**  2026-05-03 20:43:06
 
-[UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[Ce que révèlent dix ans de performances dans le cluster scientifique](https://comstudies.wordpress.com/2026/04/30/ce-que-revelent-dix-ans-de-performances-dans-le-cluster-scientifique/)**  2026-04-30 06:46:18
-
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Moris Gayn Plis Delo Ki Bizin](http://kozelidir.blogspot.com/2026/04/moris-gayn-plis-delo-ki-bizin.html)**  2026-04-28 09:12:42
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Mauritius: A House of Cards?](https://tchombo.blogspot.com/2026/04/mauritius-house-of-cards.html)**  2026-04-27 10:28:34
 
 [21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
 **[From Practice to Policy: Rethinking Micro-Credentials in Higher Education](http://vcilt.blogspot.com/2026/04/from-practice-to-policy-rethinking.html)**  2026-04-21 06:06:05
