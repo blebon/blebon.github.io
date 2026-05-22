@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Sustainable Fodder: Field Day on the ROM/GEF/UNDP Project Organized by FAREI](https://facultyagriculture.blogspot.com/2026/05/sustainable-fodder-and-livestock.html)**  2026-05-21 16:59:46
+
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Do Local Enterprises Still Contribute 40% to National Production in Mauritius?](https://comstudies.wordpress.com/2026/05/20/do-local-enterprises-still-contribute-40-to-national-production-in-mauritius/)**  2026-05-20 18:20:25
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Materialising Today Through Speaking Into Tomorrow!](https://flicenflac.blogspot.com/2026/05/materialising-today-through-speaking.html)**  2026-05-14 03:10:27
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Europe Day 2026: Faculty of Agriculture of the UoM Showcases Erasmus+ Partnership with University of Palermo](https://facultyagriculture.blogspot.com/2026/05/europe-day-2026-faculty-of-agriculture.html)**  2026-05-13 14:14:35
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Why him](http://ghoorunneha.blogspot.com/2026/05/why-him.html)**  2026-05-12 18:38:28
