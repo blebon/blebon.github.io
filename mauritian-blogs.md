@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Kisana Ki Papa Mirak Ekonomik?](http://kozelidir.blogspot.com/2026/05/kisana-ki-papa-mirak-ekonomik.html)**  2026-05-24 08:52:50
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Sustainable Fodder: Field Day on the ROM/GEF/UNDP Project Organized by FAREI](https://facultyagriculture.blogspot.com/2026/05/sustainable-fodder-and-livestock.html)**  2026-05-22 16:54:01
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Politique : Un nouveau souffle, une rupture nécessaire](https://www.lemauricien.com/le-mauricien/politique-un-nouveau-souffle-une-rupture-necessaire/707732/)**  2026-05-21 13:00:12
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Do Local Enterprises Still Contribute 40% to National Production in Mauritius?](https://comstudies.wordpress.com/2026/05/20/do-local-enterprises-still-contribute-40-to-national-production-in-mauritius/)**  2026-05-20 18:20:25
@@ -40,9 +46,6 @@ permalink: /mauritian-blogs/
 [No Title](https://vintishgokool.blogspot.com/)  
 **[License](https://vintishgokool.blogspot.com/2026/05/license.html)**  2026-05-03 20:43:06
 
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Moris Gayn Plis Delo Ki Bizin](http://kozelidir.blogspot.com/2026/04/moris-gayn-plis-delo-ki-bizin.html)**  2026-04-28 09:12:42
-
 [21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
 **[From Practice to Policy: Rethinking Micro-Credentials in Higher Education](http://vcilt.blogspot.com/2026/04/from-practice-to-policy-rethinking.html)**  2026-04-21 06:06:05
 
@@ -51,9 +54,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[For Gen Z brains are the new boobs.The era of dumbing down is over](https://zoomdr.blogspot.com/2026/04/it-is-thinking-as-well-as-reading-that.html)**  2026-04-07 11:06:17
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[EN MARGE DU 5 AVRIL : Pâques, une invitation à l’accueil de nos vulnérabilités](https://www.lemauricien.com/actualites/en-marge-du-5-avril-paques-une-invitation-a-laccueil-de-nos-vulnerabilites/703330/)**  2026-04-01 07:50:19
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bright](https://littleanantasin.wordpress.com/2026/01/22/bright/)**  2026-01-22 08:20:58
