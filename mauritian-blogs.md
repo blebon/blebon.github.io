@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[LGSC’s Recruitments: Discrimination,  Social Cohesion and the Law](https://www.lemauricien.com/actualites/lgscs-recruitments-discrimination-social-cohesion-and-the-law/708059/)**  2026-05-26 07:03:19
+
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Fact-check : le nombre de centres de soins primaires à Maurice a-t-il vraiment augmenté de 82 % entre 2022 et 2024 ?](https://comstudies.wordpress.com/2026/05/25/fact-check-le-nombre-de-centres-de-soins-primaires-a-maurice-a-t-il-vraiment-augmente-de-82-entre-2022-et-2024/)**  2026-05-25 17:01:54
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Kisana Ki Papa Mirak Ekonomik?](http://kozelidir.blogspot.com/2026/05/kisana-ki-papa-mirak-ekonomik.html)**  2026-05-24 08:52:50
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Politique : Un nouveau souffle, une rupture nécessaire](https://www.lemauricien.com/le-mauricien/politique-un-nouveau-souffle-une-rupture-necessaire/707732/)**  2026-05-21 13:00:12
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Maurice, une réalité qui saute aux yeux](https://tchombo.blogspot.com/2026/05/maurice-une-realite-qui-saute-aux-yeux.html)**  2026-05-20 13:01:14
