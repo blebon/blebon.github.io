@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[UoM-Communication Studies](https://comstudies.wordpress.com)  
+**[Fact-check : le nombre de centres de soins primaires à Maurice a-t-il vraiment augmenté de 82 % entre 2022 et 2024 ?](https://comstudies.wordpress.com/2026/05/25/fact-check-le-nombre-de-centres-de-soins-primaires-a-maurice-a-t-il-vraiment-augmente-de-82-entre-2022-et-2024/)**  2026-05-25 17:01:54
+
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Celebrating Academic Excellence: The UoM Faculty of Agriculture Scholarship & Prize Giving Ceremony (2024/2025)](https://facultyagriculture.blogspot.com/2026/05/celebrating-academic-excellence-uom.html)**  2026-05-25 14:17:39
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Kisana Ki Papa Mirak Ekonomik?](http://kozelidir.blogspot.com/2026/05/kisana-ki-papa-mirak-ekonomik.html)**  2026-05-24 08:52:50
 
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Sustainable Fodder: Field Day on the ROM/GEF/UNDP Project Organized by FAREI](https://facultyagriculture.blogspot.com/2026/05/sustainable-fodder-and-livestock.html)**  2026-05-22 16:54:01
-
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Politique : Un nouveau souffle, une rupture nécessaire](https://www.lemauricien.com/le-mauricien/politique-un-nouveau-souffle-une-rupture-necessaire/707732/)**  2026-05-21 13:00:12
-
-[UoM-Communication Studies](https://comstudies.wordpress.com)  
-**[Do Local Enterprises Still Contribute 40% to National Production in Mauritius?](https://comstudies.wordpress.com/2026/05/20/do-local-enterprises-still-contribute-40-to-national-production-in-mauritius/)**  2026-05-20 18:20:25
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Maurice, une réalité qui saute aux yeux](https://tchombo.blogspot.com/2026/05/maurice-une-realite-qui-saute-aux-yeux.html)**  2026-05-20 13:01:14
