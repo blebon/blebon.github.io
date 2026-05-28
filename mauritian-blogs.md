@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[Sticky Hoisin Tofu and Vegetables Sheet Pan Dinner](https://veganlovlie.com/sticky-hoisin-tofu-and-vegetables-sheet-pan-dinner/)**  2026-05-27 17:20:19
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[LGSC’s Recruitments: Discrimination,  Social Cohesion and the Law](https://www.lemauricien.com/actualites/lgscs-recruitments-discrimination-social-cohesion-and-the-law/708059/)**  2026-05-26 07:03:19
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[La requête en relèvement d’une interdiction du territoire français](https://dookhy.blogspot.com/2026/05/la-requete-en-relevement-dune.html)**  2026-05-16 16:29:48
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Rasta Pasta with Jerk Tofu (Vegan, No Bell Peppers)](https://veganlovlie.com/rasta-pasta-jerk-tofu-no-bell-peppers/)**  2026-05-15 16:54:21
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Materialising Today Through Speaking Into Tomorrow!](https://flicenflac.blogspot.com/2026/05/materialising-today-through-speaking.html)**  2026-05-14 03:10:27
