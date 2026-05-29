@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Maurice en transformation : les locaux en profitent-ils vraiment ?](https://www.lemauricien.com/le-mauricien/maurice-en-transformation-les-locaux-en-profitent-ils-vraiment/708314/)**  2026-05-29 08:18:42
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Sticky Hoisin Tofu and Vegetables Sheet Pan Dinner](https://veganlovlie.com/sticky-hoisin-tofu-and-vegetables-sheet-pan-dinner/)**  2026-05-27 17:20:19
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[LGSC’s Recruitments: Discrimination,  Social Cohesion and the Law](https://www.lemauricien.com/actualites/lgscs-recruitments-discrimination-social-cohesion-and-the-law/708059/)**  2026-05-26 07:03:19
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Fact-check : le nombre de centres de soins primaires à Maurice a-t-il vraiment augmenté de 82 % entre 2022 et 2024 ?](https://comstudies.wordpress.com/2026/05/25/fact-check-le-nombre-de-centres-de-soins-primaires-a-maurice-a-t-il-vraiment-augmente-de-82-entre-2022-et-2024/)**  2026-05-25 17:01:54
