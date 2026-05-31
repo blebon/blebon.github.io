@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Why the Vedas Teach Us to Honour Mothers Every Day](https://www.lemauricien.com/le-mauricien/why-the-vedas-teach-us-to-honour-mothers-every-day/708443/)**  2026-05-30 14:41:08
+
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Missing Miss Molly...Einen Monat nach ihrem Tod...A tribute with delay](https://insel-rodrigues.blogspot.com/2022/05/missing-miss-molly-23052022.html)**  2026-05-30 03:30:33
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Maurice en transformation : les locaux en profitent-ils vraiment ?](https://www.lemauricien.com/le-mauricien/maurice-en-transformation-les-locaux-en-profitent-ils-vraiment/708314/)**  2026-05-29 08:18:42
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Sticky Hoisin Tofu and Vegetables Sheet Pan Dinner](https://veganlovlie.com/sticky-hoisin-tofu-and-vegetables-sheet-pan-dinner/)**  2026-05-27 17:20:19
