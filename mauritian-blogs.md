@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[My Beautiful Soulmate 🙏😘🕉](https://flicenflac.blogspot.com/2026/05/my-beautiful-soulmate.html)**  2026-05-31 20:27:32
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Why the Vedas Teach Us to Honour Mothers Every Day](https://www.lemauricien.com/le-mauricien/why-the-vedas-teach-us-to-honour-mothers-every-day/708443/)**  2026-05-30 14:41:08
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[La requête en relèvement d’une interdiction du territoire français](https://dookhy.blogspot.com/2026/05/la-requete-en-relevement-dune.html)**  2026-05-16 16:29:48
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Materialising Today Through Speaking Into Tomorrow!](https://flicenflac.blogspot.com/2026/05/materialising-today-through-speaking.html)**  2026-05-14 03:10:27
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Why him](http://ghoorunneha.blogspot.com/2026/05/why-him.html)**  2026-05-12 18:38:28
