@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[National Science Week 2026: Faculty of Agriculture Projects](https://facultyagriculture.blogspot.com/2026/06/national-science-week-2026-faculty-of.html)**  2026-06-01 17:36:25
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[My Beautiful Soulmate 🙏😘🕉](https://flicenflac.blogspot.com/2026/05/my-beautiful-soulmate.html)**  2026-05-31 20:27:32
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Fact-check : le nombre de centres de soins primaires à Maurice a-t-il vraiment augmenté de 82 % entre 2022 et 2024 ?](https://comstudies.wordpress.com/2026/05/25/fact-check-le-nombre-de-centres-de-soins-primaires-a-maurice-a-t-il-vraiment-augmente-de-82-entre-2022-et-2024/)**  2026-05-25 17:01:54
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Celebrating Academic Excellence: The UoM Faculty of Agriculture Scholarship & Prize Giving Ceremony (2024/2025)](https://facultyagriculture.blogspot.com/2026/05/celebrating-academic-excellence-uom.html)**  2026-05-25 14:17:39
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Kisana Ki Papa Mirak Ekonomik?](http://kozelidir.blogspot.com/2026/05/kisana-ki-papa-mirak-ekonomik.html)**  2026-05-24 08:52:50
