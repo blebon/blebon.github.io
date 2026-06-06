@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Don't try to convert the 15% Rotten Tomatoes first](https://tchombo.blogspot.com/2026/06/dont-try-to-convert-15-rotten-tomatoes.html)**  2026-06-06 09:23:37
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Another Brick in the Wall](https://flicenflac.blogspot.com/2026/06/another-brick-in-wall.html)**  2026-06-05 19:31:02
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Kisana Ki Papa Mirak Ekonomik?](http://kozelidir.blogspot.com/2026/05/kisana-ki-papa-mirak-ekonomik.html)**  2026-05-24 08:52:50
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Maurice, une réalité qui saute aux yeux](https://tchombo.blogspot.com/2026/05/maurice-une-realite-qui-saute-aux-yeux.html)**  2026-05-20 13:01:14
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[How to Set Up a Company in Mauritius: The Definitive Step-by-Step Guide for Foreign Investors (2026)](https://relocationmauritius.wordpress.com/2026/05/18/how-to-set-up-a-company-in-mauritius-the-definitive-step-by-step-guide-for-foreign-investors-2026/)**  2026-05-18 05:37:06
