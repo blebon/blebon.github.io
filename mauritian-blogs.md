@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[The Jag!](https://morisk.blogspot.com/)  
-**[Dawnlod Nu Liv Gratis Lor U Laparey Apple](https://morisk.blogspot.com/2026/06/pu-kumanse-par-palab-ki-pe-fer-depi-12.html)**  2026-06-07 21:04:33
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[AI chatbot Claude prompted to dig underneath Mauritian Miracle](https://tchombo.blogspot.com/2026/06/ai-chatbot-claude-prompted-to-dig.html)**  2026-06-08 07:22:09
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
-**[Dawnlod Nu Liv Gratis Lor U Laparey Apple](http://kozelidir.blogspot.com/2026/06/dawnlod-nu-liv-gratis-pu-konpran-en-ta.html)**  2026-06-07 21:03:59
+**[Dawnlod Nu Liv Gratis Pu Konpran En Ta Zafer Mari Vit](http://kozelidir.blogspot.com/2026/06/dawnlod-nu-liv-gratis-pu-konpran-en-ta.html)**  2026-06-08 06:47:31
 
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[AI chatbot Claude prompted to dig underneath Mauritian Miracle](https://tchombo.blogspot.com/2026/06/ai-chatbot-claude-prompted-to-dig.html)**  2026-06-07 18:41:10
+[The Jag!](https://morisk.blogspot.com/)  
+**[Dawnlod Nu Liv Gratis Pu Konpran En Ta Zafer Mari Vit](https://morisk.blogspot.com/2026/06/pu-kumanse-par-palab-ki-pe-fer-depi-12.html)**  2026-06-08 06:47:14
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Natural vs Artificial](https://vintishgokool.blogspot.com/2026/06/natural-vs-artificial.html)**  2026-06-07 16:15:14
