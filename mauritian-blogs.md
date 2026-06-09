@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Keine wirkliche Überraschung – nach Kanada und Grönland nun ....Diego Garcia!!](https://insel-rodrigues.blogspot.com/2026/06/keine-wirkliche-uberraschung-nach.html)**  2026-06-09 04:14:23
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[AI chatbot Claude prompted to dig underneath Mauritian Miracle](https://tchombo.blogspot.com/2026/06/ai-chatbot-claude-prompted-to-dig.html)**  2026-06-08 07:22:09
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Natural vs Artificial](https://vintishgokool.blogspot.com/2026/06/natural-vs-artificial.html)**  2026-06-07 16:15:14
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Eine sonntägliche Entdeckung - Cesária Évora & African House Music](https://insel-rodrigues.blogspot.com/2026/06/eine-sonntagliche-entdeckung-cesaria.html)**  2026-06-07 13:24:46
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Another Brick in the Wall](https://flicenflac.blogspot.com/2026/06/another-brick-in-wall.html)**  2026-06-05 19:31:02
