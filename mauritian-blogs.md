@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[Creamy Fava Bean Stew with Rice &#124; Simple Nourishment in 15 minutes](https://veganlovlie.com/fava-bean-stew/)**  2026-06-09 16:23:53
+
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Keine wirkliche Überraschung – nach Kanada und Grönland nun ....Diego Garcia!!](https://insel-rodrigues.blogspot.com/2026/06/keine-wirkliche-uberraschung-nach.html)**  2026-06-09 04:14:23
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[National Science Week 2026: Faculty of Agriculture Projects](https://facultyagriculture.blogspot.com/2026/06/national-science-week-2026-faculty-of.html)**  2026-06-01 17:36:25
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Sticky Hoisin Tofu and Vegetables Sheet Pan Dinner](https://veganlovlie.com/sticky-hoisin-tofu-and-vegetables-sheet-pan-dinner/)**  2026-05-27 17:20:19
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Fact-check : le nombre de centres de soins primaires à Maurice a-t-il vraiment augmenté de 82 % entre 2022 et 2024 ?](https://comstudies.wordpress.com/2026/05/25/fact-check-le-nombre-de-centres-de-soins-primaires-a-maurice-a-t-il-vraiment-augmente-de-82-entre-2022-et-2024/)**  2026-05-25 17:01:54
