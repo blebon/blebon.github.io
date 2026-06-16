@@ -79,7 +79,4 @@ permalink: /mauritian-blogs/
 [How do I deal with a PCOS diagnosis?](https://htacha.blogspot.com/)  
 **[I don't know anymore](https://htacha.blogspot.com/2025/08/i-dont-know-anymore.html)**  2025-08-20 19:34:47
 
-[turbine.mu](https://turbine.mu)  
-**[Let the Expert Speak: 5 Sales & Tech Questions with Marc Israel](https://turbine.mu/let-the-expert-speak-5-sales-tech-questions-with-marc-israel/)**  2025-07-14 12:50:01
-
 <div style="height:0;width:0;overflow:hidden;"></div>
