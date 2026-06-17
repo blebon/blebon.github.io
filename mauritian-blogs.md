@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Believe](http://ghoorunneha.blogspot.com/2026/06/believe.html)**  2026-06-16 16:18:52
+
 [Veganlovlie](https://veganlovlie.com)  
 **[Creamy Fava Bean Stew with Rice &#124; Simple Nourishment in 15 minutes](https://veganlovlie.com/fava-bean-stew/)**  2026-06-09 16:23:53
 
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[La requête en relèvement d’une interdiction du territoire français](https://dookhy.blogspot.com/2026/05/la-requete-en-relevement-dune.html)**  2026-05-16 16:29:48
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Why him](http://ghoorunneha.blogspot.com/2026/05/why-him.html)**  2026-05-12 18:38:28
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Bricks Cascade 2026](https://davidandjennilyn.com/2026/05/10/bricks-cascade-2026/)**  2026-05-10 16:59:16
