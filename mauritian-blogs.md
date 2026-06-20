@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[2 x 40 ist das neue 60....Happy Birthday, Dirk!](https://insel-rodrigues.blogspot.com/2026/06/2-x-40-ist-das-neue-60happy-birthday.html)**  2026-06-19 15:01:18
+
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Faculty of Agriculture Guest Lecture: Biofilm Formation and AMR in the Food Industry with Prof. Etinosa O. Igbinosa](https://facultyagriculture.blogspot.com/2026/06/faculty-of-agriculture-guest-lecture.html)**  2026-06-19 13:24:51
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Believe](http://ghoorunneha.blogspot.com/2026/06/believe.html)**  2026-06-16 16:18:52
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Creamy Fava Bean Stew with Rice &#124; Simple Nourishment in 15 minutes](https://veganlovlie.com/fava-bean-stew/)**  2026-06-09 16:23:53
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Keine wirkliche Überraschung – nach Kanada und Grönland nun ....Diego Garcia!!](https://insel-rodrigues.blogspot.com/2026/06/keine-wirkliche-uberraschung-nach.html)**  2026-06-09 04:14:23
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[AI chatbot Claude prompted to dig underneath Mauritian Miracle](https://tchombo.blogspot.com/2026/06/ai-chatbot-claude-prompted-to-dig.html)**  2026-06-08 07:22:09
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Buying Death  and Diseases](https://www.lemauricien.com/actualites/societe/buying-death-and-diseases/708662/)**  2026-06-02 09:24:19
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[National Science Week 2026: Faculty of Agriculture Projects](https://facultyagriculture.blogspot.com/2026/06/national-science-week-2026-faculty-of.html)**  2026-06-01 17:36:25
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Fact-check : le nombre de centres de soins primaires à Maurice a-t-il vraiment augmenté de 82 % entre 2022 et 2024 ?](https://comstudies.wordpress.com/2026/05/25/fact-check-le-nombre-de-centres-de-soins-primaires-a-maurice-a-t-il-vraiment-augmente-de-82-entre-2022-et-2024/)**  2026-05-25 17:01:54
