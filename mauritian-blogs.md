@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Lost in translation : on les emploie souvent comme s'ils voulaient dire la même chose](https://tchombo.blogspot.com/2026/06/lost-in-translation-on-les-emploie.html)**  2026-06-21 10:51:02
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Magic of Matilda](https://davidandjennilyn.com/2026/06/20/magic-of-matilda/)**  2026-06-20 21:46:50
+
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[2 x 40 ist das neue 60....Happy Birthday, Dirk!](https://insel-rodrigues.blogspot.com/2026/06/2-x-40-ist-das-neue-60happy-birthday.html)**  2026-06-19 15:01:18
 
@@ -15,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Creamy Fava Bean Stew with Rice &#124; Simple Nourishment in 15 minutes](https://veganlovlie.com/fava-bean-stew/)**  2026-06-09 16:23:53
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[AI chatbot Claude prompted to dig underneath Mauritian Miracle](https://tchombo.blogspot.com/2026/06/ai-chatbot-claude-prompted-to-dig.html)**  2026-06-08 07:22:09
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Dawnlod Nu Liv Gratis Pu Konpran En Ta Zafer Mari Vit](http://kozelidir.blogspot.com/2026/06/dawnlod-nu-liv-gratis-pu-konpran-en-ta.html)**  2026-06-08 06:47:31
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[La requête en relèvement d’une interdiction du territoire français](https://dookhy.blogspot.com/2026/05/la-requete-en-relevement-dune.html)**  2026-05-16 16:29:48
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Bricks Cascade 2026](https://davidandjennilyn.com/2026/05/10/bricks-cascade-2026/)**  2026-05-10 16:59:16
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Getting ready for PyCon US 2026. Here’s how 2025 edition went for me.](https://nayarweb.com/blog/2026/getting-ready-for-pycon-us-2026-heres-how-2025-edition-went-for-me/)**  2026-05-09 16:42:45
