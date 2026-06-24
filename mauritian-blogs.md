@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Jag!](https://morisk.blogspot.com/)  
+**[Jeetun Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/jeetun-statements-that-dont-survive.html)**  2026-06-23 20:20:39
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Lost in translation : on les emploie souvent comme s'ils voulaient dire la même chose](https://tchombo.blogspot.com/2026/06/lost-in-translation-on-les-emploie.html)**  2026-06-21 10:51:02
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Dawnlod Nu Liv Gratis Pu Konpran En Ta Zafer Mari Vit](http://kozelidir.blogspot.com/2026/06/dawnlod-nu-liv-gratis-pu-konpran-en-ta.html)**  2026-06-08 06:47:31
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Dawnlod Nu Liv Gratis Pu Konpran En Ta Zafer Mari Vit](https://morisk.blogspot.com/2026/06/pu-kumanse-par-palab-ki-pe-fer-depi-12.html)**  2026-06-08 06:47:14
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Natural vs Artificial](https://vintishgokool.blogspot.com/2026/06/natural-vs-artificial.html)**  2026-06-07 16:15:14
