@@ -5,10 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [The Jag!](https://morisk.blogspot.com/)  
-**[Jeetun Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/jeetun-statements-that-dont-survive.html)**  2026-06-23 20:20:39
+**[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-24 09:56:36
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[Lost in translation : on les emploie souvent comme s'ils voulaient dire la même chose](https://tchombo.blogspot.com/2026/06/lost-in-translation-on-les-emploie.html)**  2026-06-21 10:51:02
+**[Why "pension" tampering is often perceived as a breach of trust](https://tchombo.blogspot.com/2026/06/why-pension-tampering-is-often.html)**  2026-06-24 07:46:14
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Investing in Mauritius in 2026: Real Estate, Financial Services, and the Emerging Sectors Delivering Strong Returns](https://relocationmauritius.wordpress.com/2026/06/24/investing-in-mauritius-in-2026-real-estate-financial-services-and-the-emerging-sectors-delivering-strong-returns/)**  2026-06-24 06:01:04
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Magic of Matilda](https://davidandjennilyn.com/2026/06/20/magic-of-matilda/)**  2026-06-20 21:46:50
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Fact-check : le nombre de centres de soins primaires à Maurice a-t-il vraiment augmenté de 82 % entre 2022 et 2024 ?](https://comstudies.wordpress.com/2026/05/25/fact-check-le-nombre-de-centres-de-soins-primaires-a-maurice-a-t-il-vraiment-augmente-de-82-entre-2022-et-2024/)**  2026-05-25 17:01:54
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[How to Set Up a Company in Mauritius: The Definitive Step-by-Step Guide for Foreign Investors (2026)](https://relocationmauritius.wordpress.com/2026/05/18/how-to-set-up-a-company-in-mauritius-the-definitive-step-by-step-guide-for-foreign-investors-2026/)**  2026-05-18 05:37:06
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Plans do not survive breakfast](https://priscimon.com/blog/2026/05/16/plans-do-not-survive-breakfast/)**  2026-05-16 18:08:35
