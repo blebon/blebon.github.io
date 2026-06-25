@@ -5,10 +5,13 @@ permalink: /mauritian-blogs/
 ---
 
 [The Jag!](https://morisk.blogspot.com/)  
-**[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-24 09:56:36
+**[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-25 02:06:11
+
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Never lose hope](http://ghoorunneha.blogspot.com/2026/06/never-lose-hope.html)**  2026-06-24 18:32:18
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[Why "pension" tampering is often perceived as a breach of trust](https://tchombo.blogspot.com/2026/06/why-pension-tampering-is-often.html)**  2026-06-24 07:46:14
+**[Why "pension" tampering is often perceived as a breach of trust](https://tchombo.blogspot.com/2026/06/why-pension-tampering-is-often.html)**  2026-06-24 13:27:53
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Investing in Mauritius in 2026: Real Estate, Financial Services, and the Emerging Sectors Delivering Strong Returns](https://relocationmauritius.wordpress.com/2026/06/24/investing-in-mauritius-in-2026-real-estate-financial-services-and-the-emerging-sectors-delivering-strong-returns/)**  2026-06-24 06:01:04
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Faculty of Agriculture Guest Lecture: Biofilm Formation and AMR in the Food Industry with Prof. Etinosa O. Igbinosa](https://facultyagriculture.blogspot.com/2026/06/faculty-of-agriculture-guest-lecture.html)**  2026-06-19 13:24:51
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Believe](http://ghoorunneha.blogspot.com/2026/06/believe.html)**  2026-06-16 16:18:52
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Creamy Fava Bean Stew with Rice &#124; Simple Nourishment in 15 minutes](https://veganlovlie.com/fava-bean-stew/)**  2026-06-09 16:23:53
