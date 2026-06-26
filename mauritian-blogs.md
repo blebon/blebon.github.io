@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [The Jag!](https://morisk.blogspot.com/)  
-**[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-25 02:06:11
+**[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-25 20:50:37
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Never lose hope](http://ghoorunneha.blogspot.com/2026/06/never-lose-hope.html)**  2026-06-24 18:32:18
