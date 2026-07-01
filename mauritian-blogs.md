@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Inherent Vice](https://www.lemauricien.com/le-mauricien/inherent-vice/711391/)**  2026-06-30 13:00:07
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Anu Redemont En Argiman Bidon Ramgoolam](http://kozelidir.blogspot.com/2026/06/anu-redemont-en-argiman-bidon-ramgoolam.html)**  2026-06-30 11:24:27
 
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Another Brick in the Wall](https://flicenflac.blogspot.com/2026/06/another-brick-in-wall.html)**  2026-06-05 19:31:02
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Buying Death  and Diseases](https://www.lemauricien.com/actualites/societe/buying-death-and-diseases/708662/)**  2026-06-02 09:24:19
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Fact-check : le nombre de centres de soins primaires à Maurice a-t-il vraiment augmenté de 82 % entre 2022 et 2024 ?](https://comstudies.wordpress.com/2026/05/25/fact-check-le-nombre-de-centres-de-soins-primaires-a-maurice-a-t-il-vraiment-augmente-de-82-entre-2022-et-2024/)**  2026-05-25 17:01:54
