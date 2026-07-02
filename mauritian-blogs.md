@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Are strangers danger?](https://vintishgokool.blogspot.com/2026/07/are-strangers-danger.html)**  2026-07-01 20:06:14
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Inherent Vice](https://www.lemauricien.com/le-mauricien/inherent-vice/711391/)**  2026-06-30 13:00:07
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Creamy Fava Bean Stew with Rice &#124; Simple Nourishment in 15 minutes](https://veganlovlie.com/fava-bean-stew/)**  2026-06-09 16:23:53
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Natural vs Artificial](https://vintishgokool.blogspot.com/2026/06/natural-vs-artificial.html)**  2026-06-07 16:15:14
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Another Brick in the Wall](https://flicenflac.blogspot.com/2026/06/another-brick-in-wall.html)**  2026-06-05 19:31:02
