@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Little Anantasin](https://littleanantasin.wordpress.com)  
+**[Bright in Winter](https://littleanantasin.wordpress.com/2026/07/04/bright-in-winter/)**  2026-07-04 02:00:40
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Are strangers danger?](https://vintishgokool.blogspot.com/2026/07/are-strangers-danger.html)**  2026-07-01 20:06:14
 
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[For Gen Z brains are the new boobs.The era of dumbing down is over](https://zoomdr.blogspot.com/2026/04/it-is-thinking-as-well-as-reading-that.html)**  2026-04-07 11:06:17
-
-[Little Anantasin](https://littleanantasin.wordpress.com)  
-**[Bright](https://littleanantasin.wordpress.com/2026/01/22/bright/)**  2026-01-22 08:20:58
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Mauritius Animal Welfare Crisis: A system Failure!](https://meeraappadoo.wordpress.com/2025/12/13/current-animal-welfare-ecosystem-in-mauritius-not-a-failure-of-compassion-but-the-failure-of-systems/)**  2025-12-13 16:32:54
