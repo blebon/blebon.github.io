@@ -7,6 +7,9 @@ permalink: /mauritian-blogs/
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bright in Winter](https://littleanantasin.wordpress.com/2026/07/04/bright-in-winter/)**  2026-07-04 02:00:40
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Believe](http://ghoorunneha.blogspot.com/2026/07/believe.html)**  2026-07-03 11:27:30
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Are strangers danger?](https://vintishgokool.blogspot.com/2026/07/are-strangers-danger.html)**  2026-07-01 20:06:14
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-25 20:50:37
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Never lose hope](http://ghoorunneha.blogspot.com/2026/06/never-lose-hope.html)**  2026-06-24 18:32:18
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Why "pension" tampering is often perceived as a breach of trust](https://tchombo.blogspot.com/2026/06/why-pension-tampering-is-often.html)**  2026-06-24 13:27:53
