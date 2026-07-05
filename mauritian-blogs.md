@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
+**[Learn more about our updated Terms of Service](https://shruticulturalgroup.blogspot.com/2026/07/learn-more-about-our-updated-terms-of.html)**  2026-07-04 17:18:58
+
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bright in Winter](https://littleanantasin.wordpress.com/2026/07/04/bright-in-winter/)**  2026-07-04 02:00:40
 
