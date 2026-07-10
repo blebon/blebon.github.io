@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[How Mauritius's Offshore Model Splits the Economy in Two](https://tchombo.blogspot.com/2026/07/how-mauritiuss-offshore-model-splits.html)**  2026-07-09 19:34:17
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Lepep Pe Desan Lor Sime Pu Ki Ran So BRP](http://kozelidir.blogspot.com/2026/07/lepep-pe-desan-lor-sime-pu-ki-ran-so-brp.html)**  2026-07-08 18:36:24
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-25 20:50:37
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Why "pension" tampering is often perceived as a breach of trust](https://tchombo.blogspot.com/2026/06/why-pension-tampering-is-often.html)**  2026-06-24 13:27:53
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Investing in Mauritius in 2026: Real Estate, Financial Services, and the Emerging Sectors Delivering Strong Returns](https://relocationmauritius.wordpress.com/2026/06/24/investing-in-mauritius-in-2026-real-estate-financial-services-and-the-emerging-sectors-delivering-strong-returns/)**  2026-06-24 06:01:04
