@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[How Mauritius's Offshore Model Splits the Economy in Two](https://tchombo.blogspot.com/2026/07/how-mauritiuss-offshore-model-splits.html)**  2026-07-09 19:34:17
+**[How Mauritius's Offshore Model Splits the Economy in Two](https://tchombo.blogspot.com/2026/07/how-mauritiuss-offshore-model-splits.html)**  2026-07-10 09:18:32
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Mauritian Real Estate, a bubble about to burst?](https://relocationmauritius.wordpress.com/2026/07/10/mauritian-real-estate-a-bubble-about-to-burst/)**  2026-07-10 07:46:51
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Lepep Pe Desan Lor Sime Pu Ki Ran So BRP](http://kozelidir.blogspot.com/2026/07/lepep-pe-desan-lor-sime-pu-ki-ran-so-brp.html)**  2026-07-08 18:36:24
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-25 20:50:37
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Investing in Mauritius in 2026: Real Estate, Financial Services, and the Emerging Sectors Delivering Strong Returns](https://relocationmauritius.wordpress.com/2026/06/24/investing-in-mauritius-in-2026-real-estate-financial-services-and-the-emerging-sectors-delivering-strong-returns/)**  2026-06-24 06:01:04
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Magic of Matilda](https://davidandjennilyn.com/2026/06/20/magic-of-matilda/)**  2026-06-20 21:46:50
