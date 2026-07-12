@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[How Mauritius's Offshore Model Splits the Economy in Two](https://tchombo.blogspot.com/2026/07/how-mauritiuss-offshore-model-splits.html)**  2026-07-10 09:18:32
+**[The Mauritian Paradox: Why our addiction to French television curbs our global potential](https://tchombo.blogspot.com/2026/07/the-mauritian-paradox-why-our-addiction.html)**  2026-07-12 08:11:25
+
+[Veganlovlie](https://veganlovlie.com)  
+**[Asparagus Tofu Scramble with Quick Chermoula](https://veganlovlie.com/asparagus-tofu-scramble-chermoula/)**  2026-07-12 06:17:26
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritian Real Estate, a bubble about to burst?](https://relocationmauritius.wordpress.com/2026/07/10/mauritian-real-estate-a-bubble-about-to-burst/)**  2026-07-10 07:46:51
@@ -42,9 +45,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Faculty of Agriculture Guest Lecture: Biofilm Formation and AMR in the Food Industry with Prof. Etinosa O. Igbinosa](https://facultyagriculture.blogspot.com/2026/06/faculty-of-agriculture-guest-lecture.html)**  2026-06-19 13:24:51
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Creamy Fava Bean Stew with Rice &#124; Simple Nourishment in 15 minutes](https://veganlovlie.com/fava-bean-stew/)**  2026-06-09 16:23:53
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Another Brick in the Wall](https://flicenflac.blogspot.com/2026/06/another-brick-in-wall.html)**  2026-06-05 19:31:02
