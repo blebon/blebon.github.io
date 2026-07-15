@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[The Mauritian Paradox: Why our addiction to French television curbs our global potential](https://tchombo.blogspot.com/2026/07/the-mauritian-paradox-why-our-addiction.html)**  2026-07-12 18:24:43
+**[The Mauritian Paradox: Why our addiction to French television curbs our global potential](https://tchombo.blogspot.com/2026/07/the-mauritian-paradox-why-our-addiction.html)**  2026-07-15 04:53:31
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Asparagus Tofu Scramble with Quick Chermoula](https://veganlovlie.com/asparagus-tofu-scramble-chermoula/)**  2026-07-12 06:17:26
