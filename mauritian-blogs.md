@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Eileen and Devon’s Wedding](https://davidandjennilyn.com/2026/07/16/eileen-and-devons-wedding/)**  2026-07-17 05:47:23
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The Mauritian Paradox: Why our addiction to French television curbs our global potential](https://tchombo.blogspot.com/2026/07/the-mauritian-paradox-why-our-addiction.html)**  2026-07-15 11:46:46
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-25 20:50:37
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Magic of Matilda](https://davidandjennilyn.com/2026/06/20/magic-of-matilda/)**  2026-06-20 21:46:50
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[2 x 40 ist das neue 60....Happy Birthday, Dirk!](https://insel-rodrigues.blogspot.com/2026/06/2-x-40-ist-das-neue-60happy-birthday.html)**  2026-06-19 15:01:18
