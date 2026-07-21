@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Au-delà de la gauche et de la droite](https://tchombo.blogspot.com/2026/07/au-dela-de-la-gauche-et-de-la-droite.html)**  2026-07-21 10:55:23
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Eileen and Devon’s Wedding](https://davidandjennilyn.com/2026/07/16/eileen-and-devons-wedding/)**  2026-07-17 05:47:23
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The Mauritian Paradox: Why our addiction to French television curbs our global potential](https://tchombo.blogspot.com/2026/07/the-mauritian-paradox-why-our-addiction.html)**  2026-07-15 11:46:46
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Asparagus Tofu Scramble with Quick Chermoula](https://veganlovlie.com/asparagus-tofu-scramble-chermoula/)**  2026-07-12 06:17:26
