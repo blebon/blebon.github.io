@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Norwegen: 15 Jahre nach dem Terror...15 Years after the Terror...Tribute to the victims of Oslo and Utøya](https://insel-rodrigues.blogspot.com/2026/07/norwegen-15-jahre-nach-dem-terror15.html)**  2026-07-21 21:03:51
+
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[Au-delà de la gauche et de la droite](https://tchombo.blogspot.com/2026/07/au-dela-de-la-gauche-et-de-la-droite.html)**  2026-07-21 10:55:23
+**[Right or Left? Right or wrong?](https://tchombo.blogspot.com/2026/07/au-dela-de-la-gauche-et-de-la-droite.html)**  2026-07-21 11:47:16
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Eileen and Devon’s Wedding](https://davidandjennilyn.com/2026/07/16/eileen-and-devons-wedding/)**  2026-07-17 05:47:23
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-25 20:50:37
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[2 x 40 ist das neue 60....Happy Birthday, Dirk!](https://insel-rodrigues.blogspot.com/2026/06/2-x-40-ist-das-neue-60happy-birthday.html)**  2026-06-19 15:01:18
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Faculty of Agriculture Guest Lecture: Biofilm Formation and AMR in the Food Industry with Prof. Etinosa O. Igbinosa](https://facultyagriculture.blogspot.com/2026/06/faculty-of-agriculture-guest-lecture.html)**  2026-06-19 13:24:51
