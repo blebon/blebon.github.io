@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Football and the Reinvention of the Modern Nation](https://zoomdr.blogspot.com/2026/07/football-and-reinvention-of-modern.html)**  2026-07-22 10:27:13
+
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Norwegen: 15 Jahre nach dem Terror...15 Years after the Terror...Tribute to the victims of Oslo and Utøya](https://insel-rodrigues.blogspot.com/2026/07/norwegen-15-jahre-nach-dem-terror15.html)**  2026-07-21 21:03:51
 
@@ -66,9 +69,6 @@ permalink: /mauritian-blogs/
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[DUBAI CHOCOLATE STYLE BARFI](https://nashbakery.blogspot.com/2025/07/dubai-chocolate-style-barfi.html)**  2026-04-11 10:53:39
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[For Gen Z brains are the new boobs.The era of dumbing down is over](https://zoomdr.blogspot.com/2026/04/it-is-thinking-as-well-as-reading-that.html)**  2026-04-07 11:06:17
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Mauritius Animal Welfare Crisis: A system Failure!](https://meeraappadoo.wordpress.com/2025/12/13/current-animal-welfare-ecosystem-in-mauritius-not-a-failure-of-compassion-but-the-failure-of-systems/)**  2025-12-13 16:32:54
