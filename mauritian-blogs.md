@@ -82,7 +82,4 @@ permalink: /mauritian-blogs/
 [Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
 **[Artificial Intelligence (Ethical Governance) Act — Draft v1.0](https://lovvy.wordpress.com/2025/09/28/artificial-intelligence-ethical-governance-act-draft-v1-0/)**  2025-09-28 13:11:53
 
-[How do I deal with a PCOS diagnosis?](https://htacha.blogspot.com/)  
-**[I don't know anymore](https://htacha.blogspot.com/2025/08/i-dont-know-anymore.html)**  2025-08-20 19:34:47
-
 <div style="height:0;width:0;overflow:hidden;"></div>
