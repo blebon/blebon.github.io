@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Stories remind us that people can change  NANDA PAVADAY](https://www.lemauricien.com/actualites/stories-remind-us-that-people-can-change-nanda-pavaday/713287/)**  2026-07-23 06:23:12
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Football and the Reinvention of the Modern Nation](https://zoomdr.blogspot.com/2026/07/football-and-reinvention-of-modern.html)**  2026-07-22 10:27:13
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Are strangers danger?](https://vintishgokool.blogspot.com/2026/07/are-strangers-danger.html)**  2026-07-01 20:06:14
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Inherent Vice](https://www.lemauricien.com/le-mauricien/inherent-vice/711391/)**  2026-06-30 13:00:07
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[I’m Still Alive! (And How to Buy from Amazon France without the crazy shipping fees via Cart’In Maurice)](https://yashvinblogs.com/2026/06/29/cart-in-maurice/)**  2026-06-29 19:31:19
