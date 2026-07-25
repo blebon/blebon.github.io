@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The anatomy of socio-economic suffocation of Mauritius](https://tchombo.blogspot.com/2026/07/the-anatomy-of-socio-economic.html)**  2026-07-24 13:19:10
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Stories remind us that people can change  NANDA PAVADAY](https://www.lemauricien.com/actualites/stories-remind-us-that-people-can-change-nanda-pavaday/713287/)**  2026-07-23 06:23:12
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Norwegen: 15 Jahre nach dem Terror...15 Years after the Terror...Tribute to the victims of Oslo and Utøya](https://insel-rodrigues.blogspot.com/2026/07/norwegen-15-jahre-nach-dem-terror15.html)**  2026-07-21 21:03:51
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Right or Left? Right or wrong?](https://tchombo.blogspot.com/2026/07/au-dela-de-la-gauche-et-de-la-droite.html)**  2026-07-21 11:47:16
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Eileen and Devon’s Wedding](https://davidandjennilyn.com/2026/07/16/eileen-and-devons-wedding/)**  2026-07-17 05:47:23
