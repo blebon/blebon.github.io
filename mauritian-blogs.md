@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The anatomy of socio-economic suffocation of Mauritius](https://tchombo.blogspot.com/2026/07/the-anatomy-of-socio-economic.html)**  2026-07-24 13:19:10
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Boring](https://vintishgokool.blogspot.com/2026/07/boring.html)**  2026-07-25 09:17:08
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Stories remind us that people can change  NANDA PAVADAY](https://www.lemauricien.com/actualites/stories-remind-us-that-people-can-change-nanda-pavaday/713287/)**  2026-07-23 06:23:12
+**[1er-2 août 2026 Le pilier éducatif : réparer par la mémoire, restaurer par le savoir](https://www.lemauricien.com/actualites/1er-2-aout-2026-le-pilier-educatif-reparer-par-la-memoire-restaurer-par-le-savoir/713471/)**  2026-07-25 06:40:17
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The anatomy of socio-economic suffocation of Mauritius](https://tchombo.blogspot.com/2026/07/the-anatomy-of-socio-economic.html)**  2026-07-24 13:19:10
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Football and the Reinvention of the Modern Nation](https://zoomdr.blogspot.com/2026/07/football-and-reinvention-of-modern.html)**  2026-07-22 10:27:13
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Bright in Winter](https://littleanantasin.wordpress.com/2026/07/04/bright-in-winter/)**  2026-07-04 02:00:40
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Are strangers danger?](https://vintishgokool.blogspot.com/2026/07/are-strangers-danger.html)**  2026-07-01 20:06:14
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[I’m Still Alive! (And How to Buy from Amazon France without the crazy shipping fees via Cart’In Maurice)](https://yashvinblogs.com/2026/06/29/cart-in-maurice/)**  2026-06-29 19:31:19
