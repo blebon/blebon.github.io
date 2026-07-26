@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Platform Komun Syndikal Fin Ekrir A Ban Parlmanter](http://kozelidir.blogspot.com/2026/07/platform-komun-syndikal-fin-ekrir-ban.html)**  2026-07-25 17:59:36
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Boring](https://vintishgokool.blogspot.com/2026/07/boring.html)**  2026-07-25 09:17:08
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritian Real Estate, a bubble about to burst?](https://relocationmauritius.wordpress.com/2026/07/10/mauritian-real-estate-a-bubble-about-to-burst/)**  2026-07-10 07:46:51
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Lepep Pe Desan Lor Sime Pu Ki Ran So BRP](http://kozelidir.blogspot.com/2026/07/lepep-pe-desan-lor-sime-pu-ki-ran-so-brp.html)**  2026-07-08 18:36:24
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Strength](http://ghoorunneha.blogspot.com/2026/07/strength.html)**  2026-07-08 04:22:23
