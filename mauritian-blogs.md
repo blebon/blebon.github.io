@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
-**[Platform Komun Syndikal Fin Ekrir A Ban Parlmanter](http://kozelidir.blogspot.com/2026/07/platform-komun-syndikal-fin-ekrir-ban.html)**  2026-07-25 17:59:36
+**[Platform Komun Syndikal Fin Ekrir A Ban Parlmanter](http://kozelidir.blogspot.com/2026/07/platform-komun-syndikal-fin-ekrir-ban.html)**  2026-07-26 07:24:14
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Boring](https://vintishgokool.blogspot.com/2026/07/boring.html)**  2026-07-25 09:17:08
