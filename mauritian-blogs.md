@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The anatomy of socio-economic suffocation of Mauritius](https://tchombo.blogspot.com/2026/07/the-anatomy-of-socio-economic.html)**  2026-07-27 10:07:26
+
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Real Estate Operators – now under formal licensing conditions.](https://relocationmauritius.wordpress.com/2026/07/27/real-estate-operators-now-under-formal-licensing-conditions/)**  2026-07-27 09:41:05
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Platform Komun Syndikal Fin Ekrir A Ban Parlmanter](http://kozelidir.blogspot.com/2026/07/platform-komun-syndikal-fin-ekrir-ban.html)**  2026-07-26 07:24:14
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[1er-2 août 2026 Le pilier éducatif : réparer par la mémoire, restaurer par le savoir](https://www.lemauricien.com/actualites/1er-2-aout-2026-le-pilier-educatif-reparer-par-la-memoire-restaurer-par-le-savoir/713471/)**  2026-07-25 06:40:17
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The anatomy of socio-economic suffocation of Mauritius](https://tchombo.blogspot.com/2026/07/the-anatomy-of-socio-economic.html)**  2026-07-24 13:19:10
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Football and the Reinvention of the Modern Nation](https://zoomdr.blogspot.com/2026/07/football-and-reinvention-of-modern.html)**  2026-07-22 10:27:13
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Asparagus Tofu Scramble with Quick Chermoula](https://veganlovlie.com/asparagus-tofu-scramble-chermoula/)**  2026-07-12 06:17:26
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Mauritian Real Estate, a bubble about to burst?](https://relocationmauritius.wordpress.com/2026/07/10/mauritian-real-estate-a-bubble-about-to-burst/)**  2026-07-10 07:46:51
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Strength](http://ghoorunneha.blogspot.com/2026/07/strength.html)**  2026-07-08 04:22:23
