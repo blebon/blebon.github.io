@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Vision 2050 : C’est qui le Mauricien de 2050?](https://www.lemauricien.com/le-mauricien/vision-2050-cest-qui-le-mauricien-de-2050/713750/)**  2026-07-28 15:14:43
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The anatomy of socio-economic suffocation of Mauritius](https://tchombo.blogspot.com/2026/07/the-anatomy-of-socio-economic.html)**  2026-07-27 10:07:26
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Boring](https://vintishgokool.blogspot.com/2026/07/boring.html)**  2026-07-25 09:17:08
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[1er-2 août 2026 Le pilier éducatif : réparer par la mémoire, restaurer par le savoir](https://www.lemauricien.com/actualites/1er-2-aout-2026-le-pilier-educatif-reparer-par-la-memoire-restaurer-par-le-savoir/713471/)**  2026-07-25 06:40:17
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Football and the Reinvention of the Modern Nation](https://zoomdr.blogspot.com/2026/07/football-and-reinvention-of-modern.html)**  2026-07-22 10:27:13
