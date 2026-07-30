@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Les Rebelles Post-Idéologiques : Pourquoi le pragmatisme de la génération Z réussit là où les hippies et le Printemps arabe ont échoué](https://tchombo.blogspot.com/2026/07/les-rebelles-post-ideologiques-pourquoi.html)**  2026-07-30 09:07:55
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Vision 2050 : C’est qui le Mauricien de 2050?](https://www.lemauricien.com/le-mauricien/vision-2050-cest-qui-le-mauricien-de-2050/713750/)**  2026-07-28 15:14:43
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The anatomy of socio-economic suffocation of Mauritius](https://tchombo.blogspot.com/2026/07/the-anatomy-of-socio-economic.html)**  2026-07-27 10:07:26
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Real Estate Operators – now under formal licensing conditions.](https://relocationmauritius.wordpress.com/2026/07/27/real-estate-operators-now-under-formal-licensing-conditions/)**  2026-07-27 09:41:05
