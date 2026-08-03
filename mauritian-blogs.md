@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[L'IA optimise nos énergies et nos désirs. Elle n'a pas le souffle créatif pour aller plus loin](https://tchombo.blogspot.com/2026/08/lia-optimise-nos-energies-et-nos-desirs.html)**  2026-08-03 08:00:46
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Platform Komun Syndikal Fin Ekrir A Ban Parlmanter](http://kozelidir.blogspot.com/2026/07/platform-komun-syndikal-fin-ekrir-ban.html)**  2026-07-31 13:27:12
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Life is beautiful](http://ghoorunneha.blogspot.com/2026/07/life-is-beautiful.html)**  2026-07-31 06:07:22
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Les Rebelles Post-Idéologiques : Pourquoi le pragmatisme de la génération Z réussit là où les hippies et le Printemps arabe ont échoué](https://tchombo.blogspot.com/2026/07/les-rebelles-post-ideologiques-pourquoi.html)**  2026-07-30 09:07:55
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Vision 2050 : C’est qui le Mauricien de 2050?](https://www.lemauricien.com/le-mauricien/vision-2050-cest-qui-le-mauricien-de-2050/713750/)**  2026-07-28 15:14:43
