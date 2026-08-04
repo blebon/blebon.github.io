@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The Trap of Nationalist and Exotic Lenses](https://tchombo.blogspot.com/2026/08/the-trap-of-domestic-and-foreign-lenses.html)**  2026-08-04 07:42:15
+
+[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
+**[The no escape loop of being a rescuer.](https://meeraappadoo.wordpress.com/2026/08/04/the-no-escape-loop-of-being-a-rescuer/)**  2026-08-04 06:08:13
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[The Music in the Garden’s Secrets](https://davidandjennilyn.com/2026/08/03/the-music-in-the-gardens-secrets/)**  2026-08-03 20:11:05
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Should you take your pension at 60 or 65 in Mauritius?](https://nayarweb.com/blog/2026/should-you-take-your-pension-at-60-or-65-in-mauritius/)**  2026-08-03 15:53:36
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[L'IA optimise nos énergies et nos désirs. Elle n'a pas le souffle créatif pour aller plus loin](https://tchombo.blogspot.com/2026/08/lia-optimise-nos-energies-et-nos-desirs.html)**  2026-08-03 13:48:49
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Comment le modèle offshore de Maurice divise l’économie en deux](https://www.lemauricien.com/le-mauricien/comment-le-modele-offshore-de-maurice-divise-leconomie-en-deux/714133/)**  2026-08-03 12:00:19
@@ -69,9 +72,6 @@ permalink: /mauritian-blogs/
 
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[DUBAI CHOCOLATE STYLE BARFI](https://nashbakery.blogspot.com/2025/07/dubai-chocolate-style-barfi.html)**  2026-04-11 10:53:39
-
-[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
-**[Mauritius Animal Welfare Crisis: A system Failure!](https://meeraappadoo.wordpress.com/2025/12/13/current-animal-welfare-ecosystem-in-mauritius-not-a-failure-of-compassion-but-the-failure-of-systems/)**  2025-12-13 16:32:54
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Big city life](http://gadatagada.blogspot.com/2025/11/big-city-life.html)**  2025-11-13 08:47:33
