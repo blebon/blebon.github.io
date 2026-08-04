@@ -4,17 +4,23 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[The Music in the Garden’s Secrets](https://davidandjennilyn.com/2026/08/03/the-music-in-the-gardens-secrets/)**  2026-08-03 20:11:05
+
+[Mera Blog](https://nayarweb.com/blog)  
+**[Should you take your pension at 60 or 65 in Mauritius?](https://nayarweb.com/blog/2026/should-you-take-your-pension-at-60-or-65-in-mauritius/)**  2026-08-03 15:53:36
+
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[L'IA optimise nos énergies et nos désirs. Elle n'a pas le souffle créatif pour aller plus loin](https://tchombo.blogspot.com/2026/08/lia-optimise-nos-energies-et-nos-desirs.html)**  2026-08-03 08:00:46
+**[L'IA optimise nos énergies et nos désirs. Elle n'a pas le souffle créatif pour aller plus loin](https://tchombo.blogspot.com/2026/08/lia-optimise-nos-energies-et-nos-desirs.html)**  2026-08-03 13:48:49
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Comment le modèle offshore de Maurice divise l’économie en deux](https://www.lemauricien.com/le-mauricien/comment-le-modele-offshore-de-maurice-divise-leconomie-en-deux/714133/)**  2026-08-03 12:00:19
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Platform Komun Syndikal Fin Ekrir A Ban Parlmanter](http://kozelidir.blogspot.com/2026/07/platform-komun-syndikal-fin-ekrir-ban.html)**  2026-07-31 13:27:12
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Life is beautiful](http://ghoorunneha.blogspot.com/2026/07/life-is-beautiful.html)**  2026-07-31 06:07:22
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[Vision 2050 : C’est qui le Mauricien de 2050?](https://www.lemauricien.com/le-mauricien/vision-2050-cest-qui-le-mauricien-de-2050/713750/)**  2026-07-28 15:14:43
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Real Estate Operators – now under formal licensing conditions.](https://relocationmauritius.wordpress.com/2026/07/27/real-estate-operators-now-under-formal-licensing-conditions/)**  2026-07-27 09:41:05
@@ -27,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Norwegen: 15 Jahre nach dem Terror...15 Years after the Terror...Tribute to the victims of Oslo and Utøya](https://insel-rodrigues.blogspot.com/2026/07/norwegen-15-jahre-nach-dem-terror15.html)**  2026-07-21 21:03:51
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Eileen and Devon’s Wedding](https://davidandjennilyn.com/2026/07/16/eileen-and-devons-wedding/)**  2026-07-17 05:47:23
 
 [Veganlovlie](https://veganlovlie.com)  
 **[Asparagus Tofu Scramble with Quick Chermoula](https://veganlovlie.com/asparagus-tofu-scramble-chermoula/)**  2026-07-12 06:17:26
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[La requête en relèvement d’une interdiction du territoire français](https://dookhy.blogspot.com/2026/05/la-requete-en-relevement-dune.html)**  2026-05-16 16:29:48
-
-[Mera Blog](https://nayarweb.com/blog)  
-**[Getting ready for PyCon US 2026. Here’s how 2025 edition went for me.](https://nayarweb.com/blog/2026/getting-ready-for-pycon-us-2026-heres-how-2025-edition-went-for-me/)**  2026-05-09 16:42:45
 
 [21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
 **[From Practice to Policy: Rethinking Micro-Credentials in Higher Education](http://vcilt.blogspot.com/2026/04/from-practice-to-policy-rethinking.html)**  2026-04-21 06:06:05
