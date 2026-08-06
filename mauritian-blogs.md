@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Mercredi de la 18e semaine du TOA](https://josephnguyenmahebourg.blogspot.com/2026/08/mercredi-de-la-18e-semaine-du-toa.html)**  2026-08-05 14:44:08
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[RÉHABILITATION    Poser un regard bienveillant sur le détenu](https://www.lemauricien.com/le-mauricien/rehabilitation-poser-un-regard-bienveillant-sur-le-detenu/714351/)**  2026-08-04 16:20:00
 
