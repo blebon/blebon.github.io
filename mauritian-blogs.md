@@ -4,17 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Many decades of "no alternative": what the rupee's nosedive actually reveals](https://tchombo.blogspot.com/2026/08/many-decades-of-no-alternative-what.html)**  2026-08-06 12:02:26
+
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[ACCESS TO JUSTICE IN MAURITIUS : If This Can Happen to a Senior Counsel,  What Does It Mean for Persons with Disabilities?](https://www.lemauricien.com/le-mauricien/access-to-justice-in-mauritius-if-this-can-happen-to-a-senior-counsel-what-does-it-mean-for-persons-with-disabilities/714474/)**  2026-08-06 12:00:07
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Mercredi de la 18e semaine du TOA](https://josephnguyenmahebourg.blogspot.com/2026/08/mercredi-de-la-18e-semaine-du-toa.html)**  2026-08-05 14:44:08
 
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[RÉHABILITATION    Poser un regard bienveillant sur le détenu](https://www.lemauricien.com/le-mauricien/rehabilitation-poser-un-regard-bienveillant-sur-le-detenu/714351/)**  2026-08-04 16:20:00
-
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Believing in yourself](http://ghoorunneha.blogspot.com/2026/08/believing-in-yourself.html)**  2026-08-04 14:05:25
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The Trap of Nationalist and Exotic Lenses](https://tchombo.blogspot.com/2026/08/the-trap-of-domestic-and-foreign-lenses.html)**  2026-08-04 07:42:15
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[The no escape loop of being a rescuer.](https://meeraappadoo.wordpress.com/2026/08/04/the-no-escape-loop-of-being-a-rescuer/)**  2026-08-04 06:08:13
