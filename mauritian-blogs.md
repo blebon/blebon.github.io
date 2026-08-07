@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[The Three Envelop](https://vintishgokool.blogspot.com/2026/08/the-3-envelop.html)**  2026-08-07 08:00:31
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Many decades of "no alternative": what the rupee's nosedive actually reveals](https://tchombo.blogspot.com/2026/08/many-decades-of-no-alternative-what.html)**  2026-08-06 12:02:26
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Real Estate Operators – now under formal licensing conditions.](https://relocationmauritius.wordpress.com/2026/07/27/real-estate-operators-now-under-formal-licensing-conditions/)**  2026-07-27 09:41:05
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Boring](https://vintishgokool.blogspot.com/2026/07/boring.html)**  2026-07-25 09:17:08
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Football and the Reinvention of the Modern Nation](https://zoomdr.blogspot.com/2026/07/football-and-reinvention-of-modern.html)**  2026-07-22 10:27:13
