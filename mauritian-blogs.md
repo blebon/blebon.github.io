@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Vendredi de la 18e semaine du TOA](https://josephnguyenmahebourg.blogspot.com/2026/08/vendredi-de-la-18e-semaine-du-toa.html)**  2026-08-07 20:21:32
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Pena Deba Pu Fer Lor BRP Iniversel a 60 an](http://kozelidir.blogspot.com/2026/08/pena-deba-pu-fer-lor-brp-iniversel-60-an.html)**  2026-08-07 18:06:33
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[The Three Envelop](https://vintishgokool.blogspot.com/2026/08/the-3-envelop.html)**  2026-08-07 08:00:31
 
@@ -12,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[ACCESS TO JUSTICE IN MAURITIUS : If This Can Happen to a Senior Counsel,  What Does It Mean for Persons with Disabilities?](https://www.lemauricien.com/le-mauricien/access-to-justice-in-mauritius-if-this-can-happen-to-a-senior-counsel-what-does-it-mean-for-persons-with-disabilities/714474/)**  2026-08-06 12:00:07
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Mercredi de la 18e semaine du TOA](https://josephnguyenmahebourg.blogspot.com/2026/08/mercredi-de-la-18e-semaine-du-toa.html)**  2026-08-05 14:44:08
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Believing in yourself](http://ghoorunneha.blogspot.com/2026/08/believing-in-yourself.html)**  2026-08-04 14:05:25
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Should you take your pension at 60 or 65 in Mauritius?](https://nayarweb.com/blog/2026/should-you-take-your-pension-at-60-or-65-in-mauritius/)**  2026-08-03 15:53:36
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Platform Komun Syndikal Fin Ekrir A Ban Parlmanter](http://kozelidir.blogspot.com/2026/07/platform-komun-syndikal-fin-ekrir-ban.html)**  2026-07-31 13:27:12
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Real Estate Operators – now under formal licensing conditions.](https://relocationmauritius.wordpress.com/2026/07/27/real-estate-operators-now-under-formal-licensing-conditions/)**  2026-07-27 09:41:05
