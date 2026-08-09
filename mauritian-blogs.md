@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[On excellence](https://tchombo.blogspot.com/2026/08/on-excellence.html)**  2026-08-08 11:32:12
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Vendredi de la 18e semaine du TOA](https://josephnguyenmahebourg.blogspot.com/2026/08/vendredi-de-la-18e-semaine-du-toa.html)**  2026-08-07 20:21:32
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[The Three Envelop](https://vintishgokool.blogspot.com/2026/08/the-3-envelop.html)**  2026-08-07 08:00:31
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Many decades of "no alternative": what the rupee's nosedive actually reveals](https://tchombo.blogspot.com/2026/08/many-decades-of-no-alternative-what.html)**  2026-08-06 12:02:26
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[ACCESS TO JUSTICE IN MAURITIUS : If This Can Happen to a Senior Counsel,  What Does It Mean for Persons with Disabilities?](https://www.lemauricien.com/le-mauricien/access-to-justice-in-mauritius-if-this-can-happen-to-a-senior-counsel-what-does-it-mean-for-persons-with-disabilities/714474/)**  2026-08-06 12:00:07
