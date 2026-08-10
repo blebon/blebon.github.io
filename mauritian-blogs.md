@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Bruce’s Baptism](https://davidandjennilyn.com/2026/08/09/bruces-baptism/)**  2026-08-10 05:36:02
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Three Envelop mystery](https://vintishgokool.blogspot.com/2026/08/the-3-envelop.html)**  2026-08-09 15:32:35
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[The no escape loop of being a rescuer.](https://meeraappadoo.wordpress.com/2026/08/04/the-no-escape-loop-of-being-a-rescuer/)**  2026-08-04 06:08:13
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[The Music in the Garden’s Secrets](https://davidandjennilyn.com/2026/08/03/the-music-in-the-gardens-secrets/)**  2026-08-03 20:11:05
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Should you take your pension at 60 or 65 in Mauritius?](https://nayarweb.com/blog/2026/should-you-take-your-pension-at-60-or-65-in-mauritius/)**  2026-08-03 15:53:36
