@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[Homélie du 19e dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2026/08/19e-dimanche-du-toa.html)**  2026-08-10 19:17:10
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Bruce’s Baptism](https://davidandjennilyn.com/2026/08/09/bruces-baptism/)**  2026-08-10 05:36:02
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[On excellence](https://tchombo.blogspot.com/2026/08/on-excellence.html)**  2026-08-08 11:32:12
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Vendredi de la 18e semaine du TOA](https://josephnguyenmahebourg.blogspot.com/2026/08/vendredi-de-la-18e-semaine-du-toa.html)**  2026-08-07 20:21:32
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Pena Deba Pu Fer Lor BRP Iniversel a 60 an](http://kozelidir.blogspot.com/2026/08/pena-deba-pu-fer-lor-brp-iniversel-60-an.html)**  2026-08-07 18:06:33
