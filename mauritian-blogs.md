@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[Communalism in Mauritius: Symptom of a Discriminatory National System](https://tchombo.blogspot.com/2026/08/communalism-in-mauritius-symptom-of.html)**  2026-08-11 18:14:12
+**[What is in "valeurs républicaines" in Mauritius?](https://tchombo.blogspot.com/2026/08/what-is-in-valeurs-republicaines-in.html)**  2026-08-12 11:04:50
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie du 19e dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2026/08/19e-dimanche-du-toa.html)**  2026-08-10 19:17:10
