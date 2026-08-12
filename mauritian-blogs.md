@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Communalism in Mauritius: Symptom of a Discriminatory National System](https://tchombo.blogspot.com/2026/08/communalism-in-mauritius-symptom-of.html)**  2026-08-11 18:14:12
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie du 19e dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2026/08/19e-dimanche-du-toa.html)**  2026-08-10 19:17:10
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Three Envelop mystery](https://vintishgokool.blogspot.com/2026/08/the-3-envelop.html)**  2026-08-09 15:32:35
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[On excellence](https://tchombo.blogspot.com/2026/08/on-excellence.html)**  2026-08-08 11:32:12
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Pena Deba Pu Fer Lor BRP Iniversel a 60 an](http://kozelidir.blogspot.com/2026/08/pena-deba-pu-fer-lor-brp-iniversel-60-an.html)**  2026-08-07 18:06:33
