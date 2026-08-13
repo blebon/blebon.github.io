@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[How a hidden banking oligopoly is suffocating Mauritian entrepreneurs and citizens](https://tchombo.blogspot.com/2026/08/how-hidden-banking-oligopoly-is.html)**  2026-08-13 09:13:51
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Just Made Real Estate Registration Mandatory — Here’s What Every Agent, Promoter and Developer Needs to Know](https://relocationmauritius.wordpress.com/2026/08/12/mauritius-just-made-real-estate-registration-mandatory-heres-what-every-agent-promoter-and-developer-needs-to-know/)**  2026-08-12 17:35:08
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[What is in "valeurs républicaines" in Mauritius?](https://tchombo.blogspot.com/2026/08/what-is-in-valeurs-republicaines-in.html)**  2026-08-12 12:19:44
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie du 19e dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2026/08/19e-dimanche-du-toa.html)**  2026-08-10 19:17:10
