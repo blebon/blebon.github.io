@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Mauritius Just Made Real Estate Registration Mandatory — Here’s What Every Agent, Promoter and Developer Needs to Know](https://relocationmauritius.wordpress.com/2026/08/12/mauritius-just-made-real-estate-registration-mandatory-heres-what-every-agent-promoter-and-developer-needs-to-know/)**  2026-08-12 17:35:08
+
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[What is in "valeurs républicaines" in Mauritius?](https://tchombo.blogspot.com/2026/08/what-is-in-valeurs-republicaines-in.html)**  2026-08-12 11:04:50
+**[What is in "valeurs républicaines" in Mauritius?](https://tchombo.blogspot.com/2026/08/what-is-in-valeurs-republicaines-in.html)**  2026-08-12 12:19:44
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[Homélie du 19e dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2026/08/19e-dimanche-du-toa.html)**  2026-08-10 19:17:10
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Should you take your pension at 60 or 65 in Mauritius?](https://nayarweb.com/blog/2026/should-you-take-your-pension-at-60-or-65-in-mauritius/)**  2026-08-03 15:53:36
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Real Estate Operators – now under formal licensing conditions.](https://relocationmauritius.wordpress.com/2026/07/27/real-estate-operators-now-under-formal-licensing-conditions/)**  2026-07-27 09:41:05
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Football and the Reinvention of the Modern Nation](https://zoomdr.blogspot.com/2026/07/football-and-reinvention-of-modern.html)**  2026-07-22 10:27:13
