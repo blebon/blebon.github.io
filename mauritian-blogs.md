@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
+**[No title](https://josephnguyenmahebourg.blogspot.com/2026/08/homelie-jeudi-de-la-19e-semaine-du-toa.html)**  2026-08-13 19:37:58
+
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[How a hidden banking oligopoly is suffocating Mauritian entrepreneurs and citizens](https://tchombo.blogspot.com/2026/08/how-hidden-banking-oligopoly-is.html)**  2026-08-13 09:13:51
+**[Cheap does not mean affordable](https://tchombo.blogspot.com/2026/08/cheap-does-not-mean-affordable.html)**  2026-08-13 18:54:30
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Just Made Real Estate Registration Mandatory — Here’s What Every Agent, Promoter and Developer Needs to Know](https://relocationmauritius.wordpress.com/2026/08/12/mauritius-just-made-real-estate-registration-mandatory-heres-what-every-agent-promoter-and-developer-needs-to-know/)**  2026-08-12 17:35:08
-
-[Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
-**[Homélie du 19e dimanche du TOA](https://josephnguyenmahebourg.blogspot.com/2026/08/19e-dimanche-du-toa.html)**  2026-08-10 19:17:10
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Bruce’s Baptism](https://davidandjennilyn.com/2026/08/09/bruces-baptism/)**  2026-08-10 05:36:02
