@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Le poids des mots à Maurice : quand le langage masque nos réalités](https://tchombo.blogspot.com/2026/08/le-poids-des-mots-maurice-quand-le.html)**  2026-08-15 17:15:51
+
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[No title](https://josephnguyenmahebourg.blogspot.com/2026/08/homelie-jeudi-de-la-19e-semaine-du-toa.html)**  2026-08-13 19:37:58
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Cheap does not mean affordable](https://tchombo.blogspot.com/2026/08/cheap-does-not-mean-affordable.html)**  2026-08-13 18:54:30
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Just Made Real Estate Registration Mandatory — Here’s What Every Agent, Promoter and Developer Needs to Know](https://relocationmauritius.wordpress.com/2026/08/12/mauritius-just-made-real-estate-registration-mandatory-heres-what-every-agent-promoter-and-developer-needs-to-know/)**  2026-08-12 17:35:08
