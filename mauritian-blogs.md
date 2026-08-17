@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
+**[Why Is Dog Registration Mandatory, But Sterilisation Isn’t?](https://meeraappadoo.wordpress.com/2026/08/17/%f0%9f%87%b2%f0%9f%87%ba-why-is-dog-registration-mandatory-but-sterilisation-isnt/)**  2026-08-17 08:31:56
+
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[Le poids des mots à Maurice : quand le langage masque nos réalités](https://tchombo.blogspot.com/2026/08/le-poids-des-mots-maurice-quand-le.html)**  2026-08-15 17:15:51
+**[Pourquoi écrit-on « Grand Baie » ou « grand-mère » sans "E" ?](https://tchombo.blogspot.com/2026/08/pourquoi-ecrit-on-grand-baie-ou-grand.html)**  2026-08-17 07:29:02
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[No title](https://josephnguyenmahebourg.blogspot.com/2026/08/homelie-jeudi-de-la-19e-semaine-du-toa.html)**  2026-08-13 19:37:58
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Believing in yourself](http://ghoorunneha.blogspot.com/2026/08/believing-in-yourself.html)**  2026-08-04 14:05:25
-
-[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
-**[The no escape loop of being a rescuer.](https://meeraappadoo.wordpress.com/2026/08/04/the-no-escape-loop-of-being-a-rescuer/)**  2026-08-04 06:08:13
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Should you take your pension at 60 or 65 in Mauritius?](https://nayarweb.com/blog/2026/should-you-take-your-pension-at-60-or-65-in-mauritius/)**  2026-08-03 15:53:36
