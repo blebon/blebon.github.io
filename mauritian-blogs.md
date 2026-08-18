@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Unfinished Decolonisation?](https://zoomdr.blogspot.com/2026/08/unfinished-decolonisation.html)**  2026-08-18 11:07:46
+
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Why Is Dog Registration Mandatory, But Sterilisation Isn’t?](https://meeraappadoo.wordpress.com/2026/08/17/%f0%9f%87%b2%f0%9f%87%ba-why-is-dog-registration-mandatory-but-sterilisation-isnt/)**  2026-08-17 08:31:56
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Should you take your pension at 60 or 65 in Mauritius?](https://nayarweb.com/blog/2026/should-you-take-your-pension-at-60-or-65-in-mauritius/)**  2026-08-03 15:53:36
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Football and the Reinvention of the Modern Nation](https://zoomdr.blogspot.com/2026/07/football-and-reinvention-of-modern.html)**  2026-07-22 10:27:13
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Norwegen: 15 Jahre nach dem Terror...15 Years after the Terror...Tribute to the victims of Oslo and Utøya](https://insel-rodrigues.blogspot.com/2026/07/norwegen-15-jahre-nach-dem-terror15.html)**  2026-07-21 21:03:51
