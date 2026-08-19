@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The Spiritual Harmony of the Azaan: Balancing Tradition and Modernity](https://tchombo.blogspot.com/2026/08/the-spiritual-harmony-of-azaan.html)**  2026-08-19 09:23:43
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Unfinished Decolonisation?](https://zoomdr.blogspot.com/2026/08/unfinished-decolonisation.html)**  2026-08-18 11:07:46
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Why Is Dog Registration Mandatory, But Sterilisation Isn’t?](https://meeraappadoo.wordpress.com/2026/08/17/%f0%9f%87%b2%f0%9f%87%ba-why-is-dog-registration-mandatory-but-sterilisation-isnt/)**  2026-08-17 08:31:56
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Pourquoi écrit-on « Grand Baie » ou « grand-mère » sans "E" ?](https://tchombo.blogspot.com/2026/08/pourquoi-ecrit-on-grand-baie-ou-grand.html)**  2026-08-17 07:29:02
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[No title](https://josephnguyenmahebourg.blogspot.com/2026/08/homelie-jeudi-de-la-19e-semaine-du-toa.html)**  2026-08-13 19:37:58
