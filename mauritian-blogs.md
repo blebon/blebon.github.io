@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Veganlovlie](https://veganlovlie.com)  
+**[High-Protein Vegan Breakfast Recipes: Nourishing Plant-Based Ideas with Tofu, Lentils, Beans & More](https://veganlovlie.com/high-protein-vegan-breakfast-recipes/)**  2026-08-19 14:56:55
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The Spiritual Harmony of the Azaan: Balancing Tradition and Modernity](https://tchombo.blogspot.com/2026/08/the-spiritual-harmony-of-azaan.html)**  2026-08-19 09:23:43
 
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Norwegen: 15 Jahre nach dem Terror...15 Years after the Terror...Tribute to the victims of Oslo and Utøya](https://insel-rodrigues.blogspot.com/2026/07/norwegen-15-jahre-nach-dem-terror15.html)**  2026-07-21 21:03:51
-
-[Veganlovlie](https://veganlovlie.com)  
-**[Asparagus Tofu Scramble with Quick Chermoula](https://veganlovlie.com/asparagus-tofu-scramble-chermoula/)**  2026-07-12 06:17:26
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Learn more about our updated Terms of Service](https://shruticulturalgroup.blogspot.com/2026/07/learn-more-about-our-updated-terms-of.html)**  2026-07-04 17:18:58
