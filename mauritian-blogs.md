@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[« Lil Moris » : l'écho d'un soft power français](https://tchombo.blogspot.com/2026/08/lil-moris-lecho-dun-soft-power-francais.html)**  2026-08-21 04:16:42
+**[La vulnérabilité identitaire et Lee Kuan Yew](https://tchombo.blogspot.com/2026/08/sur-lenracinement-et-le-vulnerabilite.html)**  2026-08-21 06:43:04
 
 [Veganlovlie](https://veganlovlie.com)  
 **[High-Protein Vegan Breakfast Recipes: Nourishing Plant-Based Ideas with Tofu, Lentils, Beans & More](https://veganlovlie.com/high-protein-vegan-breakfast-recipes/)**  2026-08-19 14:56:55
