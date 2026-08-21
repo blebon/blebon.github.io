@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[« Lil Moris » : l'écho d'un soft power français](https://tchombo.blogspot.com/2026/08/lil-moris-lecho-dun-soft-power-francais.html)**  2026-08-21 04:16:42
+
 [Veganlovlie](https://veganlovlie.com)  
 **[High-Protein Vegan Breakfast Recipes: Nourishing Plant-Based Ideas with Tofu, Lentils, Beans & More](https://veganlovlie.com/high-protein-vegan-breakfast-recipes/)**  2026-08-19 14:56:55
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The Spiritual Harmony of the Azaan: Balancing Tradition and Modernity](https://tchombo.blogspot.com/2026/08/the-spiritual-harmony-of-azaan.html)**  2026-08-19 09:23:43
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Unfinished Decolonisation?](https://zoomdr.blogspot.com/2026/08/unfinished-decolonisation.html)**  2026-08-18 11:07:46
