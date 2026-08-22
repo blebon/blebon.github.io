@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[La vulnérabilité identitaire et Lee Kuan Yew](https://tchombo.blogspot.com/2026/08/sur-lenracinement-et-le-vulnerabilite.html)**  2026-08-21 06:43:04
+**[Communautarisme, communalisme : deux mots, deux pays, un contresens](https://tchombo.blogspot.com/2026/08/communautarisme-communalisme-deux-mots.html)**  2026-08-22 04:23:57
+
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Conferment of Emeritus Professor: Celebrating Prof. Yasmina Jaufeerally Fakim – A Pillar of the Faculty of Agriculture](https://facultyagriculture.blogspot.com/2026/08/conferment-of-emeritus-professor_01664130230.html)**  2026-08-21 11:12:50
 
 [Veganlovlie](https://veganlovlie.com)  
 **[High-Protein Vegan Breakfast Recipes: Nourishing Plant-Based Ideas with Tofu, Lentils, Beans & More](https://veganlovlie.com/high-protein-vegan-breakfast-recipes/)**  2026-08-19 14:56:55
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-25 20:50:37
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Faculty of Agriculture Guest Lecture: Biofilm Formation and AMR in the Food Industry with Prof. Etinosa O. Igbinosa](https://facultyagriculture.blogspot.com/2026/06/faculty-of-agriculture-guest-lecture.html)**  2026-06-19 13:24:51
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Another Brick in the Wall](https://flicenflac.blogspot.com/2026/06/another-brick-in-wall.html)**  2026-06-05 19:31:02
