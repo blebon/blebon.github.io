@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[This life is a dream!](https://flicenflac.blogspot.com/2026/08/this-life-is-dream.html)**  2026-08-22 18:38:06
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Communautarisme, communalisme : deux mots, deux pays, un contresens](https://tchombo.blogspot.com/2026/08/communautarisme-communalisme-deux-mots.html)**  2026-08-22 04:23:57
 
@@ -57,9 +60,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-25 20:50:37
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Another Brick in the Wall](https://flicenflac.blogspot.com/2026/06/another-brick-in-wall.html)**  2026-06-05 19:31:02
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Fact-check : le nombre de centres de soins primaires à Maurice a-t-il vraiment augmenté de 82 % entre 2022 et 2024 ?](https://comstudies.wordpress.com/2026/05/25/fact-check-le-nombre-de-centres-de-soins-primaires-a-maurice-a-t-il-vraiment-augmente-de-82-entre-2022-et-2024/)**  2026-05-25 17:01:54
