@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[The Anatomy of Post-COVID Existential Disbalance in Mauritius](https://tchombo.blogspot.com/2026/08/the-anatomy-of-post-covid-existential.html)**  2026-08-23 19:03:45
+**[Kim Le Court-Pienaar : l’alchimie parfaite entre privilège, résilience et mental d’acier](https://tchombo.blogspot.com/2026/08/kim-le-court-pienaar-lalchimie-parfaite.html)**  2026-08-24 09:56:36
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[En Zafer Esansiel Lor BRP Ki Guvernman Pan Mansione](http://kozelidir.blogspot.com/2026/08/en-zafer-esansiel-lor-brp-ki-guvernman.html)**  2026-08-23 11:33:07
