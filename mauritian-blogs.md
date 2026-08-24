@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The Anatomy of Post-COVID Existential Disbalance in Mauritius](https://tchombo.blogspot.com/2026/08/the-anatomy-of-post-covid-existential.html)**  2026-08-23 19:03:45
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[En Zafer Esansiel Lor BRP Ki Guvernman Pan Mansione](http://kozelidir.blogspot.com/2026/08/en-zafer-esansiel-lor-brp-ki-guvernman.html)**  2026-08-23 11:33:07
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[This life is a dream!](https://flicenflac.blogspot.com/2026/08/this-life-is-dream.html)**  2026-08-22 18:38:06
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Communautarisme, communalisme : deux mots, deux pays, un contresens](https://tchombo.blogspot.com/2026/08/communautarisme-communalisme-deux-mots.html)**  2026-08-22 04:23:57
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Conferment of Emeritus Professor: Celebrating Prof. Yasmina Jaufeerally Fakim – A Pillar of the Faculty of Agriculture](https://facultyagriculture.blogspot.com/2026/08/conferment-of-emeritus-professor_01664130230.html)**  2026-08-21 11:12:50
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Three Envelop mystery](https://vintishgokool.blogspot.com/2026/08/the-3-envelop.html)**  2026-08-09 15:32:35
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Pena Deba Pu Fer Lor BRP Iniversel a 60 an](http://kozelidir.blogspot.com/2026/08/pena-deba-pu-fer-lor-brp-iniversel-60-an.html)**  2026-08-07 18:06:33
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[ACCESS TO JUSTICE IN MAURITIUS : If This Can Happen to a Senior Counsel,  What Does It Mean for Persons with Disabilities?](https://www.lemauricien.com/le-mauricien/access-to-justice-in-mauritius-if-this-can-happen-to-a-senior-counsel-what-does-it-mean-for-persons-with-disabilities/714474/)**  2026-08-06 12:00:07
