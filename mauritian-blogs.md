@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
+**[Animal Welfare: I didn’t sign up for this!](https://meeraappadoo.wordpress.com/2026/08/25/animal-welfare-i-didnt-sign-up-for-this/)**  2026-08-25 11:12:17
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Kim Le Court-Pienaar : l’alchimie parfaite entre privilège, résilience et mental d’acier](https://tchombo.blogspot.com/2026/08/kim-le-court-pienaar-lalchimie-parfaite.html)**  2026-08-24 12:37:30
 
@@ -22,17 +25,14 @@ permalink: /mauritian-blogs/
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Unfinished Decolonisation?](https://zoomdr.blogspot.com/2026/08/unfinished-decolonisation.html)**  2026-08-18 11:07:46
 
-[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
-**[Why Is Dog Registration Mandatory, But Sterilisation Isn’t?](https://meeraappadoo.wordpress.com/2026/08/17/%f0%9f%87%b2%f0%9f%87%ba-why-is-dog-registration-mandatory-but-sterilisation-isnt/)**  2026-08-17 08:31:56
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Violet’s Testimony](https://davidandjennilyn.com/2026/08/16/violets-testimony/)**  2026-08-16 17:00:00
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[No title](https://josephnguyenmahebourg.blogspot.com/2026/08/homelie-jeudi-de-la-19e-semaine-du-toa.html)**  2026-08-13 19:37:58
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Mauritius Just Made Real Estate Registration Mandatory — Here’s What Every Agent, Promoter and Developer Needs to Know](https://relocationmauritius.wordpress.com/2026/08/12/mauritius-just-made-real-estate-registration-mandatory-heres-what-every-agent-promoter-and-developer-needs-to-know/)**  2026-08-12 17:35:08
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Bruce’s Baptism](https://davidandjennilyn.com/2026/08/09/bruces-baptism/)**  2026-08-10 05:36:02
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Three Envelop mystery](https://vintishgokool.blogspot.com/2026/08/the-3-envelop.html)**  2026-08-09 15:32:35
