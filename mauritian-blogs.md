@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Arrêtons de penser comme des économistes](https://tchombo.blogspot.com/2026/08/arretons-de-penser-comme-des-economistes.html)**  2026-08-27 03:16:50
+
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Animal Welfare: I didn’t sign up for this!](https://meeraappadoo.wordpress.com/2026/08/25/animal-welfare-i-didnt-sign-up-for-this/)**  2026-08-25 11:12:17
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Kim Le Court-Pienaar : l’alchimie parfaite entre privilège, résilience et mental d’acier](https://tchombo.blogspot.com/2026/08/kim-le-court-pienaar-lalchimie-parfaite.html)**  2026-08-24 12:37:30
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Conferment of Emeritus Professor: Celebrating Prof. Yasmina Jaufeerally Fakim – A Pillar of the Faculty of Agriculture](https://facultyagriculture.blogspot.com/2026/08/conferment-of-emeritus-professor_01664130230.html)**  2026-08-24 12:13:03
