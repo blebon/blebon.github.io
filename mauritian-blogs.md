@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[The Eagle's Lodge](http://ashfaqblog.blogspot.com/)  
+**[The Four-Year Pivot: From the Tropics to Canadian Citizenship](http://ashfaqblog.blogspot.com/2026/08/the-four-year-pivot-from-tropics-to.html)**  2026-08-27 18:50:09
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Arrêtons de penser comme des économistes](https://tchombo.blogspot.com/2026/08/arretons-de-penser-comme-des-economistes.html)**  2026-08-27 03:16:50
 
