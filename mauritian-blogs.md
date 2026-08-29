@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[Passing Away of Uncle Roshan](https://flicenflac.blogspot.com/2026/08/passing-away-of-uncle-roshan.html)**  2026-08-28 12:30:01
+
 [The Eagle's Lodge](http://ashfaqblog.blogspot.com/)  
 **[The Four-Year Pivot: From the Tropics to Canadian Citizenship](http://ashfaqblog.blogspot.com/2026/08/the-four-year-pivot-from-tropics-to.html)**  2026-08-27 18:50:09
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[En Zafer Esansiel Lor BRP Ki Guvernman Pan Mansione](http://kozelidir.blogspot.com/2026/08/en-zafer-esansiel-lor-brp-ki-guvernman.html)**  2026-08-23 11:33:07
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[This life is a dream!](https://flicenflac.blogspot.com/2026/08/this-life-is-dream.html)**  2026-08-22 18:38:06
 
 [Veganlovlie](https://veganlovlie.com)  
 **[High-Protein Vegan Breakfast Recipes: Nourishing Plant-Based Ideas with Tofu, Lentils, Beans & More](https://veganlovlie.com/high-protein-vegan-breakfast-recipes/)**  2026-08-19 14:56:55
