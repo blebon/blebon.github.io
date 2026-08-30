@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Growing Up  in Plural Mauritius: Is "Modern" the Same as "Western"?](https://tchombo.blogspot.com/2026/08/growing-up-in-plural-mauritius-is.html)**  2026-08-30 04:55:11
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Passing Away of Uncle Roshan](https://flicenflac.blogspot.com/2026/08/passing-away-of-uncle-roshan.html)**  2026-08-28 12:30:01
 
 [The Eagle's Lodge](http://ashfaqblog.blogspot.com/)  
 **[The Four-Year Pivot: From the Tropics to Canadian Citizenship](http://ashfaqblog.blogspot.com/2026/08/the-four-year-pivot-from-tropics-to.html)**  2026-08-27 18:50:09
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Arrêtons de penser comme des économistes](https://tchombo.blogspot.com/2026/08/arretons-de-penser-comme-des-economistes.html)**  2026-08-27 03:16:50
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Animal Welfare: I didn’t sign up for this!](https://meeraappadoo.wordpress.com/2026/08/25/animal-welfare-i-didnt-sign-up-for-this/)**  2026-08-25 11:12:17
