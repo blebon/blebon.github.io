@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[Growing Up  in Plural Mauritius: Is "Modern" the Same as "Western"?](https://tchombo.blogspot.com/2026/08/growing-up-in-plural-mauritius-is.html)**  2026-08-30 04:55:11
+**[National connectivity: a win (social)-win (business) proposal](https://tchombo.blogspot.com/2026/08/national-connectivity-win-social-win.html)**  2026-08-31 01:27:35
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Passing Away of Uncle Roshan](https://flicenflac.blogspot.com/2026/08/passing-away-of-uncle-roshan.html)**  2026-08-28 12:30:01
@@ -84,8 +84,5 @@ permalink: /mauritian-blogs/
 
 [ever peckish](https://everpeckish.com)  
 **[Toasted milk Gulab Jamun](https://everpeckish.com/toasted-milk-gulab-jamun/?utm_source=rss&utm_medium=rss&utm_campaign=toasted-milk-gulab-jamun)**  2025-10-04 13:11:49
-
-[Yuvraj Lovvy Keenoo](https://lovvy.wordpress.com)  
-**[Artificial Intelligence (Ethical Governance) Act — Draft v1.0](https://lovvy.wordpress.com/2025/09/28/artificial-intelligence-ethical-governance-act-draft-v1-0/)**  2025-09-28 13:11:53
 
 <div style="height:0;width:0;overflow:hidden;"></div>
