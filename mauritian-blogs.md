@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[National connectivity: a win (social)-win (business) proposal](https://tchombo.blogspot.com/2026/08/national-connectivity-win-social-win.html)**  2026-08-31 01:27:35
+**[The Unwatched Self: What Traffic and Football Reveal About Character](https://tchombo.blogspot.com/2026/08/the-unwatched-self-what-traffic-and.html)**  2026-08-31 20:50:00
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Kifer Nuvo Loto PM Pe Fer Otan Polemik](http://kozelidir.blogspot.com/2026/08/kifer-nuvo-loto-pm-pe-fer-otan-polemik.html)**  2026-08-31 13:27:20
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Passing Away of Uncle Roshan](https://flicenflac.blogspot.com/2026/08/passing-away-of-uncle-roshan.html)**  2026-08-28 12:30:01
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Conferment of Emeritus Professor: Celebrating Prof. Yasmina Jaufeerally Fakim – A Pillar of the Faculty of Agriculture](https://facultyagriculture.blogspot.com/2026/08/conferment-of-emeritus-professor_01664130230.html)**  2026-08-24 12:13:03
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[En Zafer Esansiel Lor BRP Ki Guvernman Pan Mansione](http://kozelidir.blogspot.com/2026/08/en-zafer-esansiel-lor-brp-ki-guvernman.html)**  2026-08-23 11:33:07
 
 [Veganlovlie](https://veganlovlie.com)  
 **[High-Protein Vegan Breakfast Recipes: Nourishing Plant-Based Ideas with Tofu, Lentils, Beans & More](https://veganlovlie.com/high-protein-vegan-breakfast-recipes/)**  2026-08-19 14:56:55
