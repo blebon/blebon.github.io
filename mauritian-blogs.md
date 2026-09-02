@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mike Sinnott's World](https://msinnott.net)  
+**[Drugs in Paradise](https://msinnott.net/2026/09/02/drugs-in-paradise/)**  2026-09-02 10:21:17
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[What BEPS Really Means If You’re Structuring Your Move to Mauritius](https://relocationmauritius.wordpress.com/2026/09/01/what-beps-really-means-if-youre-structuring-your-move-to-mauritius/)**  2026-09-01 16:24:45
 
