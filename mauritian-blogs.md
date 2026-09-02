@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[What BEPS Really Means If You’re Structuring Your Move to Mauritius](https://relocationmauritius.wordpress.com/2026/09/01/what-beps-really-means-if-youre-structuring-your-move-to-mauritius/)**  2026-09-01 16:24:45
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[La Nation et l'Identité Mauricienne : Un Chantier Perpétuel Porté par l'Empathie et le Kreol Morisyen](https://tchombo.blogspot.com/2026/09/la-nation-et-lidentite-mauricienne-un.html)**  2026-09-01 10:33:58
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[No title](https://josephnguyenmahebourg.blogspot.com/2026/08/homelie-jeudi-de-la-19e-semaine-du-toa.html)**  2026-08-13 19:37:58
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Mauritius Just Made Real Estate Registration Mandatory — Here’s What Every Agent, Promoter and Developer Needs to Know](https://relocationmauritius.wordpress.com/2026/08/12/mauritius-just-made-real-estate-registration-mandatory-heres-what-every-agent-promoter-and-developer-needs-to-know/)**  2026-08-12 17:35:08
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Three Envelop mystery](https://vintishgokool.blogspot.com/2026/08/the-3-envelop.html)**  2026-08-09 15:32:35
