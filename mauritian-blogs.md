@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The Architect of Execution: What Modern Managers Can Learn from Lee Kuan Yew’s Hands-On Leadership](https://tchombo.blogspot.com/2026/09/the-architect-of-execution-what-modern.html)**  2026-09-03 08:23:10
+
 [Mike Sinnott's World](https://msinnott.net)  
 **[Drugs in Paradise](https://msinnott.net/2026/09/02/drugs-in-paradise/)**  2026-09-02 10:21:17
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[What BEPS Really Means If You’re Structuring Your Move to Mauritius](https://relocationmauritius.wordpress.com/2026/09/01/what-beps-really-means-if-youre-structuring-your-move-to-mauritius/)**  2026-09-01 16:24:45
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[La Nation et l'Identité Mauricienne : Un Chantier Perpétuel Porté par l'Empathie et le Kreol Morisyen](https://tchombo.blogspot.com/2026/09/la-nation-et-lidentite-mauricienne-un.html)**  2026-09-01 10:33:58
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Kifer Nuvo Loto PM Pe Fer Otan Polemik](http://kozelidir.blogspot.com/2026/08/kifer-nuvo-loto-pm-pe-fer-otan-polemik.html)**  2026-08-31 13:27:20
