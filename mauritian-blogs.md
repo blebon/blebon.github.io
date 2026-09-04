@@ -5,10 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[The Architect of Execution: What Modern Managers Can Learn from Lee Kuan Yew’s Hands-On Leadership](https://tchombo.blogspot.com/2026/09/the-architect-of-execution-what-modern.html)**  2026-09-03 08:23:10
+**[Design should serve the idea, not decorate it](https://tchombo.blogspot.com/2026/09/design-should-serve-idea-not-decorate-it.html)**  2026-09-04 01:44:59
 
 [Mike Sinnott's World](https://msinnott.net)  
-**[Drugs in Paradise](https://msinnott.net/2026/09/02/drugs-in-paradise/)**  2026-09-02 10:21:17
+**[Paradise Reality](https://msinnott.net/2026/09/03/paradise-reality/)**  2026-09-03 08:33:28
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[What BEPS Really Means If You’re Structuring Your Move to Mauritius](https://relocationmauritius.wordpress.com/2026/09/01/what-beps-really-means-if-youre-structuring-your-move-to-mauritius/)**  2026-09-01 16:24:45
