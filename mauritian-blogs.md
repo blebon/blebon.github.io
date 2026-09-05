@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
+**[IMAGE LAUNDERING – A Convenient Cover! 🇲🇺](https://meeraappadoo.wordpress.com/2026/09/05/image-laundering-a-convenient-cover-%f0%9f%87%b2%f0%9f%87%ba/)**  2026-09-05 05:42:28
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Happy Krishna Janmashtami](http://kozelidir.blogspot.com/2026/09/happy-krishna-janmashtami.html)**  2026-09-04 20:52:49
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [The Eagle's Lodge](http://ashfaqblog.blogspot.com/)  
 **[The Four-Year Pivot: From the Tropics to Canadian Citizenship](http://ashfaqblog.blogspot.com/2026/08/the-four-year-pivot-from-tropics-to.html)**  2026-08-27 18:50:09
-
-[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
-**[Animal Welfare: I didn’t sign up for this!](https://meeraappadoo.wordpress.com/2026/08/25/animal-welfare-i-didnt-sign-up-for-this/)**  2026-08-25 11:12:17
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Conferment of Emeritus Professor: Celebrating Prof. Yasmina Jaufeerally Fakim – A Pillar of the Faculty of Agriculture](https://facultyagriculture.blogspot.com/2026/08/conferment-of-emeritus-professor_01664130230.html)**  2026-08-24 12:13:03
