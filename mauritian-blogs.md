@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Happy Krishna Janmashtami](http://kozelidir.blogspot.com/2026/09/happy-krishna-janmashtami.html)**  2026-09-04 20:52:49
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Design should serve the idea, not decorate it](https://tchombo.blogspot.com/2026/09/design-should-serve-idea-not-decorate-it.html)**  2026-09-04 01:44:59
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[What BEPS Really Means If You’re Structuring Your Move to Mauritius](https://relocationmauritius.wordpress.com/2026/09/01/what-beps-really-means-if-youre-structuring-your-move-to-mauritius/)**  2026-09-01 16:24:45
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Kifer Nuvo Loto PM Pe Fer Otan Polemik](http://kozelidir.blogspot.com/2026/08/kifer-nuvo-loto-pm-pe-fer-otan-polemik.html)**  2026-08-31 13:27:20
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[Passing Away of Uncle Roshan](https://flicenflac.blogspot.com/2026/08/passing-away-of-uncle-roshan.html)**  2026-08-28 12:30:01
