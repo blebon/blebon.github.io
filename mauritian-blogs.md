@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Why Mauritius Pays More for Less](https://tchombo.blogspot.com/2026/09/why-mauritius-pays-more-for-less.html)**  2026-09-06 03:48:20
+
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[IMAGE LAUNDERING – A Convenient Cover! 🇲🇺](https://meeraappadoo.wordpress.com/2026/09/05/image-laundering-a-convenient-cover-%f0%9f%87%b2%f0%9f%87%ba/)**  2026-09-05 05:42:28
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Happy Krishna Janmashtami](http://kozelidir.blogspot.com/2026/09/happy-krishna-janmashtami.html)**  2026-09-04 20:52:49
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Design should serve the idea, not decorate it](https://tchombo.blogspot.com/2026/09/design-should-serve-idea-not-decorate-it.html)**  2026-09-04 01:44:59
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Paradise Reality](https://msinnott.net/2026/09/03/paradise-reality/)**  2026-09-03 08:33:28
@@ -84,8 +84,5 @@ permalink: /mauritian-blogs/
 
 [Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
 **[Big city life](http://gadatagada.blogspot.com/2025/11/big-city-life.html)**  2025-11-13 08:47:33
-
-[ever peckish](https://everpeckish.com)  
-**[Toasted milk Gulab Jamun](https://everpeckish.com/toasted-milk-gulab-jamun/?utm_source=rss&utm_medium=rss&utm_campaign=toasted-milk-gulab-jamun)**  2025-10-04 13:11:49
 
 <div style="height:0;width:0;overflow:hidden;"></div>
