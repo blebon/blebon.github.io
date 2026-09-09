@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Pesticides in Mauritius: Addressing the Risks of "Silent Killers"](https://facultyagriculture.blogspot.com/2026/09/pesticides-in-mauritius-addressing.html)**  2026-09-09 11:07:07
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Why Mauritius Pays More for Less](https://tchombo.blogspot.com/2026/09/why-mauritius-pays-more-for-less.html)**  2026-09-06 03:48:20
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [The Eagle's Lodge](http://ashfaqblog.blogspot.com/)  
 **[The Four-Year Pivot: From the Tropics to Canadian Citizenship](http://ashfaqblog.blogspot.com/2026/08/the-four-year-pivot-from-tropics-to.html)**  2026-08-27 18:50:09
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Conferment of Emeritus Professor: Celebrating Prof. Yasmina Jaufeerally Fakim – A Pillar of the Faculty of Agriculture](https://facultyagriculture.blogspot.com/2026/08/conferment-of-emeritus-professor_01664130230.html)**  2026-08-24 12:13:03
 
 [Veganlovlie](https://veganlovlie.com)  
 **[High-Protein Vegan Breakfast Recipes: Nourishing Plant-Based Ideas with Tofu, Lentils, Beans & More](https://veganlovlie.com/high-protein-vegan-breakfast-recipes/)**  2026-08-19 14:56:55
