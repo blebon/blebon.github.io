@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Moris Apepre Mem Nivo Dan Matematik Ki An 2010](http://kozelidir.blogspot.com/2026/09/moris-apepre-mem-nivo-dan-matematik-ki.html)**  2026-09-09 16:04:15
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Pesticides in Mauritius: Addressing the Risks of "Silent Killers"](https://facultyagriculture.blogspot.com/2026/09/pesticides-in-mauritius-addressing.html)**  2026-09-09 11:07:07
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[IMAGE LAUNDERING – A Convenient Cover! 🇲🇺](https://meeraappadoo.wordpress.com/2026/09/05/image-laundering-a-convenient-cover-%f0%9f%87%b2%f0%9f%87%ba/)**  2026-09-05 05:42:28
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Happy Krishna Janmashtami](http://kozelidir.blogspot.com/2026/09/happy-krishna-janmashtami.html)**  2026-09-04 20:52:49
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Paradise Reality](https://msinnott.net/2026/09/03/paradise-reality/)**  2026-09-03 08:33:28
