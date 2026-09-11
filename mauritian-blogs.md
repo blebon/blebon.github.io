@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Upgrading Biosecurity Why Mauritius New X Ray Irradiator Matters for Pest Control- Sterile Insect Technique](https://facultyagriculture.blogspot.com/2026/09/upgrading-biosecurity-why-mauritius-new.html)**  2026-09-11 06:20:47
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[The Oregon Dunes](https://davidandjennilyn.com/2026/09/10/the-oregon-dunes/)**  2026-09-11 05:12:57
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Un « rule of law » faible engendre sa propre transgression](https://tchombo.blogspot.com/2026/09/un-rule-of-law-faible-engendre-sa.html)**  2026-09-10 18:22:08
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Moris Apepre Mem Nivo Dan Matematik Ki An 2010](http://kozelidir.blogspot.com/2026/09/moris-apepre-mem-nivo-dan-matematik-ki.html)**  2026-09-09 16:04:15
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Pesticides in Mauritius: Addressing the Risks of "Silent Killers"](https://facultyagriculture.blogspot.com/2026/09/pesticides-in-mauritius-addressing.html)**  2026-09-09 11:07:07
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[IMAGE LAUNDERING – A Convenient Cover! 🇲🇺](https://meeraappadoo.wordpress.com/2026/09/05/image-laundering-a-convenient-cover-%f0%9f%87%b2%f0%9f%87%ba/)**  2026-09-05 05:42:28
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Unfinished Decolonisation?](https://zoomdr.blogspot.com/2026/08/unfinished-decolonisation.html)**  2026-08-18 11:07:46
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Violet’s Testimony](https://davidandjennilyn.com/2026/08/16/violets-testimony/)**  2026-08-16 17:00:00
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[No title](https://josephnguyenmahebourg.blogspot.com/2026/08/homelie-jeudi-de-la-19e-semaine-du-toa.html)**  2026-08-13 19:37:58
