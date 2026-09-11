@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Un « rule of law » faible engendre sa propre transgression](https://tchombo.blogspot.com/2026/09/un-rule-of-law-faible-engendre-sa.html)**  2026-09-10 18:22:08
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Moris Apepre Mem Nivo Dan Matematik Ki An 2010](http://kozelidir.blogspot.com/2026/09/moris-apepre-mem-nivo-dan-matematik-ki.html)**  2026-09-09 16:04:15
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Pesticides in Mauritius: Addressing the Risks of "Silent Killers"](https://facultyagriculture.blogspot.com/2026/09/pesticides-in-mauritius-addressing.html)**  2026-09-09 11:07:07
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Why Mauritius Pays More for Less](https://tchombo.blogspot.com/2026/09/why-mauritius-pays-more-for-less.html)**  2026-09-06 03:48:20
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[IMAGE LAUNDERING – A Convenient Cover! 🇲🇺](https://meeraappadoo.wordpress.com/2026/09/05/image-laundering-a-convenient-cover-%f0%9f%87%b2%f0%9f%87%ba/)**  2026-09-05 05:42:28
