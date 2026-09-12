@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[NKB Now Appearing At A Theatre Near You](http://kozelidir.blogspot.com/2026/09/nkb-now-appearing-at-theatre-near-you.html)**  2026-09-11 11:36:04
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Upgrading Biosecurity Why Mauritius New X Ray Irradiator Matters for Pest Control- Sterile Insect Technique](https://facultyagriculture.blogspot.com/2026/09/upgrading-biosecurity-why-mauritius-new.html)**  2026-09-11 06:20:47
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Un « rule of law » faible engendre sa propre transgression](https://tchombo.blogspot.com/2026/09/un-rule-of-law-faible-engendre-sa.html)**  2026-09-10 18:22:08
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Moris Apepre Mem Nivo Dan Matematik Ki An 2010](http://kozelidir.blogspot.com/2026/09/moris-apepre-mem-nivo-dan-matematik-ki.html)**  2026-09-09 16:04:15
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[IMAGE LAUNDERING – A Convenient Cover! 🇲🇺](https://meeraappadoo.wordpress.com/2026/09/05/image-laundering-a-convenient-cover-%f0%9f%87%b2%f0%9f%87%ba/)**  2026-09-05 05:42:28
