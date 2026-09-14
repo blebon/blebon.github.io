@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Useless Thing](https://vintishgokool.blogspot.com/2026/09/useless-thing.html)**  2026-09-13 16:18:05
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[NKB Now Appearing At A Theatre Near You](http://kozelidir.blogspot.com/2026/09/nkb-now-appearing-at-theatre-near-you.html)**  2026-09-11 11:36:04
 
@@ -39,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[No title](https://josephnguyenmahebourg.blogspot.com/2026/08/homelie-jeudi-de-la-19e-semaine-du-toa.html)**  2026-08-13 19:37:58
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Three Envelop mystery](https://vintishgokool.blogspot.com/2026/08/the-3-envelop.html)**  2026-08-09 15:32:35
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[ACCESS TO JUSTICE IN MAURITIUS : If This Can Happen to a Senior Counsel,  What Does It Mean for Persons with Disabilities?](https://www.lemauricien.com/le-mauricien/access-to-justice-in-mauritius-if-this-can-happen-to-a-senior-counsel-what-does-it-mean-for-persons-with-disabilities/714474/)**  2026-08-06 12:00:07
