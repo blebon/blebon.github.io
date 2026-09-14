@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The Tax Haven Double Standard: Why Mauritius Gets Blacklisted While London, Geneva and Luxembourg Get a Pass](https://tchombo.blogspot.com/2026/09/the-tax-haven-double-standard-why.html)**  2026-09-14 10:41:12
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Useless Thing](https://vintishgokool.blogspot.com/2026/09/useless-thing.html)**  2026-09-13 16:18:05
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[The Oregon Dunes](https://davidandjennilyn.com/2026/09/10/the-oregon-dunes/)**  2026-09-11 05:12:57
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Un « rule of law » faible engendre sa propre transgression](https://tchombo.blogspot.com/2026/09/un-rule-of-law-faible-engendre-sa.html)**  2026-09-10 18:22:08
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[IMAGE LAUNDERING – A Convenient Cover! 🇲🇺](https://meeraappadoo.wordpress.com/2026/09/05/image-laundering-a-convenient-cover-%f0%9f%87%b2%f0%9f%87%ba/)**  2026-09-05 05:42:28
