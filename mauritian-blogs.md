@@ -4,17 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Download Citizen Concerns For Free And Understand Plenty Fast](http://kozelidir.blogspot.com/2026/09/download-citizen-concerns-for-free-and.html)**  2026-09-18 09:11:15
+
+[The Jag!](https://morisk.blogspot.com/)  
+**[Download Citizen Concerns For Free And Understand Plenty Fast](https://morisk.blogspot.com/2026/09/download-citizen-concerns-for-free-and.html)**  2026-09-18 08:53:01
+
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Ayurveda Day at the University of Mauritius Connecting Agriculture Health and Traditional Knowledge](https://facultyagriculture.blogspot.com/2026/09/ayurveda-day-at-university-of-mauritius.html)**  2026-09-18 08:15:15
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Change](https://vintishgokool.blogspot.com/2026/09/change.html)**  2026-09-16 16:25:18
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The Tax Haven Double Standard: Why Mauritius Gets Blacklisted While London, Geneva and Luxembourg Get a Pass](https://tchombo.blogspot.com/2026/09/the-tax-haven-double-standard-why.html)**  2026-09-14 10:41:12
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[NKB Now Appearing At A Theatre Near You](http://kozelidir.blogspot.com/2026/09/nkb-now-appearing-at-theatre-near-you.html)**  2026-09-11 11:36:04
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Upgrading Biosecurity Why Mauritius New X Ray Irradiator Matters for Pest Control- Sterile Insect Technique](https://facultyagriculture.blogspot.com/2026/09/upgrading-biosecurity-why-mauritius-new.html)**  2026-09-11 06:20:47
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[The Oregon Dunes](https://davidandjennilyn.com/2026/09/10/the-oregon-dunes/)**  2026-09-11 05:12:57
@@ -63,9 +66,6 @@ permalink: /mauritian-blogs/
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[I’m Still Alive! (And How to Buy from Amazon France without the crazy shipping fees via Cart’In Maurice)](https://yashvinblogs.com/2026/06/29/cart-in-maurice/)**  2026-06-29 19:31:19
-
-[The Jag!](https://morisk.blogspot.com/)  
-**[Prayag Statements That Don't Survive A Fact-Check](https://morisk.blogspot.com/2026/06/prayag-statements-that-dont-survive.html)**  2026-06-25 20:50:37
 
 [UoM-Communication Studies](https://comstudies.wordpress.com)  
 **[Fact-check : le nombre de centres de soins primaires à Maurice a-t-il vraiment augmenté de 82 % entre 2022 et 2024 ?](https://comstudies.wordpress.com/2026/05/25/fact-check-le-nombre-de-centres-de-soins-primaires-a-maurice-a-t-il-vraiment-augmente-de-82-entre-2022-et-2024/)**  2026-05-25 17:01:54
