@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
+**[She Is Coming!](https://flicenflac.blogspot.com/2026/09/she-is-coming.html)**  2026-09-18 21:15:40
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Download Citizen Concerns For Free And Understand Plenty Fast](http://kozelidir.blogspot.com/2026/09/download-citizen-concerns-for-free-and.html)**  2026-09-18 09:11:15
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[What BEPS Really Means If You’re Structuring Your Move to Mauritius](https://relocationmauritius.wordpress.com/2026/09/01/what-beps-really-means-if-youre-structuring-your-move-to-mauritius/)**  2026-09-01 16:24:45
-
-[Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
-**[Passing Away of Uncle Roshan](https://flicenflac.blogspot.com/2026/08/passing-away-of-uncle-roshan.html)**  2026-08-28 12:30:01
 
 [The Eagle's Lodge](http://ashfaqblog.blogspot.com/)  
 **[The Four-Year Pivot: From the Tropics to Canadian Citizenship](http://ashfaqblog.blogspot.com/2026/08/the-four-year-pivot-from-tropics-to.html)**  2026-08-27 18:50:09
