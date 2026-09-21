@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The Babywalker Economy: Mauritius Is Running Out of Crutches](https://tchombo.blogspot.com/2026/09/the-babywalker-economy-mauritius-is.html)**  2026-09-21 04:27:46
+
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[She Is Coming!](https://flicenflac.blogspot.com/2026/09/she-is-coming.html)**  2026-09-18 21:15:40
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Change](https://vintishgokool.blogspot.com/2026/09/change.html)**  2026-09-16 16:25:18
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The Tax Haven Double Standard: Why Mauritius Gets Blacklisted While London, Geneva and Luxembourg Get a Pass](https://tchombo.blogspot.com/2026/09/the-tax-haven-double-standard-why.html)**  2026-09-14 10:41:12
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[The Oregon Dunes](https://davidandjennilyn.com/2026/09/10/the-oregon-dunes/)**  2026-09-11 05:12:57
