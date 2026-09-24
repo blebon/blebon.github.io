@@ -4,23 +4,26 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[„... Bis plötzlich, wie der Abschied auf der Reise, die große Stille in den Rahmen bricht.“ - Trauer um Christina Thürmer-Rohr](https://insel-rodrigues.blogspot.com/2026/09/bis-plotzlich-wie-der-abschied-auf-der.html)**  2026-09-23 19:47:04
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Europe & all around the world](https://vintishgokool.blogspot.com/2026/09/europe-all-around-world.html)**  2026-09-23 19:20:07
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Kifer BRP Kav Pe Revin Kuma Avan Dan En Semen](http://kozelidir.blogspot.com/2026/09/kifer-brp-kav-pe-revin-kuma-avan-dan-en.html)**  2026-09-23 12:21:15
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The Babywalker Economy: Mauritius Is Running Out of Crutches](https://tchombo.blogspot.com/2026/09/the-babywalker-economy-mauritius-is.html)**  2026-09-21 04:27:46
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[She Is Coming!](https://flicenflac.blogspot.com/2026/09/she-is-coming.html)**  2026-09-18 21:15:40
 
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Download Citizen Concerns For Free And Understand Plenty Fast](http://kozelidir.blogspot.com/2026/09/download-citizen-concerns-for-free-and.html)**  2026-09-18 09:11:15
-
 [The Jag!](https://morisk.blogspot.com/)  
 **[Download Citizen Concerns For Free And Understand Plenty Fast](https://morisk.blogspot.com/2026/09/download-citizen-concerns-for-free-and.html)**  2026-09-18 08:53:01
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Ayurveda Day at the University of Mauritius Connecting Agriculture Health and Traditional Knowledge](https://facultyagriculture.blogspot.com/2026/09/ayurveda-day-at-university-of-mauritius.html)**  2026-09-18 08:15:15
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Change](https://vintishgokool.blogspot.com/2026/09/change.html)**  2026-09-16 16:25:18
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[The Oregon Dunes](https://davidandjennilyn.com/2026/09/10/the-oregon-dunes/)**  2026-09-11 05:12:57
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Should you take your pension at 60 or 65 in Mauritius?](https://nayarweb.com/blog/2026/should-you-take-your-pension-at-60-or-65-in-mauritius/)**  2026-08-03 15:53:36
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[Norwegen: 15 Jahre nach dem Terror...15 Years after the Terror...Tribute to the victims of Oslo and Utøya](https://insel-rodrigues.blogspot.com/2026/07/norwegen-15-jahre-nach-dem-terror15.html)**  2026-07-21 21:03:51
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Learn more about our updated Terms of Service](https://shruticulturalgroup.blogspot.com/2026/07/learn-more-about-our-updated-terms-of.html)**  2026-07-04 17:18:58
