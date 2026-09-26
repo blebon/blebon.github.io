@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Little Anantasin](https://littleanantasin.wordpress.com)  
+**[Far North Queensland](https://littleanantasin.wordpress.com/2026/09/26/far-north-queensland/)**  2026-09-26 05:17:34
+
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[„... Bis plötzlich, wie der Abschied auf der Reise, die große Stille in den Rahmen bricht.“ - Trauer um Christina Thürmer-Rohr](https://insel-rodrigues.blogspot.com/2026/09/bis-plotzlich-wie-der-abschied-auf-der.html)**  2026-09-23 19:47:04
 
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[Learn more about our updated Terms of Service](https://shruticulturalgroup.blogspot.com/2026/07/learn-more-about-our-updated-terms-of.html)**  2026-07-04 17:18:58
-
-[Little Anantasin](https://littleanantasin.wordpress.com)  
-**[Bright in Winter](https://littleanantasin.wordpress.com/2026/07/04/bright-in-winter/)**  2026-07-04 02:00:40
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[I’m Still Alive! (And How to Buy from Amazon France without the crazy shipping fees via Cart’In Maurice)](https://yashvinblogs.com/2026/06/29/cart-in-maurice/)**  2026-06-29 19:31:19
