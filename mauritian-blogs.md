@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[We Borrowed Singapore's Immigration Policy and Forgot to Borrow the Country That Makes It Work](https://tchombo.blogspot.com/2026/09/we-borrowed-singapores-immigration.html)**  2026-09-27 07:34:19
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[See](https://vintishgokool.blogspot.com/2026/09/see.html)**  2026-09-26 20:31:35
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Sagesse et raison : une dette occidentale mal assumée](https://tchombo.blogspot.com/2026/09/sagesse-et-raison-une-dette-occidentale.html)**  2026-09-26 14:23:52
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Far North Queensland](https://littleanantasin.wordpress.com/2026/09/26/far-north-queensland/)**  2026-09-26 05:17:34
