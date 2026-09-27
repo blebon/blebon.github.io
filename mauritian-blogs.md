@@ -4,20 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[See](https://vintishgokool.blogspot.com/2026/09/see.html)**  2026-09-26 20:31:35
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Sagesse et raison : une dette occidentale mal assumée](https://tchombo.blogspot.com/2026/09/sagesse-et-raison-une-dette-occidentale.html)**  2026-09-26 14:23:52
+
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Far North Queensland](https://littleanantasin.wordpress.com/2026/09/26/far-north-queensland/)**  2026-09-26 05:17:34
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[„... Bis plötzlich, wie der Abschied auf der Reise, die große Stille in den Rahmen bricht.“ - Trauer um Christina Thürmer-Rohr](https://insel-rodrigues.blogspot.com/2026/09/bis-plotzlich-wie-der-abschied-auf-der.html)**  2026-09-23 19:47:04
 
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Europe & all around the world](https://vintishgokool.blogspot.com/2026/09/europe-all-around-world.html)**  2026-09-23 19:20:07
-
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Kifer BRP Kav Pe Revin Kuma Avan Dan En Semen](http://kozelidir.blogspot.com/2026/09/kifer-brp-kav-pe-revin-kuma-avan-dan-en.html)**  2026-09-23 12:21:15
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The Babywalker Economy: Mauritius Is Running Out of Crutches](https://tchombo.blogspot.com/2026/09/the-babywalker-economy-mauritius-is.html)**  2026-09-21 04:27:46
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[She Is Coming!](https://flicenflac.blogspot.com/2026/09/she-is-coming.html)**  2026-09-18 21:15:40
