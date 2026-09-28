@@ -5,16 +5,16 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[We Borrowed Singapore's Immigration Policy and Forgot to Borrow the Country That Makes It Work](https://tchombo.blogspot.com/2026/09/we-borrowed-singapores-immigration.html)**  2026-09-27 07:34:19
+**[Why the Best Movies Demand a Second Date](https://tchombo.blogspot.com/2026/09/why-best-movies-demand-second-date.html)**  2026-09-27 20:26:57
+
+[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
+**[Christina Thümer-Rohr im Video von Jonas Englert:  Am Thema bleiben von Anfang bis Ende](https://insel-rodrigues.blogspot.com/2026/09/christina-thumer-rohr-im-video-von.html)**  2026-09-27 15:53:31
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[See](https://vintishgokool.blogspot.com/2026/09/see.html)**  2026-09-26 20:31:35
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Far North Queensland](https://littleanantasin.wordpress.com/2026/09/26/far-north-queensland/)**  2026-09-26 05:17:34
-
-[Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
-**[„... Bis plötzlich, wie der Abschied auf der Reise, die große Stille in den Rahmen bricht.“ - Trauer um Christina Thürmer-Rohr](https://insel-rodrigues.blogspot.com/2026/09/bis-plotzlich-wie-der-abschied-auf-der.html)**  2026-09-23 19:47:04
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Kifer BRP Kav Pe Revin Kuma Avan Dan En Semen](http://kozelidir.blogspot.com/2026/09/kifer-brp-kav-pe-revin-kuma-avan-dan-en.html)**  2026-09-23 12:21:15
