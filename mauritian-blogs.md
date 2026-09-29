@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[Why the Best Movies Demand a Second Date](https://tchombo.blogspot.com/2026/09/why-best-movies-demand-second-date.html)**  2026-09-27 20:26:57
+**[Le prompt devient une forme de pensée, pas juste une commande](https://tchombo.blogspot.com/2026/09/le-prompt-devient-une-forme-de-pensee.html)**  2026-09-29 03:36:02
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Christina Thümer-Rohr im Video von Jonas Englert:  Am Thema bleiben von Anfang bis Ende](https://insel-rodrigues.blogspot.com/2026/09/christina-thumer-rohr-im-video-von.html)**  2026-09-27 15:53:31
