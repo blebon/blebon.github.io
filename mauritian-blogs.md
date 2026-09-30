@@ -4,14 +4,17 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Choose peace over pressure](http://ghoorunneha.blogspot.com/2026/09/choose-peace-over-pressure.html)**  2026-09-30 09:39:59
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Stumble](https://vintishgokool.blogspot.com/2026/09/stumble.html)**  2026-09-30 07:56:43
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Le prompt devient une forme de pensée, pas juste une commande](https://tchombo.blogspot.com/2026/09/le-prompt-devient-une-forme-de-pensee.html)**  2026-09-29 03:36:02
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Christina Thümer-Rohr im Video von Jonas Englert:  Am Thema bleiben von Anfang bis Ende](https://insel-rodrigues.blogspot.com/2026/09/christina-thumer-rohr-im-video-von.html)**  2026-09-27 15:53:31
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[See](https://vintishgokool.blogspot.com/2026/09/see.html)**  2026-09-26 20:31:35
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Far North Queensland](https://littleanantasin.wordpress.com/2026/09/26/far-north-queensland/)**  2026-09-26 05:17:34
@@ -54,9 +57,6 @@ permalink: /mauritian-blogs/
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[ACCESS TO JUSTICE IN MAURITIUS : If This Can Happen to a Senior Counsel,  What Does It Mean for Persons with Disabilities?](https://www.lemauricien.com/le-mauricien/access-to-justice-in-mauritius-if-this-can-happen-to-a-senior-counsel-what-does-it-mean-for-persons-with-disabilities/714474/)**  2026-08-06 12:00:07
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Believing in yourself](http://ghoorunneha.blogspot.com/2026/08/believing-in-yourself.html)**  2026-08-04 14:05:25
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Should you take your pension at 60 or 65 in Mauritius?](https://nayarweb.com/blog/2026/should-you-take-your-pension-at-60-or-65-in-mauritius/)**  2026-08-03 15:53:36
