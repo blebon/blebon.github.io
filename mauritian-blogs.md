@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Choose peace over pressure](http://ghoorunneha.blogspot.com/2026/09/choose-peace-over-pressure.html)**  2026-09-30 09:39:59
+**[Get rid of your dandruff.   Keep Shining](http://ghoorunneha.blogspot.com/2026/10/get-rid-of-your-dandruff-keep-shining_0722161221.html)**  2026-10-01 09:54:53
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Stumble](https://vintishgokool.blogspot.com/2026/09/stumble.html)**  2026-09-30 07:56:43
