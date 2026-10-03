@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Visit of Scholars from the University Slavonski Brod, Croatia - Under the Erasmus+ Exchange Program](https://facultyagriculture.blogspot.com/2026/10/visit-of-scholars-from-university_072513744.html)**  2026-10-02 14:20:54
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Mini Eclair Chocolate recipe](http://ghoorunneha.blogspot.com/2026/10/mini-eclair-chocolate-recipe.html)**  2026-10-02 09:08:03
 
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Download Citizen Concerns For Free And Understand Plenty Fast](https://morisk.blogspot.com/2026/09/download-citizen-concerns-for-free-and.html)**  2026-09-18 08:53:01
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Ayurveda Day at the University of Mauritius Connecting Agriculture Health and Traditional Knowledge](https://facultyagriculture.blogspot.com/2026/09/ayurveda-day-at-university-of-mauritius.html)**  2026-09-18 08:15:15
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[The Oregon Dunes](https://davidandjennilyn.com/2026/09/10/the-oregon-dunes/)**  2026-09-11 05:12:57
