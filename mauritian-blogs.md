@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Visit of Scholars from the University Slavonski Brod, Croatia - Under the Erasmus+ Exchange Program](https://facultyagriculture.blogspot.com/2026/10/visit-of-scholars-from-university_072513744.html)**  2026-10-02 14:20:54
+**[Visit of Scholars from the University Slavonski Brod, Croatia - Under the Erasmus+ Exchange Program](https://facultyagriculture.blogspot.com/2026/10/visit-of-scholars-from-university_072513744.html)**  2026-10-03 08:59:49
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Mini Eclair Chocolate recipe](http://ghoorunneha.blogspot.com/2026/10/mini-eclair-chocolate-recipe.html)**  2026-10-02 09:08:03
