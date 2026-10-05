@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
+**[The Cow , The activist & the Keffiyeh](https://meeraappadoo.wordpress.com/2026/10/04/the-cow-the-activist-the-keffiyeh/)**  2026-10-04 13:40:53
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Visit of Scholars from the University Slavonski Brod, Croatia - Under the Erasmus+ Exchange Program](https://facultyagriculture.blogspot.com/2026/10/visit-of-scholars-from-university_072513744.html)**  2026-10-03 08:59:49
 
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[The Oregon Dunes](https://davidandjennilyn.com/2026/09/10/the-oregon-dunes/)**  2026-09-11 05:12:57
-
-[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
-**[IMAGE LAUNDERING – A Convenient Cover! 🇲🇺](https://meeraappadoo.wordpress.com/2026/09/05/image-laundering-a-convenient-cover-%f0%9f%87%b2%f0%9f%87%ba/)**  2026-09-05 05:42:28
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Paradise Reality](https://msinnott.net/2026/09/03/paradise-reality/)**  2026-09-03 08:33:28
