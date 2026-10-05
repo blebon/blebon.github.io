@@ -4,20 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
-**[The Cow , The activist & the Keffiyeh](https://meeraappadoo.wordpress.com/2026/10/04/the-cow-the-activist-the-keffiyeh/)**  2026-10-04 13:40:53
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Why Our Competition Watchdog Needs an Overhaul](https://tchombo.blogspot.com/2026/10/why-our-competition-watchdog-needs.html)**  2026-10-05 10:32:34
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Visit of Scholars from the University Slavonski Brod, Croatia - Under the Erasmus+ Exchange Program](https://facultyagriculture.blogspot.com/2026/10/visit-of-scholars-from-university_072513744.html)**  2026-10-03 08:59:49
+**[Visit of Scholars from the University Slavonski Brod, Croatia - Under the Erasmus+ Staff Exchange Program](https://facultyagriculture.blogspot.com/2026/10/visit-of-scholars-from-university_072513744.html)**  2026-10-05 05:32:08
+
+[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
+**[The Cow , The activist & the Keffiyeh](https://meeraappadoo.wordpress.com/2026/10/04/the-cow-the-activist-the-keffiyeh/)**  2026-10-04 13:40:53
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Mini Eclair Chocolate recipe](http://ghoorunneha.blogspot.com/2026/10/mini-eclair-chocolate-recipe.html)**  2026-10-02 09:08:03
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Stumble](https://vintishgokool.blogspot.com/2026/09/stumble.html)**  2026-09-30 07:56:43
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Le prompt devient une forme de pensée, pas juste une commande](https://tchombo.blogspot.com/2026/09/le-prompt-devient-une-forme-de-pensee.html)**  2026-09-29 03:36:02
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Christina Thümer-Rohr im Video von Jonas Englert:  Am Thema bleiben von Anfang bis Ende](https://insel-rodrigues.blogspot.com/2026/09/christina-thumer-rohr-im-video-von.html)**  2026-09-27 15:53:31
