@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Talk on Satellite-Based Crop Coefficients for Smarter Potato Irrigation by Prof M. Steyn](https://facultyagriculture.blogspot.com/2026/10/talk-on-satellite-based-crop.html)**  2026-10-06 10:34:56
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Crispy Pani Puri](http://ghoorunneha.blogspot.com/2026/10/crispy-pani-puri.html)**  2026-10-05 14:27:04
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Why Our Competition Watchdog Needs an Overhaul](https://tchombo.blogspot.com/2026/10/why-our-competition-watchdog-needs.html)**  2026-10-05 13:44:13
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Visit of Scholars from the University Slavonski Brod, Croatia - Under the Erasmus+ Staff Exchange Program](https://facultyagriculture.blogspot.com/2026/10/visit-of-scholars-from-university_072513744.html)**  2026-10-05 05:32:08
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[The Cow , The activist & the Keffiyeh](https://meeraappadoo.wordpress.com/2026/10/04/the-cow-the-activist-the-keffiyeh/)**  2026-10-04 13:40:53
