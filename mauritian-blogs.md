@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[Tolérance zéro : ce que Toyota sait et que nos institutions ignorent](https://tchombo.blogspot.com/2026/10/tolerance-zero-ce-que-toyota-sait-et.html)**  2026-10-07 04:09:27
+**[Why the Mauritian Obsession with Rote Math Is Starving Our Future](https://tchombo.blogspot.com/2026/10/why-mauritian-obsession-with-rote-math.html)**  2026-10-07 11:04:16
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Amla hair recipe](http://ghoorunneha.blogspot.com/2026/10/amla-hair-recipe.html)**  2026-10-06 12:12:37
