@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Talk on Satellite-Based Crop Coefficients for Smarter Potato Irrigation by Prof M. Steyn](https://facultyagriculture.blogspot.com/2026/10/talk-on-satellite-based-crop.html)**  2026-10-06 10:34:56
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Tolérance zéro : ce que Toyota sait et que nos institutions ignorent](https://tchombo.blogspot.com/2026/10/tolerance-zero-ce-que-toyota-sait-et.html)**  2026-10-07 04:09:27
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Crispy Pani Puri](http://ghoorunneha.blogspot.com/2026/10/crispy-pani-puri.html)**  2026-10-05 14:27:04
+**[Amla hair recipe](http://ghoorunneha.blogspot.com/2026/10/amla-hair-recipe.html)**  2026-10-06 12:12:37
 
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Why Our Competition Watchdog Needs an Overhaul](https://tchombo.blogspot.com/2026/10/why-our-competition-watchdog-needs.html)**  2026-10-05 13:44:13
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Talk on Satellite-Based Crop Coefficients for Smarter Potato Irrigation by Prof M. Steyn](https://facultyagriculture.blogspot.com/2026/10/talk-on-satellite-based-crop.html)**  2026-10-06 11:33:44
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[The Cow , The activist & the Keffiyeh](https://meeraappadoo.wordpress.com/2026/10/04/the-cow-the-activist-the-keffiyeh/)**  2026-10-04 13:40:53
