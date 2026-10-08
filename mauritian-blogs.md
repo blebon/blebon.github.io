@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
+**[New privacy settings for Search services and Google Play](https://shruticulturalgroup.blogspot.com/2026/10/new-privacy-settings-for-search.html)**  2026-10-08 07:05:35
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How Norman Foster made the classic architect studio go global](https://zoomdr.blogspot.com/2026/10/how-norman-foster-made-classic.html)**  2026-10-07 13:25:27
 
@@ -18,6 +21,9 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[The Cow , The activist & the Keffiyeh](https://meeraappadoo.wordpress.com/2026/10/04/the-cow-the-activist-the-keffiyeh/)**  2026-10-04 13:40:53
+
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Protected: Kadie’s 19th Birthday](https://davidandjennilyn.com/2026/10/02/kadies-19th-birthday/)**  2026-10-02 21:03:00
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Stumble](https://vintishgokool.blogspot.com/2026/09/stumble.html)**  2026-09-30 07:56:43
@@ -36,9 +42,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Download Citizen Concerns For Free And Understand Plenty Fast](https://morisk.blogspot.com/2026/09/download-citizen-concerns-for-free-and.html)**  2026-09-18 08:53:01
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[The Oregon Dunes](https://davidandjennilyn.com/2026/09/10/the-oregon-dunes/)**  2026-09-11 05:12:57
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Paradise Reality](https://msinnott.net/2026/09/03/paradise-reality/)**  2026-09-03 08:33:28
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Should you take your pension at 60 or 65 in Mauritius?](https://nayarweb.com/blog/2026/should-you-take-your-pension-at-60-or-65-in-mauritius/)**  2026-08-03 15:53:36
-
-[Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
-**[Learn more about our updated Terms of Service](https://shruticulturalgroup.blogspot.com/2026/07/learn-more-about-our-updated-terms-of.html)**  2026-07-04 17:18:58
 
 [Yashvinblogs](https://yashvinblogs.com)  
 **[I’m Still Alive! (And How to Buy from Amazon France without the crazy shipping fees via Cart’In Maurice)](https://yashvinblogs.com/2026/06/29/cart-in-maurice/)**  2026-06-29 19:31:19
