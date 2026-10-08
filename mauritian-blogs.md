@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[How Norman Foster made the classic architect studio go global](https://zoomdr.blogspot.com/2026/10/how-norman-foster-made-classic.html)**  2026-10-07 13:25:27
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Why the Mauritian Obsession with Rote Math Is Starving Our Future](https://tchombo.blogspot.com/2026/10/why-mauritian-obsession-with-rote-math.html)**  2026-10-07 11:04:16
 
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [Veganlovlie](https://veganlovlie.com)  
 **[High-Protein Vegan Breakfast Recipes: Nourishing Plant-Based Ideas with Tofu, Lentils, Beans & More](https://veganlovlie.com/high-protein-vegan-breakfast-recipes/)**  2026-08-19 14:56:55
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Unfinished Decolonisation?](https://zoomdr.blogspot.com/2026/08/unfinished-decolonisation.html)**  2026-08-18 11:07:46
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[No title](https://josephnguyenmahebourg.blogspot.com/2026/08/homelie-jeudi-de-la-19e-semaine-du-toa.html)**  2026-08-13 19:37:58
