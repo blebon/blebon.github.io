@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Never beg for love](http://ghoorunneha.blogspot.com/2026/10/never-beg-for-love.html)**  2026-10-08 16:40:21
+
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[New privacy settings for Search services and Google Play](https://shruticulturalgroup.blogspot.com/2026/10/new-privacy-settings-for-search.html)**  2026-10-08 07:05:35
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Why the Mauritian Obsession with Rote Math Is Starving Our Future](https://tchombo.blogspot.com/2026/10/why-mauritian-obsession-with-rote-math.html)**  2026-10-07 11:04:16
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Amla hair recipe](http://ghoorunneha.blogspot.com/2026/10/amla-hair-recipe.html)**  2026-10-06 12:12:37
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Talk on Satellite-Based Crop Coefficients for Smarter Potato Irrigation by Prof M. Steyn](https://facultyagriculture.blogspot.com/2026/10/talk-on-satellite-based-crop.html)**  2026-10-06 11:33:44
