@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Surrounded by Ocean, Waiting for Rain: Mauritius’s Water Crisis Is a Governance Crisis](https://relocationmauritius.wordpress.com/2026/10/09/surrounded-by-ocean-waiting-for-rain-mauritiuss-water-crisis-is-a-governance-crisis/)**  2026-10-09 07:39:08
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Never beg for love](http://ghoorunneha.blogspot.com/2026/10/never-beg-for-love.html)**  2026-10-08 16:40:21
 
@@ -45,9 +48,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Paradise Reality](https://msinnott.net/2026/09/03/paradise-reality/)**  2026-09-03 08:33:28
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[What BEPS Really Means If You’re Structuring Your Move to Mauritius](https://relocationmauritius.wordpress.com/2026/09/01/what-beps-really-means-if-youre-structuring-your-move-to-mauritius/)**  2026-09-01 16:24:45
 
 [The Eagle's Lodge](http://ashfaqblog.blogspot.com/)  
 **[The Four-Year Pivot: From the Tropics to Canadian Citizenship](http://ashfaqblog.blogspot.com/2026/08/the-four-year-pivot-from-tropics-to.html)**  2026-08-27 18:50:09
