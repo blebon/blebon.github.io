@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Grow. Kneel to no (wo)man](https://tchombo.blogspot.com/2026/10/grow-kneel-to-no-woman.html)**  2026-10-10 01:40:06
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Surrounded by Ocean, Waiting for Rain: Mauritius’s Water Crisis Is a Governance Crisis](https://relocationmauritius.wordpress.com/2026/10/09/surrounded-by-ocean-waiting-for-rain-mauritiuss-water-crisis-is-a-governance-crisis/)**  2026-10-09 07:39:08
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How Norman Foster made the classic architect studio go global](https://zoomdr.blogspot.com/2026/10/how-norman-foster-made-classic.html)**  2026-10-07 13:25:27
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Why the Mauritian Obsession with Rote Math Is Starving Our Future](https://tchombo.blogspot.com/2026/10/why-mauritian-obsession-with-rote-math.html)**  2026-10-07 11:04:16
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Talk on Satellite-Based Crop Coefficients for Smarter Potato Irrigation by Prof M. Steyn](https://facultyagriculture.blogspot.com/2026/10/talk-on-satellite-based-crop.html)**  2026-10-06 11:33:44
