@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Pravind Jugnauth Pe Rakont Zistwar](http://kozelidir.blogspot.com/2026/10/pravind-jugnauth-pe-rakont-zistwar.html)**  2026-10-10 12:03:54
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Grow. Kneel to no (wo)man](https://tchombo.blogspot.com/2026/10/grow-kneel-to-no-woman.html)**  2026-10-10 01:40:06
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Little Anantasin](https://littleanantasin.wordpress.com)  
 **[Far North Queensland](https://littleanantasin.wordpress.com/2026/09/26/far-north-queensland/)**  2026-09-26 05:17:34
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Kifer BRP Kav Pe Revin Kuma Avan Dan En Semen](http://kozelidir.blogspot.com/2026/09/kifer-brp-kav-pe-revin-kuma-avan-dan-en.html)**  2026-09-23 12:21:15
 
 [Rowy's Life In Flic-En-Flac](https://flicenflac.blogspot.com/)  
 **[She Is Coming!](https://flicenflac.blogspot.com/2026/09/she-is-coming.html)**  2026-09-18 21:15:40
