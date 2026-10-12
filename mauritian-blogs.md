@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The Mauritian Mirage: A Development Model That Outruns Tap Water](https://tchombo.blogspot.com/2026/10/the-mauritian-mirage-development-model.html)**  2026-10-11 11:34:35
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Pravind Jugnauth Pe Rakont Zistwar](http://kozelidir.blogspot.com/2026/10/pravind-jugnauth-pe-rakont-zistwar.html)**  2026-10-10 12:03:54
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Grow. Kneel to no (wo)man](https://tchombo.blogspot.com/2026/10/grow-kneel-to-no-woman.html)**  2026-10-10 01:40:06
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Surrounded by Ocean, Waiting for Rain: Mauritius’s Water Crisis Is a Governance Crisis](https://relocationmauritius.wordpress.com/2026/10/09/surrounded-by-ocean-waiting-for-rain-mauritiuss-water-crisis-is-a-governance-crisis/)**  2026-10-09 07:39:08
