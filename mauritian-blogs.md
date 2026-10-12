@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Easy homemade chapati](http://ghoorunneha.blogspot.com/2026/10/easy-homemade-chapati.html)**  2026-10-12 08:17:33
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[The Mauritian Mirage: A Development Model That Outruns Tap Water](https://tchombo.blogspot.com/2026/10/the-mauritian-mirage-development-model.html)**  2026-10-11 11:34:35
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Surrounded by Ocean, Waiting for Rain: Mauritius’s Water Crisis Is a Governance Crisis](https://relocationmauritius.wordpress.com/2026/10/09/surrounded-by-ocean-waiting-for-rain-mauritiuss-water-crisis-is-a-governance-crisis/)**  2026-10-09 07:39:08
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Never beg for love](http://ghoorunneha.blogspot.com/2026/10/never-beg-for-love.html)**  2026-10-08 16:40:21
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[New privacy settings for Search services and Google Play](https://shruticulturalgroup.blogspot.com/2026/10/new-privacy-settings-for-search.html)**  2026-10-08 07:05:35
