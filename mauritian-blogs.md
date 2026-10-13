@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Le syndrome du retour : pourquoi les Français du bout du monde ne comprennent plus la France](https://tchombo.blogspot.com/2026/10/le-syndrome-du-retour-pourquoi-les.html)**  2026-10-12 20:15:22
+
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Easy homemade chapati](http://ghoorunneha.blogspot.com/2026/10/easy-homemade-chapati.html)**  2026-10-12 08:17:33
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[The Mauritian Mirage: A Development Model That Outruns Tap Water](https://tchombo.blogspot.com/2026/10/the-mauritian-mirage-development-model.html)**  2026-10-11 11:34:35
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Pravind Jugnauth Pe Rakont Zistwar](http://kozelidir.blogspot.com/2026/10/pravind-jugnauth-pe-rakont-zistwar.html)**  2026-10-10 12:03:54
