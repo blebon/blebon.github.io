@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Valayden Fer En Muv Ase Komik](http://kozelidir.blogspot.com/2026/10/valayden-fer-en-muv-ase-komik.html)**  2026-10-13 20:25:11
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Le syndrome du retour : pourquoi les Français du bout du monde ne comprennent plus la France](https://tchombo.blogspot.com/2026/10/le-syndrome-du-retour-pourquoi-les.html)**  2026-10-12 20:15:22
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Easy homemade chapati](http://ghoorunneha.blogspot.com/2026/10/easy-homemade-chapati.html)**  2026-10-12 08:17:33
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Pravind Jugnauth Pe Rakont Zistwar](http://kozelidir.blogspot.com/2026/10/pravind-jugnauth-pe-rakont-zistwar.html)**  2026-10-10 12:03:54
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Surrounded by Ocean, Waiting for Rain: Mauritius’s Water Crisis Is a Governance Crisis](https://relocationmauritius.wordpress.com/2026/10/09/surrounded-by-ocean-waiting-for-rain-mauritiuss-water-crisis-is-a-governance-crisis/)**  2026-10-09 07:39:08
