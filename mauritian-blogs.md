@@ -82,7 +82,4 @@ permalink: /mauritian-blogs/
 [Ask the Baker](https://nashbakery.blogspot.com/)  
 **[DUBAI CHOCOLATE STYLE BARFI](https://nashbakery.blogspot.com/2025/07/dubai-chocolate-style-barfi.html)**  2026-04-11 10:53:39
 
-[Espace-temps au goût de fraise Tagada](http://gadatagada.blogspot.com/)  
-**[Big city life](http://gadatagada.blogspot.com/2025/11/big-city-life.html)**  2025-11-13 08:47:33
-
 <div style="height:0;width:0;overflow:hidden;"></div>
