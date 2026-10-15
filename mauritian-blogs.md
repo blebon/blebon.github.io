@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[The Fiction of Free Speech: Sally Rooney, Anti-Terror Laws, and the Western Masquerade](https://tchombo.blogspot.com/2026/10/the-fiction-of-free-speech-sally-rooney.html)**  2026-10-15 02:43:42
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Valayden Fer En Muv Ase Komik](http://kozelidir.blogspot.com/2026/10/valayden-fer-en-muv-ase-komik.html)**  2026-10-13 20:25:11
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Le syndrome du retour : pourquoi les Français du bout du monde ne comprennent plus la France](https://tchombo.blogspot.com/2026/10/le-syndrome-du-retour-pourquoi-les.html)**  2026-10-12 20:15:22
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Easy homemade chapati](http://ghoorunneha.blogspot.com/2026/10/easy-homemade-chapati.html)**  2026-10-12 08:17:33
