@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[The Fiction of Free Speech: Sally Rooney, Anti-Terror Laws, and the Western Masquerade](https://tchombo.blogspot.com/2026/10/the-fiction-of-free-speech-sally-rooney.html)**  2026-10-15 02:43:42
+**[Pain at the Pump: It’s about affordability, stupid!](https://tchombo.blogspot.com/2026/10/pain-at-pump-its-about-affordability.html)**  2026-10-16 13:47:03
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Valayden Fer En Muv Ase Komik](http://kozelidir.blogspot.com/2026/10/valayden-fer-en-muv-ase-komik.html)**  2026-10-13 20:25:11
