@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[Michel Foucault: The Power Thinker](https://zoomdr.blogspot.com/2026/10/michel-foucault-power-thinker.html)**  2026-10-17 10:44:51
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Pain at the Pump: It’s about affordability, stupid!](https://tchombo.blogspot.com/2026/10/pain-at-pump-its-about-affordability.html)**  2026-10-16 13:47:03
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[New privacy settings for Search services and Google Play](https://shruticulturalgroup.blogspot.com/2026/10/new-privacy-settings-for-search.html)**  2026-10-08 07:05:35
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[How Norman Foster made the classic architect studio go global](https://zoomdr.blogspot.com/2026/10/how-norman-foster-made-classic.html)**  2026-10-07 13:25:27
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Talk on Satellite-Based Crop Coefficients for Smarter Potato Irrigation by Prof M. Steyn](https://facultyagriculture.blogspot.com/2026/10/talk-on-satellite-based-crop.html)**  2026-10-06 11:33:44
