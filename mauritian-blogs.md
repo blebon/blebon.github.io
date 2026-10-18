@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
+**[Curepipe Stray dogs: A peaceful coexistence](https://meeraappadoo.wordpress.com/2026/10/18/curepipe-stray-dogs-a-peaceful-coexistence/)**  2026-10-18 00:29:15
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[Michel Foucault: The Power Thinker](https://zoomdr.blogspot.com/2026/10/michel-foucault-power-thinker.html)**  2026-10-17 10:44:51
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Talk on Satellite-Based Crop Coefficients for Smarter Potato Irrigation by Prof M. Steyn](https://facultyagriculture.blogspot.com/2026/10/talk-on-satellite-based-crop.html)**  2026-10-06 11:33:44
-
-[meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
-**[The Cow , The activist & the Keffiyeh](https://meeraappadoo.wordpress.com/2026/10/04/the-cow-the-activist-the-keffiyeh/)**  2026-10-04 13:40:53
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Protected: Kadie’s 19th Birthday](https://davidandjennilyn.com/2026/10/02/kadies-19th-birthday/)**  2026-10-02 21:03:00
