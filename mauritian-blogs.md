@@ -4,6 +4,12 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[The Investor Occupation Permit in 2026: What USD 100,000 Buys, and What It Does Not](https://relocationmauritius.wordpress.com/2026/10/18/investor-occupation-permit-mauritius-2026/)**  2026-10-18 19:02:16
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Journey](https://vintishgokool.blogspot.com/2026/10/journey.html)**  2026-10-18 16:44:34
+
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Curepipe Stray dogs: A peaceful coexistence](https://meeraappadoo.wordpress.com/2026/10/18/curepipe-stray-dogs-a-peaceful-coexistence/)**  2026-10-18 00:29:15
 
@@ -19,9 +25,6 @@ permalink: /mauritian-blogs/
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Easy homemade chapati](http://ghoorunneha.blogspot.com/2026/10/easy-homemade-chapati.html)**  2026-10-12 08:17:33
 
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Surrounded by Ocean, Waiting for Rain: Mauritius’s Water Crisis Is a Governance Crisis](https://relocationmauritius.wordpress.com/2026/10/09/surrounded-by-ocean-waiting-for-rain-mauritiuss-water-crisis-is-a-governance-crisis/)**  2026-10-09 07:39:08
-
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[New privacy settings for Search services and Google Play](https://shruticulturalgroup.blogspot.com/2026/10/new-privacy-settings-for-search.html)**  2026-10-08 07:05:35
 
@@ -30,9 +33,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Protected: Kadie’s 19th Birthday](https://davidandjennilyn.com/2026/10/02/kadies-19th-birthday/)**  2026-10-02 21:03:00
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Stumble](https://vintishgokool.blogspot.com/2026/09/stumble.html)**  2026-09-30 07:56:43
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Christina Thümer-Rohr im Video von Jonas Englert:  Am Thema bleiben von Anfang bis Ende](https://insel-rodrigues.blogspot.com/2026/09/christina-thumer-rohr-im-video-von.html)**  2026-09-27 15:53:31
