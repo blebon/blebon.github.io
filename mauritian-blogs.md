@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[I Teach at a Business School. It’s Time to Shut Them Down](https://zoomdr.blogspot.com/2026/10/i-teach-at-business-school-its-time-to.html)**  2026-10-19 09:49:01
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The Investor Occupation Permit in 2026: What USD 100,000 Buys, and What It Does Not](https://relocationmauritius.wordpress.com/2026/10/18/investor-occupation-permit-mauritius-2026/)**  2026-10-18 19:02:16
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Curepipe Stray dogs: A peaceful coexistence](https://meeraappadoo.wordpress.com/2026/10/18/curepipe-stray-dogs-a-peaceful-coexistence/)**  2026-10-18 00:29:15
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[Michel Foucault: The Power Thinker](https://zoomdr.blogspot.com/2026/10/michel-foucault-power-thinker.html)**  2026-10-17 10:44:51
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Pain at the Pump: It’s about affordability, stupid!](https://tchombo.blogspot.com/2026/10/pain-at-pump-its-about-affordability.html)**  2026-10-16 13:47:03
