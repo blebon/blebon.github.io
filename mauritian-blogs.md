@@ -4,14 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Karma](https://vintishgokool.blogspot.com/2026/10/karma.html)**  2026-10-21 16:57:30
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**["La bête que nous avons nourrie depuis des années ne se cache plus"](https://zoomdr.blogspot.com/2026/10/la-bete-que-nous-avons-nourrie-depuis.html)**  2026-10-22 10:12:46
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[A bid for a fairer banker](https://tchombo.blogspot.com/2026/10/a-fairer-banker.html)**  2026-10-21 13:27:57
+**[A bid for a fairer banker](https://tchombo.blogspot.com/2026/10/a-fairer-banker.html)**  2026-10-22 07:55:34
 
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**[I Teach at a Business School. It’s Time to Shut Them Down](https://zoomdr.blogspot.com/2026/10/i-teach-at-business-school-its-time-to.html)**  2026-10-19 09:49:01
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Karma](https://vintishgokool.blogspot.com/2026/10/karma.html)**  2026-10-21 16:57:30
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The Investor Occupation Permit in 2026: What USD 100,000 Buys, and What It Does Not](https://relocationmauritius.wordpress.com/2026/10/18/investor-occupation-permit-mauritius-2026/)**  2026-10-18 19:02:16
