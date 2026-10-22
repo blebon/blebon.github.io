@@ -4,20 +4,20 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Karma](https://vintishgokool.blogspot.com/2026/10/karma.html)**  2026-10-21 16:57:30
+
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[A bid for a fairer banker](https://tchombo.blogspot.com/2026/10/a-fairer-banker.html)**  2026-10-21 13:27:57
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[I Teach at a Business School. It’s Time to Shut Them Down](https://zoomdr.blogspot.com/2026/10/i-teach-at-business-school-its-time-to.html)**  2026-10-19 09:49:01
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[The Investor Occupation Permit in 2026: What USD 100,000 Buys, and What It Does Not](https://relocationmauritius.wordpress.com/2026/10/18/investor-occupation-permit-mauritius-2026/)**  2026-10-18 19:02:16
 
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Journey](https://vintishgokool.blogspot.com/2026/10/journey.html)**  2026-10-18 16:44:34
-
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Curepipe Stray dogs: A peaceful coexistence](https://meeraappadoo.wordpress.com/2026/10/18/curepipe-stray-dogs-a-peaceful-coexistence/)**  2026-10-18 00:29:15
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Pain at the Pump: It’s about affordability, stupid!](https://tchombo.blogspot.com/2026/10/pain-at-pump-its-about-affordability.html)**  2026-10-16 13:47:03
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Valayden Fer En Muv Ase Komik](http://kozelidir.blogspot.com/2026/10/valayden-fer-en-muv-ase-komik.html)**  2026-10-13 20:25:11
