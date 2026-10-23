@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[A bid for a fairer banker](https://tchombo.blogspot.com/2026/10/a-fairer-banker.html)**  2026-10-23 08:00:05
+
+[Vaidehi](http://ghoorunneha.blogspot.com/)  
+**[Yummy Briani recipe](http://ghoorunneha.blogspot.com/2026/10/yummy-briani-recipe.html)**  2026-10-23 07:40:16
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **["La bête que nous avons nourrie depuis des années ne se cache plus"](https://zoomdr.blogspot.com/2026/10/la-bete-que-nous-avons-nourrie-depuis.html)**  2026-10-22 10:12:46
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[A bid for a fairer banker](https://tchombo.blogspot.com/2026/10/a-fairer-banker.html)**  2026-10-22 07:55:34
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Karma](https://vintishgokool.blogspot.com/2026/10/karma.html)**  2026-10-21 16:57:30
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Valayden Fer En Muv Ase Komik](http://kozelidir.blogspot.com/2026/10/valayden-fer-en-muv-ase-komik.html)**  2026-10-13 20:25:11
-
-[Vaidehi](http://ghoorunneha.blogspot.com/)  
-**[Easy homemade chapati](http://ghoorunneha.blogspot.com/2026/10/easy-homemade-chapati.html)**  2026-10-12 08:17:33
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[New privacy settings for Search services and Google Play](https://shruticulturalgroup.blogspot.com/2026/10/new-privacy-settings-for-search.html)**  2026-10-08 07:05:35
