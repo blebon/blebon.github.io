@@ -5,7 +5,10 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[Rivière-Noire : une gifle, et le pays qui la reçoit](https://tchombo.blogspot.com/2026/10/riviere-noire-une-gifle-et-le-pays-qui.html)**  2026-10-24 04:18:41
+**[Rivière-Noire : une gifle, et le pays qui la reçoit](https://tchombo.blogspot.com/2026/10/riviere-noire-une-gifle-et-le-pays-qui.html)**  2026-10-24 11:09:02
+
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Le 31, Vin Dir Non A Fiskalite Lezer](http://kozelidir.blogspot.com/2026/10/le-31-vin-dir-non-fiskalite-lezer.html)**  2026-10-24 07:02:33
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Yummy Briani recipe](http://ghoorunneha.blogspot.com/2026/10/yummy-briani-recipe.html)**  2026-10-23 07:40:16
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Curepipe Stray dogs: A peaceful coexistence](https://meeraappadoo.wordpress.com/2026/10/18/curepipe-stray-dogs-a-peaceful-coexistence/)**  2026-10-18 00:29:15
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Valayden Fer En Muv Ase Komik](http://kozelidir.blogspot.com/2026/10/valayden-fer-en-muv-ase-komik.html)**  2026-10-13 20:25:11
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[New privacy settings for Search services and Google Play](https://shruticulturalgroup.blogspot.com/2026/10/new-privacy-settings-for-search.html)**  2026-10-08 07:05:35
