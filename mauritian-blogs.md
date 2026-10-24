@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[A bid for a fairer banker](https://tchombo.blogspot.com/2026/10/a-fairer-banker.html)**  2026-10-23 08:00:05
+**[Rivière-Noire : une gifle, et le pays qui la reçoit](https://tchombo.blogspot.com/2026/10/riviere-noire-une-gifle-et-le-pays-qui.html)**  2026-10-24 04:18:41
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Yummy Briani recipe](http://ghoorunneha.blogspot.com/2026/10/yummy-briani-recipe.html)**  2026-10-23 07:40:16
