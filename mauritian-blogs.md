@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Finance Act 2026: What Changed for Investors, Companies and Newcomers](https://relocationmauritius.wordpress.com/2026/10/26/finance-act-2026-what-changed-for-investors-companies-and-newcomers/)**  2026-10-26 09:35:19
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Rivière-Noire : une gifle, et le pays qui la reçoit](https://tchombo.blogspot.com/2026/10/riviere-noire-une-gifle-et-le-pays-qui.html)**  2026-10-25 09:07:34
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Karma](https://vintishgokool.blogspot.com/2026/10/karma.html)**  2026-10-21 16:57:30
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[The Investor Occupation Permit in 2026: What USD 100,000 Buys, and What It Does Not](https://relocationmauritius.wordpress.com/2026/10/18/investor-occupation-permit-mauritius-2026/)**  2026-10-18 19:02:16
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Curepipe Stray dogs: A peaceful coexistence](https://meeraappadoo.wordpress.com/2026/10/18/curepipe-stray-dogs-a-peaceful-coexistence/)**  2026-10-18 00:29:15
