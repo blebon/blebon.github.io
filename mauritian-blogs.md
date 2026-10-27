@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[De Maurice à la France : les deux visages de la faillite citoyenne](https://tchombo.blogspot.com/2026/10/de-maurice-la-france-les-deux-visages.html)**  2026-10-26 18:13:12
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Finance Act 2026: What Changed for Investors, Companies and Newcomers](https://relocationmauritius.wordpress.com/2026/10/26/finance-act-2026-what-changed-for-investors-companies-and-newcomers/)**  2026-10-26 09:35:19
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Rivière-Noire : une gifle, et le pays qui la reçoit](https://tchombo.blogspot.com/2026/10/riviere-noire-une-gifle-et-le-pays-qui.html)**  2026-10-25 09:07:34
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Une Vision—Redécouvrir DIEU : Pourquoi ?](https://lleclezio.blogspot.com/2026/10/une-visionredecouvrir-dieu-pourquoi.html)**  2026-10-24 11:34:39
