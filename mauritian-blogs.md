@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[College Campus Visits for Violet](https://davidandjennilyn.com/2026/10/29/college-campus-visits-for-violet/)**  2026-10-30 04:12:41
+
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[De Maurice à la France : les deux visages de la faillite citoyenne](https://tchombo.blogspot.com/2026/10/de-maurice-la-france-les-deux-visages.html)**  2026-10-26 18:13:12
+**[Statistiques ethniques : le piège que Maurice s'est tendu à lui-même](https://tchombo.blogspot.com/2026/10/statistiques-ethniques-le-piege-que.html)**  2026-10-30 01:31:47
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Finance Act 2026: What Changed for Investors, Companies and Newcomers](https://relocationmauritius.wordpress.com/2026/10/26/finance-act-2026-what-changed-for-investors-companies-and-newcomers/)**  2026-10-26 09:35:19
@@ -33,9 +36,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Talk on Satellite-Based Crop Coefficients for Smarter Potato Irrigation by Prof M. Steyn](https://facultyagriculture.blogspot.com/2026/10/talk-on-satellite-based-crop.html)**  2026-10-06 11:33:44
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Protected: Kadie’s 19th Birthday](https://davidandjennilyn.com/2026/10/02/kadies-19th-birthday/)**  2026-10-02 21:03:00
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Christina Thümer-Rohr im Video von Jonas Englert:  Am Thema bleiben von Anfang bis Ende](https://insel-rodrigues.blogspot.com/2026/09/christina-thumer-rohr-im-video-von.html)**  2026-09-27 15:53:31
