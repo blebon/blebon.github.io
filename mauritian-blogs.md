@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Statistiques ethniques à Maurice : l’art de gouverner les yeux bandés](https://tchombo.blogspot.com/2026/10/statistiques-ethniques-le-piege-que.html)**  2026-10-30 06:26:52
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[College Campus Visits for Violet](https://davidandjennilyn.com/2026/10/29/college-campus-visits-for-violet/)**  2026-10-30 04:12:41
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Statistiques ethniques : le piège que Maurice s'est tendu à lui-même](https://tchombo.blogspot.com/2026/10/statistiques-ethniques-le-piege-que.html)**  2026-10-30 01:31:47
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Finance Act 2026: What Changed for Investors, Companies and Newcomers](https://relocationmauritius.wordpress.com/2026/10/26/finance-act-2026-what-changed-for-investors-companies-and-newcomers/)**  2026-10-26 09:35:19
