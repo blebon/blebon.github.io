@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Pourquoi on se conduit mal avec ceux qu'on aime](https://tchombo.blogspot.com/2026/11/pourquoi-on-conduit-mal-avec-ceux-quon.html)**  2026-11-01 07:18:13
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How to return big cities to pedestrians](https://zoomdr.blogspot.com/2026/10/how-to-return-big-cities-to-pedestrians.html)**  2026-10-31 11:58:32
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Statistiques ethniques à Maurice : l’art de gouverner les yeux bandés](https://tchombo.blogspot.com/2026/10/statistiques-ethniques-le-piege-que.html)**  2026-10-30 06:26:52
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[College Campus Visits for Violet](https://davidandjennilyn.com/2026/10/29/college-campus-visits-for-violet/)**  2026-10-30 04:12:41
