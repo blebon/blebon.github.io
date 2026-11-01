@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Dr Zoom](https://zoomdr.blogspot.com/)  
+**[How to return big cities to pedestrians](https://zoomdr.blogspot.com/2026/10/how-to-return-big-cities-to-pedestrians.html)**  2026-10-31 11:58:32
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Statistiques ethniques à Maurice : l’art de gouverner les yeux bandés](https://tchombo.blogspot.com/2026/10/statistiques-ethniques-le-piege-que.html)**  2026-10-30 06:26:52
 
@@ -21,9 +24,6 @@ permalink: /mauritian-blogs/
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Yummy Briani recipe](http://ghoorunneha.blogspot.com/2026/10/yummy-briani-recipe.html)**  2026-10-23 07:40:16
-
-[Dr Zoom](https://zoomdr.blogspot.com/)  
-**["La bête que nous avons nourrie depuis des années ne se cache plus"](https://zoomdr.blogspot.com/2026/10/la-bete-que-nous-avons-nourrie-depuis.html)**  2026-10-22 10:12:46
 
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Karma](https://vintishgokool.blogspot.com/2026/10/karma.html)**  2026-10-21 16:57:30
