@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Mike Sinnott's World](https://msinnott.net)  
+**[Enslavement Register](https://msinnott.net/2026/11/05/enslavement-register/)**  2026-11-05 09:00:24
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Pourquoi on se conduit mal avec ceux qu'on aime](https://tchombo.blogspot.com/2026/11/pourquoi-on-conduit-mal-avec-ceux-quon.html)**  2026-11-01 07:18:13
 
@@ -48,9 +51,6 @@ permalink: /mauritian-blogs/
 
 [The Jag!](https://morisk.blogspot.com/)  
 **[Download Citizen Concerns For Free And Understand Plenty Fast](https://morisk.blogspot.com/2026/09/download-citizen-concerns-for-free-and.html)**  2026-09-18 08:53:01
-
-[Mike Sinnott's World](https://msinnott.net)  
-**[Paradise Reality](https://msinnott.net/2026/09/03/paradise-reality/)**  2026-09-03 08:33:28
 
 [The Eagle's Lodge](http://ashfaqblog.blogspot.com/)  
 **[The Four-Year Pivot: From the Tropics to Canadian Citizenship](http://ashfaqblog.blogspot.com/2026/08/the-four-year-pivot-from-tropics-to.html)**  2026-08-27 18:50:09
