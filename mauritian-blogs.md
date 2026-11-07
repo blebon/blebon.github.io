@@ -4,11 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Markets Are Not Capitalism: Why We Keep Confusing the Two](https://tchombo.blogspot.com/2026/11/markets-are-not-capitalism-why-we-keep.html)**  2026-11-06 22:38:11
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Be & Live like him](https://vintishgokool.blogspot.com/2026/11/be-live-like-him.html)**  2026-11-06 16:47:25
+
 [Mike Sinnott's World](https://msinnott.net)  
 **[Enslavement Register](https://msinnott.net/2026/11/05/enslavement-register/)**  2026-11-05 09:00:24
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Pourquoi on se conduit mal avec ceux qu'on aime](https://tchombo.blogspot.com/2026/11/pourquoi-on-conduit-mal-avec-ceux-quon.html)**  2026-11-01 07:18:13
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How to return big cities to pedestrians](https://zoomdr.blogspot.com/2026/10/how-to-return-big-cities-to-pedestrians.html)**  2026-10-31 11:58:32
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Yummy Briani recipe](http://ghoorunneha.blogspot.com/2026/10/yummy-briani-recipe.html)**  2026-10-23 07:40:16
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Karma](https://vintishgokool.blogspot.com/2026/10/karma.html)**  2026-10-21 16:57:30
 
 [meeraappadoo.wordpress.com](https://meeraappadoo.wordpress.com)  
 **[Curepipe Stray dogs: A peaceful coexistence](https://meeraappadoo.wordpress.com/2026/10/18/curepipe-stray-dogs-a-peaceful-coexistence/)**  2026-10-18 00:29:15
