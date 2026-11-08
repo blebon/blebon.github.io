@@ -13,11 +13,11 @@ permalink: /mauritian-blogs/
 [Mike Sinnott's World](https://msinnott.net)  
 **[Enslavement Register](https://msinnott.net/2026/11/05/enslavement-register/)**  2026-11-05 09:00:24
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Happy Halloween](https://davidandjennilyn.com/2026/10/31/happy-halloween-5/)**  2026-11-01 03:29:13
+
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How to return big cities to pedestrians](https://zoomdr.blogspot.com/2026/10/how-to-return-big-cities-to-pedestrians.html)**  2026-10-31 11:58:32
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[College Campus Visits for Violet](https://davidandjennilyn.com/2026/10/29/college-campus-visits-for-violet/)**  2026-10-30 04:12:41
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Finance Act 2026: What Changed for Investors, Companies and Newcomers](https://relocationmauritius.wordpress.com/2026/10/26/finance-act-2026-what-changed-for-investors-companies-and-newcomers/)**  2026-10-26 09:35:19
