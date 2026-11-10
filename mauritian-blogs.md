@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[Meet Mauritius, A Failed State](http://kozelidir.blogspot.com/2026/11/meet-mauritius-failed-state.html)**  2026-11-09 16:17:29
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Markets Are Not Capitalism: Why We Keep Confusing the Two](https://tchombo.blogspot.com/2026/11/markets-are-not-capitalism-why-we-keep.html)**  2026-11-06 22:38:11
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Une Vision—Redécouvrir DIEU : Pourquoi ?](https://lleclezio.blogspot.com/2026/10/une-visionredecouvrir-dieu-pourquoi.html)**  2026-10-24 11:34:39
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Le 31, Vin Dir Non A Fiskalite Lezer](http://kozelidir.blogspot.com/2026/10/le-31-vin-dir-non-fiskalite-lezer.html)**  2026-10-24 07:02:33
 
 [Vaidehi](http://ghoorunneha.blogspot.com/)  
 **[Yummy Briani recipe](http://ghoorunneha.blogspot.com/2026/10/yummy-briani-recipe.html)**  2026-10-23 07:40:16
