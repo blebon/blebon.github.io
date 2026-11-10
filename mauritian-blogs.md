@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[David and Jennilyn](https://davidandjennilyn.com)  
+**[Oliver & Lovegood Company](https://davidandjennilyn.com/2026/11/09/oliver-lovegood-company/)**  2026-11-10 06:28:55
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet Mauritius, A Failed State](http://kozelidir.blogspot.com/2026/11/meet-mauritius-failed-state.html)**  2026-11-09 16:17:29
 
@@ -15,9 +18,6 @@ permalink: /mauritian-blogs/
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Enslavement Register](https://msinnott.net/2026/11/05/enslavement-register/)**  2026-11-05 09:00:24
-
-[David and Jennilyn](https://davidandjennilyn.com)  
-**[Happy Halloween](https://davidandjennilyn.com/2026/10/31/happy-halloween-5/)**  2026-11-01 03:29:13
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How to return big cities to pedestrians](https://zoomdr.blogspot.com/2026/10/how-to-return-big-cities-to-pedestrians.html)**  2026-10-31 11:58:32
