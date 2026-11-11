@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Beyond the Feed Bag How Meaders Feeds is powering Mauritius' agricultural future](https://facultyagriculture.blogspot.com/2026/11/beyond-feed-bag-how-meaders-feeds-is.html)**  2026-11-11 11:04:44
+
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Oliver & Lovegood Company](https://davidandjennilyn.com/2026/11/09/oliver-lovegood-company/)**  2026-11-10 06:28:55
 
@@ -36,9 +39,6 @@ permalink: /mauritian-blogs/
 
 [Shruti Cultural Group](https://shruticulturalgroup.blogspot.com/)  
 **[New privacy settings for Search services and Google Play](https://shruticulturalgroup.blogspot.com/2026/10/new-privacy-settings-for-search.html)**  2026-10-08 07:05:35
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Talk on Satellite-Based Crop Coefficients for Smarter Potato Irrigation by Prof M. Steyn](https://facultyagriculture.blogspot.com/2026/10/talk-on-satellite-based-crop.html)**  2026-10-06 11:33:44
 
 [Rodrigues via Mauritius](https://insel-rodrigues.blogspot.com/)  
 **[Christina Thümer-Rohr im Video von Jonas Englert:  Am Thema bleiben von Anfang bis Ende](https://insel-rodrigues.blogspot.com/2026/09/christina-thumer-rohr-im-video-von.html)**  2026-09-27 15:53:31
