@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
+**[Du cynisme à la citoyenneté  : Reprendre la parole collective à Maurice](https://www.lemauricien.com/le-mauricien/du-cynisme-a-la-citoyennete-reprendre-la-parole-collective-a-maurice/723131/)**  2026-11-12 11:00:31
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[AGRI-FUTURES: Bridging Academia and Industry Practice organised by the Agricultural Society](https://facultyagriculture.blogspot.com/2026/11/agri-futures-bridging-academia-and.html)**  2026-11-11 13:42:07
 
@@ -60,9 +63,6 @@ permalink: /mauritian-blogs/
 
 [Joseph Nguyen - Blog](https://josephnguyenmahebourg.blogspot.com/)  
 **[No title](https://josephnguyenmahebourg.blogspot.com/2026/08/homelie-jeudi-de-la-19e-semaine-du-toa.html)**  2026-08-13 19:37:58
-
-[Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
-**[ACCESS TO JUSTICE IN MAURITIUS : If This Can Happen to a Senior Counsel,  What Does It Mean for Persons with Disabilities?](https://www.lemauricien.com/le-mauricien/access-to-justice-in-mauritius-if-this-can-happen-to-a-senior-counsel-what-does-it-mean-for-persons-with-disabilities/714474/)**  2026-08-06 12:00:07
 
 [Mera Blog](https://nayarweb.com/blog)  
 **[Should you take your pension at 60 or 65 in Mauritius?](https://nayarweb.com/blog/2026/should-you-take-your-pension-at-60-or-65-in-mauritius/)**  2026-08-03 15:53:36
