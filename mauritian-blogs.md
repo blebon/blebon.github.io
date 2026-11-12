@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Beyond the Feed Bag How Meaders Feeds is powering Mauritius' agricultural future](https://facultyagriculture.blogspot.com/2026/11/beyond-feed-bag-how-meaders-feeds-is.html)**  2026-11-11 11:04:44
+**[AGRI-FUTURES: Bridging Academia and Industry Practice organised by the Agricultural Society](https://facultyagriculture.blogspot.com/2026/11/agri-futures-bridging-academia-and.html)**  2026-11-11 13:42:07
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Oliver & Lovegood Company](https://davidandjennilyn.com/2026/11/09/oliver-lovegood-company/)**  2026-11-10 06:28:55
