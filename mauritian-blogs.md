@@ -4,8 +4,14 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[De la création monétaire à l’impasse économique : le piège de la roupie faible et des bas salaires](https://tchombo.blogspot.com/2026/11/de-la-creation-monetaire-limpasse.html)**  2026-11-13 11:07:43
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[AGRI-FUTURES: Bridging Academia and Industry Practice organised by the Agricultural Society](https://facultyagriculture.blogspot.com/2026/11/agri-futures-bridging-academia-and.html)**  2026-11-12 11:55:02
+**[AGRI-FUTURES: Bridging Academia and Industry Practice organised by the Agricultural Society](https://facultyagriculture.blogspot.com/2026/11/agri-futures-bridging-academia-and.html)**  2026-11-13 10:26:58
+
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Praise & Criticism](https://vintishgokool.blogspot.com/2026/11/praise-criticism.html)**  2026-11-13 06:30:58
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Du cynisme à la citoyenneté  : Reprendre la parole collective à Maurice](https://www.lemauricien.com/le-mauricien/du-cynisme-a-la-citoyennete-reprendre-la-parole-collective-a-maurice/723131/)**  2026-11-12 11:00:31
@@ -15,12 +21,6 @@ permalink: /mauritian-blogs/
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[Meet Mauritius, A Failed State](http://kozelidir.blogspot.com/2026/11/meet-mauritius-failed-state.html)**  2026-11-09 16:17:29
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Markets Are Not Capitalism: Why We Keep Confusing the Two](https://tchombo.blogspot.com/2026/11/markets-are-not-capitalism-why-we-keep.html)**  2026-11-06 22:38:11
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Be & Live like him](https://vintishgokool.blogspot.com/2026/11/be-live-like-him.html)**  2026-11-06 16:47:25
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Enslavement Register](https://msinnott.net/2026/11/05/enslavement-register/)**  2026-11-05 09:00:24
