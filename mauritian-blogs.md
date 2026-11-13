@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[AGRI-FUTURES: Bridging Academia and Industry Practice organised by the Agricultural Society](https://facultyagriculture.blogspot.com/2026/11/agri-futures-bridging-academia-and.html)**  2026-11-12 11:55:02
+
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Du cynisme à la citoyenneté  : Reprendre la parole collective à Maurice](https://www.lemauricien.com/le-mauricien/du-cynisme-a-la-citoyennete-reprendre-la-parole-collective-a-maurice/723131/)**  2026-11-12 11:00:31
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[AGRI-FUTURES: Bridging Academia and Industry Practice organised by the Agricultural Society](https://facultyagriculture.blogspot.com/2026/11/agri-futures-bridging-academia-and.html)**  2026-11-11 13:42:07
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Oliver & Lovegood Company](https://davidandjennilyn.com/2026/11/09/oliver-lovegood-company/)**  2026-11-10 06:28:55
