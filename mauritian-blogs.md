@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[The Illusion of Monetary Sovereignty: Why Mauritius Needs a Currency Board](https://tchombo.blogspot.com/2026/11/the-illusion-of-monetary-sovereignty.html)**  2026-11-14 23:36:45
+**[The Illusion of Monetary Sovereignty: Why Mauritius Must Return to a Currency Board](https://tchombo.blogspot.com/2026/11/the-illusion-of-monetary-sovereignty.html)**  2026-11-15 09:15:28
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[AGRI-FUTURES: Bridging Academia and Industry Practice organised by the Agricultural Society](https://facultyagriculture.blogspot.com/2026/11/agri-futures-bridging-academia-and.html)**  2026-11-13 10:26:58
