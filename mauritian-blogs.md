@@ -4,8 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
+**[Becoming a Tax Resident in Mauritius: Days, Domicile, and the Remote Worker Trap](https://relocationmauritius.wordpress.com/2026/11/16/becoming-a-tax-resident-in-mauritius-days-domicile-and-the-remote-worker-trap/)**  2026-11-16 13:14:01
+
 [Tchombo!](https://tchombo.blogspot.com/)  
-**[The Illusion of Monetary Sovereignty: Why Mauritius Must Return to a Currency Board](https://tchombo.blogspot.com/2026/11/the-illusion-of-monetary-sovereignty.html)**  2026-11-15 09:15:28
+**[Être premier parmi les retardataires n'a rien de glorieux](https://tchombo.blogspot.com/2026/11/etre-premier-parmi-les-retardataires-na.html)**  2026-11-16 11:14:55
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[AGRI-FUTURES: Bridging Academia and Industry Practice organised by the Agricultural Society](https://facultyagriculture.blogspot.com/2026/11/agri-futures-bridging-academia-and.html)**  2026-11-13 10:26:58
@@ -27,9 +30,6 @@ permalink: /mauritian-blogs/
 
 [Dr Zoom](https://zoomdr.blogspot.com/)  
 **[How to return big cities to pedestrians](https://zoomdr.blogspot.com/2026/10/how-to-return-big-cities-to-pedestrians.html)**  2026-10-31 11:58:32
-
-[Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
-**[Finance Act 2026: What Changed for Investors, Companies and Newcomers](https://relocationmauritius.wordpress.com/2026/10/26/finance-act-2026-what-changed-for-investors-companies-and-newcomers/)**  2026-10-26 09:35:19
 
 [Leclézio](https://lleclezio.blogspot.com/)  
 **[Une Vision—Redécouvrir DIEU : Pourquoi ?](https://lleclezio.blogspot.com/2026/10/une-visionredecouvrir-dieu-pourquoi.html)**  2026-10-24 11:34:39
