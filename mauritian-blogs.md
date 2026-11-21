@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[No Title](https://vintishgokool.blogspot.com/)  
+**[Looks](https://vintishgokool.blogspot.com/2026/11/looks.html)**  2026-11-20 21:05:36
+
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Becoming a Tax Resident in Mauritius: Days, Domicile, and the Remote Worker Trap](https://relocationmauritius.wordpress.com/2026/11/16/becoming-a-tax-resident-in-mauritius-days-domicile-and-the-remote-worker-trap/)**  2026-11-16 13:14:01
 
@@ -12,9 +15,6 @@ permalink: /mauritian-blogs/
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[AGRI-FUTURES: Bridging Academia and Industry Practice organised by the Agricultural Society](https://facultyagriculture.blogspot.com/2026/11/agri-futures-bridging-academia-and.html)**  2026-11-13 10:26:58
-
-[No Title](https://vintishgokool.blogspot.com/)  
-**[Praise & Criticism](https://vintishgokool.blogspot.com/2026/11/praise-criticism.html)**  2026-11-13 06:30:58
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Du cynisme à la citoyenneté  : Reprendre la parole collective à Maurice](https://www.lemauricien.com/le-mauricien/du-cynisme-a-la-citoyennete-reprendre-la-parole-collective-a-maurice/723131/)**  2026-11-12 11:00:31
