@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
+**[Les conséquences de l’arrêt sur le génocide des rohingyas](https://dookhy.blogspot.com/2026/11/les-consequences-de-larret-sur-le.html)**  2026-11-24 11:01:55
+
 [No Title](https://vintishgokool.blogspot.com/)  
 **[Looks](https://vintishgokool.blogspot.com/2026/11/looks.html)**  2026-11-20 21:05:36
 
@@ -75,9 +78,6 @@ permalink: /mauritian-blogs/
 
 [priscimon.com](https://priscimon.com/blog)  
 **[Plans do not survive breakfast](https://priscimon.com/blog/2026/05/16/plans-do-not-survive-breakfast/)**  2026-05-16 18:08:35
-
-[Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
-**[La requête en relèvement d’une interdiction du territoire français](https://dookhy.blogspot.com/2026/05/la-requete-en-relevement-dune.html)**  2026-05-16 16:29:48
 
 [21st Century Teaching and Learning with Technology](http://vcilt.blogspot.com/)  
 **[From Practice to Policy: Rethinking Micro-Credentials in Higher Education](http://vcilt.blogspot.com/2026/04/from-practice-to-policy-rethinking.html)**  2026-04-21 06:06:05
