@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Kozelidir](http://kozelidir.blogspot.com/)  
+**[The Granddaddy of Ponzi Schemes](http://kozelidir.blogspot.com/2026/11/meet-mother-of-all-ponzi-schemes.html)**  2026-11-24 16:11:17
+
 [Parvèz A. C. Dookhy](https://dookhy.blogspot.com/)  
 **[Les conséquences de l’arrêt sur le génocide des rohingyas](https://dookhy.blogspot.com/2026/11/les-consequences-de-larret-sur-le.html)**  2026-11-24 11:01:55
 
@@ -24,9 +27,6 @@ permalink: /mauritian-blogs/
 
 [David and Jennilyn](https://davidandjennilyn.com)  
 **[Oliver & Lovegood Company](https://davidandjennilyn.com/2026/11/09/oliver-lovegood-company/)**  2026-11-10 06:28:55
-
-[Kozelidir](http://kozelidir.blogspot.com/)  
-**[Meet Mauritius, A Failed State](http://kozelidir.blogspot.com/2026/11/meet-mauritius-failed-state.html)**  2026-11-09 16:17:29
 
 [Mike Sinnott's World](https://msinnott.net)  
 **[Enslavement Register](https://msinnott.net/2026/11/05/enslavement-register/)**  2026-11-05 09:00:24
