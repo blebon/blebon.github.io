@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Foot-and-Mouth Disease (FMD): Decisive Containment, Biosecurity & International Laboratory Support](https://facultyagriculture.blogspot.com/2026/11/foot-and-mouth-disease-fmd-decisive.html)**  2026-11-25 09:53:39
+
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[The Granddaddy of Ponzi Schemes](http://kozelidir.blogspot.com/2026/11/meet-mother-of-all-ponzi-schemes.html)**  2026-11-24 16:11:17
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Être premier parmi les retardataires n'a rien de glorieux](https://tchombo.blogspot.com/2026/11/etre-premier-parmi-les-retardataires-na.html)**  2026-11-16 11:14:55
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[AGRI-FUTURES: Bridging Academia and Industry Practice organised by the Agricultural Society](https://facultyagriculture.blogspot.com/2026/11/agri-futures-bridging-academia-and.html)**  2026-11-13 10:26:58
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Du cynisme à la citoyenneté  : Reprendre la parole collective à Maurice](https://www.lemauricien.com/le-mauricien/du-cynisme-a-la-citoyennete-reprendre-la-parole-collective-a-maurice/723131/)**  2026-11-12 11:00:31
