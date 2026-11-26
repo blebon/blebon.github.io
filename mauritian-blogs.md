@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Foot-and-Mouth Disease (FMD): Decisive Containment, Biosecurity & International Laboratory Support](https://facultyagriculture.blogspot.com/2026/11/foot-and-mouth-disease-fmd-decisive.html)**  2026-11-25 09:53:39
+**[No title](https://facultyagriculture.blogspot.com/2026/11/border-bottom-0.html)**  2026-11-26 09:45:40
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[The Granddaddy of Ponzi Schemes](http://kozelidir.blogspot.com/2026/11/meet-mother-of-all-ponzi-schemes.html)**  2026-11-24 16:11:17
