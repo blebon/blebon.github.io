@@ -4,6 +4,9 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Tchombo!](https://tchombo.blogspot.com/)  
+**[Are Billionaires Running Our Democracies?](https://tchombo.blogspot.com/2026/11/are-billionaires-running-our-democracies.html)**  2026-11-27 05:48:07
+
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
 **[Communication, Influence & Stress Management by Erasmus+ Scholars](https://facultyagriculture.blogspot.com/2026/11/communication-influence-stress.html)**  2026-11-27 04:53:43
 
@@ -18,9 +21,6 @@ permalink: /mauritian-blogs/
 
 [Invest & relocate to Mauritius. All you need to know, from the experts](https://relocationmauritius.wordpress.com)  
 **[Becoming a Tax Resident in Mauritius: Days, Domicile, and the Remote Worker Trap](https://relocationmauritius.wordpress.com/2026/11/16/becoming-a-tax-resident-in-mauritius-days-domicile-and-the-remote-worker-trap/)**  2026-11-16 13:14:01
-
-[Tchombo!](https://tchombo.blogspot.com/)  
-**[Être premier parmi les retardataires n'a rien de glorieux](https://tchombo.blogspot.com/2026/11/etre-premier-parmi-les-retardataires-na.html)**  2026-11-16 11:14:55
 
 [Le Mauricien - Forum](https://www.lemauricien.com/category/opinions/forum/)  
 **[Du cynisme à la citoyenneté  : Reprendre la parole collective à Maurice](https://www.lemauricien.com/le-mauricien/du-cynisme-a-la-citoyennete-reprendre-la-parole-collective-a-maurice/723131/)**  2026-11-12 11:00:31
