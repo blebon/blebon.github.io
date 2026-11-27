@@ -5,7 +5,7 @@ permalink: /mauritian-blogs/
 ---
 
 [Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[No title](https://facultyagriculture.blogspot.com/2026/11/border-bottom-0.html)**  2026-11-26 09:45:40
+**[Communication, Influence & Stress Management by Erasmus+ Scholars](https://facultyagriculture.blogspot.com/2026/11/communication-influence-stress.html)**  2026-11-27 04:53:43
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[The Granddaddy of Ponzi Schemes](http://kozelidir.blogspot.com/2026/11/meet-mother-of-all-ponzi-schemes.html)**  2026-11-24 16:11:17
