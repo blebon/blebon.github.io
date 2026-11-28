@@ -4,11 +4,11 @@ title: Mauritian blogs
 permalink: /mauritian-blogs/
 ---
 
+[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
+**[Communication, Influence & Stress Management by Erasmus+ Scholars](https://facultyagriculture.blogspot.com/2026/11/communication-influence-stress.html)**  2026-11-28 09:37:11
+
 [Tchombo!](https://tchombo.blogspot.com/)  
 **[Sans roupie stable, tout le reste n'est rien](https://tchombo.blogspot.com/2026/11/sans-monnaie-stable-tout-le-reste-nest.html)**  2026-11-27 23:51:30
-
-[Faculty of Agriculture, 100 years (1914-2014)         From a College to a School and a Faculty](https://facultyagriculture.blogspot.com/)  
-**[Communication, Influence & Stress Management by Erasmus+ Scholars](https://facultyagriculture.blogspot.com/2026/11/communication-influence-stress.html)**  2026-11-27 16:14:10
 
 [Kozelidir](http://kozelidir.blogspot.com/)  
 **[The Granddaddy of Ponzi Schemes](http://kozelidir.blogspot.com/2026/11/meet-mother-of-all-ponzi-schemes.html)**  2026-11-24 16:11:17
